@@ -1,0 +1,103 @@
+name: Fetch Bali POI Data
+
+# ─────────────────────────────────────────────────────────────────────────────
+# SCHEDULE RATIONALE
+# ─────────────────────────────────────────────────────────────────────────────
+# Grid: 2048 points × 3 API calls = ~6144 total calls
+# Batch: 30 points/run = 90 API calls/run ≈ 5-10 min runtime
+# Runs needed: 2048/30 = ~69 runs
+# Schedule: every 30 min = 48 runs/day → finishes in ~1.5 days
+#
+# GitHub Free Tier:
+#   - 2000 min/month (private) or 3000 min/month (public)
+#   - 69 runs × 10 min = ~690 min → well within limits
+#   - Max job runtime: 6 hours (we use ~10 min)
+#
+# Google Places API (Free $200 credit):
+#   - Nearby Search Basic: ~$32/1000 calls
+#   - 6144 calls × $0.032 = ~$197 → fits in free tier
+# ─────────────────────────────────────────────────────────────────────────────
+
+on:
+  schedule:
+    # Every 30 minutes — adjust if hitting limits
+    - cron: '*/30 * * * *'
+
+  # Allow manual trigger from GitHub UI
+  workflow_dispatch:
+    inputs:
+      batch_size:
+        description: 'Grid points per run (default: 30)'
+        required: false
+        default: '30'
+
+permissions:
+  contents: write
+
+jobs:
+  fetch-poi:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30  # Kill if stuck (normal run is ~10 min)
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run POI fetcher
+        env:
+          GOOGLE_PLACES_API_KEY: ${{ secrets.GOOGLE_PLACES_API_KEY }}
+        run: |
+          BATCH=${{ github.event.inputs.batch_size || '30' }}
+          echo "🚀 Fetching with --batch-size $BATCH"
+          python google_places_fetcher.py --batch-size "$BATCH"
+
+      - name: Check for changes
+        id: changes
+        run: |
+          git add output/
+          if git diff --staged --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "ℹ️  No new data — skipping commit."
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "📦 New data detected."
+          fi
+
+      - name: Commit and push results
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/ .fetch_checkpoint.json 2>/dev/null || true
+          git commit -m "chore: auto-fetch POI batch $(date -u +'%Y-%m-%d %H:%M UTC')"
+          git push
+
+      - name: Report progress
+        if: always()
+        run: |
+          if [ -f output/.fetch_checkpoint.json ]; then
+            echo "📊 Checkpoint status:"
+            python -c "
+          import json
+          with open('output/.fetch_checkpoint.json') as f:
+              cp = json.load(f)
+          idx = cp.get('last_processed_index', -1)
+          total_records = sum(len(r) for r in cp.get('results', {}).values())
+          print(f'  Last index: {idx}/2047')
+          print(f'  Progress: {((idx+1)/2048*100):.1f}%')
+          print(f'  Records: {total_records}')
+          for ns, records in cp.get('results', {}).items():
+              print(f'    {ns}: {len(records)}')
+          "
+          else
+            echo "ℹ️  No checkpoint found (fresh start or completed)."
+          fi
