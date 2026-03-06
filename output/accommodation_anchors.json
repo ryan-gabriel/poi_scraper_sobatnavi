@@ -1,0 +1,845 @@
+[
+  {
+    "hotel_id": "12c79e22-80da-4b24-86c7-af6c6b2e05a8",
+    "identity": {
+      "name": "home stay finxi",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.411569,
+      "longitude": 115.628102,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJW_iaJQAH0i0RrKAbtxKDKV4",
+      "photo_ref": null,
+      "address": "HJQH+M5P, Tiyingtali, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:02:32+0000"
+    }
+  },
+  {
+    "hotel_id": "6c90826a-e409-4ef2-a1f3-35e5b5aa429a",
+    "identity": {
+      "name": "Krontonk Homestay",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.410692,
+      "longitude": 115.636193,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ-RrhsioH0i0Rss6iBgZCShU",
+      "photo_ref": null,
+      "address": "HJQP+PFG, Bukit, Karangasem, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:02:38+0000"
+    }
+  },
+  {
+    "hotel_id": "864401ac-fac1-4d09-b0a0-e850ae16b427",
+    "identity": {
+      "name": "Bagus viral homestay 🛖",
+      "accommodation_type": "Hostel",
+      "vibe_description": [
+        "lively",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.413542,
+      "longitude": 115.629188,
+      "neighborhood_cluster": "east_marine_corridor_hostel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hostel",
+        "lodging",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "service"
+    },
+    "_meta": {
+      "google_place_id": "ChIJNRDsUa8H0i0Rc0BHDvvIozg",
+      "photo_ref": "places/ChIJNRDsUa8H0i0Rc0BHDvvIozg/photos/ATCDNfUOPxbioy29iV4yIqJLsRibCaP0cbHRyTn7DCObfCTT_bd6C3uAoKRDBFSVOzqcP-_fTCNOi8Ajl9pZvMwOA4eK-rIcPtgQt_kB_XGeVhoN5BnDVWjoNvZfryOYPt6pGr6aCrLl9E0NsKunyB8L-9WVyzZMkEx8NkBAmhctwjRKZ-TkcLJ4HoAsKKaD_gwDKLXue26YMKOzMKbdeaQM2UOaBbpfN00RoB2bXbTku5cb7qwH7vpgtV5eYUx7SB6VYgefTnwKGRmUNLEJhG3RAcxTayaL8DeMaftxay9bBfejiD2SMRT6cwhWD16PeU5fmq4CZxvUWDo9jvc5nqimrwg2SDCrKsXbBHMyBR-iwn8VzCxSX1ylnsFyKa1ZK8ZWZXockJjZG3KECD6au09u45UhQusKzIrBq-9OdCIVQ9PU",
+      "address": "Unnamed Road No.80852, Bukit, Kec. Karangasem, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:02:38+0000"
+    }
+  },
+  {
+    "hotel_id": "0ea33ac7-7555-4659-a11f-a4610ed99e69",
+    "identity": {
+      "name": "Home made suji",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.415076,
+      "longitude": 115.641028,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJIUJjZQAH0i0RVLESwOnetF0",
+      "photo_ref": null,
+      "address": "HJMR+XC, Bukit, Karangasem, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:02:44+0000"
+    }
+  },
+  {
+    "hotel_id": "b68d59f2-4fc3-4f7d-9779-99e22f10a203",
+    "identity": {
+      "name": "Pakuaji jumenang adi putra",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.415231,
+      "longitude": 115.650398,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJi79u9-gH0i0RoTf25-noO9Q",
+      "photo_ref": "places/ChIJi79u9-gH0i0RoTf25-noO9Q/photos/ATCDNfVecl3kAd5rRkPtD9_r1CmZMnRUq1-qcEiMLHTf4BYYF--7umpft8cp_GgL3vupFqJMq3Tpexo88oc7PVitRkQurR7hTG5G-J6oq7BqLeXyEXXQeMoci-4oS7i7z5GWBy0G9D1K1DdbRukVnupETQ6ljWKnvC4da3mLq1Qbvn6d9nROSU5rLPIKQtPlAMW1nQ145JFetuidD_sSWAkiQEB0LZBxNDvLUnIjYXnJExG1MwBLbSqC-MtSa6guhgsBoNy8aeLAdoWeNTbHdPD6W3WZcxnI4q7XgTuC36OHAsadEPythlPBYuFj6mT0IPkttlby7qnv1yokCBfbb05V0frL4OjtlUNZZNXNoPBlKLaKGXhUlxA9aOQV4QJk0nmrhPx392VwE_IueJOy2_coqkDLm-N5OacmLDYrFRfMrXWi",
+      "address": "HMM2+W52, Jl. Pakuaji Lempuyang, Seraya Bar., Kec. Karangasem, Kabupaten Karangasem, Bali 80811, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:02:51+0000"
+    }
+  },
+  {
+    "hotel_id": "448797ed-0c6c-48fd-87cc-eef138c038f8",
+    "identity": {
+      "name": "Hostelry",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.41288,
+      "longitude": 115.649186,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJaRqFOwAH0i0R6iWFCIVRlWQ",
+      "photo_ref": null,
+      "address": "HJQX+2G6, Jl. Pakuaji Lempuyang, Seraya Bar., Kec. Karangasem, Kabupaten Karangasem, Bali 80811, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:02:51+0000"
+    }
+  },
+  {
+    "hotel_id": "b0a159d0-5761-4ab4-a79f-786611afe864",
+    "identity": {
+      "name": "Seraya hills house",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.414062,
+      "longitude": 115.682063,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJP0nzOwD5zS0R8K-Zq6N2gSI",
+      "photo_ref": "places/ChIJP0nzOwD5zS0R8K-Zq6N2gSI/photos/ATCDNfVtqhFjyFpF3tZoA2C2Gapqw2GJEJAeuQG_7nFuV0eUiuWINIeL-n_1L6ePp1b-3WDYi3WG7B7LaEAlBRIdRm6zfAEr-wOr-QDlNSCsyVUUF4FmEPyIkKSDZJ3A9sZGRflPOJp5RmFZ4-nzZcexUM3NggH-iOCqHyjiRBX537X3xb-6YejhX5bYMkRrdTYAuLYoo-GJu29KooU2ZIC6l8Bob1w1EE2IB7BK3MFsMnS49PBP692xmX9Zz3qRShdFivNs3SNyzsGFpFX1XOyoWr8_vKcDvH69MbO-xo6p_8yLdhwPQcrYF93PRq6d2ookfgqKO6F7bkKierXaC1UW1AnguZ_qfl0Yb6c7zVTl9wXelBQil7TkzKxb6vXW6AlFf0aRLU66ELcdFDrKyOy9_g3aCRuaEsjwDAnkiEXhXHQ",
+      "address": "HMPJ+9R, East Seraya, hills, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:03:09+0000"
+    }
+  },
+  {
+    "hotel_id": "e64942a0-f00e-4682-b9d8-00da6498f899",
+    "identity": {
+      "name": "STAY SANG PUTU",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.404159,
+      "longitude": 115.620911,
+      "neighborhood_cluster": "east_marine_corridor_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJE3SHTCIH0i0RKsIyI1sGgtg",
+      "photo_ref": null,
+      "address": "HJWC+89M, Tanah Aji, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:03:28+0000"
+    }
+  },
+  {
+    "hotel_id": "ae5ace96-55ac-43e5-aedd-f5916bf6f9b8",
+    "identity": {
+      "name": "Loid's Villa Eco Lodge Lempuyang",
+      "accommodation_type": "Resort",
+      "vibe_description": [
+        "romantic",
+        "hidden_gem",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.40415,
+      "longitude": 115.635789,
+      "neighborhood_cluster": "east_marine_corridor_resort",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 61,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "resort_hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJm51znXoH0i0RGt6FkIKpOGs",
+      "photo_ref": "places/ChIJm51znXoH0i0RGt6FkIKpOGs/photos/ATCDNfXAqdUdW8s2VTmyfBW50uiaR812airPn-IYSEcEFM8yXovnojWNsAOJeq0jqj_uvncl133R3p5elL2szCBpWutzIuntaHL_5rGxV9v2mFYQTYtztG1FuTxDS9N96Ud0sr12ReRMJhLeeKc83qumZPc7joiMMJ4585IyyNmSCfxqOaAZTdqxpuYikaJh1Qg3_1UzEpnBYqKFaR-7yWYvhq2ag059F6542NbKU9KAVdphE3oEDslZyS55pzolAqAfJof2U3-Ne3PU6bx-F-x3Usex0bMBCC749RClMnyHvQ6CcQ",
+      "address": "Sekar Gunung, Bukit, Kec. Karangasem, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:03:35+0000"
+    }
+  },
+  {
+    "hotel_id": "8e6f9d19-2463-4ae2-bf65-5b48805e39a5",
+    "identity": {
+      "name": "Loids Villa Eco Lodge Lempuyang",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.40407,
+      "longitude": 115.635757,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJuX80hxMH0i0R8aQxkp8-Q2I",
+      "photo_ref": null,
+      "address": "Bukit, Karangasem, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:03:35+0000"
+    }
+  },
+  {
+    "hotel_id": "88e3fbcd-2a07-4efc-bab7-29632cb043af",
+    "identity": {
+      "name": "Loids Villa Eco Lodge Lempuyang - Two-Bedroom Pool Villa with View",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.40407,
+      "longitude": 115.635757,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJw0Y5hxMH0i0RXbQWPDDnJwc",
+      "photo_ref": null,
+      "address": "Bukit, Karangasem, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:03:35+0000"
+    }
+  },
+  {
+    "hotel_id": "3a35c22e-cc69-4675-b470-6d17612fb762",
+    "identity": {
+      "name": "Seraya Bukit Catu",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.407252,
+      "longitude": 115.688331,
+      "neighborhood_cluster": "east_marine_corridor_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJDYYP5vL4zS0R1DQDaPGDv-Y",
+      "photo_ref": "places/ChIJDYYP5vL4zS0R1DQDaPGDv-Y/photos/ATCDNfXsX7BD7GhvrUw9sYh_klb9QKoygoO-eohxk2IRdGvGeJOjvcHAdrBsE8MNMDp1q8K8eEvDz-UadOnKDKLFyn8u8P3bit0QDVp4xZod7CAoDiLNhvJIwaEnA7IHK0JPwkBR62glMTIS5tnLffp2mzlKkd4aTiZ_M7mACLRwZf9WmrN-3q_R1HZ134HfaiqyV2yW-9fY_2I7YV2Zf0xtC1YhRVW6y1KakoU253bc7-11fhHG53XpQ__aWOL2legaZVT_pa-x9n-Qrc_BzbNSESl1RY69_zwnmgBLZyNB7PwyNidwFIEZgxKwpqSx5IaVRD8izQb8eyr8diBQ_hVlZt3xg8aqs8AbOQkV9xfaRXKy6zbVF6QDg0-eRPr_6QhD-w-MLNnq6ZIyKhJj15QREOrBlHSWuJRHNN6w1i5dnXHZ",
+      "address": "East Seraya, Karangasem, Karangasem Regency, Bali 80811, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:04:12+0000"
+    }
+  },
+  {
+    "hotel_id": "6086865e-ef95-4d65-97ba-1dccb126e4b8",
+    "identity": {
+      "name": "Sulatra House",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.400761,
+      "longitude": 115.689156,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJi1X_HAD5zS0RzuHutegA6cA",
+      "photo_ref": null,
+      "address": "HMXQ+MM, East Seraya, Karangasem, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:04:12+0000"
+    }
+  },
+  {
+    "hotel_id": "a715f865-d167-4bcf-9071-e95804b13918",
+    "identity": {
+      "name": "Puri Oka Batan Tiying",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.397578,
+      "longitude": 115.59648,
+      "neighborhood_cluster": "east_marine_corridor_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ1fHz4VQH0i0RTdsGxIu1Qwc",
+      "photo_ref": "places/ChIJ1fHz4VQH0i0RTdsGxIu1Qwc/photos/ATCDNfWIlbPcXOs6dGReSuirqj49lmh6q9yVYBEBNcNjhEqXAL3gP6-H8nDeWg6DosMqYCCaq8xS-CZyBqVZ7AYTsjRpk48RfBy-6MIXLOzJ4d3UV1Fd8gLQY-7-wL5V2KaCZpXojsEOvXiwkxFo9d4ZqhnHxXzBs-JSqDNurVwyJgEkdosNZcmzD0Av7Zpuqf-RiOBlH6gnx7trLjZaZNozEzMaaW1l0LpwNnZReMrC7dbNEGuu5_NeSccL8rf-YeCUGb7nnvJUVTcwXhAYaCYSVTo92k27LLsQfEqLqz_VnqwRO8GvswfhCaVBeidDprWHlOctY40R5XrPMPN0zza5APafx3-pN8ak4MKpnh57AH5BSaS2xhkKnaSFL4rN6kXznyZCqWoRfUWZD3Equopv-ahaTpe-s7BILeW9De-uT2xa",
+      "address": "Banjar Bias Basukih, JH2W+XH9, Ababi, Kec. Abang, Kabupaten Karangasem, Bali 80811, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:04:25+0000"
+    }
+  },
+  {
+    "hotel_id": "825611de-7256-48e1-89bc-cb736d20b878",
+    "identity": {
+      "name": "Cottage with big garden in Amed 2",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.390207,
+      "longitude": 115.614006,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJhabN9NcG0i0Ri2zbPoIsadM",
+      "photo_ref": null,
+      "address": "Tista, Abang, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:04:37+0000"
+    }
+  },
+  {
+    "hotel_id": "aeb73e54-3efa-456d-b27c-2c526e7a2c14",
+    "identity": {
+      "name": "Pondok dukuh basangalas",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.396452,
+      "longitude": 115.617984,
+      "neighborhood_cluster": "east_marine_corridor_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cottage",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cottage"
+    },
+    "_meta": {
+      "google_place_id": "ChIJd1a6eO0H0i0Ra3KcGfrn60s",
+      "photo_ref": null,
+      "address": "JJ39+C59, Jl. Basangalas, Tri Buana, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:04:37+0000"
+    }
+  },
+  {
+    "hotel_id": "85fe605b-1eca-47c1-9c1c-59a22c535333",
+    "identity": {
+      "name": "Kresek homestay",
+      "accommodation_type": "Guest House",
+      "vibe_description": [
+        "lively",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.391633,
+      "longitude": 115.625084,
+      "neighborhood_cluster": "east_marine_corridor_guest_house",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bed_and_breakfast",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bed_and_breakfast"
+    },
+    "_meta": {
+      "google_place_id": "ChIJUTNc-gAH0i0RYweqlT_HTXA",
+      "photo_ref": "places/ChIJUTNc-gAH0i0RYweqlT_HTXA/photos/ATCDNfVV2bLkhQ_tH32laoJKgGO2LRyeMyPug9WA2sygS8BuRj6al1oaLy7UMoVPSYDP6VWkvYKP5raSNS1YPUAmULtcCUM1XemK849fEaxkI4jq3O_ygXFaSU82iinMeEB2iyzvPLvh8dDy80BA52K8sH1i76u2VnrbaOVJWnkTm7Xai52tTNWaiMFpbrUqzAeSv-b4wrHlr-v7U1kgDMg9FubspEAb1rWMWx4PNQDMcxyIvmLbDWY-1dlp3P-TMYpDqBuyOSkyLPjOFJLJ5SLUVhYbCnPqeVs6ZN3a7nEcdgthfw",
+      "address": "br dinas purwayu desa adat, Jalan lempuyang, Tri Buana, Kec. Abang, Kabupaten Karangasem, Bali 80811, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:04:44+0000"
+    }
+  },
+  {
+    "hotel_id": "eba716b0-cecb-4304-8e6b-27a079ae1111",
+    "identity": {
+      "name": "Kontrakan Bali sega",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.390537,
+      "longitude": 115.649319,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQ3LO6H8H0i0Rs_KPZ_2i51E",
+      "photo_ref": null,
+      "address": "JJ5X+QPP, Bunutan, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:05:03+0000"
+    }
+  },
+  {
+    "hotel_id": "5f4dbbf0-31ae-440c-94c7-e842a3168eab",
+    "identity": {
+      "name": "pondok Wi Sudar",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.390523,
+      "longitude": 115.649509,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJjbhMSwAH0i0RBmQi-VOsQwo",
+      "photo_ref": null,
+      "address": "JJ5X+QRR, Bunutan, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-06T08:05:03+0000"
+    }
+  }
+]
