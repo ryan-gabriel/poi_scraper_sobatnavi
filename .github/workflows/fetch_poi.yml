@@ -21,7 +21,7 @@ name: Fetch Bali POI Data
 on:
   schedule:
     # Every 30 minutes — adjust if hitting limits
-    - cron: '*/30 * * * *'
+    - cron: '*/45 * * * *'
 
   # Allow manual trigger from GitHub UI
   workflow_dispatch:
