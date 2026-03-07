@@ -357,8 +357,8 @@ class PlacesAPIClient:
                     self.rate_limiter.on_rate_limit()
                     backoff = INITIAL_BACKOFF_SECONDS * (2 ** (attempt - 1))
                     log.warning(
-                        "  ⚠️  HTTP 429 — attempt %d/%d, waiting %.0fs...",
-                        attempt, MAX_RETRIES, backoff,
+                        "  ⚠️  HTTP 429 — attempt %d/%d, waiting %.0fs...\n  Response: %s",
+                        attempt, MAX_RETRIES, backoff, resp.text,
                     )
                     time.sleep(backoff)
                     continue
@@ -366,20 +366,20 @@ class PlacesAPIClient:
                 if resp.status_code in (500, 503):
                     backoff = INITIAL_BACKOFF_SECONDS * (2 ** (attempt - 1))
                     log.warning(
-                        "  HTTP %d — attempt %d/%d, waiting %.0fs...",
-                        resp.status_code, attempt, MAX_RETRIES, backoff,
+                        "  HTTP %d — attempt %d/%d, waiting %.0fs...\n  Response: %s",
+                        resp.status_code, attempt, MAX_RETRIES, backoff, resp.text,
                     )
                     time.sleep(backoff)
                     continue
 
                 if resp.status_code in (400, 403):
                     log.error(
-                        "  HTTP %d (non-retryable): %s",
-                        resp.status_code, resp.text[:500],
+                        "  HTTP %d (non-retryable):\n  Response: %s",
+                        resp.status_code, resp.text,
                     )
                     return []  # Skip this request but don't crash
 
-                log.error("  HTTP %d: %s", resp.status_code, resp.text[:300])
+                log.error("  HTTP %d:\n  Response: %s", resp.status_code, resp.text)
                 return []
 
             except requests.exceptions.RequestException as exc:
