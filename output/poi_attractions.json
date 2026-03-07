@@ -19241,5 +19241,4077 @@
       "tourism_cluster": "east_marine_corridor",
       "fetched_at": "2026-03-07T13:56:18+0000"
     }
+  },
+  {
+    "poi_id": "11f8ac4d-c601-4d9c-9698-ea4451a2af39",
+    "name": "Pura Maksan Bukit Saab Desa Datah",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.33147,
+      "longitude": 115.589034,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ14K0rQ0B0i0RuND07Ex1SBs",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MH9Q+CJ7, Datah, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:18+0000"
+    }
+  },
+  {
+    "poi_id": "635e5b7d-b21b-4d32-83e8-7d3d76ea5def",
+    "name": "PURA PUSEH BR ADAT MERITA",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.330379,
+      "longitude": 115.609824,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_____0sA0i0RAd1Yl37Pdz4",
+      "photo_ref": "places/ChIJ_____0sA0i0RAd1Yl37Pdz4/photos/ATCDNfXttXEVAUBd3hzI_AbY6maZU1l-FdExDcwl3eT_bVzHRfKo7Ewt6664Gj914Yxz0Dj1CCeqBirdJeg4BmJ0-AWUECvLqoRtdTglYh-SiqAvwTRIqsMG-ERytu34UvguwZwodDIKfJHEXVJLO8p6i_ONkFtbu1Z9Y7SqTUZ6x-pGdxfNi7Vklj3yan9tjXqbSANtkOXM-x_UaZu9M3KUwXoSXO5cpPFiEXleXpeCPkLHRF7uVvRQ8W7VJKONwPuJgZmnXJDzjwMY1VDAI_oXkn9FTneNRBqsrWvZRs7xvtTU6MXh4y1mniLE8pgAiUELQlE7P91oaCrbSvMULiX1vv_V_WlAM3dFM3QoNGIaYe9fPHIHTjGmdrwI0ROTaYyCLatroyKYE4XHqjxUKM4g_PnWMFW9rzXjIbG1lj4gugRN6dQ",
+      "website": null,
+      "phone": null,
+      "address": "MJ95+RWW Dsn Merita, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:30+0000"
+    }
+  },
+  {
+    "poi_id": "7c96a64d-e699-4e71-adc0-5ab2fd3a013d",
+    "name": "Pura Batu Agung",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.333194,
+      "longitude": 115.60584,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.175
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJdxkScb8B0i0R-ye6eLqadus",
+      "photo_ref": "places/ChIJdxkScb8B0i0R-ye6eLqadus/photos/ATCDNfW8u51Jo43Lzazz1Hqd-Lz7ddQV8zaSIQKRiwy324bsuO2aQ2TlpjVjDBp_7TjPAiazbqtfK1zM95bOloNteV4vVqqRL_JUjtTOW-rGbyz0SMBnjmf_jMwKcc4VV418PmFBF_4WRBmP8EKsjMXlMjdbSgnIgR8Q1ygSoMTjacNYPtcJjgL7BXGeiMdrEmE-kpUaCV63jXRbEvypnvgGdxsFPaz9EeEdkLHFQLL_Bdj4zCj-sIT8E4lVM0H3Gk_1J6DIoxoTw5WAfkz77JmpXXRns2byx9fVSRjoKrbHsTJll0TQRqnqYgkzsuw1L2DtA5K3pXbxQO3TILwiWf1y5IUUw-eGZzR-U1791wogwhGFDh_FmcqU3Hxn9GvzawyY-6VqdGhm4LUtXPhLAwPVyvMUkUjDidXdPUE-a63wR6YctVI",
+      "website": null,
+      "phone": null,
+      "address": "MJ84+P8, Datah, Abang, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:30+0000"
+    }
+  },
+  {
+    "poi_id": "6e50af86-df3e-4d49-bf9c-b90540f22028",
+    "name": "Pura Dadya Batur Merita",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.331541,
+      "longitude": 115.609629,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_fHK4a0B0i0RKKJmZ7LYOvs",
+      "photo_ref": "places/ChIJ_fHK4a0B0i0RKKJmZ7LYOvs/photos/ATCDNfXU81mDB0v6zKpRIIhw_r4lamK97Jz5HSVNGCK0RIWLIhg1JRtCEcHGHeFQQIy90Blt_Az0NzIVxZqPo7oa9nXUqWtY8ur9SfC9l-uzctltJDgQgohj5g2QuCtyI_FGCdIB5scbxO0b_y7lHbpL3UNRAZjbLCs9eb_2Y95duXeA7WXJ6H-WI7wkGmJ7IOLAIK8FXc6b8w3ErcKcYs5TzqcL9LgCpEq7RC_cMdtwyoNqrjUI8XMIOhAeunni_dBKCIXLiBd2RNAkpSQgYRxJ5ZOcgVvZsbItedHoX2WT6c-IxaGa_SMD9bFB9Qxvm5Yrbr2dljkhsZQ17S84UqkijpL7jEs_kzMGMT_xYEAB1eIP7FyA2db450RUiJZhnu4d6rkgqWRqUbYpX6I_FpYRaq8sn2siPditSE1_k-zHXHc",
+      "website": null,
+      "phone": null,
+      "address": "MJ95+9VJ, Dsn Merita, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:30+0000"
+    }
+  },
+  {
+    "poi_id": "14cda3c5-8e95-48a0-8718-a8b82b16da7e",
+    "name": "Pura Bale Agung Br Adat Merita",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.33044,
+      "longitude": 115.609572,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJwUxp0MkB0i0R9gbQH7rIWsY",
+      "photo_ref": "places/ChIJwUxp0MkB0i0R9gbQH7rIWsY/photos/ATCDNfV6ir9kBLU9hMRNLhDR2SCxuhpIt-I3GDj4LTGrnY4d6TT7NGOk3CLkT1_xBa-ArGyhdnJ4c8uTiO0U7pe8Uq_zw9B3J2F68cJV6nEcsyr2H6E94MHybRDTW9PqpErZV33pGul2PZSxZuB47AkEBjiHHuhR5zGu6WmSqq6lHkD92F_t8hSX-Zhpo3Wr28r0NxggSvH0_4hEgQOxrViQd11PrgnJ7ooWTmB3oEnLdXCJ3_qEjLHmTqAPTuAtorNxRE8BJpF6VrlBuUBSfOuTvwRUJ4DxWc0qSzRpdjUigJYLD-Uq3IiB0PLbvSH4ORn5ET1qHHq0qNur9BZveynutkrn_JHzDb9ehVaRicy4JllnaXgqZu84bLm360qhAirPNDADewcDoEVYBSfiST-dCoAkd56JiSdEIPxCEGGAIA31Oxw",
+      "website": null,
+      "phone": null,
+      "address": "MJ95+RRG, Jl. Pura Dadya Pasek Merita, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:30+0000"
+    }
+  },
+  {
+    "poi_id": "cad2205e-534f-483d-9279-c463468731d7",
+    "name": "PURA DALEM BANJAR ADAT MERITA",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.329023,
+      "longitude": 115.611522,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_____0sA0i0R9y9cKRhlaJg",
+      "photo_ref": "places/ChIJ_____0sA0i0R9y9cKRhlaJg/photos/ATCDNfUMCjiTlMfRRleRaBVqb_ayN_n32kSfLfvgUmwTA_azVqzwLn09JjFhvC7ABJ74Qnq918F5tYKVmSf2-nJft3KkYQTWmj58E63ryUyJlMGtc4LKRBUUPLQ07qhMLbPg5bahynZvhdu6QT_eg6TIBrGNnjmJbmKJkDyIy1YavVYVx0eBp43YfcQh9u9mfJ4miQdgbtFYQSLKl1mI188Gan4CkycRrkOD1pAAREDMsrbwRZ1JHrAahEwzhJJwuwbC-FKwiaFPEDQuWLrPpZ8Zyq0_3VQmfN--ShMQxp6pJDqbNQqxVJ_XUyjmLsUJpt2TS0TBAtHCFmT24PNdZmPLZRxuubkPlQi3CnW4li5jn6yvNQywJ3JJkfj2cTbuEq3WCBjW7p4Sig8abFGCZdh5KexeNs3vOFvdhF9oyI-Peu0",
+      "website": null,
+      "phone": null,
+      "address": "MJC6+9JR, Dsn Merita, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "bcc6787e-1076-4abc-a9a9-73974e3ce8a9",
+    "name": "Pura Dadia Dukuh Segening Merita",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.329628,
+      "longitude": 115.611733,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.8,
+      "popularity_score": 0.187
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJX7H6b7IB0i0RPW-STt7aifs",
+      "photo_ref": "places/ChIJX7H6b7IB0i0RPW-STt7aifs/photos/ATCDNfX8HbieYA701ombAsPJtnSP7Gc7k-ucnTYUAS7GqwT3wISr1pUdoZbtB2cX2epG5ECqD-GHeU00CmFVs7Vdh5ZldXdWQ70OyLPIrI0tZDGT9x3AwRk9IlASWzCdvDs5RM9zXZosbdPCTIQj-xb6njqSdgUUGp7s-LBCDV_1beR4IJRaiRbQZEW6ZbdkSu4OmdfLz8mu75V0V0VxazOupC7DkKlKyLSwysTz8rMtwnyTjC5U2g0hzd-mGzAOEpicIzmczDnxj3TR4hEEgNKTQLO8QI71Qe5I-E58selBEc0POrDSRExdgCDx6nO8kE8QTIae5WIsyVMOLBKeVXs166FaljOsEaf09i-sRroC25mWdH_TaWXHcF0D4NDoBuc-iyKb2n3x6jaY1i8oZwdrrAOBaquRXqgTIcNE4In7Cw",
+      "website": null,
+      "phone": null,
+      "address": "MJC6+4MX, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "c6e8a43c-8825-4a8a-b668-fc78b9677f08",
+    "name": "Salon Pregina Beauty",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.333664,
+      "longitude": 115.614072,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 3.0,
+      "popularity_score": 0.072
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "beauty_salon",
+        "massage_spa",
+        "massage",
+        "spa",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "beauty_salon"
+    },
+    "_meta": {
+      "google_place_id": "ChIJJ5_rwawB0i0RG1wTTHuK46M",
+      "photo_ref": "places/ChIJJ5_rwawB0i0RG1wTTHuK46M/photos/ATCDNfVcw3LB3lTCdPqG3JtPfu8PdMmeyUF2aFMXykRpXTyMmHe7d_Q6OYzzAfc-5E5kyISt0fvx6yHwqEDkyjfKQ0hvQ-6Vjts0-gq0szoSChEyTVB7y8e8QMrUXTJpGblEnRvj3qSusVRhm9ktAi5vM4o0bfLJhb_cOJomhxUtEU7h7iVR7Ja0ZQfoCNDiByev7cF_-4RnIX586ZxMNhCBCMq1khfh__TXqzJKRv9nGCh8bja9Cko83xJO5gXy2E0besv437sdhbStbUGYy2LTmq3hTasjrdwJ6YB5S7-7TCaLZE8SlYuqqMnBOqzkGd1agEaln6EUwrjLr1oPV8L0y2aXH8uAUunZibknv30e_f2zeFZIHi6_l_H82e5VlwJ9ltdQh_Znq3HVC95I_bCvriksgvycXq_LAD86kUJ2uL0",
+      "website": null,
+      "phone": "0819-3635-2312",
+      "address": "MJ87+GJP, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "8cb70ff6-1b25-4841-a845-89903211316e",
+    "name": "Pura Ulun Setra Br Adat Merita",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.328779,
+      "longitude": 115.613078,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJd6gFyX0B0i0RlIumCGblji0",
+      "photo_ref": "places/ChIJd6gFyX0B0i0RlIumCGblji0/photos/ATCDNfXkUHwFbnOBdVdGB0_fQCwShOXw-v4pyHl_BM28oRj0Kx0RPGjARVp_55bGdXCIVkBqpKPTYR0uGo1LwDgX5Jw1So7RdLIn3F7bVJNaY7C-lmydlsVLEe65y8kMpY__ucMLEbvC12OW2ruapl6MWnth0svDPqaP9wYlwdHZRbCxFuDrw_jEN_69Ubu0nlDob06aCJw7JuH53Re30fcVrs4hhYvAyUlA0BpNZpCwMWodIdxzXKQHVNegKLyWhnJ4DK2o1_uRhnCpGP8x2MUjcjGpr9TPOD3QBwWODG9KPTqiVyG1Li9GducTQ9MLHuKZVU_66phhvhWWMu4s6SxMg4oKDY1vF2hB99z7T9pO53HDx8z_fP67-BAi8ysD61IdYNsQcG6CTUQZ5er0tlQSnhRgxKU2UsO6fraYuVgD81wR4dU",
+      "website": null,
+      "phone": null,
+      "address": "MJC7+F6P, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "6c3a8e45-e7c5-45c5-aa67-da55eac7ece4",
+    "name": "Pura Dadia Suka Sari Mekar Sari",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.333645,
+      "longitude": 115.617476,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJDRHTtxIB0i0R4-Iq-ioPEMM",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJ88+GXX, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "03d69451-1a2a-4fa3-a0b7-6b407b65351e",
+    "name": "Pura Dadia Merajan Sendetan Alit (Arya W",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.329945,
+      "longitude": 115.611506,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJDT7RI4kB0i0RnvXoW_nDdlg",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJC6+2JC Banjar dinas merita, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "74a1b146-0755-4bd5-a077-9ea9e3f230d0",
+    "name": "Pura Dadia Merajan AWBP Merita",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.33081,
+      "longitude": 115.611577,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJC8qdHDYB0i0RdyxD5LYB2fw",
+      "photo_ref": "places/ChIJC8qdHDYB0i0RdyxD5LYB2fw/photos/ATCDNfVMwXFES4rsa5RGhc-BKXEvddztlM0UBJ6eZEk7_7paQ2TEyOg7URoUEil0VBUfN5zna1mlrx5KZE7qwqw87cf813W6IkSKjeeWTaPoZfLPqpiXMDfl45bd5utGzObAwZ4fV5dmfmkdOooMXt5OBOYeyRss4bll2Mi2uHrmjsa6qqjBOhPTxFdZu_byqYAKOA8uwXdHlwkjQDmyEh1HG_uZu5m93jaI9jHEonqiolqzjmnGGui31c80btm-tghb5Efdlk5XOHwssHlaPxFCEqBvVzG8ZfE8zwR6EdYe1u_QM-_CYXSptgT33rpeIxBOdj_Ar4GbD32y2sg2URAAsLPMFfgtOC8iru3A14ePcI-YnnkME6HF5k3eabBSH1QWtsbMTIcG8NJeyMJM5QO7p85ikqnp6g8KiEz1zpCTBYg",
+      "website": null,
+      "phone": null,
+      "address": "Dsn. Merita, MJ96+MJG, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "aa255f83-7438-465b-9129-e71f70e021f5",
+    "name": "pura dadia pulasari merita",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.329983,
+      "longitude": 115.61087,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJayrCoyUB0i0RHFS7ChU6IM8",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJC6+285 Merita, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "56ed3ea5-991d-40d1-9420-e624774b0740",
+    "name": "Pura dadia tangkas tengah",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.330319,
+      "longitude": 115.610636,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQzbIegAB0i0RVS16CnBwXLE",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJ96+R6V, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "75277862-1eaf-4cd3-9cb5-b1e3202df950",
+    "name": "Pura Dadia Pasek Padang Subadra Merita",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.331179,
+      "longitude": 115.610453,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ1RX67q0B0i0R8rmisZDiqyA",
+      "photo_ref": "places/ChIJ1RX67q0B0i0R8rmisZDiqyA/photos/ATCDNfUJEkyZhVEwhOGPpGAe4iLcCbYBZdwuT23p8rGrmJ7DoTzO9gQ_jVGz8saM1ba5ua8MHLuf_33c1m8gN7R7vqb4nFfGObGVvqbUf5eZLkHDWHXkSdJf3P490J6FNubugFLDBx6CQo4XJvBCbZY4lPlAlBJ5q5NOkH11IVEYwM7pHFcW6Jeea0OHEi9rWG6NyWnxtHyFRc-M66vPJ8qW0R0uNmIdIm7vuK6xjOVEvQE5W9BqyRircRK6VYzVByp1kOFwsvI5la9sjUmKpGVap8T1siHTmYzrRypJjgAOk4nCY9tdq0s9BzSb8W472sD2tYrwWmt2bGWEkg-QKIFqvTnkWiKeoKICVVesSVJ0KR2c1hR0PTHlXhtCsEUL9B2DOj8ijCyo-xckJf6qCro5fhRLIeTJ145CxH79teAQJNQ",
+      "website": null,
+      "phone": null,
+      "address": "MJ96+G5G, Dsn. Merita, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "e03efcbb-ce2d-4d75-bbcb-5b5fc29fed4f",
+    "name": "Pura Banjar, Br. Adat Merita",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.329575,
+      "longitude": 115.610579,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJUdOeAaAB0i0RV-dTS4QuJEA",
+      "photo_ref": "places/ChIJUdOeAaAB0i0RV-dTS4QuJEA/photos/ATCDNfX6cJuzmHcSdFyN3HWvV0uBx4cvVHCLRoFKwq1eoEmR0FbPw_vZkqDLVuyRN7tRLZ0wzKi2C6kNaJf_R2Qlo5GyIXLCHrGUHoXBhq1kuuUb-X6YRlNSGk42no-RKJRzf4kvH3xdfgS-2QpFKGmDv15S5W7Wo6uOKJXp1o1QmFZvJlPhA2y51PT6JYzghmVeUcuZUD5ZV6aJrwwynGUqEQnz8MF9-mUgI3I4ogbKosqkIg-YHnWb1QCB8bxRN4ktEsE_Pw3kYvwXt1g-F8jogCGcl9pYC8Yevup1dsl1fy2WOT_flJ7foJcQvactOQJwGVN3NOl69OnUnKaW1Aj0Ml4ti-tmoHFRehm6YfR2axuvNFwbLgkU9QnD14Tk0iGVIKaCwEuiETxg_SDp6B-Li2N3566w1_jeyQ-7bVUgvxWzGHE",
+      "website": null,
+      "phone": null,
+      "address": "MJC6+568, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "1320b339-cce6-4cd1-8d1a-f8f4f75cad3b",
+    "name": "Pura Dadia Tangkas Bingin",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.329539,
+      "longitude": 115.610483,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJMyymI6MB0i0RR3CIKOhsrdU",
+      "photo_ref": "places/ChIJMyymI6MB0i0RR3CIKOhsrdU/photos/ATCDNfUtHA-5yW83ZQp_G6GqPWYbeqG3SqoZohhsKq-dQVHuGg2r5D6Tu6DlKWsxQnMOtBdkmxCXqboj0VWzPtv9TU1EFFF0tmrosGqxARstoLEuP2pZE-W34ZFXGDu6-gJ9zVTD-Qv6_V2qbnkP4aqORFxnuxiLCFN63veV1ckkQ9qO1zRX1pk3JreE8ldVyjyjUWcy3Ys7-YIwbWjKCO8C-Inr8H7BHOW4HJS_FkPc568Uu9a6Wsxzwp1uXpwSc4nGQql8Kn5PmbhEsIzmOFsaqY8RmC9B2zxSCAe3MCuOIVe5Ym7uFq9n3uIlcIbbCoknGoWwKfsw9xG5jLBurepqEzSoJFGE_y8bbTjZZLdLmqjvAeUuMCJVgFveRI6nsDHgmG4yraxUEedn9AKm7ZJPsSchJCfKTe8kbrJJNg2jd_baZoE",
+      "website": null,
+      "phone": null,
+      "address": "MJC6+55Q, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "52576614-de62-4f3b-b0da-019faf61d74e",
+    "name": "Pr Dadya Bendesa Manik Mas",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.330042,
+      "longitude": 115.610322,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJAzl0MdUB0i0R5tCB_Sf6Lfs",
+      "photo_ref": "places/ChIJAzl0MdUB0i0R5tCB_Sf6Lfs/photos/ATCDNfXNWFhDJJQ81GrQys6B8aSM6WdZYRGUkN2rvpGl7Mv1GK6MlFe_ALj9ZXEgXKrNIQctEHPEzsPgWuNSRX1ivX_qf0dAlP0DUxkfIQKV13tD6ee502fHVJFaNJAwHRDOConhiPBBl8ACHN7iSKwz09nxgkOcWnbpMfxgLPx1WD78eY3VLmbiY3Xt8cJaeBygFuK7ZkwdLfs8jXSFKk62TF3iHP_2WOPypbZ8EKGVgzRpVsik2bHxgzEvsuPe3q7hywJNWZSalxtMyeW2TgJML0p4dup4VtpPDSU00I4rLQy16GiJDSXJyVFlS6xULXlms21QfHiQymFBOUd2XxMqnXoBND9VBTsOl-f1vLPDOOegjIIVmDoQdiMBIfAfljT5v4JyMQOqzAERRq2yNL0AW28UywiAOLcRdHrYhJqI8Kog",
+      "website": null,
+      "phone": "0812-3754-9659",
+      "address": "MJ96+X4P, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "da46dbaf-6d02-4985-b6bd-6450cb750ba0",
+    "name": "Pura Dadia Pande Merita",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.329688,
+      "longitude": 115.610396,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJNWYc_3kB0i0RmI5HW4_6De8",
+      "photo_ref": "places/ChIJNWYc_3kB0i0RmI5HW4_6De8/photos/ATCDNfVYGVXirkv4cwiv5IGrDIS3BK1sFr7bjeWxNwi-yt8DJhVv-uuGrgF8VpWs_XJtB9kXj8NqJCxgJwFF8sJaojTlKM_jzNb_kqEaeHWDGO3rODh-6xQtrarH37x0NbQvs90a5bbL8l1tY3iczdXBNYI5VEH_unkY9Qig1HnBLOJqBzSGPA69z9Ot47vPc-qpNWp87U5ikKCYLacAD7FKnvg_q9aoS2dQXhkTPd2RnSveXHAMROgoRvPxcEJ0wbDHfMHF4_YVcXgAVGiG3g2fQNl3TzKoNBD0m7oKauQPbhp4yKEQVA_i7ijhsxyZKygYGgxcQRm2z7PvZ0qcRclUALeWWHVfSNZjErVfCzEWYO0IPBb_b_2vk50PrqN9MS6CwLqG_QjHjUq3Nuwt1utp5fsvb89k9ZstTwdXQjrm1Ak",
+      "website": null,
+      "phone": "0819-3301-2334",
+      "address": "MJC6+45C Dadya Pande Merita, Jl. Pura Sari, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:37+0000"
+    }
+  },
+  {
+    "poi_id": "5b4899c0-59f0-47e5-9d69-d7440ffd464b",
+    "name": "Pura Dadia Arya Gajah Para Tukad Besi",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.334071,
+      "longitude": 115.626687,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJC145BDoB0i0RhGk-BRUS9OU",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJ8G+9MF, Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:43+0000"
+    }
+  },
+  {
+    "poi_id": "e92c5462-38f1-438d-b795-1ceb2edb1e00",
+    "name": "PURA PANDE BEBAYU",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.32996,
+      "longitude": 115.62395,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ7UxEeSwB0i0RKd0Hs-29HE8",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJ9F+RHV, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:43+0000"
+    }
+  },
+  {
+    "poi_id": "69697662-29f5-475e-bd76-e0f5b14d21ab",
+    "name": "Pura Dalem Desa Adat Bebayu",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.330721,
+      "longitude": 115.626031,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJbY_4VTUB0i0RZXrMTayvzYI",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJ9G+PC6 Desa adat bebayu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:43+0000"
+    }
+  },
+  {
+    "poi_id": "e89ec2e9-86de-4021-83c9-ab3123c33518",
+    "name": "Pura Dadia Pasek Bendesa Bebayu",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.329832,
+      "longitude": 115.623535,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ7YTTCSIB0i0RZYI4BCIzTTk",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJCF+3C7, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:43+0000"
+    }
+  },
+  {
+    "poi_id": "40ff2072-17c9-47fa-9bdc-ed9bbabb982f",
+    "name": "Pande home",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.330644,
+      "longitude": 115.62443,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.0,
+      "popularity_score": 0.06
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJhSU1TwAB0i0R8PzWYjIsQeE",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJ9F+RPQ, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:43+0000"
+    }
+  },
+  {
+    "poi_id": "6bbfbabc-6b4c-4e0b-895a-e60cac005aa4",
+    "name": "Pura ratu gede",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.334592,
+      "longitude": 115.62495,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJwd8mVe8B0i0RivoXHVbiIMc",
+      "photo_ref": "places/ChIJwd8mVe8B0i0RivoXHVbiIMc/photos/ATCDNfW_DKRNShfgtyIdcwYUSWV2MKZSvvsNbIDx5RPPwDt2tT1PEX_nLvDObc7mSFYOxW49BCkGYqiS3FdJCi_EVxPyvGXvvrL3UAe7Wn8qCVJPwnEcmfUZHmIddOHT0ZRfAtlnmW5OUioL9hKFug_MITf93rzoHUL--PdyoT7DO3UkFHGF29L-gGTpBtqHT7DVWq9jCJVs3RmaFoPhc9e9B0XZcTjuHBNcDkqyjvG1CXiBWUUVcJ_32UUVtkC8L7vZS8eGwQZSJCNibyVl6AUxlwJkWEVDc3YnpbBRNTT_YMT_4mhTvSmGNBOKu6rjCSUPNxJTrXd0Z8LRF9aP2T-yt6MLMFB9IPpg8NcFZ9K40ywINUSwt9w3Ux9A8a_iH4az0zoMETJmg0utytTTOYS79bIynCWmOeW8cyZif0AWjg",
+      "website": null,
+      "phone": null,
+      "address": "MJ8F+5X8, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:43+0000"
+    }
+  },
+  {
+    "poi_id": "5f583061-c4d3-4c12-89d4-d746e671f83b",
+    "name": "Pura Penyimpenan Ratu Ageng Tukad Besi",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.334287,
+      "longitude": 115.625665,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJw0v2o-oB0i0R4i5E3IAcVdA",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJ8G+77M, Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:43+0000"
+    }
+  },
+  {
+    "poi_id": "5d6cd0bc-f913-4bff-ae18-1559d26278f1",
+    "name": "Pura Sendetan Arya Brangsinga Tukad Besi",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.334615,
+      "longitude": 115.62507,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJl_JvA84B0i0Rub0pIn6Tc5Y",
+      "photo_ref": "places/ChIJl_JvA84B0i0Rub0pIn6Tc5Y/photos/ATCDNfUjARVxJcHzw-S49TxSeSsxzBGsfUECRzPxCmyfWHpsPBD_74Skia-zascfmEy2P8I2faRlQXnv2LBU4x2CDoX_jxUszk74ouebF_L3D-hO0MW0NuhqjhBk58Po_YS1in_ywz4SV2Vb0AFDXSGyBuNwp70KCchqAFk__KdMMBuGU3oQ1pHuuroEzGX8riOqhlZ6iDTMR4Q5diHkbzvbJRdH07qhVEmkZ32AshFfIcHbWhCUtUjditUuGhkIuFDWNxS0igp6wat5iVA3C6gOHZ8fjv4DQT6mPcX3M6Hgrw_MUqRgCDNGDipWY-_lbOBXPzPGHuNS2ILxdD1ylvMtythKd_daQxYQ4HmYp9hHBHTenD2g1ERMlVYX_YS9IdvpdFrVjMKBu54Op2Cn8g2hkZQhHF7ZbREzJ4jhsCw_jw",
+      "website": null,
+      "phone": null,
+      "address": "MJ8G+524, Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:43+0000"
+    }
+  },
+  {
+    "poi_id": "e668d1fe-6dcc-4050-977f-2c086cb7db13",
+    "name": "Pura Dadia Pertisentana Bendesa Manik Mas Tukad Besi",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.334548,
+      "longitude": 115.625891,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ1dB0hqIB0i0RXG3JABE_f64",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJ8G+59J, Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:43+0000"
+    }
+  },
+  {
+    "poi_id": "6412123e-ffe7-4fdb-9d07-0b8e4db1f4d6",
+    "name": "River",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.334964,
+      "longitude": 115.625887,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJhy5THQAB0i0RiDfwSzEgpZI",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJ8G+59J, Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:43+0000"
+    }
+  },
+  {
+    "poi_id": "f56a418f-942a-44f2-a806-4c550ab6f01b",
+    "name": "Yogika-Center",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.333056,
+      "longitude": 115.634931,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 4.6,
+      "popularity_score": 0.504
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 10:00 PM",
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "car"
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 155,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "russian_restaurant",
+        "sauna",
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "public_bath",
+        "massage_spa",
+        "spa",
+        "massage",
+        "lodging",
+        "health",
+        "restaurant",
+        "food",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJHSMpPVwA0i0RTCC7PsjkgRc",
+      "photo_ref": "places/ChIJHSMpPVwA0i0RTCC7PsjkgRc/photos/ATCDNfXc0K6BxoyomVSPfMy7xn2Euyn0XhOqjsZ3mSt0bhSAvqvyHR0MmhxOm1IvrA_l1yVfRC0FIGfqLCqpE0mySoGAvEADJ77xrGgxXrlN9R_-52yOhc7Li-81NShlnFxtZTW-S9JAV13TS2hu_3RuKIw6PINcXrl9RnuCjaHBKFQecttoooHaEwHhjaf90trVysLdRqtmCHH6TMY8QrSbnv5wopfsWVlRQGbiC5LqW1dPyRo9WL42MMkm1JdA75hYsUdJF3YHVKpFiEANqIStRzDw40ZXChGLrwPX61ZAzMf94w",
+      "website": "https://www.yogikabali.ru/",
+      "phone": "0819-3595-5067",
+      "address": "Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:50+0000"
+    }
+  },
+  {
+    "poi_id": "96e0ad7b-51e4-41fa-b8b1-a5e7ebf2e02d",
+    "name": "Island Girls Bali",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.335408,
+      "longitude": 115.631732,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 4.9,
+      "popularity_score": 0.644
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 7:00 PM",
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 425,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "spa"
+    },
+    "_meta": {
+      "google_place_id": "ChIJwXJTXJAB0i0R3XYRzr168_s",
+      "photo_ref": "places/ChIJwXJTXJAB0i0R3XYRzr168_s/photos/ATCDNfVJ8GlHj2oL61VBvDfwrXpSPw54_8flazu7-I9LwIhlnxGGJuT3RDoBeupnI8CNgP55VGhBr7HVp7BOw2jNPC8mPN3JHTI7EjCq_Q63eOz5qVFa24NZQ9aOVTepMT77oyd8plMhi7pydrfNtmjjlYLgOq0mQTgUw6SwQ42MAV27jT95ENDadzOUKjDrHQ3m9xspFNckASX60BFtR_hZrgk7N4MCgU8EM55cWp5nIiLgnKPg1P1RII0QXy5yLwVTMuhs8_K7TTtuT0n2cCwDKh6AWK1cQK1Ia8rZLe_7eEFhfg",
+      "website": "https://instagram.com/islandgirlsbali?igshid=ZDc4ODBmNjlmNQ==",
+      "phone": "0819-1720-4725",
+      "address": "Jl. Melasti, Purwakerti, Kec. Abang, Purwakerti, Amed, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:50+0000"
+    }
+  },
+  {
+    "poi_id": "58aab918-16b5-44e5-8a72-5fe9368f0647",
+    "name": "Sekarini's Beauty & Spa",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.333071,
+      "longitude": 115.635562,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 4.7,
+      "popularity_score": 0.46
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 10:00 PM",
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 90,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "spa"
+    },
+    "_meta": {
+      "google_place_id": "ChIJIQX1Ps0B0i0RcNHChEkcrnk",
+      "photo_ref": "places/ChIJIQX1Ps0B0i0RcNHChEkcrnk/photos/ATCDNfX3Io24QyRQK4C-EZiyw1BFIhTHd76_gMCNd3cbqlHhLZMAQjJpmg9FyNDKM_Khe4w6kv0NWSoSpCZT6udOG5mMtqxHkVn3eW7NJ8iCsMXIZCrdu4odyDFd43lm-imVKM4IzC7o_akl7ekhLlpttfpLrpG3fPdACmoLdJQPF-KbDSiy8zW9lzQzglF-yZ1E2gOBthUSpryCeFBXEJ-ZPUe-vcMDJPZD1eb0yKQoZZ64bnxga4fX_Q8elRMi2-7Pgo6mwQPOaFptDAn-JMADfwtugaVJMHwujsWCJYKCc3g2pA",
+      "website": "https://www.sekarinisplace.com/",
+      "phone": "0813-3738-8700",
+      "address": "Jl. Melasti, Purwakerti, Amed, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:50+0000"
+    }
+  },
+  {
+    "poi_id": "326f78b6-e1de-4c05-9657-613c2d1f3ae5",
+    "name": "Hulu Sungai Pantai Bebayu",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.327383,
+      "longitude": 115.634826,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.3,
+      "popularity_score": 0.129
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJG9CQPQAB0i0RBH9nt9Iwo-U",
+      "photo_ref": "places/ChIJG9CQPQAB0i0RBH9nt9Iwo-U/photos/ATCDNfW9s0RNgRa3uArhyA33jNtkbQl_1a8HvV4_wU2w_jmDekXXoYr3YkS1LBTczxQDcshqPnNSpJ5TiVOehAHfxBVmrn0I5-GtBw1fycfN9RWAkXQxWsSRn_S8B02-xKsz0m-hK4X_MULVQnA_ECeB3JhyaHo18iyil6hiN-BhHPK-u6snNt2OlMoDNVIVEHJujhoQXWxT4lkVg3O_HjQRtz-DQ-jmRmJ9VJSUUKIj0eZlxQRKbG9F7Eq2GUzh8eEhlKlXB851lC42QiVqtLf3GnjbcZidDnAR7S8T40GOY1Gl6HJedtckpQQHgmIw718sAVoICSlGFunupADIpl_645nPKXXPPRcgj4hbe6uss7JboiqNjFe0NE0j3JY3zhJzBjlZAM5Fpv3NC9IoCUZV-pjzfTzhV4CfvLssXf3O59tj",
+      "website": null,
+      "phone": null,
+      "address": "MJFM+2W, Purwakerti, Abang, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:50+0000"
+    }
+  },
+  {
+    "poi_id": "8896ead2-26d9-4ad0-a14b-406a22bb47a8",
+    "name": "Melasti Beach",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.333251,
+      "longitude": 115.635226,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.211
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 6,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJn98fA8gB0i0Rkv53P47IRMs",
+      "photo_ref": "places/ChIJn98fA8gB0i0Rkv53P47IRMs/photos/ATCDNfV1RJ0fZc7NQbgxBKwn-CfceH36AOsQbmnOwDbiybbjAUHzp6lh2KfEDBPnfcp0sTXmb81UUCiZUPpgGHnyckdJmcjaRN-5V0-dqOirD38t3ybIP0kTtgYHjdumJi98N4iUBptfkMXo_a6js153ERXzCf0dok0KpCAABtTRKDsd3U-wW9nXSPZ70EVSzlbocfPWkZWgOZvRDGQeHthPU6HvWf4WynZWFivSvCWt78QXGrn0DQ0oex-vzuLFQczHSdTzoPJOaKepzPoNqyCbfLJViw7H9KFyOosVxLzUQKYu4EiMuHXLJbA8M2VZcU66gy4mqdgVKAN52Wtl_MHx1MRHDgad17S7mz8H4azKCR54_jtjVx0O20gPZPsusJmL7PS3B_8bAzbE7l_ldDzcUgdnp6b1rO5ZwEb_RLjySeoqo0Ur63Wnx_9Oa7er-g",
+      "website": null,
+      "phone": null,
+      "address": "MJ9Q+Q6C, Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:50+0000"
+    }
+  },
+  {
+    "poi_id": "2fe9b4aa-4014-4d49-a06f-3fe3b47bdbf0",
+    "name": "Amed Swing",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.333063,
+      "longitude": 115.634938,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "car"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "scenic_spot",
+        "amusement_park",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJHVFGthwB0i0RVN11ov-kiFU",
+      "photo_ref": "places/ChIJHVFGthwB0i0RVN11ov-kiFU/photos/ATCDNfXV8TLbgMRnIdenHqlLjQ0d6RxLb2q_k46_EYlIDpyVL2WRbwoh6RkdBXH_sYWfy8NmNffCrc3LylDcU6rlCOPkV-4gz9I_4_YfbCS377fhS0clGMOfKQi_Kk5OWJoBs5CntgrrY3mv0YrzyDrA7wWYURlzEiX7zAXRNTepzml0iZqwGF1Y7UEDO820xjBrjJ-hNFedNOxAzUYENvMUEGi5Og9NzIEyC_2Fh5dfzCIZGK7JDrWryxEWnW7OetafUjt2xpy4JA1myDutBC2ca5zP_w0n4aMYFFyBokKz85uAjA",
+      "website": "https://www.yogikabali.ru/",
+      "phone": "0878-1726-3893",
+      "address": "MJ8M+QXF, Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Purwakerti, Kec. Abang, Amed, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:50+0000"
+    }
+  },
+  {
+    "poi_id": "dad5b1b5-6b4f-46d1-b01d-f0c36430185d",
+    "name": "Alala spa and boutique",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.335067,
+      "longitude": 115.635167,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.27
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:30 AM – 8:00 PM",
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 11,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "spa"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQxtrUQAB0i0R5ZB5M-VUz4o",
+      "photo_ref": "places/ChIJQxtrUQAB0i0R5ZB5M-VUz4o/photos/ATCDNfV9gQ7ChGgLuESnZE4juas5dcX4qpkfl4bOcKqcYV4DUcLrlTY8O6qMkL4oS1s2w2AqEUm4SXZekiS94jGk4-PiXlFuGAYLvj-PxTZRBuY_yDtRzct45WY7FoxeAwqdZv-ivwJFfqiEOv1fAZZMxFIW09dDVmYswbweoX_brdMCSvuQuYMSvsuuNV2p6aE10dKkMNp3l_wiqYF1KU0qoPXwJThvaMZyTmR8xOc9w7u06WvbXzK4JmFKiTCfIOKIEpaA0714xfOFAYkIqGecMAPL7NhkEckYIwRArQcMYOe6sVPOuY3nS3HR5N-QNdBonR9kLKs73-NvQjbjlSQi7t4_2gl0rLPOBOWnU1eTsWM_-heecg1oCg9DEQpHxDzzbfnNtATk_MW-8QXpb_FO5AzUb3PlHLcH6w9tVo7k5CRJ6VZwJvgH2uyPBLpSiQ",
+      "website": null,
+      "phone": null,
+      "address": "MJ7P+X3F, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:50+0000"
+    }
+  },
+  {
+    "poi_id": "b174bd49-c1e5-40fe-8a52-b6bb486d3ad7",
+    "name": "Pantai Melasti Amed",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.331041,
+      "longitude": 115.639062,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.5,
+      "popularity_score": 0.467
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:00 AM – 6:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 118,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJfdNpgF0A0i0RTQbFW6UrDOs",
+      "photo_ref": "places/ChIJfdNpgF0A0i0RTQbFW6UrDOs/photos/ATCDNfW6atvR7AWjG7JNCIZHatTNwoHuWXnIgxY64HUx3fSdtHIX_ZG7qhyoYUDxLHIo-fTCcCWE_DosqwS3SAui7AtPcZzKhA5fwxkCnAUm9d6Zod73z8qexHMpwVmKo5tZiaMmUitUhjAbbuq6oEjJAzNnaFBoEM8SYj66OrqfWiDk6wabWwfNE_T07K65l5emWI1ZU4BORlUAVW_OEPAUIbzlGXdNRWruQC9jkmtOvz5AGC0ZRo9GtrjRu2v1DNZZAmTienQOj9q4LPdXO95ZIclE_F_HX4ipLAR9rN5DTYuGAGUQpD3g03gXndfpHUskYJKY3Gc8hF-VHnA3C8TJcH8LFglvENmd0WDunzwrdN7AUuBf6imYQajW-mZ-xyIGufw0-zDUK5gj-jNRi95m-BrqFLNi7X7uTwyPq7V8oA",
+      "website": null,
+      "phone": null,
+      "address": "MJ9Q+HJM, Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "2d84edaf-1499-4236-8a6b-aa08348ee3f3",
+    "name": "Freediving Amed — Freediving & Yoga",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.334156,
+      "longitude": 115.643157,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.617
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 7:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "car"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 293,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "yoga_studio",
+        "fitness_center",
+        "gym",
+        "sporting_goods_store",
+        "sports_school",
+        "sports_complex",
+        "sports_activity_location",
+        "health",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "sports_activity_location"
+    },
+    "_meta": {
+      "google_place_id": "ChIJec5hqL0B0i0RtZoTz-O66Ns",
+      "photo_ref": "places/ChIJec5hqL0B0i0RtZoTz-O66Ns/photos/ATCDNfWRSZdEFd3qPTRsUrNSxcixLMBCwAcvk3mP2agsOac1gKS3EfXkB6F_D8MhpR6mZEugsdJEpZ4aAx-IDp5BE2HU9SjKgIy9yNIK7Oe7bDPHayHyfdGa9RTq71awMicN_l24rBF3qOpHPYJz3xrrA4pDRwmU6A75pQKDg-O2OLy7q_J5JcLl6BBxGtdkgGFbHV6Z3bCrRvfg2h2XKvbMs-qjzkvxCaeIC3Rk_xJF5ovd7A0jyFhdGwdWDrJQdwP_5ZYZbmOJT0AGJPVNTA2FzXG3KqAwr16U3t8DGA2njzsIEA",
+      "website": "https://www.freedivingamed.com/",
+      "phone": "0853-3700-3870",
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "09a1b73b-b861-4f56-998b-9f60c32d85db",
+    "name": "Aura Boutique & Spa center",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.335064,
+      "longitude": 115.641715,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 4.8,
+      "popularity_score": 0.555
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 9:00 PM",
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 204,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "spa"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ7QJVSIsB0i0R1nn-8OunFq0",
+      "photo_ref": "places/ChIJ7QJVSIsB0i0R1nn-8OunFq0/photos/ATCDNfVUr6scTJLk7n6H0qWbHVzkQemuXYSOjw4-_I4FNN4x8cQgEPHN9nqPtXJns8kATunTo8-RWJ0tBMbZA106OYRAXNJxMhCdV_1FY9qkhsgpMJPk5QvEiGMWInb4HWiiZwypepsBXmxy1d33WJ1Cad7ocQ--KF638VBc2WfTbUBfKT-bRA5hzxpNQOHAcxvWMSiUGSr4F_IsQsE001HhQo4W5e06WrWWupRt7gpMeQYZJc6ohox00BMxU3PM5QsaSfw3NXUrpQdxIeXbr66YlOwdBOtxCdmOt93cDFgm7Z4",
+      "website": null,
+      "phone": "0812-6712-3636",
+      "address": "Banjar Dinas Amed, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "18ee070e-2895-4616-a0e6-35bb5dfbba4b",
+    "name": "AMED SELFIE",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.333581,
+      "longitude": 115.641514,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 3.9,
+      "popularity_score": 0.32
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 3.9,
+      "review_count": 43,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ7RjxGwoB0i0RPMBhzcK8IIA",
+      "photo_ref": "places/ChIJ7RjxGwoB0i0RPMBhzcK8IIA/photos/ATCDNfXEDz9y77RMXFjccUDwlpAlH6oTC0fCwICNpdpQAEdA3YY0WiGMMyrx8CG_vOl0yKVziLJmOjnTp3BFbceu4mnLRvxmudvumFiiGv5Nq_KPs9lIZVhaqAykrcjLkkL0kd8EWfTQx9329GnWSx4ITdTdsCLYNSMwLwSS49r2Rm2TzWTyCJc1eMWwFUPEDWTKZKGg8glEmY7snlfa5KpXfuVaA78w5rv6mZpvaXRnfw_bm6RwPaQcLCLy9oJVmaPgGe0EXINquNmO_qcuQJj6YarizxbYDuwH3lGGoteD7rDyjkQkhTzzFxfnNDMOCv7m1szJqfKnuv31kZyyhsl2oHHksBUUuhXp7M6wWANt6hsZTyMU6vxYRnBrsfV12hv4mXq7sqE-1QJ7zekg2MqQzresewu4RBFOvZa6rrrmloCgwJc",
+      "website": null,
+      "phone": null,
+      "address": "MJ8R+HJ6, Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "d212aa14-5673-44f4-8f23-b553e0b4c2ef",
+    "name": "Akasha Amed Spa",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.335073,
+      "longitude": 115.642654,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.556
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 9:00 PM",
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "car"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 167,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "spa"
+    },
+    "_meta": {
+      "google_place_id": "ChIJq58peQAB0i0RP7p9Tw7IEOY",
+      "photo_ref": "places/ChIJq58peQAB0i0RP7p9Tw7IEOY/photos/ATCDNfUsTwnQqrAC7PozFzzTAyEfax5qsPDlH3CYic5r89w8tnLhEl4xc3J03JCV_gEzRAIKH9Aq48xR7AwyMtx7mD9T_j2-yVtkNfHdD2R9k6MTCJd6Psrlv_f4wiAeiqvaof29owcVFFG2VEfVwdYrINJfZ4g4ZOLgfNvyYFZmlyzZIcWe5uBoffd9O9n2MNDR22YEKjv8_Bh2tVJ3dHW-sUU8yXIVr-qmokx7TUsvYqDBN7-0sQovX7BqrVGJW74LW1y7DAvqdZZjnubEEnWbetfFW2gq5ecqoKSvtii0JxXnkg",
+      "website": null,
+      "phone": "0877-5818-6885",
+      "address": "MJ7V+X39, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "97f07d8c-2773-428e-8547-ffc89f8dfaf5",
+    "name": "Diamed Spa",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.335127,
+      "longitude": 115.643893,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 4.0,
+      "popularity_score": 0.403
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 9:30 PM",
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 103,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "spa"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9R9bcmEA0i0Rn5mRB4aiWfg",
+      "photo_ref": "places/ChIJ9R9bcmEA0i0Rn5mRB4aiWfg/photos/ATCDNfWuIOOspUKH0Sfeuh2VW3RNDTRhE7miBmKxegL20MtEGt3pY88UHxY4wsLoOgxxaVVCRaaagZXddUaryWIf5UJWzSzr7Apz1h3FfCG4wRz2CYYQo4IAn9NNfv6WftEQOD2GRWcwXLFrlN1QrgBsAU3EygmnYdZiybcVdeg7VL7tsrlbmqN2FNKgzfmMcjC1XNoTFKZoA5EEqIZ6IyvBD6jUPXhIWFeXW0de-EaZ7g6qNtrArZ_4VCJCwJcYZE6BtkOPxejoKIESqm1bI3yEmqDhJ25PtIWogRwJk5AnrQ9KCg",
+      "website": null,
+      "phone": "0819-1649-1286",
+      "address": "Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "f1235cde-64ab-4559-9c9f-47ebc66875ca",
+    "name": "Ghost Bay Dive Site",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.333813,
+      "longitude": 115.64239,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.0,
+      "popularity_score": 0.14
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJBQaaFmwB0i0RI_7SamPQKjE",
+      "photo_ref": "places/ChIJBQaaFmwB0i0RI_7SamPQKjE/photos/ATCDNfWRdAkZw8KpAKJ8N0TynI-O2k_4AxDPQyyYnwMorr-YWU4N8Hm9VsF92SflthwZiuiMV4v9HFuoxViPlcGN9WyXed1M4zMoprUUUpYO4k2FzIMHZxXNZwgcWB1h_XpuqkGQ7L2cyINW6ytefdkYA22jzYEKa3N7CIYP-mS_uJEArdMXLzIH94EiXjo9oCfQT8lkxwhTFCHU0G68toTZIMPJGgPlPGlr7kKpHpZ5f4_PPCl7W4Jd-ca-8khSGdLB-k2nWMFuXJMekxZyNH-KtMGXryYNm2KcouROsLuLN27HdE4lhAFIcg0NbSWsurqYzx41o_ZJQr7cS7kWFdYeY7VBvWAW0BGEoKZmW1QYtFA0uaFFvT_bGrm_7BCeNdWXbDaI6ZSqUIjgJ1b4GaJ41BfikdTsH7tOJLAfKVxOISM",
+      "website": null,
+      "phone": null,
+      "address": "MJ8V+958, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "775cff38-004f-4a08-b1ce-def3aa5ceb51",
+    "name": "Om Shanti Lotus Spa",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.33394,
+      "longitude": 115.64025,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 4.4,
+      "popularity_score": 0.345
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 9:00 PM",
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 36,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "spa"
+    },
+    "_meta": {
+      "google_place_id": "ChIJLUQ-Qn7_zS0R7xpgR6WLyXs",
+      "photo_ref": "places/ChIJLUQ-Qn7_zS0R7xpgR6WLyXs/photos/ATCDNfV833WN20jH1V1OyN7TjWBv_SGdjj1d09u6HfFsGMsdhz-q7_H84-PXQ7xkd6ou5hcMwdvw-e-2uPcUlAAk_vSYQ73aYPXPj_iqSGchb5_f47o6XH7zw_py31thyQyphYXdPJjeukKVCKjkf-gkbShheqo3vFV6hk_HIUakHPReaOi7EqHlWwpoZ6aeysS0U8luUdQPCvBCH3FvM6PdSmOwNyIKxVBqn5Y9amfP1JcmN7SoDe0BIhTtLm1x9e49xEosiC30j_R5o_lFyqo0rPCKZcnl5apbuJqq-BE0QJE4oJBZXrtqnmo0M3nzqByR8l2nBhkUKhMlIwFFaZWIR6_JNE-x1V6Lcb1aJlPdsM6ZyvrGTHSrqXmDy3pXAwi8AHJypa9aiSvvNu3eaqqcp0v5-p-V9frXGtvdXnWsEdJO",
+      "website": null,
+      "phone": "0819-3652-5274",
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "6dfc932e-9670-4eb8-82e7-2436dbde0587",
+    "name": "Offerings Class & Cleansing Ceremony",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.331884,
+      "longitude": 115.638264,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.27
+    },
+    "operational": {
+      "opening_hours": "Monday: Closed",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 11,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJda2BTw4B0i0ReqgQDkP7NWA",
+      "photo_ref": "places/ChIJda2BTw4B0i0ReqgQDkP7NWA/photos/ATCDNfWZAuXxQsf-GmAdZCbigMgyNwsN0OsAzwoQ8oraSTCU4z_KEpjOGhXZAHyBn3ta60ceahvWdFq9c9zXzDr36xdHwewn0oLzvr_CYBkUxZ0bB9V4ScEs8gt0z8ZpuvXCAQ_iADlQqtohAP6KSjBNyEJJpkctrkLjX_zuKHr7di_e-7VIxb3IoiFa8AMcOYqInFOJwlNbLkg5-1gzC5A85JKzzhnd0Xbnt7tH78Pd6mcg-aWmhzSBJXve4XUkSR3_WmxxxyIx6SDBNFecolHuN9bl6jRlVg50H8m_vGiG",
+      "website": null,
+      "phone": null,
+      "address": "Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "33c0fb87-d10f-40dd-b2a2-326f26532233",
+    "name": "Amed melasti Snorkling and Fishing Trip",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.332319,
+      "longitude": 115.639567,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.239
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 8,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ7cF-OAAB0i0RqCO0VsW3TfI",
+      "photo_ref": "places/ChIJ7cF-OAAB0i0RqCO0VsW3TfI/photos/ATCDNfX_HV2e1txaFjdoIbi7WAZUqfF0j1-PcrhWi_Mq58NAhDVrHlSVGEr-OZK0ToVYIf3pPfn0ppb7jqvfwYqdte-gHOs00b-XSbynTSCWs2pbPZxV1Txw3CgT9gLw3jlOmYB3BrN2cKPnVcy72fXkNCyQs8nwfzHykrMHVsAxGCt_orqhh0bh-p4m8Fe5OPsKy1rhwr0smfOCSxEhrrNIoNdrGyo3dmxZ9hQjAgZ8Q22q2_l_htL3DIBA2REyUFoo0a3jfqYTZgTZZwQmGmBbmbrvuK8Rd0Gdtoz-qJGA9XguPg",
+      "website": null,
+      "phone": "0819-4633-4970",
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "bcbd9d57-ed06-4b52-bb5f-93aacd7ebc2c",
+    "name": "Elvano snorkeling trips",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.334221,
+      "longitude": 115.642921,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.463
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 70,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJGyUEpfIB0i0Rm0Ubv2h454c",
+      "photo_ref": "places/ChIJGyUEpfIB0i0Rm0Ubv2h454c/photos/ATCDNfVTegT-XR4WSLa05-HFW90bwow9_miTWEOcQQTO0iA4RqT-SE_KQUZzHYwoj5enYNKd1-c5Ab1aqzqIwPYYkchygol6nuK0HbOwoO_DLlRdq2nwveT9W2ZgQUb2ycM70BlRw8QkOVtC63tCbQ8QHKbto7SPoVDbj_iRv7HQXq-rJcxxGkOLEdOT-YOKE-5_B7vB0b97SIYrgzE7TOWdA03NdEZWEZReNTih24K2ZoWtfI124Zbw62D4L4M7OWGfEGJQUpUCJKyfQxa9khZ_QMigNZSZG5ar-XQuLQPPduttVQ",
+      "website": "https://elvanosnorkelingtrips.my.canva.site/salinan-dari-elvano-snorkeling-trips",
+      "phone": "0859-6308-0192",
+      "address": "Kecamatan Abang, Purwakerti, Amed, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "2d624377-bd50-4195-84b7-cd7eece232da",
+    "name": "Pacha Wreck",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.333216,
+      "longitude": 115.641706,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJBbfXIwAB0i0RhqR-erWzrTs",
+      "photo_ref": "places/ChIJBbfXIwAB0i0RhqR-erWzrTs/photos/ATCDNfVSwvEuXTAaltzQ1ctgtr93Mbn5i15wzDk1ar4dBldZ7-RbAXexvlZNi3CHqm4K5isaSfurlf3vrHWUCJh507DZ67ves0-QKb8CYuahnLnMgF_LBbF2mqW8GUoKuRGnZmcnp-ZZJu0WeCUdB-r5t8AoYxJ3lWvtID3CXUAKwGQC-j3TwEu0Np9k_H9x-ra6LQMa0DobrFcjDZ7aSkigGRCMcFgDWfHzEFchV8mr_tJhF5ZfXWHDx-ZSWSfqPx1AwaAhw9KoOvqj_A8_zhv3L8Koeri7q64FsyfdHXe6zCvF4WYLypY74SWnDaH_f8WT7aK_DRkMyIQKvp1OfOvepUx1wR3HLdkZ4_QbQYCqRS9XxmB96h04S7EhcRkOTQd9E2xtzitG95sPfzMO9klnnBRh1V-sRRLzMMZl3JMo0aI",
+      "website": null,
+      "phone": null,
+      "address": "MJ8R+HJ6, Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "d149f794-d838-40c9-a8fe-e453c20c7b4a",
+    "name": "Amed Bagus Snorkeling and Fishing",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.334337,
+      "longitude": 115.64408,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.386
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 34,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ51DNKccB0i0R34fSMRLMGpI",
+      "photo_ref": "places/ChIJ51DNKccB0i0R34fSMRLMGpI/photos/ATCDNfUyMhYHfCrQa0DZO4E_YZxVb1-Hmae8LDDl1H9teqFDOSdnrJvvxFR-v2Ed0RjD4YKTH-bEBjRzvXRDrQrHastwgqTrygtYnGZrQd1eknh06GfGkkYwfhKgju-QdKTK8Vbiv3Nq2RqRGcNfvVS5TcRXLoAaSibBaoUGPs4NAsGMi2C7sO3JB3o2d854prK2W4jAhHkM2lVfIK6DqIAaiHA4jqyObz4VqXtVvEyHz65G68WFtVVzMmk5ioqXq2PfS2D54cTyFWaLGZZ0GGamXeU_u-K0LK48UBrvOACZzhPyFNez5CsJwaFdmXT2AP8ivQXeBVGCRnGlMUIXDc73_XOun-5wNyGDIqq15K4B-U7qKUT3XXsEPdBdVS_t9pV6hY68iWh1Z9FWG-TxPswul6XzLngO8fgVnMDuR5I4shrrWBw",
+      "website": "https://bendindustries2023.wixsite.com/amed-bagus-snorkelin",
+      "phone": "0877-7512-2225",
+      "address": "Jalan ketut jelentik, Purwakerti, Kec. Abang, Amed, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "61fd97d7-7bf3-40c8-bada-8e86a6d19c75",
+    "name": "Pura Segara Amed",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.333275,
+      "longitude": 115.640717,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.3,
+      "popularity_score": 0.129
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJU1ugZJYB0i0RSdtb-slha6U",
+      "photo_ref": "places/ChIJU1ugZJYB0i0RSdtb-slha6U/photos/ATCDNfWFYPRITEV1_g9QsqXMzN4yUMAEy7hbcgQFv0JSk_PkUTV_hzYzObHnx6bg_ZVfVjePwiB16ByBgve00TbDj-rVQ8VjFsyPhC_aXtRMp1BXltsIBWPs6zfqIMDsP8rTgHFiTnj2Os0MSNPitem8yVFTXSS-RZy0nwzPY-aXk7p85GTBF-LMUYuu9nSk0lNbQ6AxbWmPPv6oKU7hzcq8WlYQLHB07nkUbHj0hgOHiAoto9cHGs0hoKWJu0o_FU9mFdUIxg-u0KIJ6RZOkAxiF3V4CekGLkzGbyhx8bhCSci_LBDA2jYriu4sAjOPgpMQHz59ybD2aTVOfn3mMNLzxvQnSPiQoi1JuqYZD-_1yVpLzcQiVVcC-LPEipvlg_NBiaPIXxCmT7RdQzPHLJirM9hhMzQHDKMBiDGL-AQXXjf591c",
+      "website": null,
+      "phone": null,
+      "address": "MJ8R+M7X, Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "bec6b776-f5e9-491a-8f63-0baa63fdb2ee",
+    "name": "Snorkeling in amed",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.333989,
+      "longitude": 115.642433,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJvx7pOwAB0i0RoMzpxhN5PQU",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJ8R+CX3, Purwakerti, Karangasem, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "b0c73868-2089-4100-b422-1ea813aa4e7d",
+    "name": "Amed Ocean Adventures.",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.334437,
+      "longitude": 115.644766,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.354
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 25,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJGRoVYwAB0i0RkZr_fIRi5NM",
+      "photo_ref": "places/ChIJGRoVYwAB0i0RkZr_fIRi5NM/photos/ATCDNfVQAvlkrgu15TG9OGzG-TsLxbMSBg1dVaaHCxF5Dffz_x_iXz7xQPbWKHh8mCLPHPAbKuS3FYJPZis6wYE4q-iHlji5_WPg_xON6MpxA-Gjvvn0R0mB5hNubZwVS5Fs9nlR3vPR6vGqvXEdlOLFz9pFBdVRS-IbK7dJeIBuL6CZ74LiHOY_42V46IvXgh2daxMM4Y03gkJGV81gXEGE3DxlbtzbHsDfcbbWiB9wbtG6ozp-OsIwuCV2y1o_Qjkl6D1F3h04YeziVN-BIK9iVhm8K4DX1AgJAnZLGD-kVOE2zkdoks-mVbn_8GFaoFfjydFGFAdR9phZz3WQQU-LoH0perTrEHBFJPYz2g3iZXdb7FOS-hNjgGUImeDvWpRegxOo1frOTyiMIVA1SLjAi7r3dEIwHIUtjCcQwWb1BRlaOkGRXo2PA1QZvAflfQ",
+      "website": null,
+      "phone": "0831-1941-4175",
+      "address": "MJ8V+6WC, Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "b36227f4-5c54-4801-b025-2b6cb2e72510",
+    "name": "Yoga tour information",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.333649,
+      "longitude": 115.641295,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJsWnYiVsB0i0R6K2IfSL3COs",
+      "photo_ref": "places/ChIJsWnYiVsB0i0R6K2IfSL3COs/photos/ATCDNfV7sx8UOKQh6KzoVFItmdC7tVlEHsKEQlq-CT1hyyEXEvdqwjrwda4_-0dNfy5weiZ1WYoBnIzvfjs5G5CbgKuxKXLM9jNgjBiNSwnI6E_iYHySR5Q-ssXjdYZ82y3FaCp9X8Dl7JjjNiQK0txc1dx_qIWbLBrzz0HVccqAN5f_S5wtyPSei1NDN9BOEk7I2DuiFLBG97BrQcMoZxTAnaXP3v3EhjxniDSV_pjHKXU7mN4pwhtPUmrtqJhqFgp14dSCYdK98c8gfPYavlLDEYP2HP1y7FTxhWT10rG17teC2g",
+      "website": "https://www.yogatourinformation.com/",
+      "phone": "0831-1616-5379",
+      "address": "Jl. I Ketut Natih, dusun amed, Purwakerti, Amlapura, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "4f2d06eb-b8ee-4067-87ae-2b706e3c7e3c",
+    "name": "Pura Dadia Preti Sentana Sira Arya Kubon Tubuh Amed",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.335311,
+      "longitude": 115.641748,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJOborSZIB0i0RbNu1SrIyfCQ",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJ7R+VMH Banjar Dinas Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "54bb6e9a-8dfe-486e-b559-acba0c20a6ae",
+    "name": "Pantai Amed",
+    "poi_type": "beach",
+    "geospatial": {
+      "latitude": -8.334852,
+      "longitude": 115.641629,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_beach"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 4.5,
+      "popularity_score": 0.293
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 180,
+      "closed_dates": [],
+      "transport_access": "bike_only"
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 19,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "beach",
+        "natural_feature",
+        "establishment"
+      ],
+      "primary_type": "beach"
+    },
+    "_meta": {
+      "google_place_id": "ChIJJ1Ah5GAA0i0RfWlzVCQ8DPs",
+      "photo_ref": "places/ChIJJ1Ah5GAA0i0RfWlzVCQ8DPs/photos/ATCDNfXaNZKP4reR2prIAs-cY55HW5KPpT2aa8xRIOOqK_AfbGT7fbt7ROXQRz-XJHHb_NhMM8h0t2thIOHIHV1s1AhEhQdP_QQz3SGAz-5TCztY-vH836IG-L5IbmpFOJ7go4CYi7Y8rrsvMBtOIXfjnNolXtGE8YAtrpNGqB_tGxU-PSbU2qmpTbt0AXzq5O-zHjpUD92vjJ4hkieEpfE148vlOlY9y5ZjCzvfznC4veL9nvH2sDJsQ_3Gu7HaGfRk9D_4PloSXHuTX_rF34vGgy8BcI3M5bG75P51dxX7JvKRlDRZNkPyfcvS1stYGrIzk7q75u0xDCjUgOOs_rsvwPFnNgJWYmHpUXhap1mfSSrdgtpmFq_6n3DMxiluixLN-QDYC39CpYIOSIdgWggOsqezAU074vCNq1oZauumU6DSMpo",
+      "website": null,
+      "phone": null,
+      "address": "Pantai Amed, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:56+0000"
+    }
+  },
+  {
+    "poi_id": "e867fbcd-3b2d-4cc8-b609-548df2a3a3a7",
+    "name": "Alala Amed Spa 1",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.33544,
+      "longitude": 115.651635,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 4.6,
+      "popularity_score": 0.542
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 9:00 PM",
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 227,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "spa",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "spa"
+    },
+    "_meta": {
+      "google_place_id": "ChIJyyy60DcB0i0RdEffUFR-u-k",
+      "photo_ref": "places/ChIJyyy60DcB0i0RdEffUFR-u-k/photos/ATCDNfUOamI_EhXoiHGbeVMDqqqPVzKKXyg8CN6sGTvy9oPGL9AbUmVyGwOjgAgMolozzdxRbNEh_6DotiaEiGpUUKKGKfySCaKbuEqLbFQcTm7U_vwJClP_ZjOF6Q6NqtnEyahRuTrVAFeoO2KWA8tUtxTZXcRuY9Op8qpFSopo-qZvdAwxxnL2RNZJmk4barfDfn5Zo9RFt1lwnVc7kbXTYQrgm0e2aSX0imVAjHtx4JSdpNSV9l-XS7jsTJY7znD19nadtRlwHj3G_iHjI7pOSP-Ndy-SzzpHwrF-j_4uTV9o5Lo_4L8esX7mH36NFTRYLCV2SeKwXkSjrqIdiykqyMYGL52IznFfe2UIugqmIrr2EnQfzynGclRGXcCRgq0e7cNxAg_K-B8IJItoKrCuFmUGfLE0nT4oLqQNaXQjJbh45Qz16_gD-OiNfUhDGg",
+      "website": "http://www.alalaamedspa.blogspot.com/",
+      "phone": "0877-7818-0559",
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:03+0000"
+    }
+  },
+  {
+    "poi_id": "3babdc40-1983-45ab-bb04-b221b59d097a",
+    "name": "Pyramids Dive Site",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.333389,
+      "longitude": 115.653,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 4.6,
+      "popularity_score": 0.24
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 10,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "nature_preserve",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "nature_preserve"
+    },
+    "_meta": {
+      "google_place_id": "ChIJWVLsUQAB0i0RvNycEvNY3u0",
+      "photo_ref": "places/ChIJWVLsUQAB0i0RvNycEvNY3u0/photos/ATCDNfWBhySnMiif69MQ2-EN8Vr7ms1qfRhurmaoODuJK7o_55wEypBBKUARWUom2AgELY0nof4DXWiHrRveZKpb6uytCFTP4OQJ2a4htQLfh5ucyg3pBgYLISY6wOm2MVkbXLAq1LKe8Qur5QvYUM4_RwkCUWK4Wl4UYiI4JfytJliro4v95j0kwpFQKCC1vdgV05sRiTNx2FiEtvWEJDWz5JRLEP03W8vJnMZVCSvMAt79gR9aJwzqLTzL8d4ge7GA-ffGGy8AegdW5z5XJAUri4yf_Z3QwS7l1vC5d9vgLOZzdyX4xpX7X_sCk0j9LcJRGeAo0j3oRptzg2HqTt_T4Un0P6no4wGfJOVsA-nvu61lCDOUxgmsETsuilVORxbAKc0Av2aaFPPRsG39dmyKzZOyI1xLY_TtQkouvPz4zxEP",
+      "website": null,
+      "phone": null,
+      "address": "MM83+J6, Purwakerti, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:03+0000"
+    }
+  },
+  {
+    "poi_id": "8dd215dc-98c0-4ddf-a0e0-2df7a40f2a07",
+    "name": "Kadek amed massage",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.334956,
+      "longitude": 115.652962,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 4.9,
+      "popularity_score": 0.518
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 8:00 PM",
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 129,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "massage_spa",
+        "massage",
+        "spa",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "massage_spa"
+    },
+    "_meta": {
+      "google_place_id": "ChIJr5j_MWQB0i0R5jpY4Hmk9a0",
+      "photo_ref": "places/ChIJr5j_MWQB0i0R5jpY4Hmk9a0/photos/ATCDNfVo-YZ9tTdA6wu5QsJvVg3G3z8qtHMFN07QtMgFikhZV8zhtrZEkXBbeQZlF7tyQuKPMqcIDI1egE4aTgYwk-1JbIWF_8SBDn0vtw3zkjXuBLvmRu-EEkb8g_jmx53tKNegR8NRxvIkbUXk3aKsy1ieTBYN7aitIi1QR47EGHE_XqaNvhF8p1PA6PX9XtT77wKksXgIoPyTf87ke-8hchcH5vArFBfaTLna4vAf5hUtTL9wbAFnAHpVCgHAv4ds1u5dlEiH0XvypUu-UUXbG3nd68liy-S7VqJ3OU1j2Lae2w",
+      "website": "https://wa.me/6285958057445",
+      "phone": "0859-5805-7445",
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:03+0000"
+    }
+  },
+  {
+    "poi_id": "27ab96fe-b5e3-46cd-966b-d29600933b15",
+    "name": "Amed Snorkeling & Sunset tour",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.335224,
+      "longitude": 115.650501,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.9,
+      "popularity_score": 0.443
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 63,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJEyT4_2kB0i0RhjuQyukzEi8",
+      "photo_ref": "places/ChIJEyT4_2kB0i0RhjuQyukzEi8/photos/ATCDNfWWXQmPh3sKv15L7mKRcLIRJV9NowSMjauF1zON-tTKMfRpNcK-mbl17_OTf8ytN--EbtC8o71BJrFLVfOx6d7n6W7rkesOMfX5R33GgqJtd8FjLJJE8JTMmTvrxVoCHowHgch80r6-1oGjUbBYBB8IbuwMIJw_mcC8GAA-xKzCay1ZXO_FPRwxJAVxNSpZGN9G7vmnl69O8UPMkzFCKj7vQFIi0w4eVQuf9VoJBh8h5ceCtHZDl8vSrrvpbLGEhF9VRBus_F-B_1STzpY-EWn9F2jf3vsJeGwClpFp5Xp7VkKYGoiz1ZIJmSfMUWFgCPuPJI24-qwAdg555Shr5PVGUjCkUZHT15Wr3TQvX7htiG-Tg6WtwyNIc6fduUF-xbAsuawm83Rle1noW1qxbsBQsDPiUeNji0hOTU1uIM-sJDQ",
+      "website": "https://amedsnorkelingdestination.wordpress.com/amed-tour-snorkeling-destination-3/",
+      "phone": "0877-5839-0766",
+      "address": "Jl ketut natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:03+0000"
+    }
+  },
+  {
+    "poi_id": "6f487b0c-cccf-4476-b709-8ecd05fa632b",
+    "name": "Amed Stand Up Paddle",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.335124,
+      "longitude": 115.650533,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 7:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJMypELdwB0i0RHHkjE3INrvA",
+      "photo_ref": "places/ChIJMypELdwB0i0RHHkjE3INrvA/photos/ATCDNfWEOux1vJ0AqGEPIE_7JCr7B5jZqCaHwtMKVR9KUFvfZMnYMpsu6kSXIUsz4RTk3u7h902lT6bg2m-3Se6aye7rghoiVKxgDMvgJfQ6h7fBkAStU4bNFmd_Nii22aAA_5-zzRfpCOFt176Z2vibWzWOvmXNhhjHbO7NDJSdlqpYgh4mVNuysiUe9_YHtfwwudAYTkQgEUSYGTwbJTd0rzRa5SE_XEAnwNqK1kqEDACMV13IyFohyx2B8GphBGzQ-QK3Ph0rRKMMJMaWBzqpw2woHehetXAqt2dm9lqgkYPOeMWgj2JEcpBUyIbUMRc3k_zg_h0hyUCs01XfD6fcGO9a7NMTLF9KduUEpWObCJBtfvy1COfRZgQfScAY73YpAX9aQxRESzam9yawfvjlnRRBloxfxPkCFrzLjVrf6nXS",
+      "website": null,
+      "phone": null,
+      "address": "MM72+X63, Jl. Raya Amed, Bunutan, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:03+0000"
+    }
+  },
+  {
+    "poi_id": "3863cfeb-4478-48c3-95ef-b69f997e3360",
+    "name": "Heart Of Karangasem",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.335097,
+      "longitude": 115.650468,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJDWUcRvkB0i0RiCVAqBetDnE",
+      "photo_ref": "places/ChIJDWUcRvkB0i0RiCVAqBetDnE/photos/ATCDNfVtHct1qXpineL0WeIimYLHAGY3j5gaI4Cb8Uzz8IpfIT1_Sl8GqTf5RheLerAvnUpc2uw5MZb_2KgN3WnFKRbZ39r2BpIgVzZP8iBH2YP0kkJjv_BkXxSBC5J8Itrgzqh1EguG2x0dKtyHK43Nrd-Ds-chRUz75y0ZUId2VOPhNFouVGXwXXVD2a4BPYh2735BVK5bu7HGesObkkaZbgA8Cmm7SSJRbcfNQLFSYdGa3S9lsTOd1iFUqhb19m4wpv69cFmag1Y43A7fBOp2af3fG4wc-9zwUjEcXOaRBDlHR8eyBTiTM5KdZeeqDpKfqzk9hzdlm1hsliAFrlj6517OiOIM-o_4chlhnLTmIY0oQh_xEgWVBDOPRK_4KZcsZRzTJfsjNx911ZZR7JQPcw0u-qOzn7469xWReLy4s_yn4iSu9mDE0-l3eSV2zg",
+      "website": null,
+      "phone": "0822-3538-2601",
+      "address": "Purwakerti, Amed, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:03+0000"
+    }
+  },
+  {
+    "poi_id": "f326d93a-2f1d-4e0c-b2d1-fe08cddf2732",
+    "name": "Jemeluk Pyramids Snorkeling Spot",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.333581,
+      "longitude": 115.653231,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ8fU8FwAB0i0ROPtctu_sxIU",
+      "photo_ref": null,
+      "website": "https://amedsailing.com/",
+      "phone": null,
+      "address": "MM83+H79, Jemeluk Bay, Bunutan, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:03+0000"
+    }
+  },
+  {
+    "poi_id": "165cddaf-5a31-4099-9ad1-add6b018256f",
+    "name": "Ari Gajah's traditional fishing & snorkling,Amed-Bali",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.33506,
+      "longitude": 115.649883,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.439
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 56,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJMwzuEAAB0i0R3BKZY4JJKi8",
+      "photo_ref": "places/ChIJMwzuEAAB0i0R3BKZY4JJKi8/photos/ATCDNfUQWeY_RKF2SL-qxJt19S5vQZDuKfF1uELE11n5lx8Pzb5h2n5wflwCg990biwC0vBaI1dsqBgNF382IVD3tuHxyj3Hvn30UkmY-rba0wQ76Q5NHagHs6m2uLajnykplOi-agaRhgaGKWavEXhshURe54FYIuQbPMK5J28S-OZXeF-IETEUHtR25wVvxVhuDw14t9YqVKh-3DMJjDudrAfTP53Qzt83kFOQl2qIl5w96YjMeczAI9hw-1HZbc_5zKSOfo1wSd3LcCR2f5947oJq54E7zvAcdb_0JyVDmBybah1NuVccI_2onTIJLGXd5jxlS0uap22iN2g1v871HfSkKbJ5cXX1Td_PRdqCfDN866Feyq4sD7d2oHUhhI5q7eGkodzVbeGFY1GYZ57EPyIVhCu-GwHOXBk3jNOeeUYDxsSNE82e5DoD0Ye6fg",
+      "website": null,
+      "phone": "0857-3822-4364",
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:03+0000"
+    }
+  },
+  {
+    "poi_id": "029343b9-d893-48c9-a053-3f057db11c24",
+    "name": "Odon snorkeling guide",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.335693,
+      "longitude": 115.651157,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.151
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9UROJQAB0i0RIW27zxFu92k",
+      "photo_ref": "places/ChIJ9UROJQAB0i0RIW27zxFu92k/photos/ATCDNfXN9fmQiYM1yj9EYlGmfl6f0q8BNYvKbaZqUNnUz0FV2v8A9rYjDTQ5R-Ofru7lNkYNPPD1u2AZvv42cHcZo9rDgB9dC1He3sKUDWjGN6XwRD01d_GECWUVB07xl29cJ8Pmx3wvrlCbpgFIyAggKMwfuLFe2T4k9v9vcGMTN01eJKtf3geMq2lmFr0mYO54QkW5Xv3Fw-0ipDFect-dR02nH2e4ndM1Vl4Xw9_ergVb08H3mUsUKmX_3U2sUoycKUCbx8WC2ocLX2DSetFUVK_5goWUGX6liK0fhDI73Qm5XEXXqm3MGMJaL6gj708Tf-v2nJeBUxGEXWprHrPaf_EbOoQeBxVZhsNY89lVigiWdXh7L6ziFgHO91ZTf-jM_mHFeNykhkpAPWFFHo7tgy7KfEF2wlUJV_uPDmDKH0s",
+      "website": null,
+      "phone": "0823-4013-0900",
+      "address": "MM72+PFJ, Jl. I Ketut Natih No.Br, Lebah, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:03+0000"
+    }
+  },
+  {
+    "poi_id": "d0017584-e0c2-4ad6-aeff-4851c32db004",
+    "name": "Amed Iluh home service massage",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.334949,
+      "longitude": 115.651788,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.441
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 8:00 PM",
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 57,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "massage_spa",
+        "massage",
+        "spa",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "massage_spa"
+    },
+    "_meta": {
+      "google_place_id": "ChIJSQVwZ34B0i0RVafkPth8mvE",
+      "photo_ref": "places/ChIJSQVwZ34B0i0RVafkPth8mvE/photos/ATCDNfVIruz_QL5EkMmgBdNKkDyig5HvALp26_iQzcFtcmNMN3Llyu8Q8aAFCrw18zETOky-Rpe8WSW0aY8Aj9QeoFPMrostHDnegM8C0yckPOpNQDKzguntLmDpjJuQ9UMhN-VdJ1VSDwdWnwhHEmUsQCTO97SKZWu_JzHiHSDwtYvUqvxnWMiVwKKaZWPjVuoTc1cqvMX5fn12-hXyX6MrLUqnWfVe3SVmAlIp7knjYcgev1sFwhOY0GsrdxzggGvR3ejHmAP7nzYhH1hbJumFzHVmCBaHmr9hHr5SJWDO5h94nw",
+      "website": null,
+      "phone": "0831-9462-2475",
+      "address": "Jl. I Ketut Natih, lebah, Purwakerti, Kec. Abang, Amlapura, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:03+0000"
+    }
+  },
+  {
+    "poi_id": "66bf6396-73af-4295-82cd-5a8bb252b87d",
+    "name": "Amed bali tours",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.335477,
+      "longitude": 115.652143,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 8:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJdY8sgAAB0i0RerVIjlI5-dE",
+      "photo_ref": "places/ChIJdY8sgAAB0i0RerVIjlI5-dE/photos/ATCDNfWFm0vQeKPR_FUt8APCO9i_2mzvM55rlhMKMV8QwNm1lFaeU1an-f5RFXEcRVG8p7D5Y8fwnp4ig-kNH5ADgwwN_YzYsuOU3mbkxwIsk0hBX1ok-hDWfQNvBNf2rbLeP8cD0Ek0_9q0KsYcU_PO-H4HZe24-8gqG0QBeAjLhIicgC2AsK3InRSA67XSZbQuaq2bxs0i32xDQOkAZiE-temobAgCBd3I1_aPJnzzT369wj-QvFHUDwb7AVwho5-iVWeB4n9AsybOjjwkxIaAbLBotM5WZooaS5FP1_FjgYvYdA",
+      "website": null,
+      "phone": "0831-1436-8106",
+      "address": "Banjar Dinas Lebah, Ketut Natih street No.99x, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:03+0000"
+    }
+  },
+  {
+    "poi_id": "64d1314d-2e4b-41c5-bc8e-8fc285b342fe",
+    "name": "plongée",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.335265,
+      "longitude": 115.649123,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJN6SEFAAB0i0RaJiJqrpzaos",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJ7X+VJX, Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:03+0000"
+    }
+  },
+  {
+    "poi_id": "78780012-2a45-4fdc-8501-9ae301bbc31c",
+    "name": "Pura Puseh Desa Adat Muntig",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.320069,
+      "longitude": 115.589618,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJC4RzPwAB0i0RPYTZqwrUsz8",
+      "photo_ref": "places/ChIJC4RzPwAB0i0RPYTZqwrUsz8/photos/ATCDNfWpv4_vkXn-xCJKunKaRh2MRWQe2eTSgSO2PNxWkJEHw7_Am5CiqU20yM0B5SPkWkUJQviYGmNmFyGoOX_KHKxjUfJYGwTjAApRO2apnOmIpNzymoFFNY-uUkMtY8TuvrMdOf7Uv_ExEP-ECuCheVjzcwY1Z7Fyvh4x1EngeFFs2rNqa6C024B3OXaonEPdRSF4aJ5vJ8PTJLjGG14dhwrBOE0jq1C_di_fsYpLd8q9JCRSStqfaVaCbn4xcJgB9MYJrI5DFoxLFkZxPBrkV7cLfjei3JBYGhSVa9tbCr6UPs0e-qbCqMwlHaCdBSC1Cs8NYXH6yDCAx5x9EGt0avkaO2fGa8mIHvNN7QLzNOGgWx-Hi5-xH-HhQdDn-DBoHq9vJ3TdokW-SEmqH5AFN8VMn4SSHvpcFTUhuz1ZXuJuuVH5-p5XeSmBwDAD",
+      "website": null,
+      "phone": null,
+      "address": "MHHQ+XRH, Tulamben, Kubu, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:53+0000"
+    }
+  },
+  {
+    "poi_id": "c1e8a010-b7a8-442b-b904-c583d4929e0a",
+    "name": "Pura Ratu Ayu Beten Bingin",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.319967,
+      "longitude": 115.589662,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJncrZbQAB0i0RtpEAYGRAT14",
+      "photo_ref": null,
+      "website": null,
+      "phone": "0817-557-764",
+      "address": "MHHQ+XRH, Tulamben, Kubu, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:53+0000"
+    }
+  },
+  {
+    "poi_id": "9697c865-d7c9-4f4a-9be5-211c8d01c2c2",
+    "name": "Ketut tianyar properti",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.318257,
+      "longitude": 115.588485,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJoVcmIwAB0i0RjFyiWTvL8TE",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MHJQ+PC, Tulamben, Kubu, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:53+0000"
+    }
+  },
+  {
+    "poi_id": "15229b77-479a-456c-a9b5-ba949861dfa7",
+    "name": "Dadia Pasek Togog Muntig",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.31989,
+      "longitude": 115.591109,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJN4T5GlcB0i0RJDerxPTUBxY",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MHJR+2CX, Tulamben, Kubu, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:53+0000"
+    }
+  },
+  {
+    "poi_id": "f0b8c01b-e1b2-4d18-8eda-2259d90c8b40",
+    "name": "Pura Maksan Bunyang",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.318835,
+      "longitude": 115.598203,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJd3pmoeEB0i0RduRJfzfV38Q",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MHJX+F78 Br dinas tegallanglangan, Datah, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:59+0000"
+    }
+  },
+  {
+    "poi_id": "ddfecea6-e911-42a0-b70c-62c43fd0deae",
+    "name": "Pura Dadia Pasek Preteka Merita",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.324747,
+      "longitude": 115.616233,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJb2ObXvMB0i0Rkh-FwVSTTSM",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJG8+4F5, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:12+0000"
+    }
+  },
+  {
+    "poi_id": "b37cad50-0a07-453a-9ffa-b48aa5fe5cd5",
+    "name": "Griya Agung Laba Sari",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.324532,
+      "longitude": 115.617374,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJG5S7PwAB0i0R9abOi0evhoA",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJG8+5WQ, Gg. Celagi Sari, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:12+0000"
+    }
+  },
+  {
+    "poi_id": "ddf9c651-70a4-4562-801d-a7963125ecf3",
+    "name": "Pura Melanting",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.324628,
+      "longitude": 115.618279,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ3ZwzJfUB0i0RYFIsjLCfnkg",
+      "photo_ref": "places/ChIJ3ZwzJfUB0i0RYFIsjLCfnkg/photos/ATCDNfXubulQLSTr2fokTAyWttM8cjB-55oD-bNt-uzQN6AP-42rj8S1U2diBeZQeE8x1poJH4s55lm4hujHQAZ6vuIFIeIyqoql0lO9UGBI-xdqfL_dZ5O0WFu8fN_eYXaKHjygwhUvKfP1zFWy4na0cpSR2YR8Ysq38RwKv85XnOE-jMCQCZNbYMEAfHS1mWIUGRoG8txHqvH7zRcMhAHyjCrVhhvEgAHra0p2CmhVceAMsDQkZROCV_Bno_4CngUb85vGteWPDGQEXYefmQNbFWlh-f_fv_r2x9H9Hb1WXR8kgKarPfrQQbDhJmCL61iudVkBe2IyOeQJIolLrUKiwqXJ8L8Fr5m0nwx33KVSuUkmKTJgVt2Bfau3TpT1EJcjsZTRxgA0vS_jRwUDyl0HVRRYFjDOmGVzptFALhY1fA",
+      "website": null,
+      "phone": null,
+      "address": "MJG9+48R, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:12+0000"
+    }
+  },
+  {
+    "poi_id": "90b684ad-7411-4773-adf6-f045e8c9c3c4",
+    "name": "Pura Song Lawah",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.321699,
+      "longitude": 115.627629,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ0Vm0IjUB0i0RZC_3e_Qv1kk",
+      "photo_ref": "places/ChIJ0Vm0IjUB0i0RZC_3e_Qv1kk/photos/ATCDNfWSEWJsqRZeJyUerbj6vKMsutap6nkEsdRC-Tw28Rxxo7Ry9RrGqw1ujPqRNlq2oGgmK7-PF6FGC31Rpb2_YZeqCeLmBjHTPMFetmuYYj3kWJ7dODydOvengHps8qr3UCPnkrmQDv3jRfHWBFh9a-Qm0wz4AB_zpSlYBEagqtk-kr4nAwJUWkhJXvvu67v6jKo3sAvjqFAjKMnMphHyzZkEejFuNPNaRownwjfqkOUh5uQs_0AZDzoPGXm_ek844lHLAhXcQg1hd9gi184IhPrpIjMSM6Xeny8w9uRRpnYB_-N24bZSBUrZU_vFD8ecGTRCx8bzJu-6YEDAYqog89QJBF5NHd5ZUIiN7zKDnJnXf89h3f9VcDwnSYFKs2TZI38oG13x-K0qVOa7isdxfCiqOjB-zRJwthhh6TTIIQ",
+      "website": null,
+      "phone": null,
+      "address": "Dsn, Peselatan, Ds, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:18+0000"
+    }
+  },
+  {
+    "poi_id": "457ce864-1efa-40b1-96a4-ecea96390981",
+    "name": "BANJAR DINAS MEKAR SARI,DESA LABASARI,ABANG,KARANGASEM",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.32462,
+      "longitude": 115.621393,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_____0sA0i0RY-wJzlqDr8Y",
+      "photo_ref": "places/ChIJ_____0sA0i0RY-wJzlqDr8Y/photos/ATCDNfWlctrgwNzPSSIt8kGUe__swczhV8R527Kmq73B8bAKAI5aak9K7oxiAMTc6RYQkWlEgvHR_slBkVx8knEh3xz8rMwleDIx4HNa2E2J2SxPiQFv_cGHcZHerbkGwQ_KTr7QNwdNE6l4IstikZ0yv6g3oZyuVL6MlZB7OSAKy3NZiiGZnmBZGiKZYZ5LPkHoDEOslXLvnBMTD4k2gaJaJLBFZnXlxndEYCBB-LkhKQURpGHdYkr3571OC6suIzxmVhCn8WOnsz9JX7zzket63IZaVXfG1Bo3Fr-ZfRBtWstd_kRe2OexptkYUYqvjl4ppL18NVa-_Ojz7RcUR5Dfn-1uqK0I0qomMI8OpK78_8Gd8EdQnPKw5KaXc4fOdgCJMQZb67GiAPe8fO6VhjVhCJu6X0y8Aob6yVJSnLk8N6A5RBbqkjwS57EvfUmMeQ",
+      "website": null,
+      "phone": "0813-3855-4516",
+      "address": "MJGC+5H2 Banjar dinas Mekar Sari, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:18+0000"
+    }
+  },
+  {
+    "poi_id": "e3e53c18-81d9-430d-a9ca-510f9057f18a",
+    "name": "Pura Delem Desa Adat Peselatan",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.319034,
+      "longitude": 115.625959,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJUV-98i4B0i0RcIsfkPUaFqs",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJJG+99P, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:18+0000"
+    }
+  },
+  {
+    "poi_id": "7677cdbd-cf75-43e6-91bf-560e8babc5e4",
+    "name": "Pura dadya pasek gelgel siwa gaduh br. Dinas peselatan",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.323483,
+      "longitude": 115.62412,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJlffOyBkB0i0RVJe4gYAA7jU",
+      "photo_ref": "places/ChIJlffOyBkB0i0RVJe4gYAA7jU/photos/ATCDNfUq39VFN-zV4KbVGtRqlEiKJR2nZuKzCfDbZ5oyPBf0YShAw_6G8It0ZsIuAzX8COebu4WjLIjZfGkjU61RHB1z9_p5fl-TlcOPsyFaHltU3EU3UhW1KlTObvhEzVG_T5HjnvbuupYXVG-ZXx43J-yJw0vimM7iAmcK4usckFL0lqFxzSMhct0CY7QG1-eUyUveowCzdpox-rmI8lHGGLXN8ZBMFEA4YUKWbGaJfLnEQLz4h78L3uzYUeevzpq0WDf32jcjmRxhDA0gfYp15fyQ6Y3159uS4shdxpooAvbZWeDF95dTQqX-6BsmVSGYv8mC6p3RjJglahQq6FBSeSYy7xoRWfRqIJWXM47XFegSs1HhOfo3_VfqHSGlwsLmUmUnHyWoGPWyYYtqUIpgq0ScuA2eppamHqHkMpWDvf4",
+      "website": null,
+      "phone": null,
+      "address": "Unnamed Road, MJGF+JJ5, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:18+0000"
+    }
+  },
+  {
+    "poi_id": "613a0c00-5bf3-485e-8b09-d6d60f33c709",
+    "name": "Pura Dadia Bandesa Manik Mas Desa Paselatan",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.321584,
+      "longitude": 115.622683,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJEc9-fQAB0i0R-ZszhwbGlrQ",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "MJHF+R7, Laba Sari, Abang, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:18+0000"
+    }
+  },
+  {
+    "poi_id": "e39abaa3-cc8f-4688-bed4-555ed4f5ce15",
+    "name": "Balila Beach Resort",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.326118,
+      "longitude": 115.630835,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 4.8,
+      "popularity_score": 0.548
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 191,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "resort_hotel",
+        "hotel",
+        "spa",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "resort_hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJUVHRUEQA0i0RZueCSIDfS7s",
+      "photo_ref": "places/ChIJUVHRUEQA0i0RZueCSIDfS7s/photos/ATCDNfWC17O0mK34PvBZg_JWGfq-CUqQ-JxUqpvwUe24mvlYGFvupK13jBnIoRYtg5ugJZsyKtDGRWEs5ANdertiqwhMXJqnBgR_5Q5iOVXxpkGYAM4hqKjpYa74VMlU7VrMQ_1LDuFAVAsy84QiJ_wHc57s0MjWW7r4zcFQ9vRALmcXPvhccuS26S4TZ5GC00tw_03Y91oX24nwXUZwEvI3teuWugX6BJ74pSJwOXUnXFCPF1gTsTjbhwlegElDk26SovKwy6PwWAwJMCCN87F3OdYjIHDmVY0Tcsf7QQ8n2nJlcg",
+      "website": "http://www.balilabeachresort.com/",
+      "phone": "0813-3754-2394",
+      "address": "MJFJ+H92, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:24+0000"
+    }
+  },
+  {
+    "poi_id": "39407c43-b755-42c9-a340-eb5c83b49bcd",
+    "name": "Bayu Beach Bali. Bebayu",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.325597,
+      "longitude": 115.631636,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.9,
+      "popularity_score": 0.281
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 13,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJZVhvhD4B0i0RS7P6Hhbov2s",
+      "photo_ref": "places/ChIJZVhvhD4B0i0RS7P6Hhbov2s/photos/ATCDNfXqcW4MR7-jsmyRsLau8-NvRN9ovpCcQNoKPIsmdjRd1uDXBBEIp0kx9tGKKJ946RrCiyVgxpNOaya6XkyPMfUEEhbsCRHd6Woc2Qo97xT8QPxnDuY_ieejt8--oyfuSfb0AIlMIG2Ylox2lcAyj_G9YGR7bEeBl3zjLYLo2I3gUnfo14aNir5FIm2iAQt79eLkpMUR9Keor_T6sZJWF2yMdPduz9IBLoSQs0d_jfWr_ba4nY5h9rdJm6gpk4JEr41Rjk4Zg99hahwzLvLcvEjAIrtS2Fs0tXak1O3wLPkm8N8T-grHsbyfWqhuHNVtzirWNbs8INSQSunMnyyfvoTg5jfo4UCNvWWPZc2l7-8a23HOKBeZsNySrKn8NS0V5uoeIHpk5w0qjWQhFgWACUAmUVwrhLn6p6SalZOk9ow",
+      "website": null,
+      "phone": null,
+      "address": "MJFJ+QM6, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:24+0000"
+    }
+  },
+  {
+    "poi_id": "d8140064-b32a-432b-a740-786ab7a5a1e1",
+    "name": "Pantai Peselatan",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.323654,
+      "longitude": 115.628537,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.4,
+      "popularity_score": 0.372
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 48,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJRRg_6zcA0i0RopPpYf6Y8MY",
+      "photo_ref": "places/ChIJRRg_6zcA0i0RopPpYf6Y8MY/photos/ATCDNfXIbCdndUd42Yo7HAaWUhgmsZNefyES9rzS6F6rs4NoRcBfHPYiY0sb2wlbgcdKEqtKbfUfiHCx4T4zzW3VvSf8rBz9CWBTomv5g-2LdXFFa8FRVbRR0CNAq8H6tmXfD2Gn8qQnwVDGVPwhQE5xvf2-QQ2pHNy0sk-RDYpjthEjG_4myKbI0hOP_pZDSNrH1j68Tfm2qHBtM6xAas9vXABtrUNk_pet3AiQ4-F2MLT4GpdtWolZ3MUCW9ziw7X0Z2i3sBfpd0-NLa-lBBbh1WlAWTSwI_vALp1T8oMlJqDMCuWCLQJekSX2t-kLSH9_lCXlTcUT5eiSV5-CIjOwSmBRJX9AuZLcqsmTGcIulyAaTp6ROtPhingbXxDg1f0JI8S6lwcxbcV0EEiCOcNH8xHAs9kTauNc3esHPCIW9w",
+      "website": null,
+      "phone": null,
+      "address": "Dsn, MJGH+GCM, Peselatan, Ds, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:24+0000"
+    }
+  },
+  {
+    "poi_id": "609d6bcf-9789-47ec-9b97-0031f3686cbb",
+    "name": "Pantai Bebayu",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.324554,
+      "longitude": 115.629707,
+      "district": "Amed",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "east_marine_corridor_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.7,
+      "popularity_score": 0.199
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 6,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9182wjsB0i0RmMbXb2jK2Vw",
+      "photo_ref": "places/ChIJ9182wjsB0i0RmMbXb2jK2Vw/photos/ATCDNfX0pIp9iC9sVsnd9W5jZ2yS5cdVhAdtgDUQE1Gq9mpBxLBXRfou-Dci5t8opXsD3icq6hu9fJ9O6qYTYkXF4XIKq2Ra7juTK5YCiEQc7Ij7h_KivnAke_kA90XzLXt5QJNFbBNEuCK2Cc78miRo9RNVoxEy0h5KTBNDS988kvTCY0tseOXqzIWOJUfo6m_5r0IUdrCjw9hn8jGLh_CdkZzM1y2wd3sk8IYduvwXj-U29b-z6JNJ8F8tPlEWMvrdAOMKW3MBxygjc3SdS3D7R6rYN1oa01ClRxnjsRiAN2I4FGKZgHzbEjJ6a5YF2k5k8CgVxjfcE-w2awFuEYpbbI4mEm3HFhlY3T3dUmg0gBNvCWnqmbobyBG6OEZLSd7IVxK_79ZHAI2xEdEJQIX_QGIS6s9L4tcYcDXBRsNbqGw8cOw",
+      "website": null,
+      "phone": null,
+      "address": "MJGH+5VG, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:24+0000"
+    }
   }
 ]

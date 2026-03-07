@@ -12191,5 +12191,4801 @@
       "tourism_cluster": "east_marine_corridor",
       "fetched_at": "2026-03-07T13:56:20+0000"
     }
+  },
+  {
+    "poi_id": "ff8517bd-940f-49b8-8ff9-e20b397f2ba0",
+    "name": "Warung tipat",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.330156,
+      "longitude": 115.609858,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJBVa4VwAB0i0Rci6zfdnQD9Y",
+      "photo_ref": null,
+      "address": "MJ95+WWQ, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:32+0000"
+    }
+  },
+  {
+    "poi_id": "85e46782-f249-4b38-b7d8-08c2cb453f89",
+    "name": "Warung Makan Tiara",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.330377,
+      "longitude": 115.614629,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.2,
+      "review_count": 16,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJFRm8-gMB0i0Rg9C-cHY9BA0",
+      "photo_ref": null,
+      "address": "MJ97+VV2, Jl. Ida Ketut Jelantik, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80853, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "3200ab47-5720-43b2-8add-6fc5b15532e6",
+    "name": "SATE GURITA udang BUK SRI",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.327641,
+      "longitude": 115.616663,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 5:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 16,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "brunch_restaurant",
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJrWfY1mcB0i0RXsdFJYc1BP4",
+      "photo_ref": null,
+      "address": "MJC8+WMV, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "51fc0b0d-480d-4934-b994-1178fae0a6aa",
+    "name": "WARUNG SATE LABA SARI",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.328159,
+      "longitude": 115.616156,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJe70jZ9YB0i0ROkJzY4HVLDQ",
+      "photo_ref": null,
+      "address": "MJC8+PFJ, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "60b8161e-ae22-49f3-a232-8681fcbfb954",
+    "name": "Warung Makan Babi Guling Terima",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.328013,
+      "longitude": 115.616135,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJn9IAzcUB0i0REnl_pjYroCc",
+      "photo_ref": null,
+      "address": "MJC8+QFR, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "6338a434-66ee-469e-9d12-4eadd2405d63",
+    "name": "Wr. Bakso Merita",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.328535,
+      "longitude": 115.61503,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:30 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 15,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJIQa1iU8B0i0RMWlqkvWcr94",
+      "photo_ref": null,
+      "address": "Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "a36a466e-7b50-4c44-9da9-810e075ae2a3",
+    "name": "Warung Kampoeng Labasari",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.332475,
+      "longitude": 115.614173,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:30 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_bjx-q4B0i0RIB19QS-qpgA",
+      "photo_ref": null,
+      "address": "Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "5690b1ff-624f-4fef-bcfa-64cd49e938bd",
+    "name": "Marita Arak",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.328488,
+      "longitude": 115.614999,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ81iKQBQB0i0R3Age3SusuFQ",
+      "photo_ref": null,
+      "address": "MJC7+JX5, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "f01335f6-5806-438e-8bfb-ecb4b6c8ef02",
+    "name": "Super Fried Chicken & Co Merita",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.332741,
+      "longitude": 115.614338,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 7,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "meal_takeaway"
+    },
+    "_meta": {
+      "google_place_id": "ChIJJ2MT-FAB0i0RjMsQ_-Ve5mw",
+      "photo_ref": null,
+      "address": "MJ87+WP4, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "9e967b32-be04-4a82-9821-c4f58d20228d",
+    "name": "Warung Manik Kembar 2",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.328252,
+      "longitude": 115.615917,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:30 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJTwXrlx8B0i0RukivGV6K5h4",
+      "photo_ref": null,
+      "address": "Jalan Raya Merita, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "316ff3c1-c6f2-4fbb-b6f2-193773601a31",
+    "name": "Warung Nopi",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.330373,
+      "longitude": 115.614628,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 7,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJmY3YZhUB0i0Rbj1nFtnse9k",
+      "photo_ref": null,
+      "address": "MJ97+VV2, Jl. Ida Ketut Jelantik, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80853, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "b8a799e1-0466-41d6-af8e-0ddf64e68d35",
+    "name": "Warung Brith",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.329949,
+      "longitude": 115.614677,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 7:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJUzLqr78B0i0RenEfNl31vTM",
+      "photo_ref": null,
+      "address": "Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "17845762-8fe4-4795-8f13-24e6e40d96fd",
+    "name": "Wr. Agus maknyus",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.334069,
+      "longitude": 115.613747,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 9:30 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "brunch_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "brunch_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJxZwZQroB0i0RuYTnEGaM_fs",
+      "photo_ref": null,
+      "address": "Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "193d035f-0a22-4816-8766-32ab17e676ac",
+    "name": "Warung cahya Merita",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.332263,
+      "longitude": 115.614263,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ216MfwAB0i0RCIBHStNI-VI",
+      "photo_ref": null,
+      "address": "MJ97+3PR, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "f4137897-b25f-4dde-a8ef-e22db8fd5a01",
+    "name": "Wr. Makan Lawar Bali",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.328008,
+      "longitude": 115.61615,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 6,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJKy-TL00A0i0RFrSkP0-pBmM",
+      "photo_ref": null,
+      "address": "MJC8+QFR, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "27756dc1-59b0-4a55-9187-64059e1ccbd6",
+    "name": "Warung Makan Belayad",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.328001,
+      "longitude": 115.616603,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ7zr6fQAB0i0RPxJCJB0bCX8",
+      "photo_ref": null,
+      "address": "MJC8+QJX, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "52b93b7e-8de8-480d-92c0-4d2208d7a171",
+    "name": "Warung Dewi merita",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.330506,
+      "longitude": 115.610474,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "brunch_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "brunch_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJHaK67ogB0i0RSFeQ328okcg",
+      "photo_ref": null,
+      "address": "Banjar Dinas Merita, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "5821d901-2481-413e-9395-2713d02ec6d0",
+    "name": "Sajeng Merita",
+    "cuisine_type": "Bar",
+    "geospatial": {
+      "latitude": -8.334748,
+      "longitude": 115.612202,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bar"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQ2lgbboB0i0RI929fmKSDug",
+      "photo_ref": null,
+      "address": "MJ86+4V4, Jl. Pura Dadya Pasek Merita, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "65b75abe-3caa-447e-90f0-e9bd4586e5bf",
+    "name": "Warung Bakso Babi Merita",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.327634,
+      "longitude": 115.616945,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJCTcBAwAB0i0RDQTHxMIuKGc",
+      "photo_ref": null,
+      "address": "MJC8+WQW, Jalan Raya Amlapura, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "6634f400-1ef4-4c98-966a-670c99a7aa02",
+    "name": "Warung sate gurita aldodi",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.327414,
+      "longitude": 115.616931,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJn83IJjAB0i0RnsmBQ5Od0Lw",
+      "photo_ref": null,
+      "address": "MJF8+2QM, Jl. Kubu, Tulamben, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "77d9b5fc-333a-4944-8eb8-8fa8aea4c8db",
+    "name": "KEDAI \"MEN ARUN\"",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.32714,
+      "longitude": 115.613064,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:00 AM – 6:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "brunch_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "brunch_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ7fkJMwAB0i0RQRC4CAZnl6U",
+      "photo_ref": null,
+      "address": "MJF7+46W banjar dinas merita, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:39+0000"
+    }
+  },
+  {
+    "poi_id": "cadff834-3a42-4b4f-a765-a6b4d3ac6457",
+    "name": "La Vida",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.335425,
+      "longitude": 115.625318,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 44,
+      "business_status": "CLOSED_TEMPORARILY",
+      "google_types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ51QFa0MB0i0RY5leNs7c-7s",
+      "photo_ref": null,
+      "address": "Jl. Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:45+0000"
+    }
+  },
+  {
+    "poi_id": "5908b733-dbbf-4da2-9437-eaaf0a375081",
+    "name": "Warung Bu Ngening",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.330063,
+      "longitude": 115.623276,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJG2hPB_cB0i0RIoUA9aYtBfc",
+      "photo_ref": null,
+      "address": "MJ9F+X8C, Unnamed Road, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:45+0000"
+    }
+  },
+  {
+    "poi_id": "ffedff23-c5fd-4c56-90b6-6c0c4dd86251",
+    "name": "Little sweet cake",
+    "cuisine_type": "Bakery",
+    "geospatial": {
+      "latitude": -8.335427,
+      "longitude": 115.625319,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cake_shop",
+        "bakery",
+        "wholesaler",
+        "food_store",
+        "manufacturer",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cake_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJYYLyXikB0i0Rb-spVdlvMP4",
+      "photo_ref": null,
+      "address": "Jalan, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:45+0000"
+    }
+  },
+  {
+    "poi_id": "149fe157-5bdd-45cc-a5b1-1b73ad06bb94",
+    "name": "Good Stuff Cafe & Eco Store Amed",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.335479,
+      "longitude": 115.632156,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": 2,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:30 AM – 10:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 1011,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "cafe",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJMcR0qjEB0i0RjpIiBkCDSP8",
+      "photo_ref": null,
+      "address": "Jl. Melasti, Amed, Biaslantang, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": true,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "3ad001a1-6e79-4588-847e-a41dd0e256ce",
+    "name": "OM Karma Café",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.332564,
+      "longitude": 115.637067,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 9:30 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 398,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJwa9sCwAB0i0RexMFdsoeg3s",
+      "photo_ref": null,
+      "address": "MJ9P+4VW, Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "d58cf58f-ab44-47dc-82c4-a4dfbf7b4e5e",
+    "name": "Yogika-Center",
+    "cuisine_type": "Vegan",
+    "geospatial": {
+      "latitude": -8.333056,
+      "longitude": 115.634931,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 155,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "sauna",
+        "russian_restaurant",
+        "massage_spa",
+        "spa",
+        "lodging",
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "public_bath",
+        "massage",
+        "restaurant",
+        "food",
+        "health",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJHSMpPVwA0i0RTCC7PsjkgRc",
+      "photo_ref": null,
+      "address": "Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "26014035-b1b1-497f-acec-04c2c9f09ca1",
+    "name": "Dive Resort Diving La Vida Loca",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.333206,
+      "longitude": 115.635199,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 6:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 486,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "sports_activity_location",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "sports_activity_location"
+    },
+    "_meta": {
+      "google_place_id": "ChIJXbvgG2QB0i0RvN5lcNfbGo0",
+      "photo_ref": null,
+      "address": "Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "8d66c872-beba-4e8a-afba-17de3e664d94",
+    "name": "NEST - Italian Eatery",
+    "cuisine_type": "Italian",
+    "geospatial": {
+      "latitude": -8.332972,
+      "longitude": 115.635672,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:30 AM – 10:30 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 160,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "pizza_restaurant",
+        "dessert_restaurant",
+        "cafe",
+        "italian_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ8U5_75sB0i0Rvs_Wymvz_hA",
+      "photo_ref": null,
+      "address": "Jl. Melasti Amed No.5, Biaslantang, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "d91d70fd-c890-48c8-a1e9-d57f0bccf9de",
+    "name": "Rolling Paddy Cafe & Resto",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.334241,
+      "longitude": 115.633796,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 82,
+      "business_status": "CLOSED_TEMPORARILY",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJz0yKGQAB0i0RbFN5XaO-9l0",
+      "photo_ref": null,
+      "address": "Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "1c63b020-0345-4de6-aa32-8ebed099699b",
+    "name": "Warung Melasti",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.33504,
+      "longitude": 115.632631,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 202,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJkU8jSFkA0i0R2Le0XCu6Tys",
+      "photo_ref": null,
+      "address": "Amed Bali, Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "6b112a69-ff1a-450f-b9c9-448ec21e4f20",
+    "name": "Sweetums - Seriously Good Brunches and Amed's Best Desserts",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.334761,
+      "longitude": 115.632503,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:30 AM – 9:30 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 100,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "coffee_shop",
+        "cafe",
+        "dessert_shop",
+        "confectionery",
+        "cake_shop",
+        "bakery",
+        "food_store",
+        "food",
+        "wholesaler",
+        "manufacturer",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJM_oLk_IB0i0RjDb5J3SiWQI",
+      "photo_ref": null,
+      "address": "Off, Jalan Pantai Melasti Jl. I Ketut Natih, Biaslantang, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "2c5caf8c-7fc4-46e8-8446-f309f2d2433d",
+    "name": "Notabaar!",
+    "cuisine_type": "Bar",
+    "geospatial": {
+      "latitude": -8.335617,
+      "longitude": 115.632095,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 4:00 PM – 1:00 AM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 58,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bar"
+    },
+    "_meta": {
+      "google_place_id": "ChIJz2vWshMB0i0RQ9oYLVA7BQ4",
+      "photo_ref": null,
+      "address": "Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "78382f1b-7c02-40fb-9838-5e128e4f72e0",
+    "name": "ACK Amed",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.335594,
+      "longitude": 115.633229,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 53,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "fast_food_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJee_6FQAB0i0RSS_rfuyC_GY",
+      "photo_ref": null,
+      "address": "MJ7M+Q8C, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "745f5553-0627-4cc0-867d-b668e1808415",
+    "name": "Warung Tirta",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.333032,
+      "longitude": 115.635039,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 75,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJPWH5RTYB0i0R5RwqumsfeSs",
+      "photo_ref": null,
+      "address": "MJ8M+QXF, Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "057ed4e3-bcbf-4b28-b113-d1cff16e1290",
+    "name": "Tymor di melasti",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.332987,
+      "longitude": 115.636165,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 5:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 132,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJrYLsliQB0i0RsrpwXg0MyU4",
+      "photo_ref": null,
+      "address": "pantai amed, Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "89ca5a3a-a920-41fd-9c76-26bd097f9ac1",
+    "name": "Basanti Indian Restaurant - Amed Bali",
+    "cuisine_type": "Indian",
+    "geospatial": {
+      "latitude": -8.333771,
+      "longitude": 115.634345,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 5:00 – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 47,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJV-oGMcEB0i0Rf5oBJgvSHQU",
+      "photo_ref": null,
+      "address": "Jl. Melasti, Purwakerti, Kec Abang, Kabupaten Karengasem, Bali 80852 Melasti, Purwakerti, Kec. Abang, Amed, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "c328d84c-d808-4f65-ac7b-eca3717fb51c",
+    "name": "Kedai Lais",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.335376,
+      "longitude": 115.632724,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJUV5T-jYB0i0Rk9fVqigSIFs",
+      "photo_ref": null,
+      "address": "MJ7M+R3X, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "0c452958-b8be-4042-a486-13c8a0a287b5",
+    "name": "Dewi Home",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.330633,
+      "longitude": 115.634501,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJma2ezcAB0i0RAAa4TYG0GDE",
+      "photo_ref": null,
+      "address": "Jln Setra biaslatang, MJ9M+PRR, Biaslatang, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "79ae0650-5b32-4565-b743-0fe8252591aa",
+    "name": "Warung Tika",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.335568,
+      "longitude": 115.633263,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 8,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJWQXhkcAB0i0RnXMpwq2J_aI",
+      "photo_ref": null,
+      "address": "MJ7M+Q8C, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "70640421-09a9-4f6d-bc24-97bcc7ad3e83",
+    "name": "Warung Hokki Anggara",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.335632,
+      "longitude": 115.632945,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "family_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJX0DLZbQB0i0RRsMwYfmD6YU",
+      "photo_ref": null,
+      "address": "MJ7M+P5W, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "63501ca8-6335-4b1f-8673-ff5cd64f752f",
+    "name": "Warung Babakan",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.334881,
+      "longitude": 115.635022,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "asian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "asian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJmysl4EIB0i0Rf_hmrfHoOQU",
+      "photo_ref": null,
+      "address": "MJ8M+2X4, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "00b6389c-8084-448f-9b3b-0c1c83e3cfd1",
+    "name": "TEQUALI PIZZA",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.333807,
+      "longitude": 115.634234,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 12:00 – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 18,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJOy84CAAB0i0R0dSyr-XnrEc",
+      "photo_ref": null,
+      "address": "MJ8M+9JP, Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "b8b7d1e9-a338-4a82-98c3-1abb3d54faff",
+    "name": "The nug amed",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.333719,
+      "longitude": 115.634687,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 43,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJvecBeQAB0i0REbyKorRpZ1Y",
+      "photo_ref": null,
+      "address": "MJ8M+GV7, Amed, Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:52+0000"
+    }
+  },
+  {
+    "poi_id": "308ae9a5-8754-4e1f-a156-3d89e319359c",
+    "name": "Oneway Espresso",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.333859,
+      "longitude": 115.639478,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 538,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "brunch_restaurant",
+        "cocktail_bar",
+        "cafe",
+        "bar",
+        "food_store",
+        "japanese_restaurant",
+        "restaurant",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ2dYmX9EB0i0Rb_zsOgUJzi0",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": true,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "1a3f6f27-14ee-4d8c-827a-d35e929d13ea",
+    "name": "Natnat Thai Comfort Food",
+    "cuisine_type": "Vegan",
+    "geospatial": {
+      "latitude": -8.335116,
+      "longitude": 115.643166,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": 1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 11:30 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 654,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "thai_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJZ0tYF9cB0i0RqpxZnacSfA8",
+      "photo_ref": null,
+      "address": "Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "f227c032-9b94-4d6c-a6cd-b2b22def2db1",
+    "name": "LA BOTTEGA Melasti",
+    "cuisine_type": "Italian",
+    "geospatial": {
+      "latitude": -8.331272,
+      "longitude": 115.638378,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:30 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 289,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "italian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "italian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJmR6yK_gB0i0RhI_HS21rv3Q",
+      "photo_ref": null,
+      "address": "Jl. Melasti Jl. Raya Amed No.5, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "c9d88e76-ee01-40b8-9afe-36b21e85fdeb",
+    "name": "Amed Kedai Coffee",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.335084,
+      "longitude": 115.642949,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 4:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 203,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_2E8GAAB0i0RIX8-oOElAKQ",
+      "photo_ref": null,
+      "address": "MJ7V+X58, Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": true,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "e178bb09-f57d-4c92-bceb-c1a2479cca59",
+    "name": "Baker Street Bali",
+    "cuisine_type": "Bakery",
+    "geospatial": {
+      "latitude": -8.335123,
+      "longitude": 115.643039,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:30 AM – 4:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 282,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bakery",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bakery"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ2URpw_EB0i0RCXnCThGmBvk",
+      "photo_ref": null,
+      "address": "Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "79ee5d41-c520-4fd1-bb0f-288942bb8440",
+    "name": "Warung Sari Asih Tuna Satay",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.33374,
+      "longitude": 115.640402,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 214,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJIVkBpYkB0i0REnKMo9Qqgas",
+      "photo_ref": null,
+      "address": "Amed jl ketut natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "4d3cd371-664b-41fc-bfd2-26bda93f2883",
+    "name": "Susie’s Cafe (Local Restaurant)",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.331799,
+      "longitude": 115.638261,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 12:00 – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 296,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJY0MeKw0B0i0RZbCiSJ0IViU",
+      "photo_ref": null,
+      "address": "Jl. Melasti, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "8cb256b1-ebf1-4803-bd4d-4f2aff67cd1c",
+    "name": "Warung Mewali",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.333956,
+      "longitude": 115.642193,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 194,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ99msKZ0B0i0Rd3SgYVQLmYM",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "d7509b27-8e0f-43bd-beac-aded35aa7056",
+    "name": "Teatro Café Amed",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.335166,
+      "longitude": 115.641967,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 289,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJKWpxpNsB0i0RJwr-AD9O3rg",
+      "photo_ref": null,
+      "address": "Jalan Ketut Natih Banjar Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "219a986e-ca50-4373-a03f-4cfdf09f4665",
+    "name": "Warung Green Lemon & Beach Bar",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.333491,
+      "longitude": 115.641362,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 280,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJGzsR5GAA0i0RCdzzltQYyRw",
+      "photo_ref": null,
+      "address": "MJ8R+JG5, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": true,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "72028511-bf27-4799-a470-993b7639c240",
+    "name": "Rooftop Sunset Amed",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.333537,
+      "longitude": 115.641249,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 11:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 67,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJVe8D_usB0i0RyTNnVbzL74U",
+      "photo_ref": null,
+      "address": "Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "160dc612-896d-40fb-b7f5-4c942c46ab95",
+    "name": "The Shaker Bar",
+    "cuisine_type": "Bar",
+    "geospatial": {
+      "latitude": -8.335187,
+      "longitude": 115.642812,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 12:00 PM – 1:00 AM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 92,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bar",
+        "beer_garden",
+        "karaoke",
+        "sports_bar",
+        "night_club",
+        "cocktail_bar",
+        "snack_bar",
+        "cafe",
+        "meal_takeaway",
+        "association_or_organization",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bar"
+    },
+    "_meta": {
+      "google_place_id": "ChIJH0UaU7MB0i0Ru5mnbWtRjDo",
+      "photo_ref": null,
+      "address": "MJ7V+W4C, Purwakerti, Abang, Amed, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "84a78f86-e0ef-4c61-8f02-909262d4dbb8",
+    "name": "Warung Pondok",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.332555,
+      "longitude": 115.640343,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 10:30 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 176,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQeeRMAcB0i0RsOoHT410Onk",
+      "photo_ref": null,
+      "address": "Jl. Raya Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": true,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "388e32c4-bb7b-4c47-b153-b7408fd4b452",
+    "name": "Meeting Point",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.334709,
+      "longitude": 115.641524,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": 1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 311,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJMai752AA0i0RZhWbVAUDYR4",
+      "photo_ref": null,
+      "address": "MJ8R+4J6, Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "b6fba040-dab2-4dc9-a8c2-7343d7d4153a",
+    "name": "Nasi and Beyond Amed",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.334222,
+      "longitude": 115.639039,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 97,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ3SNxGHoB0i0REdZxIW-F0n8",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "84824b10-41c2-4bf6-a333-0995a7cd42f8",
+    "name": "Amed Beach Resort & Teatro Bar",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.334077,
+      "longitude": 115.642948,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3.7,
+      "review_count": 91,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJGSTWacQB0i0RXqMF1B0IGa4",
+      "photo_ref": null,
+      "address": "MJ8V+958, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": true,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "e7123223-b57c-40b3-b5e0-78163280d867",
+    "name": "Sweet Harmonia Restaurant Amed",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.335065,
+      "longitude": 115.642598,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 11:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 123,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJmwzD_-EB0i0RBEOaVh2GQO8",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih, Purwakerti, Amed, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "92a8d88a-d742-4066-af52-de13f4ac6b13",
+    "name": "Waroeng mamasaga",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.335072,
+      "longitude": 115.642714,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 9:30 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 67,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJqfycDAAB0i0RvQmKXjR1N70",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "2b4d652c-aa7a-4e98-befc-ca39029969c2",
+    "name": "Super Pedas",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.335202,
+      "longitude": 115.642024,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:30 AM – 5:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 69,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJv3XFGZQB0i0Rw0anHZ5txLo",
+      "photo_ref": null,
+      "address": "MJ7R+WR6, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "13e3a847-6afe-4199-be2f-2e18c36c2c91",
+    "name": "La Rôtisserie Amed",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.3352,
+      "longitude": 115.642792,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 5:00 – 11:30 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 52,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJcRm87dj_zS0RSJikWc2PjmM",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih No.801, Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:30:59+0000"
+    }
+  },
+  {
+    "poi_id": "acc70ae7-b5d1-41c1-95b5-2f0260915718",
+    "name": "Rimba Cafe",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.335653,
+      "longitude": 115.651806,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": 2,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 2089,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "cafeteria",
+        "tea_store",
+        "coffee_shop",
+        "sandwich_shop",
+        "pastry_shop",
+        "dessert_shop",
+        "dessert_restaurant",
+        "cafe",
+        "buffet_restaurant",
+        "confectionery",
+        "bakery",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQwRB_mIA0i0RchCKEOmujkE",
+      "photo_ref": null,
+      "address": "Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "812036e7-9bf3-4071-92b4-4cba83e624c2",
+    "name": "Warung Bobo",
+    "cuisine_type": "Seafood",
+    "geospatial": {
+      "latitude": -8.334899,
+      "longitude": 115.653408,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": 1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 1208,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "seafood_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "seafood_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJN3iK4nwA0i0R3qW7w0Utoac",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": true,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "09d39098-fc12-41f5-8d77-60a12e2d2a7e",
+    "name": "Mejore Beach Hotel",
+    "cuisine_type": "Bar",
+    "geospatial": {
+      "latitude": -8.335409,
+      "longitude": 115.651658,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.1,
+      "review_count": 236,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "bar",
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJoe8jjGv_zS0Rz3cOPeX8f5w",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih, Abang, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "ab14bb9b-a0bd-4588-bc1f-4d348331b535",
+    "name": "Warung Lebah Sea View",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.335046,
+      "longitude": 115.652266,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": 1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:30 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 425,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "diner",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ8-EnIn0A0i0RDIqmB-WwwoU",
+      "photo_ref": null,
+      "address": "Br. Lebah, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "3676edce-36db-493f-86ae-06d1c039e4e3",
+    "name": "Warung Osin",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.335451,
+      "longitude": 115.65137,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": 1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 11:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 503,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "breakfast_restaurant",
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJUUWoLn0A0i0Ru9kZb_pAOE8",
+      "photo_ref": null,
+      "address": "Purwakerti, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "ba14b890-8a3f-4661-9a63-dde981780c81",
+    "name": "La Plage Amed",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.335229,
+      "longitude": 115.652029,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:30 AM – 8:30 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 312,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJjTUVSUYB0i0RAAcb7SylrFs",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih Jl. Raya Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "0d3b6756-7897-44fe-b951-84976b8b7fb7",
+    "name": "Chill Bar & Grill",
+    "cuisine_type": "Bar",
+    "geospatial": {
+      "latitude": -8.334977,
+      "longitude": 115.648921,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 2:00 – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 202,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "bar",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJHYGl4mIA0i0RM37bjG2FfHA",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "2edb7c83-fe8e-446e-8bba-31cd581bf9b8",
+    "name": "Ola Rima Resort & Restaurant",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.334847,
+      "longitude": 115.653559,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 70,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "resort_hotel",
+        "hotel",
+        "restaurant",
+        "food",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "resort_hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ01OPu_4B0i0RuXdelzSUY6k",
+      "photo_ref": null,
+      "address": "Jl. Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "88b565b4-c934-4947-af5a-558d2dba42b0",
+    "name": "Warung Amed",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.335342,
+      "longitude": 115.652478,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 1:00 – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 443,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ1bM3yuoB0i0RdIHHFngWIDg",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih Jl. Raya Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "5d1e7e42-cb1e-4019-a789-709b0bcc7db2",
+    "name": "Wawa-Wewe Beach",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.335311,
+      "longitude": 115.651857,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": 2,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 1:00 AM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3.8,
+      "review_count": 208,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJWXm9J30A0i0RXcsuasHQDFc",
+      "photo_ref": null,
+      "address": "MM72+VPH, Jl. Raya Amed, Purwakerti, Kec. Karangasem, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": true,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "c5fa41e9-52b7-431b-970f-4a53e077c763",
+    "name": "Moon Cafe",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.33562,
+      "longitude": 115.651008,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 167,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJs4PULH0A0i0Rm9UUWCSRtPA",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "92890910-45ce-4bcf-893e-6ffc34a29ec8",
+    "name": "Massimo Gelato",
+    "cuisine_type": "Dessert",
+    "geospatial": {
+      "latitude": -8.335688,
+      "longitude": 115.651437,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3.8,
+      "review_count": 37,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "ice_cream_shop",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "ice_cream_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJvVskNOAB0i0RPY4OeeQCpXc",
+      "photo_ref": null,
+      "address": "Jl. Raya Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "e988b457-c333-4f57-b5a6-89503c59e27d",
+    "name": "Warung Mekar",
+    "cuisine_type": "Seafood",
+    "geospatial": {
+      "latitude": -8.335189,
+      "longitude": 115.653103,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": 1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:30 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 271,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "seafood_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "seafood_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ51ckHX0A0i0RpzTSYu6ZhD8",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "e2bc64db-8609-4626-9736-860cb001ad6c",
+    "name": "Warung Pyramids",
+    "cuisine_type": "Italian",
+    "geospatial": {
+      "latitude": -8.334907,
+      "longitude": 115.653525,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3.6,
+      "review_count": 153,
+      "business_status": "CLOSED_TEMPORARILY",
+      "google_types": [
+        "italian_restaurant",
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "italian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJfVIW_nwA0i0RKbjxgjFDJYg",
+      "photo_ref": null,
+      "address": "MM83+2CJ, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "156bc96f-830d-474b-85fb-c3708e1dbfb7",
+    "name": "Warung chez made",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.335504,
+      "longitude": 115.652121,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 11:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 118,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJu5GcWAAB0i0RcyPXSMnHgQg",
+      "photo_ref": null,
+      "address": "MM72+QRX, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "815c8fce-10f0-48fb-bb2c-2e76dc468550",
+    "name": "Alam Bali Cafe Amed",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.335195,
+      "longitude": 115.652721,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 29,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ732XLxEB0i0RniN0HZX31pc",
+      "photo_ref": null,
+      "address": "Jl. Ketut Natih, Br. Dinas Lebah, Desa Purwakerthi, Purwakerti, Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "295fe38e-babe-4d36-a031-3f310afed96c",
+    "name": "Oasis Restaurant",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.335648,
+      "longitude": 115.651458,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:15 AM – 9:30 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 24,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJSdutZ7QB0i0RoYG2YNK0KXI",
+      "photo_ref": null,
+      "address": "MM72+PHW, Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "fb33a26d-92d1-41d7-8a67-5d3533fbf48d",
+    "name": "ICEmazing ROLLS",
+    "cuisine_type": "Dessert",
+    "geospatial": {
+      "latitude": -8.33517,
+      "longitude": 115.651974,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "ice_cream_shop",
+        "dessert_shop",
+        "confectionery",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "ice_cream_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJU9OeZnsB0i0RGpEzivHWYqQ",
+      "photo_ref": null,
+      "address": "Jl. I Ketut Natih, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "657bf0a8-0b68-407b-83e2-d464db82d812",
+    "name": "Warung Sridana",
+    "cuisine_type": "Seafood",
+    "geospatial": {
+      "latitude": -8.335691,
+      "longitude": 115.650669,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": 1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 162,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "seafood_restaurant",
+        "breakfast_restaurant",
+        "vegetarian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "seafood_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ89M80mIA0i0R3QE-6vsLR9Y",
+      "photo_ref": null,
+      "address": "Jl. Raya Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "0b82439b-c6ca-46c2-953d-1e21bebd554c",
+    "name": "Mejore Restaurant",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.335409,
+      "longitude": 115.651658,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 2.9,
+      "review_count": 20,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ4R91cAAB0i0Ra1NICnyJxeA",
+      "photo_ref": null,
+      "address": "Mejore Beach Hotel, Amed, Purwakerti, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:05+0000"
+    }
+  },
+  {
+    "poi_id": "a77d6812-2a13-4b4e-8298-2e93076baabb",
+    "name": "WBM",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.317986,
+      "longitude": 115.586257,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJHXDun3MB0i0RRHiWlQtJYzQ",
+      "photo_ref": null,
+      "address": "MHJP+RG2, Tulamben, Kubu, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:31:55+0000"
+    }
+  },
+  {
+    "poi_id": "2ac23ec6-fb50-4f94-98d1-a8c537822c0e",
+    "name": "Mabes oleng-endeng",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.3251,
+      "longitude": 115.616248,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_63hDsgB0i0RLk4XtimZni0",
+      "photo_ref": null,
+      "address": "Unnamed Road, MJF8+XF9, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:14+0000"
+    }
+  },
+  {
+    "poi_id": "b5f20557-2ff1-4f99-9051-b3bc61977d58",
+    "name": "Wr.Bakso Peby",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.322182,
+      "longitude": 115.618893,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3.5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJwQvHnsUB0i0RXH-tNCexv_4",
+      "photo_ref": null,
+      "address": "MJH9+4HC, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:14+0000"
+    }
+  },
+  {
+    "poi_id": "f7a835f8-f08e-4f7a-92ff-be37eb97488e",
+    "name": "bali 465",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.322613,
+      "longitude": 115.618623,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJxWB0Bq4B0i0R-NHd-OCOA_s",
+      "photo_ref": null,
+      "address": "MJG9+XC5, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:14+0000"
+    }
+  },
+  {
+    "poi_id": "a2944770-c114-44cf-b5d7-635df6ed8155",
+    "name": "Wr. Makan Dek Anik Merita",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.319173,
+      "longitude": 115.616637,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 5:00 AM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "brunch_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "brunch_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJJb7DMAAB0i0RHIbWJpzuf4E",
+      "photo_ref": null,
+      "address": "MJJ8+9J5, Jalan Amlapura, Singaraja, Kec. Kubu, Kabupaten Karangasem, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:14+0000"
+    }
+  },
+  {
+    "poi_id": "1a5f3d82-8300-48b8-bc2a-5ff2fe5c2318",
+    "name": "Rumah Makan Samiriang Merit",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.322842,
+      "longitude": 115.618791,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ5TZKr0sA0i0Rms1QcxcArTo",
+      "photo_ref": null,
+      "address": "MJG9+VG7, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:14+0000"
+    }
+  },
+  {
+    "poi_id": "44e150b9-c49e-482a-88a8-47a819547927",
+    "name": "Warung Sami Liang",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.322851,
+      "longitude": 115.618782,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJlfFLr0sA0i0RaeSOK_0N1V8",
+      "photo_ref": null,
+      "address": "MJG9+VG3, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:14+0000"
+    }
+  },
+  {
+    "poi_id": "18f7a56f-c301-4605-881b-571094f674f8",
+    "name": "Balila Beach Resort",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.326118,
+      "longitude": 115.630835,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 191,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "resort_hotel",
+        "hotel",
+        "spa",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "resort_hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJUVHRUEQA0i0RZueCSIDfS7s",
+      "photo_ref": null,
+      "address": "MJFJ+H92, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:27+0000"
+    }
+  },
+  {
+    "poi_id": "718c30df-a52c-40ba-8010-d0bdd00e1c3c",
+    "name": "Seeds Restaurant",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.326119,
+      "longitude": 115.630834,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJK9L4fckB0i0RGWABTJtpxYI",
+      "photo_ref": null,
+      "address": "MJFJ+H84, Laba Sari, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:27+0000"
+    }
+  },
+  {
+    "poi_id": "5671d5c1-9158-4e96-92e8-ca7a48074df5",
+    "name": "warung sela sela",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.325436,
+      "longitude": 115.630783,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJP9SLkxUB0i0RKgNd6aOWao0",
+      "photo_ref": null,
+      "address": "Pantai Bebayu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T15:32:27+0000"
+    }
   }
 ]
