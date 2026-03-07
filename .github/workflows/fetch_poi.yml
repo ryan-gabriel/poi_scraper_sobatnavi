@@ -1,27 +1,26 @@
 name: Fetch Bali POI Data
 
 # ─────────────────────────────────────────────────────────────────────────────
-# SCHEDULE RATIONALE
+# SCHEDULE RATIONALE (Updated for 90 min interval)
 # ─────────────────────────────────────────────────────────────────────────────
 # Grid: 2048 points × 3 API calls = ~6144 total calls
 # Batch: 30 points/run = 90 API calls/run ≈ 5-10 min runtime
 # Runs needed: 2048/30 = ~69 runs
-# Schedule: every 30 min = 48 runs/day → finishes in ~1.5 days
+# Schedule: every 90 min = 16 runs/day → finishes in ~4.3 days
 #
 # GitHub Free Tier:
-#   - 2000 min/month (private) or 3000 min/month (public)
-#   - 69 runs × 10 min = ~690 min → well within limits
-#   - Max job runtime: 6 hours (we use ~10 min)
+#   - 69 runs × 10 min = ~690 min → well within limits (2000-3000 min/mo)
 #
 # Google Places API (Free $200 credit):
-#   - Nearby Search Basic: ~$32/1000 calls
 #   - 6144 calls × $0.032 = ~$197 → fits in free tier
 # ─────────────────────────────────────────────────────────────────────────────
 
 on:
   schedule:
-    # Every 30 minutes — adjust if hitting limits
-    - cron: '*/45 * * * *'
+    # Baris 1: Jam genap di menit ke-0 (00:00, 03:00, dst)
+    - cron: '0 0,3,6,9,12,15,18,21 * * *'
+    # Baris 2: Jam ganjil di menit ke-30 (01:30, 04:30, dst)
+    - cron: '30 1,4,7,10,13,16,19,22 * * *'
 
   # Allow manual trigger from GitHub UI
   workflow_dispatch:
@@ -66,7 +65,7 @@ jobs:
           git add output/
           if git diff --staged --quiet; then
             echo "changed=false" >> $GITHUB_OUTPUT
-            echo "ℹ️  No new data — skipping commit."
+            echo "ℹ️ No new data — skipping commit."
           else
             echo "changed=true" >> $GITHUB_OUTPUT
             echo "📦 New data detected."
@@ -88,16 +87,17 @@ jobs:
             echo "📊 Checkpoint status:"
             python -c "
           import json
-          with open('output/.fetch_checkpoint.json') as f:
-              cp = json.load(f)
-          idx = cp.get('last_processed_index', -1)
-          total_records = sum(len(r) for r in cp.get('results', {}).values())
-          print(f'  Last index: {idx}/2047')
-          print(f'  Progress: {((idx+1)/2048*100):.1f}%')
-          print(f'  Records: {total_records}')
-          for ns, records in cp.get('results', {}).items():
-              print(f'    {ns}: {len(records)}')
+          try:
+              with open('output/.fetch_checkpoint.json') as f:
+                  cp = json.load(f)
+              idx = cp.get('last_processed_index', -1)
+              total_records = sum(len(r) for r in cp.get('results', {}).values())
+              print(f'  Last index: {idx}/2047')
+              print(f'  Progress: {((idx+1)/2048*100):.1f}%')
+              print(f'  Records: {total_records}')
+          except Exception as e:
+              print(f'  Error reading checkpoint: {e}')
           "
           else
-            echo "ℹ️  No checkpoint found (fresh start or completed)."
+            echo "ℹ️ No checkpoint found (fresh start or completed)."
           fi
