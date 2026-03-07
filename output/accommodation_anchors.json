@@ -23166,5 +23166,3384 @@
       "region_density": "low",
       "fetched_at": "2026-03-07T19:45:05+0000"
     }
+  },
+  {
+    "hotel_id": "8b75eaea-b90c-4faf-bd3a-1cb95b74f7bd",
+    "identity": {
+      "name": "Kalinggha",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.293553,
+      "longitude": 115.171926,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 12,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "inn",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "inn"
+    },
+    "_meta": {
+      "google_place_id": "ChIJA5pZPZyJ0S0R8yzfMz5sU_s",
+      "photo_ref": "places/ChIJA5pZPZyJ0S0R8yzfMz5sU_s/photos/ATCDNfXGiVnn9Nsq3vZzDasQgOk5GesAYTaeQ9b3GCzagyKp5iitcBwfr0bMlaORFdNUAfa7jo0QDKEa4TotmrlyIWGHBSYm_g13zCop8vFO9XaYa9TPOyovgErRjAKMuCrG2TnMpZEsF_5vXW63imq5jhOxL9Aynj9FLrO4xxA7fyPRDgKOJ6BLfhD8Gysmacmc9XA1pd2tGK8FfGwL7GcRXRPTvaJjwLz-GgSxrRwoYSOVBfw_Mq_445xGgXaEzbqitwFBQIDFUlLOlDjgb-HcGkdLjEAv2Abea275Yqg-yMHKnW71b4A3-9GmBraVEDSkckPnYvoo5tdaiYehyzC-lGayV6yNprfASYkGzDnwTM4pI0aGpLFgwKqcPRzx0QCzGDrRzz3_tqD0OWZ1W3Jv6n5rh64Db-EJxIfcKK03_F2fmUY",
+      "address": "P54C+HQF, Jl. Baturiti Bedugul, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:22+0000"
+    }
+  },
+  {
+    "hotel_id": "26c86823-725c-4e0b-a583-82fc5c21d304",
+    "identity": {
+      "name": "Ben Verdiaz Homestay",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.292714,
+      "longitude": 115.169933,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJveqUi56J0S0Rkll8zI_v-Nw",
+      "photo_ref": "places/ChIJveqUi56J0S0Rkll8zI_v-Nw/photos/ATCDNfWp46SzVACj1sqoVLoRcedoXJVfOU7GTyBAvWntoPV9F5wMtWuTTbyXWJpN4ewy-JD5w87TWe3iH9nBXJxoHK_mCzNepQ1b7qWy4iqXJ0KH1o_-ErGpJWp4cTov4e6tDXccx6ckb5HDRJhxcVDDscOUm2hwjkNw1zpUaG1TnvU8S-pNsQaQSbrG0lMcP7guWrF3FuSPLZDdzXHM5zlYCW6I96WfasAGxHi4Ku0wHppIxm-0Caa0ZSNovjpsFWgJQ_A7ryoobIY_ro9Yx0w7gLnjAjvbJ5w9uX9WAgrfEh2DwteWM66tk_UiPj7w3wwk-7wdqxNtYu78T8I3hoqCrtEjzQUv4PUqKIhyj81-uUm-9BASrZj5FzjfQoXmOojzdOrXSYR_XqNRB8pRVsZM6djVX3DiqOaZ9OXdELzSCG31",
+      "address": "P549+WX7, Batunya, Baturiti, Tabanan Regency, Bali 82161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:22+0000"
+    }
+  },
+  {
+    "hotel_id": "46df4cbb-261b-456f-9cb2-82b18d5f812b",
+    "identity": {
+      "name": "Rumah",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.292107,
+      "longitude": 115.170191,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJj38SPwCJ0S0R4rJFDgNYqVc",
+      "photo_ref": null,
+      "address": "P55C+534, Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:22+0000"
+    }
+  },
+  {
+    "hotel_id": "34db3d0c-5a78-42bb-a9dc-61f8b2456c92",
+    "identity": {
+      "name": "Green Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.293345,
+      "longitude": 115.172027,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJZ-DzPJyJ0S0RejKBgbsSVcQ",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:22+0000"
+    }
+  },
+  {
+    "hotel_id": "2a7945d0-817e-4b92-94da-667b38aacba9",
+    "identity": {
+      "name": "Заброшен Отель",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.29839,
+      "longitude": 115.17633,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 82,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJBR-Lt5qJ0S0RcrxaHaq8-BM",
+      "photo_ref": "places/ChIJBR-Lt5qJ0S0RcrxaHaq8-BM/photos/ATCDNfXgVmL9ILFqqM8tLy9WDm0tLYvPIgKazy1Sjr-XqG5Zv7rge4MpMngRTlBt4O1b657FPvkYBHpa5ivL0KCb3Mrb5SAXfXkdJBSRmwiKT7tTPrBYSnfEkmR27_BOvMazwo6u0z_ZUA8KS9DmCT3ddBIPJ22bDnk5JBXNWDA2jynfcmTsSd6WldHbNkJlCkvMa3_hIZCGsmUXDtCQor5Jtxcw9w2HOcazlvIPtuUao_TQO6KFqqeWWq8sjYqKkRrtMknPAIIJIgS4lnEN0gzqUpGAlx0mfpmOsv4Jc2L_5ieiJ0ZO4LPxsbaY_1Km0MCGQty4kJvwT1EBCFpaZpmH61y7bdrOdnIWXvk-Dv2ySFUnb2wnF6pDBoOGTMhtg7IEXU-ngpGSJs1I3OUAhkUB2Q8jxzpWOaese7ZGzzbX_6oVb84",
+      "address": "No., Jl. Baturiti Bedugul No.88, Batunya, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:28+0000"
+    }
+  },
+  {
+    "hotel_id": "0ee031f8-71ab-4b48-9c86-6aff9c32a464",
+    "identity": {
+      "name": "Pondok Kebun Gunung",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.29568,
+      "longitude": 115.174995,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 30,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJr6OEQQCJ0S0RkbXXC2uTJSk",
+      "photo_ref": "places/ChIJr6OEQQCJ0S0RkbXXC2uTJSk/photos/ATCDNfUCJFK1YxcZNP0VQl9ZBQhHU70TOE_G2pIsdrPNjRS9-8V1FC76f5b93eAIVO1fEamRqRNBlLgr85K0HqgTvxmgJN1rYM_DJWtZw4O87ZQZ_vz02iaFoBZd2WluhoVqMBqEwP4nYJHNuSZfco2Fm0O6Xe694EWEDaAS3yyJ_3YdMSXUtSs4p6ABhv8teDOLB8yG5XjrKTFliDi1HVgTO3S1rskI9mv7LxKW4TDjYzKbHSUvaFAIcZOQFULXHojhKNjI4TIRqKMUlwg-XbSlRbjhmTWnkdtYKl8D4VPteJRidl_-yQF4YzYFIIb-_MmJ33tnPzjd8HsKhhvAB9UIfpBdxZvvGwKLbL4-ZUjcwEZXdXwmzgmoV1sun8WqMKsFC6RNkZQR2zA0ZTDrvuFYq86iMS3i-yXXQtfd5sXet0c79Y4",
+      "address": "Jl. Baturiti Bedugul, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:28+0000"
+    }
+  },
+  {
+    "hotel_id": "6b636e15-d914-48ad-8d00-3fb1a7862c94",
+    "identity": {
+      "name": "Rumah yoyo",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.295738,
+      "longitude": 115.175206,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ6QM2jgeJ0S0RJXJGq1Fuu2g",
+      "photo_ref": null,
+      "address": "Jl. Baturiti Bedugul No.21, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:28+0000"
+    }
+  },
+  {
+    "hotel_id": "36086d6f-054d-47b9-9bb7-da07d6b47947",
+    "identity": {
+      "name": "Baturiti view hill",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.294564,
+      "longitude": 115.172934,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJL8vlgDKJ0S0RO9CzF0p98qU",
+      "photo_ref": "places/ChIJL8vlgDKJ0S0RO9CzF0p98qU/photos/ATCDNfUjEKKxcrdDe6g8iXNQVGsA3I7WlWw3zEoN5oQu71V5ilHEyFr2eO4Vu7TAVo5ePtN3Sy1U4k2jGKgpEqxMIxsVBcFyUstvYSQpONmMRv0FwUN5sosbW0Gb04VXhVZOi5du9LdxkmBO8w1nfal2AD5wtsAZaJSMQ92JleDSJc13s_98M6qKqBHHK58lkNd9QFYLz2WOVBKTTUZutTn8I0jBwMECgDeZBI6P68cmCiZ2WC0vFESjxrZZQyT0vNjf_xkIzZGA02bni5kYnZfm0f-GqIBXuHJ6vCHC9KEqXOSeBITG6d6kgO9FZTrBVDpv9Pr-ZyoM18AWOOGTLjUfayBtnbwng_yWTYXkyYk87GzLlv7lBOYeFhzTzz35xOrgBQg6nOMV7Fk7dPWdGUIYUHcIn1IJs7M_BDdDSoQ3Jw",
+      "address": "P54F+55F, Batunya, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:28+0000"
+    }
+  },
+  {
+    "hotel_id": "8db77001-170f-4a2b-b807-2ce0087c92dd",
+    "identity": {
+      "name": "D\" Pondok Dangin",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.293949,
+      "longitude": 115.176621,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_7VsE-KJ0S0RfKvDJ-qb5Vk",
+      "photo_ref": "places/ChIJ_7VsE-KJ0S0RfKvDJ-qb5Vk/photos/ATCDNfXC6122N_uB1j_B6qMKPhAHZARIERcpFlaKpL6yClZoiEcIWIhb-HJLX1k4_mmeR-OVJ4Qq4oWBoIWQlbaokVtyki3lHNjOANo19BXkGzPOUY4p8Nw3bx00SZNXpLMdrZwbwRhC7zRj4TOoSO4w3E25Eup_xkjK1cIaTzkZkFvNFffEN4spRo6mOC3HhysUMNwqpX9DOFbXqV_MiL5lfyZPz0ErfwPp-azZOhbNtdAgra0Nyk1HbMUDl5mL4F-4cUAThi5T-1DjLXhOJw8-oJVQTp7wdft6H-5JTi4S3dTQRA",
+      "address": "Jl. Baturiti Bedugul No.18, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:28+0000"
+    }
+  },
+  {
+    "hotel_id": "33052913-7724-4d30-a183-dcdd051f3865",
+    "identity": {
+      "name": "Pondok Kebun Gunung - Cottage",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.295649,
+      "longitude": 115.174988,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ0T_IbZuJ0S0RRiLTjEJQV6g",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:28+0000"
+    }
+  },
+  {
+    "hotel_id": "95537b05-537e-4d84-8e6b-8f09d680d54f",
+    "identity": {
+      "name": "Pondok Plantation, Mountain Villa Escape Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.29544,
+      "longitude": 115.174263,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJI8Ord5uJ0S0RjyxF4quZabk",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:28+0000"
+    }
+  },
+  {
+    "hotel_id": "f907e723-86c5-432c-83a7-0381c763c5d5",
+    "identity": {
+      "name": "Villa Gajah Mas Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.296799,
+      "longitude": 115.180023,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ41VVVYSJ0S0Rg8EUmSxWTWc",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:28+0000"
+    }
+  },
+  {
+    "hotel_id": "3a89cadd-aa8f-4116-8689-00b19532b7e8",
+    "identity": {
+      "name": "Sangrilah",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.2968,
+      "longitude": 115.180023,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJs4eRfgCJ0S0RnhCqveqJaho",
+      "photo_ref": null,
+      "address": "P53J+72J, Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:28+0000"
+    }
+  },
+  {
+    "hotel_id": "b638b7e2-6903-440b-8640-eedb6cb6ee6b",
+    "identity": {
+      "name": "Lavender - Taman Tanda",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.294605,
+      "longitude": 115.172768,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJWbb9dJyJ0S0RUTbgEzI8vks",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:28+0000"
+    }
+  },
+  {
+    "hotel_id": "d887b141-84f1-4a5a-bada-c88eb67282f0",
+    "identity": {
+      "name": "Lavender - Taman Tanda - Three-Bedroom Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.2946,
+      "longitude": 115.17276,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJp5jsdJyJ0S0RoWz40vgx610",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:28+0000"
+    }
+  },
+  {
+    "hotel_id": "92dee324-342d-478b-84f4-519520e0a8ce",
+    "identity": {
+      "name": "Lavender - Taman Tanda",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.294488,
+      "longitude": 115.172745,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ6-CadJyJ0S0RNiBuL6kKs9U",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:28+0000"
+    }
+  },
+  {
+    "hotel_id": "67633398-80f3-4b75-baa2-5c7ae436f180",
+    "identity": {
+      "name": "Agro Puri Saron Desa Tiyingan",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.295827,
+      "longitude": 115.208365,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 47,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJjTp-FjeK0S0Rl4XcSxCYhvg",
+      "photo_ref": "places/ChIJjTp-FjeK0S0Rl4XcSxCYhvg/photos/ATCDNfW1zAFCOz_UvrpF-QCJE6z3PJLGB9Aslv5o_B4_6vzb6c9133ba6CR5aSVGRRi4Hv8Fmy0SvzjrYCrF_g81hMMxSq99AtLlP5yXzr4T9SC36f5cr-lccrX3Sjl0aIlPn1TXHtzDPrqP5i_9TXe4_qFc0faaMDnEurwLkhToWNP-3vBDbCLUUSfbJP-uw1uN9lTDTjE8UDm9WCPadZ3LC6RfS1kaD4L08nZg8jvP8KNQWN8RAvLTJ4ZEuRM0LH6I0hhXrIqkVE-yXZAk1PenmJMQ875DDL63KtVAG8zPFqvJMcPSDr8xt3BczKDZCD3EcDHJB9PJyHe4aSAf1mSI4O1c2aOFm8XdTL6dhizTweT6mZXhJN8zHbSdDsZJFoSZH_cN-dltM22aA6d04Q6_PguqWu4Q9m6wFPirnRl5zZ3K07I",
+      "address": "P635+M89, Pelaga, Petang, Badung Regency, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:48+0000"
+    }
+  },
+  {
+    "hotel_id": "aefab36e-eee5-4042-b01d-0c2f198c3d87",
+    "identity": {
+      "name": "Arismana Plaga Village",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.292858,
+      "longitude": 115.202756,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "farmstay",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "farmstay"
+    },
+    "_meta": {
+      "google_place_id": "ChIJhS7O7MCL0S0R3iNad0dFbJQ",
+      "photo_ref": null,
+      "address": "Sulangai, Petang, Badung Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:48+0000"
+    }
+  },
+  {
+    "hotel_id": "1b40a158-8da9-49b7-8f83-cbaa523157a7",
+    "identity": {
+      "name": "KYH House",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.291351,
+      "longitude": 115.212215,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJxRWMYgCL0S0RKUujk0-1nuY",
+      "photo_ref": null,
+      "address": "P656+FV4, Jl. Tiyingan, Pelaga, Kec. Petang, Kabupaten Badung, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:54+0000"
+    }
+  },
+  {
+    "hotel_id": "06044796-32bd-4b96-adfa-ed113091cbbd",
+    "identity": {
+      "name": "Pondok tiyingan",
+      "accommodation_type": "Hostel",
+      "vibe_description": [
+        "lively",
+        "hidden_gem",
+        "quiet"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.291981,
+      "longitude": 115.212156,
+      "neighborhood_cluster": "mountain_lake_zone_hostel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hostel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hostel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJTwtYklOL0S0ROqcCyp1JrXQ",
+      "photo_ref": "places/ChIJTwtYklOL0S0ROqcCyp1JrXQ/photos/ATCDNfX9sGtt_iWMPWx5_gt0aTJZXMkXR7TIWvxE5hn5vvfrvUmqf_eLAhUNa5Ve8ZTPqrzptNF-cA502wOG6Pexi_FK7LPiDeY7aviDWTQ2kl9_QYVJa-B1XUDy98h7riDE9BomepIgPsJfTGJE8Gq95MQf406HI8KaL6B994s5TegrjdMsD4c18AQ4MhbJ89YxoX6dsUTNPfbUC5aEU3nh9y6VSv-DzPXSNu31DHiQIomt3X8lyw68d2qXGPcSTNy7Pq-4B7otAOq_cWHzSu9ukFHTpVegSlI3m1krgasEuKO4kfQP_weBRO7Pzq3NDyw4IbmEqjxrmGk6K11ppO8qlwsL_Utg4hDa7r7o_sT-1al5VGai5k2xdPxX9uqSVN1ht181jtzM51BvjD7f8yHN7h7sp7G6HeHtUzDSknGrmsthpy0",
+      "address": "P656+6V2, Jl. Tiyingan, Pelaga, Kec. Petang, Kabupaten Badung, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:28:54+0000"
+    }
+  },
+  {
+    "hotel_id": "c52ef3ef-c581-431e-bf36-410518bd16cb",
+    "identity": {
+      "name": "Pelangi Homestay RedPartner",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.283018,
+      "longitude": 115.157935,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 369,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJMY8KYA6J0S0RhpkZxhxQ4hw",
+      "photo_ref": "places/ChIJMY8KYA6J0S0RhpkZxhxQ4hw/photos/ATCDNfVt-jLIrLMYa17UNkhST5b8PWSNwV8LB9BKIsteLtX40sndtQ-jeRI9favt6-ifibyyQYy6ZyX8th2hQiqG35Efoch2MRKOcuEWN9ABUGC94I6xeJVqkkQe9ECRPmYcnaE03pZ6LHKvri3bBSpv_NuavO3xsyjil-vIUh4fdFa_OHEYyNQ1ywCiJJvaUk5w5paXEhNmwZqnoon65EwopELRj87oI5D2MNZRsnT-eFT3AYZKi3K6jxAUDXGhNc-hC5jl_mQxDWnqXqtAret2JHbVh522CCBxaT4fRQWFKEGO-es9LeRA7GZ3MNNP0J91iqw54NCqScjnlQDn6ANHk6Iq2gSrmgJuugf7OjQBZpbwqjJxTW5Tn0uzjK8iviQD2md4vv9JZ7tqA_Acj-w-lalpm_CDFNodvnLIyk87vz8",
+      "address": "Jl. Baturiti Bedugul No.19, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "ceb990ee-4698-4b7d-9e0f-6ed65bdf1311",
+    "identity": {
+      "name": "Umah Lumbung Bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.28333,
+      "longitude": 115.155461,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 156,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ12IL-M2J0S0R6fA4YlLpr5A",
+      "photo_ref": "places/ChIJ12IL-M2J0S0R6fA4YlLpr5A/photos/ATCDNfXuFhyA_tzpLxMNTGYWEtSXHzIRruMctCrXI8P3gHwVb8gvZaRhd1YewYlY4mx6eJHVp5DUgdgw8mru6YH2sJU6XT_Pp-xFKXQKNRVh9yizEjgAXCfkB6FfWq7gnoiKNQ2l0ehdY4C9-8CtsTNXvFSNYQ21Srx6MAZ1z0rpEG71yzrEuk2y4UJtYM7YQo4J8vdwMTXV2IoDqYn6LGK7HFfIznSR-Bau03zH04uKWi-H5p4m2g34qwczOuXB4EZyYKsHP-tjeXJklbOpxi_V1C4MLncj5LXNIwLVLSXQfkKk4A",
+      "address": "Jln intaran, Jl. Kebun Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "4f0ee9f9-c252-4d5e-b613-813e7c8acb1e",
+    "identity": {
+      "name": "Chakra Tavern",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "lively",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.28336,
+      "longitude": 115.161879,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 181,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "inn",
+        "russian_restaurant",
+        "karaoke",
+        "night_club",
+        "lodging",
+        "food_store",
+        "store",
+        "restaurant",
+        "bar",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "inn"
+    },
+    "_meta": {
+      "google_place_id": "ChIJNTxqISyJ0S0RveCISKnxNeM",
+      "photo_ref": "places/ChIJNTxqISyJ0S0RveCISKnxNeM/photos/ATCDNfW4-m_IV0XB-gmzOHCgMhCMG3BOywTzKuaTXNxYT24evxf4fpE2vu_J9Aec-qeKO0qRurpyW-0tSXB0F9_X75KrhdVVoGx_43QAg9T1Sgqadq7C6RhQ-3kUIVIPzwe2Hn7mfIWzfgjGfEp2UKkFMLxhCkt_HoV9asXxtXNc8tXuX6oAugw75XpDk7iT5OIMT2e4l4A2ujgTswj6TSjVywLYh-CewSThdw0DQfObdMnQg1BL4iBFv_EOkrBSMV63xP7MJd1uEvRRq5G95vbN_TgQgWI850cySL-EZZBRLFWaBg",
+      "address": "Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "cfd7f5d8-04d7-43f8-904d-efb6d77c471a",
+    "identity": {
+      "name": "Hotel Melati 1",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.284006,
+      "longitude": 115.160386,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 3.8,
+      "review_count": 47,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJT_CnPgyJ0S0RZyCI7b7pWsw",
+      "photo_ref": "places/ChIJT_CnPgyJ0S0RZyCI7b7pWsw/photos/ATCDNfV5Ba0coL_-Xzj8ADCTkjenJDCP7gS6I4MKqz4tA4F00sSY2l2TN-AzwmEWIFo-qGaR2JJ9tgDkr620iRfxEein1G_9rjUtJyI3-ubBnp8horONsxepbMWGPI69Io2bG5qbWZ3l5GxTbKiEKpDwIOQrtFy6Sz_MYlaeY7jeoZgWV029hRH3kJfP6l0M4hhX77Dz7mKXkz1We62ctTTzj3cUSIvZbKi21xffl2OeSKHBd7Oe7j63YcUPix1DzUKAe5MHIrUoCSAvYviLsR4ckuotrlLdfFdz1ofxGo0lBGM",
+      "address": "Jl. Kebun Raya, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "815d8ec4-a63e-4a28-950b-8fdd94c29667",
+    "identity": {
+      "name": "Penginapan \"Citra Ayu\"",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.283535,
+      "longitude": 115.160684,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 58,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJW8X-NwyJ0S0RYJ5vOyKWS7Y",
+      "photo_ref": "places/ChIJW8X-NwyJ0S0RYJ5vOyKWS7Y/photos/ATCDNfU--P3FOvU1ehWX1nzX8o09O2g8NwebXsIYflv25V4LrJPAPiybAZR2dTm9WGUT7l0wHpxc8eX5D79GkMl5J0xGvxiXzLlDxrksQ0cL1uiX7RG7UNhyizCPwDoypK5hnbh8DI22UDc22qqthtI5Qw4RmoubpffTgV59rPFj7ujc2SnIT1KH_6g-12y1_HbP2G0GGPpwb-jlA38RA6thf8bNToFzKy4P5rquJJobtai5dOpGynMdNlC9emVO8y-MWi6mBBtMm2NnWHPwG23G1Tu25y2iUDQnRgGuXLPhAbAuA94wFrEWH4jwhXWOVETpF0FDMxwhXYFzCjl4r65N9qoZNMD1QeTZR-iVEKiyNWxHTG3Fwq4pnMMxOPG0oOabnxaTmRihkhnXd8sylZq0diRODSXaqcl3kzzLq2Nrqgg",
+      "address": "Jl. Kebun Raya No.10, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "15e67393-dc5d-4adc-b145-1d6a1ef02b42",
+    "identity": {
+      "name": "Rumah Containers",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.284285,
+      "longitude": 115.159842,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 37,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJjafrBYKJ0S0RwhzRzaRchFE",
+      "photo_ref": "places/ChIJjafrBYKJ0S0RwhzRzaRchFE/photos/ATCDNfVpqjUtDGcUoIumep3-ScgyeouG_wiE8N9u3u2iE8nmFecdkBc6DdRyYZfps02_qWhpuerPMXhQ103U4nHdaPPxrt1WXSYlqCSYMUpSTDJGjMypH-bW1rqLMnguJmdW_pYm10Gg0w90bQywVsct1FxyXz5iC5feH6W6tKYly_qEsid-zT0wJK3D9N2y8Tzzk-chQWxw5WyBg73tEUKSWWWU6lgMPg5Ij13dAUp0GfuviAqZnpdgmiUjqzimpTO0WV3jKySTHo2c2GVKzKYIxZNrnKgGmPm3Pz2F2rt_0ErtBdlgEuqlF4RBcvBcv6qgPransaJjC1-0g_tjagtdciJ-6Hs4pVAnESpVzMt0UK4oapY4aBW5kpeKzGda8W75kYJhQTl3zlfuymrJ7hicUk0gKATbKzjdERbx-tapr0Y",
+      "address": "Jl. Kebun Raya Jl. Raya Bedugul No.19, Candikuning, Bedugul, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "2fd8ae9a-10a0-43f4-94f4-8ab28d5d12a8",
+    "identity": {
+      "name": "Rosela bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.283658,
+      "longitude": 115.160552,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.2,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ3-wgjzCJ0S0Rem6m4eqvu3A",
+      "photo_ref": "places/ChIJ3-wgjzCJ0S0Rem6m4eqvu3A/photos/ATCDNfUbion-pLr56XNfanRA_LpH0dZUvtACyazFIvRM-QkItRQbLLJo4fXT27AIcXrxWU4VAL168N2z5Dt0iVoo38LEAhwAwLQckBhufXat3jL6B3SI2v7R-SwggPIYicz6rfykDy5lnxtTufZfqHcB6OGB1GjrN9fnCoz3k2Gko0-EtvJS11Xt66AcpIg8RZ_m38dyVlg5JnaaZaamuNaFnTG9upLtG5-_dUwQMu2eNwZnINZDZLm0hvU8pJzPyIzytN9Pr8CN4po1affZD3t2VDeJfIYD4r9_HbDNXMK1jmHu6PdSF09H1NjxSVs4elsnJAmPNENDwca5p2ymTJPVjk6gDAykCwLDeafsrZWSro3iyqmmcT20zEUar2O8LCd0FgLUKOYUZSDj5-fpOCcyc5ngSW8RkiOKgvShZTy1P6s",
+      "address": "P586+G6M, Jl. Kebun Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "9b1fe5a7-1a20-407a-9e4c-04a4545a917b",
+    "identity": {
+      "name": "Kost Pak Swis",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.287871,
+      "longitude": 115.159644,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 3.8,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ2eL0AhmJ0S0R9EiGTgSbd4k",
+      "photo_ref": "places/ChIJ2eL0AhmJ0S0R9EiGTgSbd4k/photos/ATCDNfUjHBjpjwG8ajJUPyc1JXazQwE_OdIWOwap00pykM9Xf0O5oBD6w52dYJ7FtbSwoy9UadZ2rFieK3u5cXLvLKEHO4hyCT9CA2OMP3lkY-Ma8a4qwiQM28uRZIMfgqa16iWAnIJx-HA2qrCMttwDItMtrr7Cea13iYJQhxws41vhdbFgED9tDjVZGn19HgaWKSJQbbBIrB6vQS-gHpIUvuo-faQTQClVu9tPoxk3swatVpYLP0kwo3juudTaPknPfgwnwMPq0LMrVXJ4WlCeRaQKPbTMC-sgS8yLAaN9H1gvFQ",
+      "address": "Br.Bukit Catu, Candikuning, Kec. Baturiti, Denpasar, Bali 80361, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "445a67b0-fc5c-4d5c-9804-0679a97df134",
+    "identity": {
+      "name": "Rumah Singgah Ohanna",
+      "accommodation_type": "Hostel",
+      "vibe_description": [
+        "lively",
+        "hidden_gem",
+        "quiet"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.282886,
+      "longitude": 115.155258,
+      "neighborhood_cluster": "mountain_lake_zone_hostel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 15,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hostel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hostel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJL_38FpSJ0S0RgR1RGqjE5g0",
+      "photo_ref": "places/ChIJL_38FpSJ0S0RgR1RGqjE5g0/photos/ATCDNfWAPdJpyLFEM6A--qQoKWyanypN_S3IFxKOPKLYwHpP3eU7DIiTXTFeCT6qttd3gdbKYzlEBP4L9PoKCEm7iiLsaS-6diOK7U5GH0NIsceBJlpaFl1-JY1O95lFDG73Hh0pUW_SZro0HKh0ucMOyBfBmV30Dl1bRP9-go-63Qp9iVBDGanCz2twn8pmzXiWuGG3yrTYxMFBcOJsDHIXR3E8S4RhmiSZh6CoQsuZTLSdDzbhNNuxEu-Mq_-uGxJi3CbNH0xACmoc2Kt-V4DJFkuAtw_bUhhw502fUlGteGxJKfJKV65Jp5lw0NaEXW2R2wu2sJYtz5Mv6BHB-JvU_aCTW1IujwVWpDXF0jAOEGui_uM_BekW_QwkR8L1uPi_PdlSBP4OAHyuv-ikpwj2Ss-SikFmNHyGsXMHzqqH3pVLHog",
+      "address": "Jl. Kebun Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "5b1baf5d-0786-4c65-8167-48158fc9d77d",
+    "identity": {
+      "name": "Umahne Ata",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.282732,
+      "longitude": 115.156614,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 11,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ40G_PrFA0i0Rn8IANu2GKYs",
+      "photo_ref": "places/ChIJ40G_PrFA0i0Rn8IANu2GKYs/photos/ATCDNfXNmiI7xivuYU0src5v-QHdJY08CxDh4ma6E5uxhqIjDmqwVVx2M1poTDDsirzbvrVIqYHwzO9XpHbfFKMR0Q7RSG1QwrchuuEc1nxwRL0N6VHIyMcFHs4ASKgu0SpmgOfS8ytY7J7U_v6cYAS03pj706TgI-k7IIZz_Ze_xtTI09kk_Kc7u1qN0J-5ObMl6mBA_WbcsSTynpJSnPBFxE71wDDIkPsN3uryhvXCXHjS4z0rfw8-TnOTZzkAudeInVGViPsjYFEAZM_jBWgPtPd3QTV-rClKQWfyvL5sHa4pbg",
+      "address": "Jl. Kebun Raya Bedugul Jl. Intaran No.kav 15, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "761ae38d-d979-44b5-9dee-76c88474328e",
+    "identity": {
+      "name": "Pondok Wisata Dahlia Indah",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.284966,
+      "longitude": 115.160322,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 3.5,
+      "review_count": 13,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJVaIQDgyJ0S0R9s33b9O2iSw",
+      "photo_ref": null,
+      "address": "Jalan Bukit Catu, P586+248, Gang Dahlia Indah, Candikuning, Baturiti, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "9da7be48-5599-4981-9be5-32a6fa0660d8",
+    "identity": {
+      "name": "SRI MESARY HOMY",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.283029,
+      "longitude": 115.156367,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJsSVU1l-J0S0R3O6060WiXIA",
+      "photo_ref": "places/ChIJsSVU1l-J0S0R3O6060WiXIA/photos/ATCDNfXBBuJvqY08ainzkWoWrx6o-COaASIVBdXrTwKuCvayvkvQ2sw0VUxvO9Er0bftx1KZBlTuy1Rwyh0jkbftZHk9ehii-MAXA_6yGS8BLM8QaHzuc01awdAbgh7qX-gFZIdT8LnROEWfG4WgW1VRW-5Y9Fl6lTQ8S5e-V_JxqHcLtZA7zhbnpC-zwY1unPMX-K0CilIZDAt2W49E-Q77MrHnNYdBm3OB5KMqj3E5KTe4wgM_3ZyPPrxl_rDL_obS4m9ydyMjAzbexrqycrJyWgjPvEpCLe0lT2R-_8qnBKsIbnEbiTlCDDoEXbaVnbfrPrarHD6LPHZ_qmkdcqqYfFjOf0cXVPgSo3YaapKFmqztawhRJXjUmUjkAjhxRicSH6nRPNhG_ycCbO7n9XV2EDYRhSSbjKs5lC6vEj0wLYKO",
+      "address": "P584+QGQ, Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "766056ae-e191-46fc-904d-441199b5c48d",
+    "identity": {
+      "name": "Rokum Jay Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.281355,
+      "longitude": 115.161046,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 7,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQzHtBUKJ0S0RH-slYtVxrSQ",
+      "photo_ref": "places/ChIJQzHtBUKJ0S0RH-slYtVxrSQ/photos/ATCDNfUU1kXJkgK-An5ywgP8LRpP-hXawpO6nvXMcQPjgpWcNlFIN6k3XaXuofeX8pSOGZcBtqd3F90g6CXyOA-TBk1xYfPjJoivnVNfm4aGoNoFFVnawNMfu5QMOlneOT0xSc9_qWgiM4wP34KJSqqRvt8LiL8zvFKfbBvAJwAusDyvhJucmN_A0Oi95JWZSdl3pkYjXUArey9aoTlGTd9ipcey2j50VJgDO3Lle-DVZJBSeO-Gsa_fafFT81UMqKTSexV4N4BFiezk0nwPGl-bMWb2ykXQTg9CTKpsunVPSw4P4sCXlYbh3ku4IitcjnOZvUrvoasQvjDKpZHI9Ev7WHLJPqsDa_Rdi1ns8PiweJcY2CQqSidvd6y7N404PIGaQw2AO1bH8togE8P8lW2SKem6pyNZbvF78al_qut0qS5M",
+      "address": "P596+FC3, Jl. Kebun Raya Gg. Rosela, Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "2d7313e2-db3d-41db-8107-8ced5bef79a8",
+    "identity": {
+      "name": "Camp Mahiera Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.282723,
+      "longitude": 115.156599,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJNWic9LGJ0S0R7XIDtdBig6U",
+      "photo_ref": null,
+      "address": "Jl. Kebun Raya Bedugul Jl. Intaran No.kav. 15, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "00cd6811-424a-48ff-aa25-867aa427eb31",
+    "identity": {
+      "name": "SARIARTHA INN",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.282281,
+      "longitude": 115.16224,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJjZcCqA2J0S0Rep7ufIjqdGs",
+      "photo_ref": "places/ChIJjZcCqA2J0S0Rep7ufIjqdGs/photos/ATCDNfUk8hsFogp1DTXDML1jHpdP7wyZEo37lchQG5qpNDfmSae9Y4h-jtjE2APCM0k9JSHlHPMZ-OvaTq2LQUKaO7Cpvj2bhl_6Zd1B0r4S1mcd6lj7ho1HWx-veuprvRKdsHPTjSIKoZZ70kbYpgF4SzI-hd5M-kq_MT6502mJtgD9ZS5MGTIHATTbMmGQ3CK-ueVf_CaWW9YWrNg-Bhn3Mzebmh7nVZmYT_pQK4PNolzhBrFm9dbVlETTKjL60Wl1PjOQt8FxcCWX26xLInyFcHqmiSSGyUQXXsldNWaIYSjIhZSDghinOM4GQHtVj6EPrLaS7qKOGybJgrSLz-2CkiM-enIpghNZNmx47eIgfm_ry26e6NAw3XJiTEmeiNooEZu2msK97e6HfRyOAkMTVRvgjrUVS5dXyLzfPpDaeNU",
+      "address": "P596+3VQ, Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "a42cd5ee-e40a-42c6-8b81-925d6b97f8d0",
+    "identity": {
+      "name": "Rumah Container Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.284275,
+      "longitude": 115.159836,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJP-KJIgyJ0S0RZp0emz2g_q8",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "ddec11f3-32a2-4062-a424-3a71bb8fb7d7",
+    "identity": {
+      "name": "Rumah Containers - Two-Bedroom House",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.28384,
+      "longitude": 115.158691,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJy_7dmg6J0S0RM8sms9qCuBE",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "02fd4b5b-ddc0-4bc1-a1aa-1baa9d41e7cf",
+    "identity": {
+      "name": "Rumah Containers Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.284416,
+      "longitude": 115.159965,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJNdI6GAyJ0S0RkMUSTzE-8uU",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "9ff6e5ab-66dd-4dde-9c76-d17af874999a",
+    "identity": {
+      "name": "rumah kayu sulawesi antique - Family Room with Garden View",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.28442,
+      "longitude": 115.160042,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJtfSFFwyJ0S0RDoaevJX5Dc8",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "1f2699f6-7d64-4c2b-8f7f-97f796e59cc9",
+    "identity": {
+      "name": "Mekar Sari Homestay",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.28418,
+      "longitude": 115.160377,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJicrYPQyJ0S0RFk3x5CHaqc8",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:33+0000"
+    }
+  },
+  {
+    "hotel_id": "5da4ffe0-5ff7-4daf-9154-84810623ddcf",
+    "identity": {
+      "name": "Strawberry Hill Hotel And Restaurant",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "lively",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.286078,
+      "longitude": 115.169043,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.2,
+      "review_count": 592,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "bar",
+        "lodging",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJTcSEQnSJ0S0RbbITXooapzQ",
+      "photo_ref": "places/ChIJTcSEQnSJ0S0RbbITXooapzQ/photos/ATCDNfXQmv-fj1MawKdVLM_JsQ2yNyRp9GC2CY_7PlgLJZp2kXu7uqC0Rug26eyROufTfpbkrwPxWjx9aBos9KuNxf54gUbLe6pP5HItoiEAVnaleUyKkg1LEsYV6WNdH4ul7-qoheG8ZElULfyR4teka4eVUrh__EqosFX2ERg5-5todY65fN9hqFLrCJACNBTensPhjKG81yUo0k3QhIyEza8XA_O1rFWy7NJcxApQKKbmTE3YgKbvCdoxBoRRFyPFZ5qoZ9fEr65NdwDQJIhCylK4SUoHylv_y0BNyBI-dVnR4Q",
+      "address": "Jl. Raya Denpasar-Singaraja No.Km. 48, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:39+0000"
+    }
+  },
+  {
+    "hotel_id": "8c9f94c5-f18b-4171-be54-a88763bf2820",
+    "identity": {
+      "name": "Pondok Kebun Sayur",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.288646,
+      "longitude": 115.16744,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 18,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJm3idIgCJ0S0RTMEgwOf91ac",
+      "photo_ref": "places/ChIJm3idIgCJ0S0RTMEgwOf91ac/photos/ATCDNfUkzUnhTEG616d6H2sKVQg_gLxM8wO0lba-dowXaWKm2XaITfMZeoDgQJcgJzswD-MxND_xzCvJ7KbX65b8lLpCiObryfaNys7GUWY9JqBgoeA78VCYqaiYL-fI0lmJrMMNcHZgekNaugNEDWkLheZiEf_z8YlIMWEfTCu3cPPVO-mYbia5_vV7Nro2tvQGPq9r4XDLnkqA6eahtKFQEKaj3m4d9JMLhAo20kj1HGHFRGmsK2IfGzd_o903BHZ68cknJyxwvw4GiFSRFtyKQL83_kcV7kt5hhdrFEXkFp1y4g",
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:39+0000"
+    }
+  },
+  {
+    "hotel_id": "45d22cdf-cc80-4a47-a232-95a54fc688dc",
+    "identity": {
+      "name": "The Adem Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.2868,
+      "longitude": 115.164085,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "spa",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJs6HG6CuJ0S0ROM2zkHtn59A",
+      "photo_ref": null,
+      "address": "P577+7JP Pura Luhur, Jl. Baturiti Bedugul, Taman Sari, Taman Tandak, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:39+0000"
+    }
+  },
+  {
+    "hotel_id": "71ff77af-f45d-421d-a0be-4d48bbec5ad9",
+    "identity": {
+      "name": "Tunjung Sari Villa Bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.284937,
+      "longitude": 115.174437,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 131,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJkYgUsdqJ0S0RIBZn-Z0q1-I",
+      "photo_ref": "places/ChIJkYgUsdqJ0S0RIBZn-Z0q1-I/photos/ATCDNfVOQao99eC01KcvZQMJ_4cxrP9OvFu6aoKgzukDPxyYsBRe_4WHVAPOvKF3L00I5XPVMQcxGPggC0mclupNx6_mhxZQFNjbQO3L13D1gXeyysL2Fr67coGQWZad32F5gAcf5PoxFMZbLIE8Thhr8dtNLjot2Ycp9DQG09v4PV1VZdrqUIVwBYvFwXT7zgmUooe66RLAK-ap_tYUPt0WjjpnRlTKJ7iuk4nDPLF8_R8pD9MEzPIERYrQt_N_fkt_zRLM9ch-ETuXKQxaSGilHX2ah9LvCdO4P90gKseaSFceng",
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:45+0000"
+    }
+  },
+  {
+    "hotel_id": "0f7abf31-7afb-4657-abdb-57d1baf12700",
+    "identity": {
+      "name": "Navalia Villa Bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.284197,
+      "longitude": 115.174678,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 77,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJxUuKx4WJ0S0RZ6BYBWxTmp4",
+      "photo_ref": "places/ChIJxUuKx4WJ0S0RZ6BYBWxTmp4/photos/ATCDNfXsqCg8kpWyVm3Mve3yG-10kLhxx4svpzaAwUIOV-l0Ons_O_iAyXfpB6yAHC4_icXnHhe-OyaWz2-pfW3-VnRJGgZLu8TjclJSqnwgRatTPinBA-HqMNrTPi51Dk4pl_RhtQgwFs8AWFJ0-vPeyoo1Mi_qDlfuU_knYNBiPGW0EKcjXBP2mYX1TIGLOnZYQXr4KGp2QqvXGI0W1U0pQzUry5d7aJzPZhnNODZQCMaNMg36TkIq-OPn0-3p6-TNXBBZjqqyTdqU5WU_kiP88N5KUlQ_S_Wrkf8U6nvAnsVQFg",
+      "address": "Jl. Puncak Mangu, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:45+0000"
+    }
+  },
+  {
+    "hotel_id": "9a6cdbcb-ada7-44d9-b9b4-62971baabed7",
+    "identity": {
+      "name": "Navalia Villa Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.284154,
+      "longitude": 115.174766,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ3yDE0XCJ0S0Rdp-kxEVVdzI",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:45+0000"
+    }
+  },
+  {
+    "hotel_id": "0fa71088-b373-469d-ad62-3b8f741e2a3b",
+    "identity": {
+      "name": "Navalia Villa Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.284154,
+      "longitude": 115.174766,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ3yDE0XCJ0S0R6zuJB01MIsI",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:45+0000"
+    }
+  },
+  {
+    "hotel_id": "e993f819-de62-492e-8339-58c2524a2a0a",
+    "identity": {
+      "name": "Navalia Villa Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.284197,
+      "longitude": 115.174675,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJuS6Z0XCJ0S0R3pzcp7FqwGI",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:45+0000"
+    }
+  },
+  {
+    "hotel_id": "51e5b05a-d836-4705-a454-e6f3f3bf34c1",
+    "identity": {
+      "name": "Tunjung Sari Villa Bedugul - Deluxe Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.28467,
+      "longitude": 115.174316,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJYWOS1HCJ0S0R2O8IjW30-Rk",
+      "photo_ref": null,
+      "address": "Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:29:45+0000"
+    }
+  },
+  {
+    "hotel_id": "2a08a338-9feb-4d62-9255-d950712236e9",
+    "identity": {
+      "name": "Bagus Agro Pelaga Resort",
+      "accommodation_type": "Resort",
+      "vibe_description": [
+        "romantic",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.284527,
+      "longitude": 115.225461,
+      "neighborhood_cluster": "mountain_lake_zone_resort",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 425,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "resort_hotel",
+        "swimming_pool",
+        "wedding_venue",
+        "farm",
+        "sports_activity_location",
+        "hotel",
+        "lodging",
+        "event_venue",
+        "health",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "resort_hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJL48FNkeK0S0RkP4vu0J0Cro",
+      "photo_ref": "places/ChIJL48FNkeK0S0RkP4vu0J0Cro/photos/ATCDNfV40B4xS9hzFAgpahKZdppo9Z3DlHbRNmOdnbvNC9UkyMdbc0e5RiwV61MbLIbjzw3IQcpCVUPg89AVIdEjBzDfLIVRsuipwM3VUBtDW9W5t5wIfFRCDyDPJTqPQgr4AKUR1UmzClMJa9ktkwrbjx1cSxY0lP100yj3GdCJH03B7UCnXSuAMsYfB6n2uOHG8C6zQU-IBuA_mF4NReyG2RUzGwR0OA2nUama2xU_rtudAX4GVvivb1f2C-DBRkbaLrhYZniYT25fe-XmBuKkAG8YeUJIx5QiQQA756_BfLpEmQ",
+      "address": "Jl. Raya Pura Pucak Mangu, Pelaga, Kec. Petang, Kabupaten Badung, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:18+0000"
+    }
+  },
+  {
+    "hotel_id": "1b1887b9-94a5-4454-8478-846a620b1885",
+    "identity": {
+      "name": "Pondok Agro",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.2854,
+      "longitude": 115.225112,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJw-ybcgCL0S0RpJhUZ6X3DH0",
+      "photo_ref": "places/ChIJw-ybcgCL0S0RpJhUZ6X3DH0/photos/ATCDNfXQUZHHAIbLCn6dzV7TdKsy-v-xQYM2dsnpSCwvzYrrw-dUqD9J2aJjUvpoAvJ8NCURwzEB9frJz1QCbs9nA0x3CuyeWsZucBnX5M1f1t7sed7-AFo4P4hZJ_CzCgYqQbxToFRQjIuf8wilk-mAIA7vSBLJWai8RIrmDWeYkb2K0WJLJhkwWM4UjSgxHvUOcxYV0AUZdoHAIZuY2On5PKP0E2csisdYO-pNadqXMkaINdHvlkRWRVG9OVfkUMqGpyBnCOp2GjYolEwcIilCPOKR4hi6lTEFJO_Xw49e5vHFNKfDPi7BbRtaLDk3cCgvfzf2E1XpyyRMZUnAVIkZnjF86nrA0kC9uG2DGEoX27sClxixa5UctSl1LE0l9_qEjPZNNb2TV1XcW5xjklEpNgPNOshsUwhZfLpsaUok3N5rVCvuKtIbnubsm9bDJg",
+      "address": "Jl. Raya Pura Pucak Mangu, Pelaga, Kec. Petang, Kabupaten Badung, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:18+0000"
+    }
+  },
+  {
+    "hotel_id": "38e85fde-917b-49af-a549-f358a2c1d78b",
+    "identity": {
+      "name": "Vimala Villa Hidden Gem In Desa Pelage, Bali - One-Bedroom Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.28747,
+      "longitude": 115.221657,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJrdnCIE2K0S0Rqb-9hfgSG-g",
+      "photo_ref": null,
+      "address": "Pelaga, Petang, Badung Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:18+0000"
+    }
+  },
+  {
+    "hotel_id": "a8219d43-2917-4d9f-8340-1b9b6b216bb5",
+    "identity": {
+      "name": "Green Lava Glamping Bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.274577,
+      "longitude": 115.162094,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 83,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "camping_cabin",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "camping_cabin"
+    },
+    "_meta": {
+      "google_place_id": "ChIJITmoYACJ0S0RpuyABYIVs8M",
+      "photo_ref": "places/ChIJITmoYACJ0S0RpuyABYIVs8M/photos/ATCDNfV6hGxd8Uf8gbmgfMGHHHzikBEBkBNmQerzie2WDYJqotkNXBdFpJBwI9KwCe0pXZqpIuO4aiwV-Hw9XHW70jz9zIhH8lu93TDyNVx0w93zUjGh4NzeZ7kvI19NW62CMXnRm7ODxhXXuKh94IJ5q1t-Smr6lKxgmkSY2mrByACEX2GZa6Qf0UTYDI6vdRdAtzmfBcoYFKCv6NcjIgdT1LKKrAhh_huXPQHusntrz-WWR5VlpdI93JXhyWt4ohT8QtU9GIEjYZ-829zuiZe2LhGv8zaf1x4Gdm1HQt1JN2KdrTGyTPbPRFmqpbjPfR0DY6SOK14-AZyyBglvYd5xuh8lWZJRkmeSXlK6d-It1ss_DnW32icQIZFPRi8ggiwak9k2pToOsAlyHtzuDXfpoO0c4FN-uSQszuXkbF_qxw",
+      "address": "P5G6+5R9, Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "00377042-9f7a-4705-bc03-99d9e0df370c",
+    "identity": {
+      "name": "ECO Bedugul adventurer camp",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.274568,
+      "longitude": 115.161092,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 210,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "camping_cabin",
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "camping_cabin"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ3_EpF1CJ0S0RprmFtMK_I5s",
+      "photo_ref": "places/ChIJ3_EpF1CJ0S0RprmFtMK_I5s/photos/ATCDNfWk1m52ceEZmOwHQCK350692ZTOXI_GMXA4aEvnxdrszUjUWiSMzcQdDAVWdzMkQHP7ADxzSt5JiB20wuPjKCY2-m_tEZovOxihE0b2isJdlf1XsxwLgmiYomAVC55YyRKsWyzBzlApMIjBH8_017e9hrA9R3nyKk9a6uh1eWKcA53KhFjm7AOjuuYoRugQm7EVlCjxwbyLPLpqEKi3rIxIXD4TNyIodfZu5Dc0IDgbHVG3_usjLyFFku9Y8cTDr7jvy-FnyIMT239I8aLcJ-DXGLhTjDfEF8lrEIYiI5bC4g",
+      "address": "Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "6bc9833e-c1ba-4196-ae48-35096a370219",
+    "identity": {
+      "name": "Jungle adventure cabin camping",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.274567,
+      "longitude": 115.161102,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 34,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "camping_cabin",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "camping_cabin"
+    },
+    "_meta": {
+      "google_place_id": "ChIJZ6YMXkCJ0S0RM-Oj8S28n3k",
+      "photo_ref": "places/ChIJZ6YMXkCJ0S0RM-Oj8S28n3k/photos/ATCDNfU13PpLtM0ig7fcj99K2nZT7tGC5kK9U4_6EDplqYjLsi_hp1UplK9zGo2H1RFp10VQ3-20qTUek7iLi1rOt4hbEZaUaFkXt-MV5iMC07G4s7wWKuxR6sd9NlaVBInqMfCzsD-IP99c6m0AnXt3zOSV89kFNvrqD3ks03MLuqzaFjQaY8eEe15kt5jkli0AZMI6OXj5N_4zj9ChHriuqMc-Cbwc1LrUdLIoza0QWFDc-I3BFxjecppZoipkVDYtJ9D7I47xFQyhBBkrJo80Es38ackrW03-eG6WImaRhEYG4g",
+      "address": "Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "bc6d0589-e72d-4e4e-8d1f-7b94e0b2268b",
+    "identity": {
+      "name": "Villa Taman Sari Bedugoel",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.273461,
+      "longitude": 115.161208,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 11,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJTyXS_ASJ0S0Rj2AnowyU6TM",
+      "photo_ref": "places/ChIJTyXS_ASJ0S0Rj2AnowyU6TM/photos/ATCDNfVrmVZjqwCH7asrwlFuvnJ3nvzHvlYeuEhQQXSD2JVPTb6lR_BoC2SWc1VtlsXYHUqNt7h62xbBzypRLwio-cH_dPtLEOGzAaVGa1fKeNGXXHWKhCxUDqp_Ow-Wdu6cuTTrB2sCYPGNfohqTEftVZljTlrj2Cy0XXRmb55fPITCxvpjspcYl5A9ZqKmPAoxc6Izgxll-hNv0lGoDwX6Ncus-K73jLr4ueLXswRUvjhw9K9O766mxkocwYC7yBY7GUCOc8PyLMVDsaDo9sDRyTxM4G855ERxWgigHWdj-KNH1pbSb_KPYpMA9rit7qxAXPURJAyZhOxVMREfxBW_deahL-QoCV9si2V4bsMWblXyppq8OLGLc4ajN8nLUPPioDk_uMhyfLW9pqjLGxBMB0UkT7JDGrRcWP9lhixe0Gbq",
+      "address": "Unnamed Road, P5G6+JF8, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "3ff0b7f6-abec-4895-b6f7-946912a84ba0",
+    "identity": {
+      "name": "Pondok yegumi",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.279252,
+      "longitude": 115.158757,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJhZxWNgCJ0S0R496qqW1BFqg",
+      "photo_ref": "places/ChIJhZxWNgCJ0S0R496qqW1BFqg/photos/ATCDNfWihCV1bqFA99hOgGKAAM_J1LTfT4XIJn_lLFzfvlY7arRrK75cagvVKE7P6GgoFvmT2IR2ZM-CNanHMtTQ3N0OyC74NcwnizAnOElSySqUDMng0J4ACOslMImTYNMMmWx-_B8w0cUuUPrLhIlGHggYI5_YSnqTIUnu3hOBrMrLMe1dEx3ElZS3OWj_f1dC8QPZT7SV8uOxRxTYPQt3psqJ3yb5J_TyJ9c_cii5eiULn8h5W72EmPI-tauw-60V56dC5G37s_f8-Mei75ZfPfHUy0Jnvw8QJSUTUioOPXZsIg0PiXClHsjASO7MVr7LIshcNtmCZsaYn1G3ou95Y8hgG7KJtcsGe2YRb5P-jSxiO-DdHtsRaJomlFh9dc0OJFXAkWIhLC2YQErG68Pq9eNgnaYroCVnDdevnsSRLlyfGYcneNPQ_Jlo7Mt7eg",
+      "address": "P5C5+7GR, Gg. Gemitir, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "e0ca46e3-1a89-4bfa-8a71-ad39a8ef9973",
+    "identity": {
+      "name": "Bukit Mungsu Indah Hotel",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.275547,
+      "longitude": 115.159272,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJm63diw6J0S0R60R7Kh0Hz2M",
+      "photo_ref": null,
+      "address": "JL. Kebon Raya, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "d5f59941-025b-4c9c-8c0c-f548d691e82d",
+    "identity": {
+      "name": "Rumah Anis Zhafif",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.278862,
+      "longitude": 115.16182,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJOz50dwCJ0S0RtPVFtbrFUz4",
+      "photo_ref": null,
+      "address": "P5C6+HR5, Jl. Kebun Raya, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "c9446e20-bf5f-4492-b7b3-9bf5e0465c62",
+    "identity": {
+      "name": "EF House Bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.279954,
+      "longitude": 115.159191,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ8TWhCACJ0S0R7iY3zo3jCHs",
+      "photo_ref": "places/ChIJ8TWhCACJ0S0R7iY3zo3jCHs/photos/ATCDNfXdOHcf6fYQfHTkGdXQLyvEhpd61ADcI8wulrAaSglSfWEa9ypdv1pAyU_Gx1Wk1ijhrEHtO7Ci70ZiQ4f_RyidEILkSfpjjVJxBYPtE3w8CKXIO5lgfo45iNf8ry83yEAXXVCWCBWvlTEdtGwQh1hSMrQUtxdxng0q5h70XAoB5siaTGEhRX5cr4kjIslL6uNv5KTPBxMbD4tUJXqwG3tTd1wbdmEfehT32mvozkmpPhzlgE0osFXtv1N3qSjK8pLcs8OGiRvdRtCWPMCbHiLzI-1lWDxqSqjoI8K7jAyNJvfCQ-ZO-DH9_cDy4j28-YsWKZWIWc6FFRbHcbU3l7eKfvmWXsKvwr02C31zHfkMdeeoxFzSeLGStAtMuRT15IF3NLZYwl_EK1-OSFf0l8nKWcrB1yB1AfJce3d8eTA",
+      "address": "P5C5+2M8, Gg. Dahlia, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "a35aaa37-f788-4fbd-af89-b4a55636b18b",
+    "identity": {
+      "name": "Pondok Duuran Kauh Candikuning",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.277815,
+      "longitude": 115.158947,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ-Rm6fhGJ0S0RLlb7cyI6az8",
+      "photo_ref": "places/ChIJ-Rm6fhGJ0S0RLlb7cyI6az8/photos/ATCDNfVD9FMVlLVl3_7_E_dsr78aJTsffTwVgqtrTUApAXsUGj9LTmfvvWJb5piBoukuEGKFcz2uDRowIQU2uUMza71yxhpbrjdWw6SPfy-9YwdlXqbtkH0AnMe7V15h-k6yzGagq_34eZErmAJQEVkyc3Vt3Yfep3ikRLTxf4dnnkNCU7q6qh7atO7fOrNCxSEzRsD4tzlWytpmP25Z_55-XHm1_BWdZNkujfPMacnoSfLGenqmgR8paPu57A7DG40v4MGTgpaWVIHfvcWbfK10Uxq-Ik-8S1jqH8hqV1CBASecU9Mx9MH9Ggb3sHzImeZBX93urELB5ZFwEyAhAY5FCAga6Fk_vUi6jbmb4_ySBGA2iJJIucTrZ7onI-BuKMRthO3UH2ThYWmDziqmiJxFPONXUz8kEpxeuPe_HD4FYQkm",
+      "address": "P5C5+VHG, Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "b2fa91aa-4f97-4e8c-8ae4-96786bab4e36",
+    "identity": {
+      "name": "IPIAN Giri by Pramana Villas Near Wanagiri",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.27439,
+      "longitude": 115.160606,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ__H6FBSJ0S0Rmeenn55dRpM",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "74e408df-b61f-46ab-a1e8-de15f03cea29",
+    "identity": {
+      "name": "Green Lava Mountain View Cabin Bedugul by IHM - One-Bedroom Wooden Cabin with Mountain View",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.27439,
+      "longitude": 115.160622,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ2RTlFBSJ0S0RZvK8AyLangY",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "d2aeafc8-0247-43c0-8b6f-bb44e6469b8d",
+    "identity": {
+      "name": "Green Lava Cabin Bedugul - Signature Cabin",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.27432,
+      "longitude": 115.16066,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJeXMYFRSJ0S0R0fbcqkn9Mhc",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "47675f10-0c78-4563-8948-ad86f6d78ed5",
+    "identity": {
+      "name": "ECO Bedugul adventurer camp",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.27457,
+      "longitude": 115.161087,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJreIibBSJ0S0RqfjC4Wg7QVA",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "b535e84b-e4ba-47b9-a8ff-ddf86e252e01",
+    "identity": {
+      "name": "Kebun Raya View Homestay",
+      "accommodation_type": "Hostel",
+      "vibe_description": [
+        "lively",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.278816,
+      "longitude": 115.158678,
+      "neighborhood_cluster": "mountain_lake_zone_hostel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hostel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hostel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJpeN7JZKJ0S0Rptez8wb28t4",
+      "photo_ref": null,
+      "address": "Gg. Gemitir, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "3b62c6a2-d76b-408c-8dc2-08372aa9837f",
+    "identity": {
+      "name": "Cinnamon house",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.278971,
+      "longitude": 115.15859,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ2VHhhtWJ0S0ROUh0PLVIpus",
+      "photo_ref": "places/ChIJ2VHhhtWJ0S0ROUh0PLVIpus/photos/ATCDNfWxYE34JxUeZQEqX8j74EsBNE1iFI_2IC1fr2RGRStB6E1DEWX0SnudGjOAFWlK04H40XN4lFrZflBk8iiFQISPTR7MfNaldyoKZpvvpScCf4rR9VyxTCjAelxhpj0oKDhsBOUebTNbVN8HZZr8erMmp0EJIjUguaveLrNcJTI4d_OVv72k_n7u9e-ONx2n-MLn23r1Oc3PX5H1SIINLgNahmirqVxbzwrtNfPeCMFn24nFHZMzw3W1jDKvBOXPbGXDh4a7wom7spe9D4bLZg_TROQYb1K6uBKbzkXN7oxuuQ",
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali 82111, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "e152fc4f-e155-4afc-b780-d38921d71d1c",
+    "identity": {
+      "name": "Green Lava Glamping Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.274573,
+      "longitude": 115.162094,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJDRf4YhSJ0S0Rpi4L7G8eUgk",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:49+0000"
+    }
+  },
+  {
+    "hotel_id": "55d4daf8-31d1-43cf-ba97-de28746eed44",
+    "identity": {
+      "name": "Enjung Beji Resort",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.273676,
+      "longitude": 115.165436,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 241,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJi17JqECJ0S0RsIc0kKrKK8Y",
+      "photo_ref": "places/ChIJi17JqECJ0S0RsIc0kKrKK8Y/photos/ATCDNfW1n32sNB4Epvivsp8lvkv7OHZ6BqLLfHNnxP81OS3dAhEFGrLKPy_tgIGE1fIedRtgIHMIkNoVNCEcGyXmv5Wk9NQ5u8Uirw_ldCxSQmwkqlo5rzswQC5o00DMzO7CMfikRgnaasibKufo46YVD21xPuVrQiAqXTZkw-XAVhFNGKWK5p5SwDIg_TvBpa1sruXWs9i8LLJ4rsMGPMh4vEPOSi9B_BA_GY21U1XY-2hVVknUtKKtf97FkZrGjTv4oKLv3ri1zG-iQ8QhCBssgv-nscZmwqmmwjY3KvFZVmOFOg",
+      "address": "Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:56+0000"
+    }
+  },
+  {
+    "hotel_id": "668c78f1-6ecc-4ba5-be4b-908488fb36df",
+    "identity": {
+      "name": "Hotel de danau lake view",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.275281,
+      "longitude": 115.163758,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 142,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ5wH8FhWJ0S0RWpEg0srxTKQ",
+      "photo_ref": "places/ChIJ5wH8FhWJ0S0RWpEg0srxTKQ/photos/ATCDNfUua2d511zloWQ7k6sAiwrAFbIJ0R8IDi2xIByztwQQwdUuzXwTtm9Q4MxmyJc408h9C1dWVSgGRW95NSafTWFJpi5cw8BRHZQPz44bqQH643MK-57xcGfJiVvsD2ecI3oHzqPSO0nx_q21lIQ7_z5YUblOVb1enpvnCud9GoPsuhY_wvKQpnghXbHWB3ZvKNDv4Cm9wA-5z2FcQBOy4N8hAh6HFskxHR2qUN93lJqWRMPuaPHA8wd6WAWgM84j-hruQVqW3nVtok_Lt4rjr8RUfExEt2iTandoridBluNwLQ",
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:56+0000"
+    }
+  },
+  {
+    "hotel_id": "75604ae6-8780-4500-88ef-b422c22f0499",
+    "identity": {
+      "name": "Penginapan dan villane kayu manise bedugule",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.27796,
+      "longitude": 115.165175,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJfR8teJSJ0S0RjDhuu7TYeLY",
+      "photo_ref": null,
+      "address": "P5C8+R37, Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:30:56+0000"
+    }
+  },
+  {
+    "hotel_id": "71079e5d-9cd6-4ebe-b9d7-23ea491cb8d5",
+    "identity": {
+      "name": "Tanah Plaga NikTun",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.277606,
+      "longitude": 115.205607,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJMwYxzQaL0S0Rtra0kCp3vGM",
+      "photo_ref": null,
+      "address": "P6C4+X65, Pelaga, Petang, Badung Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:31:21+0000"
+    }
+  },
+  {
+    "hotel_id": "d073610d-b8e3-4d58-8579-6f7937632c32",
+    "identity": {
+      "name": "Niconico cabin",
+      "accommodation_type": "Guest House",
+      "vibe_description": [
+        "lively",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.277498,
+      "longitude": 115.206236,
+      "neighborhood_cluster": "mountain_lake_zone_guest_house",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bed_and_breakfast",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bed_and_breakfast"
+    },
+    "_meta": {
+      "google_place_id": "ChIJXTI9TgCL0S0RLd3S5aE5tOc",
+      "photo_ref": null,
+      "address": "P6C4+X65, Pelaga, Petang, Badung Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:31:21+0000"
+    }
+  },
+  {
+    "hotel_id": "2a2b9c87-7888-4556-8f29-c92b4d563e05",
+    "identity": {
+      "name": "Pondok Dangin Kayoan",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.275262,
+      "longitude": 115.211987,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJmVmCFQCL0S0R0IHIgT_6f68",
+      "photo_ref": "places/ChIJmVmCFQCL0S0R0IHIgT_6f68/photos/ATCDNfXIL36lNQog5J6HGp6b0cyzk7W2tL37iSgzSUsDMeP6XSP87fwlI9Z6u_AVFzAZgWxiAzivjxpDuX6SsP894hI3pGbKV_g9XYCdie2HU4LE5WH5P25ixh4G4OrGRj0xwV_T62Z0bxlAO_4eGdsDajChyyv7zfYrlFHmyNpkidWmOnd0TBs6VtSOyhDmevXlaOkIkigpLPOUwUimOuwV1Mv-_kc3Ir4IVmXw2mgcfZ3sEhoOK4yb9FRERLAx0vzMqzUihVJuvxjiqf8F8llG8hmb0Dckz4UbF7XhK3la189UcVucT5F2pKFtD_14xZpttYYC6kPqpoIxWtRojwiU7VzyjsCYWgppSiWalzJfjDTiIlkdRCOA6vKffoYmUQb7_4MB5To0sabd1KkWT4bQeUPp-P5pH_DLwWG5SmoinkuOpqg",
+      "address": "Jl. Dangin Kayoan Jl. Semanik No.Br, Pelaga, Kec. Petang, Kabupaten Badung, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:31:27+0000"
+    }
+  },
+  {
+    "hotel_id": "b16821a1-b5aa-4a7e-bcbd-0a8485066a12",
+    "identity": {
+      "name": "Pondok Made Diartha(Super)",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.274577,
+      "longitude": 115.211477,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJYQ1bTgCL0S0RISfk4cTJlJw",
+      "photo_ref": null,
+      "address": "Br, P6G6+5H9, Jl. Semanik, Pelaga, Kec. Petang, Kabupaten Badung, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:31:27+0000"
+    }
+  },
+  {
+    "hotel_id": "da462104-e666-4ccb-8943-4e1380c4b742",
+    "identity": {
+      "name": "Pondok I Nyoman Tomat",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.273798,
+      "longitude": 115.216827,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJyYSUeqyL0S0REqbHlc3amUw",
+      "photo_ref": "places/ChIJyYSUeqyL0S0REqbHlc3amUw/photos/ATCDNfVHdNyKBgy0fX4rl27bauOlMFGrgFmZFmUwF82yIu9wT0aGkydaRbL2W8DWImpLTpsKjDe6odpNjUEKy1vUDpv0oqjYa2V5g9ypejuBe6TX3Ja48I3wK734kT87TF4itAR6JtapDv7WPdcHe5-nRJM9FV89vKou6dId2cu12RUKs8-bLIvnRdn_Y6PYIAjxasfVU0w1O5OBNmSdnyg67V8R8piTh0GtIrCP0qzjT62bzfa3e1-XhGjxNfp3bKhtdP00pB3rNWG3GRisMGQ3bvDeGk6FpOXDcxuxg-B-No7JB77oIE30RIhORMeacdm_NgN4We2-dFAdlQCA3PH4WvdPUYF-pnGAm_MR19eqvXBXflKamMWH8445qf2vIye0nO4PnblrdtYXp7uk5NOiSJzV49DrIL88RFE4VOF49SDmwyQ",
+      "address": "Br, P6G8+FPP, Jl. Semanik, Pelaga, Kec. Petang, Kabupaten Badung, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T21:31:27+0000"
+    }
   }
 ]
