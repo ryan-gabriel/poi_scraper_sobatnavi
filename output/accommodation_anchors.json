@@ -18819,5 +18819,728 @@
       "region_density": "low",
       "fetched_at": "2026-03-07T15:32:29+0000"
     }
+  },
+  {
+    "hotel_id": "f4395ad1-7975-4683-b15c-023125c5439e",
+    "identity": {
+      "name": "RUMAH IMPIAN private villa",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.314176,
+      "longitude": 115.611015,
+      "neighborhood_cluster": "east_marine_corridor_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJeTSH-o8B0i0RXEttgCGhBDo",
+      "photo_ref": "places/ChIJeTSH-o8B0i0RXEttgCGhBDo/photos/ATCDNfXTZmnxd1bxD__QjqohMDAov601rTRavzAk0bAP-jpz05hl3U8QvsWmGOq3PEF8Nj65Jz-bMB-YeBBqJrLEtCHDxZLqJH-su_G1I2N0xfZ1EMoLvAo811IjiKEZr9yRjc8F1fgIzXlai5QDNm51s6uRY6yXfo5G9qtw_rn41fwqQAcpDGOkLyY27e3x_yF4loQfBG6h76zwy5ZQeNjQ3wUB36ZfqfW2m5Svz1-mAJGdAZIbDkkfSJ6Mc3LY0i4uMy6PbvQ4R6MPtvtFsdLrdRycThA-KaR232S-NS0hiILJfHMjbx7F4NQjn1rdjGnTpWl0lJUzMJQGd8wscoS3f69L53oYTyOU3M1oNaxhRz_LEmmtAWfB065CZlwinlcIBwRcQpPHuCAcpx0sNg72ClVwLRUfKcVAVtPrLh_iVY49dVk",
+      "address": "Unnamed Road MJP6+8CC, Datah, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:49:08+0000"
+    }
+  },
+  {
+    "hotel_id": "f8bb463c-2159-43cb-9383-7b7e2083eb46",
+    "identity": {
+      "name": "Rumah Impian Privat Villa - Two-Bedroom Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.31415,
+      "longitude": 115.611053,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9-fNaswB0i0RmhAhjQefS6k",
+      "photo_ref": null,
+      "address": "Datah, Abang, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:49:08+0000"
+    }
+  },
+  {
+    "hotel_id": "8c190c94-53bb-4275-b1db-a9e59fc957ee",
+    "identity": {
+      "name": "Private Villa 2BR,4 persons,Swimming Pool, best diving area.",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.314177,
+      "longitude": 115.610718,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJWWPFFcwB0i0RtB1GJsz7IbU",
+      "photo_ref": null,
+      "address": "Datah, Abang, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:49:08+0000"
+    }
+  },
+  {
+    "hotel_id": "c1e12eb7-408e-45f7-951e-f6301c46e58c",
+    "identity": {
+      "name": "GOA Surya Bulakan",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.314637,
+      "longitude": 115.62343,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 20,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJe3kfTxUB0i0RCqaPSMoq4ls",
+      "photo_ref": "places/ChIJe3kfTxUB0i0RCqaPSMoq4ls/photos/ATCDNfW9atvdE2i-Cnz3mCWuO25i2xm0ira1nbe0qjzVhGzbHngwadUJoqscTDJ_aNDkfCtfaUqeli2turjGG6XzI0QdyR0W5XXN4OEhYxByHOJrZ9lq1ou5yqxWT-AlA6d-J3oV15HPp1F5Sf2gWB4PZH2V1XVX7LPh6n3qz8tNiRuCsjx7gmqHBxw_jslxQ27aajRcc2GqpOCJhVXKcCViLTHYCXIksR5Ea36iqJW1N2riXr7AkLnpr8IwMifnJOe_ReFBZsdZrW3biDbgc9kA-5get8qaAs5LakiXtIBMn5ZZ4TZnO6w33VTUxKhBZw423hDIBHpYtyhzeg9uZIYAHiOaYaIOgPXEk9RqAIFU-mqPIjr9-ML_TDIZ0YrHxwE2QrZYz3B5iN0UrP3wlP6SnquCF2TjlubG30dfQS8MmQ",
+      "address": "MJPF+49V, Datah, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:49:15+0000"
+    }
+  },
+  {
+    "hotel_id": "fe753d7c-2d5b-4875-b5cf-ec17ed032ea1",
+    "identity": {
+      "name": "Batu Belah Bungalows And Restaurant",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.309389,
+      "longitude": 115.621507,
+      "neighborhood_cluster": "east_marine_corridor_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 83,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJS8ZmHl3_0S0RjErLgTeKYRA",
+      "photo_ref": "places/ChIJS8ZmHl3_0S0RjErLgTeKYRA/photos/ATCDNfX5ROG0opulAHOwD_p2aq6O_uRS4XmaWKcxC09i7qDv-XT7EkgIGEPcc9dLSQrS9QvTWn8eVGi3cMVxhY7rtcBCcIuN1WPpXK7ysMFkMhaa2ldZzZWPSsK3Ws1kRSmsd6k3ajBxsg1DMhQqnvVZ_uqm8tJ1Nsx79A44lmOH_nXWVu4ORW4s86f2AdQiMU3ZiIE9rB8Gf3f_lxQ8jUwFRti2i9lAIA0Oow2n12zW3jBUjZ5xj11vR2HCxQYgn3il88ndaz9tFQ9BvEdJJ1v7m_4qpQXR26ixzcXlmHIn7buG7YOvCGOjps6uIeVz21S-zNIMVj46LQ6e7lPsbJHy6XjcN1VM1Q9KZtWOo4uP0yYdQ6-bmC_TmZGbkDtcvWwf-fjETMuhYoObwTNFzlYKn8mFfPYNdupzcH-M8X9CfmQ",
+      "address": "Datah, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:49:15+0000"
+    }
+  },
+  {
+    "hotel_id": "01cf9ba8-fb54-4ecd-be9f-d9b195780c9c",
+    "identity": {
+      "name": "Tanah tulamben view laut",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.302219,
+      "longitude": 115.598272,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJNYhsQFIB0i0RPCJJGOJ3gvE",
+      "photo_ref": "places/ChIJNYhsQFIB0i0RPCJJGOJ3gvE/photos/ATCDNfW3Uo2hLglE9eeL4MTN4q2eXpCtrIjOSo9N7PIToFvy_ZbFuMTz71PS9XerMLPuCPWftaBt0lW2U0hDitAbjSwdscY-ANCFQnPz23oeDDpwzQlShkIAOTWzBm-BifYCG4Q6vMt2fpif6QWTQdfM3DldOXZZcHDOg0gajkgBv9TkCddqxWyYFuLEQSSiVhnbiOp1zA4jyBF-HKjw7vAGFWccpHh9U5TkT0jCg9DnyLBiw20MlVVoh8Xdfey6duDFHgzo7IZa5y9R-G5coUTr9u9mlbfb8aYgj1-OUPBGURFYGqpp4ZhFdWB94G7J9F-irw3Wx2evtl0b_KI1tM8TMPAppUBsZqsUbGm72oRKP-0i3TiHE1CDldgxEzg3dpBIM4tZmt5gHcdQG1PF6FPA3Y6cjTT3yMX18XC6fuc92A",
+      "address": "MHXX+486, Tulamben, Kubu, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:50:17+0000"
+    }
+  },
+  {
+    "hotel_id": "536d3c5c-30b0-499c-9746-2f11b56afeee",
+    "identity": {
+      "name": "Bali Dive Resort and Spa",
+      "accommodation_type": "Resort",
+      "vibe_description": [
+        "romantic",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.292806,
+      "longitude": 115.607803,
+      "neighborhood_cluster": "east_marine_corridor_resort",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 421,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "resort_hotel",
+        "hotel",
+        "sauna",
+        "public_bath",
+        "lodging",
+        "sporting_goods_store",
+        "restaurant",
+        "food",
+        "health",
+        "store",
+        "point_of_interest",
+        "spa",
+        "establishment"
+      ],
+      "primary_type": "resort_hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJpeeJSXr_0S0RtaEDX3ctcA4",
+      "photo_ref": "places/ChIJpeeJSXr_0S0RtaEDX3ctcA4/photos/ATCDNfUgfoZCewHBMCVASpoeIbSZf6gQxfT_u1nKhtjbVWtMYZNAF-2FuPtHeSULOi1_t5dkeJQrDkwj3dRTKEDgHyJlVNiwf4ogD80yZMuSVL55WgA8P_2v0V8iF4tae0YUFGeJ1ypBHvwjrfxpmymoRSh4GIOXalfnvyiNA0nBeJ5GJocIL0rIRQp7jpDzTV-5EHu1db1yGI9q9KDuOo1kI_VX0jdZu5BJpCij_VrN2qFH1HxO-OkSlimRZr7KKNJqLvB1fvZGukRDO8TMtJ3LQO9ocU60RqZxo9LnT_gY-4kZ1g",
+      "address": "Jalan Raya Amlapura-Singaraja Banjar Batudawa Kelod, Tulamben, Kec. Kubu, Kabupaten Karangasem, Bali 80853, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:51:37+0000"
+    }
+  },
+  {
+    "hotel_id": "2a48030e-4d59-44a9-8aa8-83a1fd315150",
+    "identity": {
+      "name": "Agung Resort",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.293062,
+      "longitude": 115.609059,
+      "neighborhood_cluster": "east_marine_corridor_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 25,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJGdq703v_0S0R_og_SbXC59g",
+      "photo_ref": "places/ChIJGdq703v_0S0R_og_SbXC59g/photos/ATCDNfUnHAVi6kqB_vWLzzfIQHJnPK_s6RSkHtLvTil7l34L8SadVi-s4UhfwpCNH95JB_bc0YFMcaQ1qeh_D-7SJj_N5wlCJJtusv_H1iqedKArmqDsjJcRMYObdUPspAFphfZJ1_qZ0xoWij6KkY9nNQh-HOhkv6UaMyZrkgu_xH2veePextBXvW3gjEs_RwrmlXuDtQUN0uFxAHkCjU95xxKUT45koH8nQa2ZA0GTEvtIzs3UbdU4bwxMURO4o-6mFv3tPj8eYvBzF9KZjj100SpyCbNI54tvSZyA79JXgidR3jpc8IlE8uTBtlx2k2XshvUFdFzwZwAqr1NH0hh8UCao6AMIr9dbo4lhOc0MbTXAIhLjXGCooHe01jHUmoEe_0xZTn-6Pl1mac_ek7SDKFwe4grRGEy2A84w8vWDUg",
+      "address": "PJ45+QJF, Tulamben, Kubu, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:51:37+0000"
+    }
+  },
+  {
+    "hotel_id": "f87c7e2e-f833-4186-8286-fb96482316c9",
+    "identity": {
+      "name": "Matahari Tulamben Villa",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.292898,
+      "longitude": 115.60858,
+      "neighborhood_cluster": "east_marine_corridor_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 18,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "sports_club",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJfQ061nv_0S0RDsXIuuihRdY",
+      "photo_ref": "places/ChIJfQ061nv_0S0RDsXIuuihRdY/photos/ATCDNfVOsQ8U7zpbcOIPJYjv5yenfLIflVYKzvlGNaGBdeD9_VQRgRcF78VCR3xYNvm7rYD_9DVrf_DwYxjeRKrueDYb4q17oTZ6XOYSupHHkNFnwpizClxH9I6YWd5XsU5XS3JX0VC3SkzBc4y1jWpRUFeT27elY9qow3MQDVldgbim7BECkNxxC9PHMUxFA8TsEAW7Vd6YNU-cWxBRtXP78yO4YKhvk7s_ltBBoWMY-y75fC2I4FQN--RebilF1K0Ae_0KPfSD9KpE1b8AdAzftreiDe10W9LQek5PER7kFVIMKw",
+      "address": "Tulamben, Kubu, Karangasem Regency, Bali, Indonesia, Tulamben, Kec. Kubu, Tulamben, Bali 80853, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:51:37+0000"
+    }
+  },
+  {
+    "hotel_id": "168bed52-d605-4ebb-bca8-d85e1328a8e5",
+    "identity": {
+      "name": "Pondok Winata Yana",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.29152,
+      "longitude": 115.606882,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 1,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ01YOd-r_0S0R6ck6zpwqqso",
+      "photo_ref": "places/ChIJ01YOd-r_0S0R6ck6zpwqqso/photos/ATCDNfXQTX8Ywz174sQbhwarh7yFk6sSYVetP21LSqJdQTJLz7B3LroMBfgiLtlbqdobjBwqKmS6doy1JXhx_m0u_vf9l8XOULPdzsV4KtIe95ax6ywee4RflexUI6wq02rG_7ci7B9vASre-sSixjGZJU33a5OhXwHEzfqSXh7DaCb4J6nPfAvKb3chNibWwwySoYKWIYLhkIMFBwxLRsk0XcptsD-26CwlExkWQZ3OpIhiPBb3S0xCQV6Fl6xSIlSth9eA-GG9zXAbmVYJGWyH4YbebPZEdFQLRt8D6ICUAr79tb1h8m6oTroLe-uuQbu3hxyZPDwB8wQeBtoGsUE4MYr9ydmCjGU_ufohBQ5SKCKPwngQsmI_HobFB_qQLtjLRVYPzTuDTJHFIr90MHeEIj-0SZ1UBGqadHo",
+      "address": "PJ54+9QR, Tulamben, Kubu, Karangasem Regency, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:51:37+0000"
+    }
+  },
+  {
+    "hotel_id": "3c207e97-e770-44ca-9079-dd95b1b6280d",
+    "identity": {
+      "name": "Geria Demung Basma Nadi",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.29448,
+      "longitude": 115.608545,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ6eVwp7T_0S0Rox_-TUFXroQ",
+      "photo_ref": null,
+      "address": "PJ45+6C3, Jalan, Tulamben, Kec. Kubu, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:51:37+0000"
+    }
+  },
+  {
+    "hotel_id": "8dc39b9d-0ce7-4005-982c-698775c4002e",
+    "identity": {
+      "name": "Akasa Villa Tulamben",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.29355,
+      "longitude": 115.608101,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJp8v9x3v_0S0RMFZOVHN1YG4",
+      "photo_ref": null,
+      "address": "Tulamben, Kubu, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:51:37+0000"
+    }
+  },
+  {
+    "hotel_id": "67449436-ba4a-4e98-8400-29cf2ad3bdbf",
+    "identity": {
+      "name": "Scuba Seraya Dive and Resort",
+      "accommodation_type": "Resort",
+      "vibe_description": [
+        "romantic",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.295364,
+      "longitude": 115.611159,
+      "neighborhood_cluster": "east_marine_corridor_resort",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 230,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "resort_hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJJcxifA0H0i0Rj9plIfENxNw",
+      "photo_ref": "places/ChIJJcxifA0H0i0Rj9plIfENxNw/photos/ATCDNfUS3msr1S8jNZIz89NoGLQLJ7hlrWGYptVtKsdVMozCCnSEQw8eUrkdHCPDDYLLQGdX35z76DGry0cAVWBh6Perz1QqPaX7_qKB9Uju_BZOmaamhtP-a-bt10ve89Lg1QP63anb2jfn281RSHsJppdYlOa2V_dI7EnlERfU6b8fV8nyBLn-YTh_GGFfCAxcpY3VWhbiaB1Xp4eeL4WgLtkkxrt_0RsAv0i4l8ybbGn5ngVQ_T0H31RYHA6PF1wOOadP1hRES853JWBQrOwjr3-NTVW73dvGlnr9TJmbgkLu6A",
+      "address": "Desa Tukad Dabu PJ36+VF3 Tulamben, Kubu, Tulamben, Karangasem, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:51:44+0000"
+    }
+  },
+  {
+    "hotel_id": "8829fdb5-1abc-4925-b7a8-a748623db4d0",
+    "identity": {
+      "name": "Villa Markisa",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.294946,
+      "longitude": 115.610638,
+      "neighborhood_cluster": "east_marine_corridor_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 49,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJIQ42THn_0S0Rg2uvouC4pNs",
+      "photo_ref": "places/ChIJIQ42THn_0S0Rg2uvouC4pNs/photos/ATCDNfVkK_osNgAma9j0vkb3_17U_DbhxdqsHlMnkItPdtUAfez_HO4jFo79A0FsCl0AsLxK5ob37KfCcQD1jZC_rErmLsxVGOI5x0VvUeIFyoEPTALgn56bQCiDLq5ApUQGhT8HkQCI4pUDq62Tzg8kuyKxY6U-ePfp8jsB7G2cfqj0AXyo1gNOEmsxC3WU0epW_1kx2-dzS8V1ugNtcGqd1nkQNlUM5rS_sfROAnRvrZdLvxDs3v5HayOKFTEV3IBaDlrBJmQJjPe9YbyMkfYxe2bicoGCRxkNEhO-3ZJFyRy137tH78by8HwGi02vTeXtq36ed3hI2gAYWQUEXYlemOHbM8drgC3mTRfTkKRr557b_hKA5WbMG0fBt56M_A5p-2RUELxxZbKOdjGxXW_9-v6no1mnp0gTDbWLoWIJkZV1PO4",
+      "address": "Dsn Batu Dawa Kelod, Tulamben, Kec. Kubu, Kabupaten Karangasem, Bali 80853, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:51:44+0000"
+    }
+  },
+  {
+    "hotel_id": "3f13152f-bd97-4e1d-8afb-aa7a941a6423",
+    "identity": {
+      "name": "Maisonette with ocean view",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.295312,
+      "longitude": 115.611206,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ58rjyn7_0S0R_ZJp55a9XA4",
+      "photo_ref": null,
+      "address": "Tulamben, Kubu, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:51:44+0000"
+    }
+  },
+  {
+    "hotel_id": "7aa8397a-4feb-4ab0-b8f5-f380e28ad64b",
+    "identity": {
+      "name": "Scuba Seraya Resort",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.295363,
+      "longitude": 115.611137,
+      "neighborhood_cluster": "east_marine_corridor_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJE6j1yn7_0S0Rg099OiXnAuU",
+      "photo_ref": null,
+      "address": "Tulamben, Kubu, Karangasem Regency, Bali, Indonesia",
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T16:51:44+0000"
+    }
   }
 ]

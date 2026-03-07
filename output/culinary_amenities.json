@@ -16987,5 +16987,808 @@
       "tourism_cluster": "east_marine_corridor",
       "fetched_at": "2026-03-07T15:32:27+0000"
     }
+  },
+  {
+    "poi_id": "9ee33f37-e1b9-4833-bf69-c07c1ca02022",
+    "name": "WARUNG MAKAN \"HARTA RAUH JENEK KABEH \"",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.312819,
+      "longitude": 115.615741,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJj0tpl04B0i0RfTsWUkluRsk",
+      "photo_ref": null,
+      "address": "MJP8+V7H, Jl. Kubu, Datah, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:49:06+0000"
+    }
+  },
+  {
+    "poi_id": "191e3cdf-fc3e-4d51-8e57-478cbccdbf09",
+    "name": "Warung Tipat Bu Iluh",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.316879,
+      "longitude": 115.616404,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 11:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 8,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJYwpt5qEB0i0R6ddXXmpT0sw",
+      "photo_ref": null,
+      "address": "MJM8+6HR, Jl. Kubu, Laba Sari, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:49:06+0000"
+    }
+  },
+  {
+    "poi_id": "1402dbc7-8ac8-41d6-a77b-9b54ca8bec09",
+    "name": "Kaneko Food",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.308805,
+      "longitude": 115.615029,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 7:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJcyGy-poB0i0RM12KVKNY-jU",
+      "photo_ref": null,
+      "address": "MJR8+F2C, Jl. Batu Belah, Datah, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:49:06+0000"
+    }
+  },
+  {
+    "poi_id": "32bdc326-5d30-411f-a4b2-a28c61a74a4f",
+    "name": "WARUNG ES KELAPA PAK MADE MERTA",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.31268,
+      "longitude": 115.615539,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJbXx-KzMA0i0RBx39NsvfirE",
+      "photo_ref": null,
+      "address": "Datah, Abang, Karangasem Regency, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:49:06+0000"
+    }
+  },
+  {
+    "poi_id": "f7c1c719-3833-4d55-a327-d7d2bcf2235d",
+    "name": "TulamBubu Dive Resort",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.309565,
+      "longitude": 115.621535,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 59,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "sports_activity_location",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "service"
+    },
+    "_meta": {
+      "google_place_id": "ChIJU43zAC4A0i0RXQ3iriqV3xg",
+      "photo_ref": null,
+      "address": "Jl. Batu Belah, Datah, Amlapura, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:49:13+0000"
+    }
+  },
+  {
+    "poi_id": "abf18e75-dab6-46a2-aaf2-d88e02674bde",
+    "name": "Batu Belah Bungalows And Restaurant",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.309389,
+      "longitude": 115.621507,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 83,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJS8ZmHl3_0S0RjErLgTeKYRA",
+      "photo_ref": null,
+      "address": "Datah, Abang, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:49:13+0000"
+    }
+  },
+  {
+    "poi_id": "28d2ae97-f955-410e-af02-86ef6b51153e",
+    "name": "Warung Manik Kembar 1",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.3101,
+      "longitude": 115.621327,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:30 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJL8N6PG0B0i0RCex6w_8fRUM",
+      "photo_ref": null,
+      "address": "Jalan Pantai Batubelah, Datah, Kec. Abang, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:49:13+0000"
+    }
+  },
+  {
+    "poi_id": "10cc24f0-75b9-4012-b95a-83ef32233c3f",
+    "name": "Warung Koko",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.300427,
+      "longitude": 115.61285,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:00 AM – 3:07 AM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJW9GsftUB0i0RCLrj-BX-9eI",
+      "photo_ref": null,
+      "address": "Tulamben, Kubu, Karangasem Regency, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:50:27+0000"
+    }
+  },
+  {
+    "poi_id": "d9ccc091-8819-49ad-af28-07c53a2113ea",
+    "name": "Wr Bakso Rindu",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.301457,
+      "longitude": 115.613267,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJu9OcEtUB0i0RT8p-18aaAfI",
+      "photo_ref": null,
+      "address": "MJX7+C86, Jalan, Tulamben, Kec. Kubu, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:50:27+0000"
+    }
+  },
+  {
+    "poi_id": "258c546f-a977-40b7-bbdd-1085566ecb84",
+    "name": "Warung Srimurti",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.300083,
+      "longitude": 115.613245,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 6:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJVUrVZqAB0i0RqXxMAGMZzyM",
+      "photo_ref": null,
+      "address": "MJX7+X79, Jalan, Muntig, Kec. Kubu, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:50:27+0000"
+    }
+  },
+  {
+    "poi_id": "b43a535b-fbc1-410c-9dbe-7e3563192c4e",
+    "name": "Tomblos’s Home",
+    "cuisine_type": "Bar",
+    "geospatial": {
+      "latitude": -8.301636,
+      "longitude": 115.613231,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bar"
+    },
+    "_meta": {
+      "google_place_id": "ChIJUZDC-BgB0i0R5UjobbBV_IU",
+      "photo_ref": null,
+      "address": "MJX7+87X, Jl. Kubu, Tulamben, Kec. Kubu, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:50:27+0000"
+    }
+  },
+  {
+    "poi_id": "ddaca9b0-69e8-4490-80ac-e21f87bfd018",
+    "name": "Rika Restoran",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.300737,
+      "longitude": 115.612254,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 2:00 – 11:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJD3nUgD0B0i0RgTT3wtZ71Dw",
+      "photo_ref": null,
+      "address": "MJX6+PW2, Jalan, Tulamben, Kec. Kubu, Kabupaten Karangasem, Bali 80853, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:50:27+0000"
+    }
+  },
+  {
+    "poi_id": "a6b236b9-a853-4325-af2a-1898d2872b43",
+    "name": "Bali Dive Resort and Spa",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.292806,
+      "longitude": 115.607803,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 421,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "resort_hotel",
+        "sauna",
+        "spa",
+        "hotel",
+        "public_bath",
+        "lodging",
+        "sporting_goods_store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "health",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "resort_hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJpeeJSXr_0S0RtaEDX3ctcA4",
+      "photo_ref": null,
+      "address": "Jalan Raya Amlapura-Singaraja Banjar Batudawa Kelod, Tulamben, Kec. Kubu, Kabupaten Karangasem, Bali 80853, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:51:35+0000"
+    }
+  },
+  {
+    "poi_id": "c88e0967-3c1a-4484-a4d5-08614cfa6b47",
+    "name": "CUANKI TOTOMARIO 5",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.292837,
+      "longitude": 115.607834,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJF6hsaiv_0S0ROee2xmosFRE",
+      "photo_ref": null,
+      "address": "PJ45+V48, Jalan, Tulamben, Kec. Kubu, Kabupaten Karangasem, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:51:35+0000"
+    }
+  },
+  {
+    "poi_id": "0829e8c9-0349-4fcf-9027-0f427188fdb3",
+    "name": "Warung OKTA",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.297352,
+      "longitude": 115.611125,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Closed",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 15,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ1ZLgC_3_0S0ROgSua08toIs",
+      "photo_ref": null,
+      "address": "Tulamben, Kubu, Karangasem Regency, Bali 80852, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:51:42+0000"
+    }
+  },
+  {
+    "poi_id": "bd01f036-4ee9-4433-9a58-4a521351b75b",
+    "name": "Warung Bambu Babi Guling",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.298294,
+      "longitude": 115.611806,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 6,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJg9CRxIP_0S0ReELeJXHcBtQ",
+      "photo_ref": null,
+      "address": "PJ26+MPM, Jl. Kubu, Muntig, Kec. Kubu, Kabupaten Karangasem, Bali 80853, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Amed",
+      "tourism_cluster": "east_marine_corridor",
+      "fetched_at": "2026-03-07T16:51:42+0000"
+    }
   }
 ]
