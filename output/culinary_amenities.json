@@ -17790,5 +17790,1521 @@
       "tourism_cluster": "east_marine_corridor",
       "fetched_at": "2026-03-07T16:51:42+0000"
     }
+  },
+  {
+    "poi_id": "1cd9baa3-6114-4d45-a263-a0d67ce92695",
+    "name": "Warung Makan Sekar Gading",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.339265,
+      "longitude": 115.165235,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 7:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 8,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJI3cZYF0n0i0RXfxX6B_pFiQ",
+      "photo_ref": null,
+      "address": "M568+73X, Bangli, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:07+0000"
+    }
+  },
+  {
+    "poi_id": "3a68ae3c-057a-4d8a-97a3-cfb2649056ab",
+    "name": "Wr men kewer",
+    "cuisine_type": "Bar",
+    "geospatial": {
+      "latitude": -8.339484,
+      "longitude": 115.165301,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bar"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ2-crTgAn0i0RhY-JMWRfX3c",
+      "photo_ref": null,
+      "address": "M568+73X, Bangli, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:07+0000"
+    }
+  },
+  {
+    "poi_id": "7199c59f-91b5-48a8-bfd6-c670575ff367",
+    "name": "Rekriasi Wisata",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.338842,
+      "longitude": 115.171156,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafe",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJMTsiYFsn0i0RzIFb7axg_pg",
+      "photo_ref": null,
+      "address": "M56C+FF6 Munduk andong, Angseri, Kec. Baturiti, Kabupaten Tabanan, Bali 82161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:07+0000"
+    }
+  },
+  {
+    "poi_id": "fe4ab81e-1278-4079-9f4c-bd3e094b9a14",
+    "name": "Kedai kopi",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.336621,
+      "longitude": 115.16852,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "point_of_interest",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJkfJ7cwAn0i0RIAmSlEFRrN4",
+      "photo_ref": null,
+      "address": "M579+9C2, Jl. Munduk Andong Kelod, Bangli, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:07+0000"
+    }
+  },
+  {
+    "poi_id": "3d19ece5-5fea-42cd-a2de-83a5ec0568ea",
+    "name": "G. Dukuh Sakti",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.342491,
+      "longitude": 115.166042,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJnUSgsWYn0i0RW7AAPN176o0",
+      "photo_ref": null,
+      "address": "M558+2C3, Br. Sandan, Bangli, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:07+0000"
+    }
+  },
+  {
+    "poi_id": "dbe9a650-1272-4852-ba4f-a04bf8ad663c",
+    "name": "Wr suta",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.33281,
+      "longitude": 115.17865,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJoxXNXj4n0i0R2-FqFvxQjd0",
+      "photo_ref": null,
+      "address": "M58H+VFC, Jalan, Gunung Kangin, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:40+0000"
+    }
+  },
+  {
+    "poi_id": "a97ab274-19c9-4e2f-b08f-0247a91cec8f",
+    "name": "Café Sukka Baturiti - Coffee Shop & Restaurant Bali",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.326736,
+      "longitude": 115.186105,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 1151,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "coffee_shop",
+        "cafe",
+        "point_of_interest",
+        "food_store",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJcWIhN-SJ0S0Ri6XdTLqT4I8",
+      "photo_ref": null,
+      "address": "Jl. Raya Baturiti, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "242d2f57-d3cd-42f8-9325-781b31bc9f2c",
+    "name": "Khana Khajana Bedugul (INDIAN FOOD)",
+    "cuisine_type": "Indian",
+    "geospatial": {
+      "latitude": -8.331487,
+      "longitude": 115.187474,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 261,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indian_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "indian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJl19Mr9sn0i0RrozMfWMZm98",
+      "photo_ref": null,
+      "address": "M59Q+82Q, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "1efe0051-7bf6-42b9-8770-5b24ad285fb3",
+    "name": "Bakso Eso jangkrik",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.327299,
+      "longitude": 115.18589,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": 1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 466,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJx3ZLTf6J0S0RAkUYIi9oXEU",
+      "photo_ref": null,
+      "address": "Jl. Gunung Agung No.41, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "fb3a85d2-8383-4cc9-9482-b4bd2062eace",
+    "name": "Pia Bintang Baturiti",
+    "cuisine_type": "Bakery",
+    "geospatial": {
+      "latitude": -8.326766,
+      "longitude": 115.186052,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 7:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 70,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cake_shop",
+        "bakery",
+        "manufacturer",
+        "wholesaler",
+        "point_of_interest",
+        "food_store",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "bakery"
+    },
+    "_meta": {
+      "google_place_id": "ChIJu-oQPMsg0i0R6qrd9SKUK-g",
+      "photo_ref": null,
+      "address": "Jl. Baturiti Bedugul, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "9713704c-6ed6-488e-a45a-2d8d05fecbbc",
+    "name": "Pia Cap Sinar Baturiti",
+    "cuisine_type": "Bakery",
+    "geospatial": {
+      "latitude": -8.328211,
+      "longitude": 115.185976,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:30 AM – 6:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 71,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cake_shop",
+        "bakery",
+        "manufacturer",
+        "wholesaler",
+        "point_of_interest",
+        "food_store",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "cake_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJqcP2zP-J0S0RoFBY5KZAAKc",
+      "photo_ref": null,
+      "address": "Jl. Gunung Agung No.25, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "9534e968-cb83-4558-81ac-58509c65e751",
+    "name": "Eso Baturiti Porridge & Meatballs",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.33043,
+      "longitude": 115.186492,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 6:30 AM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 25,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "indonesian_restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJJRzhDFUn0i0RNyIJuq9_woQ",
+      "photo_ref": null,
+      "address": "Baturiti, Tabanan Regency, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "39c32023-fe7f-431d-8072-23be5836387f",
+    "name": "Mie Pangsit Djoe Djoe Medan , Baturiti",
+    "cuisine_type": "Chinese",
+    "geospatial": {
+      "latitude": -8.326027,
+      "longitude": 115.185887,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 122,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "chinese_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "chinese_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJNezmYpWJ0S0RpdOiBziedys",
+      "photo_ref": null,
+      "address": "Jl. Raya Baturiti, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "e3e07639-e4a2-471b-90a1-64920c22d494",
+    "name": "ACK BATURITI",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.32557,
+      "longitude": 115.185612,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3.6,
+      "review_count": 25,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJn6Qx4f6J0S0RT7xqCMQHfj4",
+      "photo_ref": null,
+      "address": "Jalan Raya, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "455916a3-d8c7-49a4-a59e-53221bb664ad",
+    "name": "Lalapan Sunda Jawa",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.331408,
+      "longitude": 115.1869,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 42,
+      "business_status": "CLOSED_TEMPORARILY",
+      "google_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJjbp1PcAn0i0R0c605dIX9GU",
+      "photo_ref": null,
+      "address": "Jl. Raya Pacung No.Ds, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "4d3a063f-05bb-4d4b-8051-8b5c1c35af05",
+    "name": "Warung Nasi Babi Guling Pasar Baturiti",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.325602,
+      "longitude": 115.185433,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 7:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 7,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "indonesian_restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJLSZpYc2J0S0RoWTbzj3rYqo",
+      "photo_ref": null,
+      "address": "M5FP+Q53, Pasar, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "73ab0418-3cf5-4fd0-b19b-784bf3c07a90",
+    "name": "Warung sate Dan lawar kambing",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.328,
+      "longitude": 115.186,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 26,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "brunch_restaurant",
+        "diner",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "brunch_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJpc2GH7CJ0S0RSEcA58u8hbg",
+      "photo_ref": null,
+      "address": "Jl. Raya Baturiti, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "6391592b-85ab-414a-8330-fb5c54b4f621",
+    "name": "Warung Cak Man",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.325485,
+      "longitude": 115.185508,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": 2,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 226,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "diner",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJFwzP4P6J0S0RIvntAgps0Wg",
+      "photo_ref": null,
+      "address": "M5FP+R62, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "ee73bacc-16c2-46a5-8669-125bf1fea49f",
+    "name": "Lawar Bali Pacung",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.334296,
+      "longitude": 115.187039,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 43,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJgRUuYlMn0i0Rknvw-rE20vo",
+      "photo_ref": null,
+      "address": "M58P+7RM, Jl. Baturiti - Mekarsari, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "ff87a3d3-04a8-4ef3-8b1c-83c1324e8997",
+    "name": "Warung Muslim Surabaya spesial sate dan gulai kambing",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.326374,
+      "longitude": 115.18596,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3.9,
+      "review_count": 7,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJOblX5_6J0S0Rz3veV5t3UXk",
+      "photo_ref": null,
+      "address": "Jl. Raya Baturiti No.68, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "09b8e091-6d80-4201-a121-3189bf6f78f9",
+    "name": "Wr. Surya Ayam Betutu",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.330195,
+      "longitude": 115.18663,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 2:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "fast_food_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJqUBoElUn0i0RQUJH51Kpqc8",
+      "photo_ref": null,
+      "address": "Jl. Gunung Agung No.24, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "06fadc23-3719-4119-a488-c4f1f2eec300",
+    "name": "Bali 604",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.329795,
+      "longitude": 115.186594,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJP0JSadIn0i0ReKWCtHLJnBE",
+      "photo_ref": null,
+      "address": "Jl. Gunung Agung No.32, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "d1541340-d19a-480c-95d2-660d4cb9446e",
+    "name": "Cellin Cake",
+    "cuisine_type": "Bakery",
+    "geospatial": {
+      "latitude": -8.32745,
+      "longitude": 115.186362,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 6,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bakery",
+        "point_of_interest",
+        "food_store",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "bakery"
+    },
+    "_meta": {
+      "google_place_id": "ChIJf29xWQCJ0S0RZXrmvRTLA_Y",
+      "photo_ref": null,
+      "address": "Vihara dhama dana baturiti, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "f4e493c3-b825-4f05-a704-d8ca6c913847",
+    "name": "Healtycious",
+    "cuisine_type": "Dessert",
+    "geospatial": {
+      "latitude": -8.329121,
+      "longitude": 115.189384,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "ice_cream_shop",
+        "dessert_shop",
+        "confectionery",
+        "point_of_interest",
+        "food_store",
+        "food",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "ice_cream_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJmyI6GzEh0i0RW0oeEelutNY",
+      "photo_ref": null,
+      "address": "Jl. Gunung Agung No.22, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "a22e3469-e9cd-480e-a015-f0dc1272b038",
+    "name": "Nasi Kuning Bu Indah",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.325966,
+      "longitude": 115.185832,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:00 – 11:00 AM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "breakfast_restaurant",
+        "diner",
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "breakfast_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJq-S_01GJ0S0RkNLuMj_oL9o",
+      "photo_ref": null,
+      "address": "Jl. Gunung Agung, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "d6951b57-d91c-4800-b1f0-f56c3814c677",
+    "name": "APACHE BAR & CAFE",
+    "cuisine_type": "Bar",
+    "geospatial": {
+      "latitude": -8.32548,
+      "longitude": 115.185816,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:00 PM – 2:00 AM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cocktail_bar",
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cocktail_bar"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_8hIsMCJ0S0Rvc9LL6JCAMo",
+      "photo_ref": null,
+      "address": "Jl. Raya Baturiti No.68, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:46+0000"
+    }
+  },
+  {
+    "poi_id": "f20265ef-8ce6-47b0-a1e3-f29407c925f0",
+    "name": "Catu rest area",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.325612,
+      "longitude": 115.194767,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 5:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 126,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJq5xQS0CL0S0RkN8LfAqgutM",
+      "photo_ref": null,
+      "address": "Antapan, Baturiti, Tabanan Regency, Bali 92181, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:53+0000"
+    }
+  },
+  {
+    "poi_id": "b28d1aa6-51ec-43ff-95fa-22c87c273896",
+    "name": "Kedai Podemi",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.326478,
+      "longitude": 115.197998,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 9,
+      "business_status": "CLOSED_TEMPORARILY",
+      "google_types": [
+        "brunch_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "brunch_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJUwnqrECL0S0R7vK0J9Ryix0",
+      "photo_ref": null,
+      "address": "Jl. Swadaya No.21, Antapan, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:44:53+0000"
+    }
+  },
+  {
+    "poi_id": "c6fad4ae-0eff-4112-bc42-14e63baae009",
+    "name": "UMAH UNIK DAN RESTA",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.319881,
+      "longitude": 115.168902,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ1TNoJgaJ0S0R9o3mCd_1VEI",
+      "photo_ref": null,
+      "address": "M5J9+2HR, Angseri, Baturiti, Tabanan Regency, Bali 82161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:45:25+0000"
+    }
+  },
+  {
+    "poi_id": "40b29fe3-c13a-4733-a8ae-ddf99a37dee6",
+    "name": "Warung Kopi",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.322747,
+      "longitude": 115.164712,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJIS8Red2J0S0RaT5sFiElSjg",
+      "photo_ref": null,
+      "address": "M5G7+WV4, Angseri, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T18:45:25+0000"
+    }
   }
 ]
