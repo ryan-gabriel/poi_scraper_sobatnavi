@@ -26124,5 +26124,3443 @@
       "tourism_cluster": "mountain_lake_zone",
       "fetched_at": "2026-03-07T18:45:23+0000"
     }
+  },
+  {
+    "poi_id": "9db7a049-db65-4afb-babc-500ba993296b",
+    "name": "Masjid Murobithin",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.324129,
+      "longitude": 115.184802,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.7,
+      "popularity_score": 0.395
+    },
+    "operational": {
+      "opening_hours": "Monday: 4:00 AM – 12:05 PM",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 47,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "mosque",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "mosque"
+    },
+    "_meta": {
+      "google_place_id": "ChIJuSsoamuJ0S0RpzEj2U8txSo",
+      "photo_ref": "places/ChIJuSsoamuJ0S0RpzEj2U8txSo/photos/ATCDNfVrB7C10Jc0Wl86BOXQs-tPapWOpjaJLXOQMLiQmALmOiqVlq3e3MoZt-LqpsI53sQ_8hecJtOo5iOLk1LnX9-iFxJEm_FXLrtsPEZhOIvJgegqzfONReT6N9bZ4eLzEfs6L0AXWSQnHalyjCPHPcF37fyKD4xcKgnI828vVioWB4lClsBMleAXeBaeABim50J3rRIQMszkQ-owGMds9fQ2PwkAMpaPG9z83gq6RGARBpIPpkytdAXDtkdvauHfRzu_IdrUpFavEHkGIZSaOH8u7dxXJUwRL75iSY4TaWlRFRqFLTDLzn6ZjIodweVa8VTAGCt86bmmazC2SfWKIIU-ogL7UeK-44SoSTVP5sZDkvnp-SJlWe-LbzpQbYnjkZ4NAn-5QCs6jWcUgKtPA3eq3iv9WaWWXVBz81POaxxFmOs",
+      "website": null,
+      "phone": null,
+      "address": "M5GM+8WV, Unnamed Road, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:41:57+0000"
+    }
+  },
+  {
+    "poi_id": "4fe2a7f7-dd64-4f32-815f-a8a953afe08c",
+    "name": "Taman Usada Kebun Raya Bali",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.319519,
+      "longitude": 115.183886,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 4.7,
+      "popularity_score": 0.141
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 4:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJXSl3l8uJ0S0RetCz-o2HLG8",
+      "photo_ref": "places/ChIJXSl3l8uJ0S0RetCz-o2HLG8/photos/ATCDNfX2X7i8q-ps8YY4M8Cc5Z_YAMFrxA_c23-JEGhOVVOMWKd286iDyGdmYHuAn_yypI2zH9t05J4ItrA8-PW8AnsNtTJ6dplCCHTq8mbCm1DAUzH3IYGbcah7K1L1bFfN8Mkbfs_q18yVfbfOw6Mz6Snu0EZ-XeIR2arKU_LX_yHNE-yu3VSECVp3tw4_8sGQdVzEKdQMdUzE5UBI-T-jGHCfcuaHyN7uUOzzDVM8IWswF-j7DoNPtS9dAOz29tq_PeUZvg6RHmXMGKwOgO3bvQOk8KJxvi8Dlq5riviH41j_iKOHE3Z9EFRvzNylR54_4hDEfodNYIALn_qZ_8WhSdOYOEQ1-BGcYXNWs6zoANTnVXs6MONC0eIcerC7m0qU8teAmXYqpHYtK9dLgqPflCuPhyl6y6bLaLg0A181lvq-VXA",
+      "website": null,
+      "phone": "(0368) 2033211",
+      "address": "Jl. Raya Baturiti, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:41:57+0000"
+    }
+  },
+  {
+    "poi_id": "e86374b7-6e79-4bd7-a5f9-40626e4eb417",
+    "name": "Pura Anyar",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.318712,
+      "longitude": 115.183936,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJhXRuQACJ0S0RjSFdKYv6FzQ",
+      "photo_ref": "places/ChIJhXRuQACJ0S0RjSFdKYv6FzQ/photos/ATCDNfXOe9bTAeIsfNlvcr3nJPQk_n834L2a120NHrq1A3mIYvMMr7khsFwiUb5RBImm8QmPxND2ldf5raw6zDNsbrnpPWq8B8-V310fHiP_7-JarYrJLZwzG7sApKCupYqMqYs5eI6M6t6DkqnP1Zv5u43O6KxSqDzNsfIUhRXaqe10WLs4n_K_7U9JWX5TL5Op9bt4BGW61eqNHKq1RBT23EyQZnFEr7OHllPzzQbMKaPD_Ff4k5iM7ZcLwT6IZYkUVjWzsPsazBARJpK0kDpMKtrJLog4Mgjvtf-1NnRXopHO71kLYpFj0ljuWUDQfi9OczaPb0CYVzx88zCdwGrzyFSiharA25EaSK5sXvJNz4Cc6lZ2mmHplObfp-XJLLiOl7fVUEcjrYtG_TGTC1ZGkRW7_8wrKrooePyLCvLgcbyMCZA",
+      "website": null,
+      "phone": null,
+      "address": "Jl. Raya Baturiti No.10, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:41:57+0000"
+    }
+  },
+  {
+    "poi_id": "1017ceb0-c61f-41a7-9cfc-681879cdf007",
+    "name": "Taman Cyathea Kebun Raya Bali",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.319519,
+      "longitude": 115.183886,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJA5ZLecGJ0S0RqIGoKUDnYuc",
+      "photo_ref": null,
+      "website": null,
+      "phone": "(0368) 2033211",
+      "address": "M5JM+5HR, Jl. Raya Baturiti, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:41:57+0000"
+    }
+  },
+  {
+    "poi_id": "47faa06b-7e51-45a6-97d8-77ce178e55e7",
+    "name": "Pura Penataran Agung Desa Adat Baturiti",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.320292,
+      "longitude": 115.184068,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ5SD6jJiJ0S0RTY3oD2pLjCs",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5HM+VJP, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:41:57+0000"
+    }
+  },
+  {
+    "poi_id": "16f8a79b-6ada-4a7f-99fa-cb5f4d1342b1",
+    "name": "Pura Giri Putri Kebun Raya Bali",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.319518,
+      "longitude": 115.183838,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJRS6ML4OJ0S0RXXQQqCUXMtc",
+      "photo_ref": null,
+      "website": null,
+      "phone": "(0368) 2033211",
+      "address": "M5JM+5GW, Jl. Raya Baturiti, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:41:57+0000"
+    }
+  },
+  {
+    "poi_id": "07db1761-cd65-43d6-a605-641c5fac25b2",
+    "name": "Taman Aquatik Kebun Raya Bali",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.319519,
+      "longitude": 115.183886,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 6:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJI9VXghGJ0S0RZ-DA9O4YpAQ",
+      "photo_ref": null,
+      "website": null,
+      "phone": "(0368) 2033211",
+      "address": "Jl. Raya Baturiti, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:41:57+0000"
+    }
+  },
+  {
+    "poi_id": "e96f8712-9f1f-46db-88a8-0b30ce899647",
+    "name": "Pura Panti Desa Adat Baturiti",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.321187,
+      "longitude": 115.184692,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJqRG5WYOJ0S0Rt9I_h8IRvnA",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5HM+GVG, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:41:57+0000"
+    }
+  },
+  {
+    "poi_id": "129ac6d0-d6e6-4047-9942-2a626dc719ed",
+    "name": "Pura Baleagung Desa Adat Baturiti",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.321208,
+      "longitude": 115.184465,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJl86-4quJ0S0R3BqO1i2lQ7Q",
+      "photo_ref": "places/ChIJl86-4quJ0S0R3BqO1i2lQ7Q/photos/ATCDNfXVT5SP6q8A1w998ywQ1vfnrnAJGKnKuVxsJrMHYugsxR9K3xjA_ywJXSda-C493BrS1IM3tjsP4fTxvsshFXuN8Hcjhqah0A3Gl-Af5myBTt7VkYn4J1P20mGmkFhpD8l7claidPJAd9N0VK7Uh-pdWLMhUet96y06AlPfrpjdXgsV4yEbHbTjWlsQOXGECgt-YSF8rbSR7jUmeiQMdi-IwVl8l6JFk34nuJ7bmGdo_SD4B0DUSfNZQmDKWcdZto47FBcBhTGlGg7dvpVYOqcPrmwKkGp9PIcZHqvgcET073ktWh5bt1InYbZv5QuDuPm5GcdaK_O3G830SZ08ltMPGgMGi3r4XSLALUq18C0Ldw0gpynX_g8haB-DC2OtCrTq_24LjVNKsh-fyIajRo2vOJLtTSi-VhcP29j60A",
+      "website": null,
+      "phone": null,
+      "address": "M5HM+GQ8, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:41:57+0000"
+    }
+  },
+  {
+    "poi_id": "9db0bce5-dbf6-456e-9e0c-23dd612179ad",
+    "name": "gobleg",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.323655,
+      "longitude": 115.18518,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ57zRcACJ0S0RmXfk16K4_9E",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5GP+H46, Jalan Raya, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:41:57+0000"
+    }
+  },
+  {
+    "poi_id": "cc7a2192-d38f-4499-ad2a-a8d14b11d722",
+    "name": "Pura Dalem Mayungan",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.320017,
+      "longitude": 115.197867,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.0,
+      "popularity_score": 0.095
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJT9chmGiL0S0RvcMFL2ZC_tc",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5HX+X4X, Br. Mayungan Let, Antapan, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:03+0000"
+    }
+  },
+  {
+    "poi_id": "bcc9a946-b736-4871-832b-a8b738afbfb8",
+    "name": "PURA CATUSPATE DESA ADAT ABING",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.324374,
+      "longitude": 115.19366,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJeYlexjyL0S0RjBvMtqfFqI0",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5GV+7F3 br abing, Jl. Antapan, Antapan, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:03+0000"
+    }
+  },
+  {
+    "poi_id": "06a0706b-3cd6-4e6f-a56c-0484d0c093db",
+    "name": "PURA BEJI DESA ADAT ABING",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.322977,
+      "longitude": 115.194668,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJTfbIixSL0S0RwBOhtKprupA",
+      "photo_ref": null,
+      "website": null,
+      "phone": "0813-5314-4630",
+      "address": "Br abing, Antapan, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:03+0000"
+    }
+  },
+  {
+    "poi_id": "2f79f6e7-3bcd-4a68-96b1-04add191a252",
+    "name": "Pura desa lan puseh desa adat abing",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.322124,
+      "longitude": 115.194643,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ5-Z761CL0S0R1nlhle99kFo",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5HV+5V2 Br abing, Antapan, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:03+0000"
+    }
+  },
+  {
+    "poi_id": "57320121-4118-476d-b7ae-ecde6ff41f60",
+    "name": "Kolam air deras mina sari",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.318731,
+      "longitude": 115.191774,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJO8rFsEuL0S0R0yLMqz5jm9s",
+      "photo_ref": "places/ChIJO8rFsEuL0S0R0yLMqz5jm9s/photos/ATCDNfWDmogb3wYP5zdbebmp_SpknlvK0YfpzR_5h_aOTQzxrQ4ERdcdl6Mqka38TDJsY-DZZPUFUg6J8Zg1DP2TKDnIFrQe7ey7elpaXwIXvDOoHVUpcPsc9ji3AI0-hxVJl4pVRLpRT46XnBvl0FJxta8wfjXw9KpUfcSpvnkbcwiJhJ1_ksnOLYC2hb-Ow-ukIgKEj_CN7QfOiEVrlKS9yaEdzU20gzRGAg-uhmmOC8J_aLlHfXEjMW_FJkWK3RSbTIMPDmgzF2-1h-8sJXOMmdHU0FYgbmatA_e98AzUVvbSoX38TXeuXOL9oQa8mvcmWCQNuhK13rv0W62EbHpJ9plTiSqPDLcz9beMo74f9HlwUOzjmqCkvRyTNnzwYl9mEb6SWDR6b9H-P9WxhAq-7nMc0Ry2t_LSJEnJFvaoh3wx",
+      "website": null,
+      "phone": null,
+      "address": "M5JR+GP, Batunya, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:03+0000"
+    }
+  },
+  {
+    "poi_id": "d1f0f8a0-3359-413d-8be8-1b58873530a8",
+    "name": "Pura Bale Agung Desa Pakraman Abang, Desa Baturiti, Kec.Baturiti",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.307927,
+      "longitude": 115.160861,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJNe5nPoSJ0S0RgakPt1Cw0ZA",
+      "photo_ref": "places/ChIJNe5nPoSJ0S0RgakPt1Cw0ZA/photos/ATCDNfVfXD3VZJnaP8usB3Ou62t5ZAjsCqe7SS4uWRbokJTjOvf1j2hAdJixtkAE6FCK8aFJHVv881qR00o9lqP8NFtgEi1Mjp4ZlwDQDe6o5n53JzOw4xaAHeWqHKW3-bakyXjv9omwNCCsWTd8Fumpuy-ayGxaGegcJmIKUnsEZ2zXV92RP2Yew24MCQeRxX5SJ-NVBmA4tqIl06374bCbkx3Wvwm0ISCiNHuMNTyoysiMwu4rgDNEMnhJXiuiNSaxh5QidlDEgfB-ijBjig7rrBqKrduBbwMVR5CSicZKh2O9AD3wc2DEW018OsVhtqigOJRwycmyTbnFRyDoxn6uxQiCp4_tIkGFW2TnoMsOKbGWp7cWjk_ZtwUOB8-xDRZNbylYlrXoUahYv_m1BVc6wXRARUTyXg_teDTijHSeJw",
+      "website": null,
+      "phone": null,
+      "address": "M5R6+R8H, Jl. Banjar Abang, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:41+0000"
+    }
+  },
+  {
+    "poi_id": "5851abe1-7c60-499b-8c67-9437ec1730a8",
+    "name": "pura luhur pucak sarinadi",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.315811,
+      "longitude": 115.159272,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJN57he8qJ0S0RZmDYDEmByho",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5M5+MPC, Angseri, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:41+0000"
+    }
+  },
+  {
+    "poi_id": "a178289a-d09a-4dc9-a58a-878cd5f6182a",
+    "name": "sanggar seni suara murti",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.315811,
+      "longitude": 115.159272,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJR_RtBACJ0S0RlMO4sPy4hbU",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5M5+MPC, Angseri, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:41+0000"
+    }
+  },
+  {
+    "poi_id": "5dd5b121-8f97-471a-8fc5-6e11bc58ca4b",
+    "name": "ᬧᬸᬭᬤᬮᬾᬫ᭄ᬩᬜ᭄ᬚ᭄ᬭᬃᬅᬩᬂ᭟ Pura Dalem Banjar Abang",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.308402,
+      "longitude": 115.161198,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 5:00 PM",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJyVtl6cWJ0S0RzRrCOx7Y_QI",
+      "photo_ref": "places/ChIJyVtl6cWJ0S0RzRrCOx7Y_QI/photos/ATCDNfWjOJYnO-Py-AfSv8kpu8zyVR0h3XcH_DyXxN0ng6FONv2d_TqERmCvUbz-8U4wxh3Sz-fuZI11bmiPnVK4KcEIMChHh-5FPVwwr3S8zgXDoksHdtyZ4K4bHzbe_7fjysEAqFTbeIsMN7ieKAFPPBmcjaDYcMPH1qWAeILzHKiaOHEEQWWiqOXI9Btld4HxDI2qopbpgKEp5ollUP37XR_FOQf6NhbFU-iEkpwg3af4D8RB6NJwbnT6IW51DS-a8e5_FVt5eOH3PFOtdR-WTrXW-Fo8CtcYbEidd0yg-0UFyFQRrNesSYP28Y0jCGoAZQLW4BwKa0YObhQ31i0A61Fl6O13tFw5UqaMOa9usZrgkYyXvXv8CbRk_AJrUzuD3bN-Gb2zHzZc2O9vQ2slvg5HP282Il8C72SoKGC4plN1uKo",
+      "website": null,
+      "phone": "0857-9254-1955",
+      "address": "M5R6+JFP, Jl. Banjar Abang, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:41+0000"
+    }
+  },
+  {
+    "poi_id": "6be5bcdf-f7be-4f96-bf6e-6d51c312a8c2",
+    "name": "Pucak bukit puwun",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.307927,
+      "longitude": 115.160861,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJiU_-KwCJ0S0RAKc1XR3JK3o",
+      "photo_ref": "places/ChIJiU_-KwCJ0S0RAKc1XR3JK3o/photos/ATCDNfXItPyAp_7Bsvzv05nCJgoDRR5jkldXEdGo_lzn-TnWOi0B83-dn1qDSV0Pvll-p_ssIoYDO5PJ70TIqsg2XGX9d3sDnv56eU3bf6q90fSiPbmJFWykZ4d5HcNPp99Lu7PSHBUy3t8a__Yqh_X7q8ECsYbpINv3VQum63kHnCR5rAl3N1kgPvx8j6DXAaU39aCniQbcB7FgjQjKJmWtgwvj1IkV791YJhg7BhzwkGc5pDlYoOiYMUyPMy7a3zStOwAMx2ERhHUmxZs9iec8NoTp56RSvY8IwaE3ATSenAbS1OZx8pLh5jq0jVO7Ww4K-wSeJXqVwz-nSOvIE4I7DDz2sj5g1P4Y2Cq1VZTcY1A9ESurmvCfFYcsIZkIfgXaV7u4PCZusTeMURB16hRiK6E4qd-PmIGH4ZVvbn2Jag",
+      "website": null,
+      "phone": null,
+      "address": "M5R6+R8H, Abang, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:41+0000"
+    }
+  },
+  {
+    "poi_id": "d02938ca-7f25-4938-ace1-bb43218946fe",
+    "name": "Balai Banjar Baturiti Kaja",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.3112,
+      "longitude": 115.179865,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ98DJYfCJ0S0RPRA9vE8euP0",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5QH+GW9, Jl. Taman Sari, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:54+0000"
+    }
+  },
+  {
+    "poi_id": "1960f9ca-9cd3-4afe-89b2-55a5c5612e15",
+    "name": "NAPAK TILAS HERBS GARDEN",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.315035,
+      "longitude": 115.1764,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.226
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 4:00 AM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 7,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJGZhW5pmJ0S0RVXaNx8AjLZQ",
+      "photo_ref": "places/ChIJGZhW5pmJ0S0RVXaNx8AjLZQ/photos/ATCDNfXgpmlIec3mxo88nODI3sTBf212GoO_cWIMV8kJ1LVbxfOYNwuKPyqNzHs1hd7CElbWypctxeIaruOv5IaS0EqsP0-iXXmwmqfzSFb6VTCZTMOKBnwzIJ-2Jjo8OCrt89Tgp1HFWVExeBNvMckOgWTsHXPMYZC2fda23DsX1y2rUvJhum-9mbPF7xyttw8Au2VLIghNv1nN149tEXTyOxR6z9DHAQteceLH-5FZdCmjxrs0cut1S5hkzOCCYSTPFFpOI3XEw1dl2X4QjhrsLu-6g5WfhxJN23KpDm7_4LMb-NZEofW9cOouVRQgsEjSixSVEzeAOMhoRkNuGCycv7xZOYfAwwknN5QNV-0I903HGrBq8PICTU63CyVTVxUfoUs8uh2Eaiu0qBRn5gT-yK5EAHvncJ6PQ5EZbmcZkcRMv6o",
+      "website": null,
+      "phone": "0821-4745-4536",
+      "address": "M5MG+XHJ, Baturiti, Tabanan Regency, Bali 82161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:54+0000"
+    }
+  },
+  {
+    "poi_id": "4cdb65e2-1358-4b56-b664-fc56d9bd0498",
+    "name": "GKPB Jemaat \"Mawar Sharon\", Baturiti",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.308704,
+      "longitude": 115.175925,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.239
+    },
+    "operational": {
+      "opening_hours": "Monday: Closed",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 8,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "church",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "church"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_98C38CJ0S0R3SSWQYGX4Hs",
+      "photo_ref": "places/ChIJ_98C38CJ0S0R3SSWQYGX4Hs/photos/ATCDNfV7j_vAxtMB7bIkxZXf2nYZl_uJRnTyRCP8O3cIWRwXl3S_z6072kuHhV4dF1-zxrKf6hPBErWniDmOMjv1hjkXaZkEimXrxS_-VMpuwrxkZpoeustNZxwaYwM-xD9nk38Dhp_cFyQoJFZ0GNDc1JLP1irXG94Pf-bMBbAw6zMR-7-0HwKJKvqzorAp9oWxXtiB2_ft2YOW5VrwtBcM_ASZXNXOcXXo-Ky3wYl_Ji-S7MbQuu7M4uqzU_nEXhh-VAsvduJvauqEo_bzNOx1j59WJxfLv8IUtZqJ5Ks0FnD2n4EXrh1LGkXrDgayf76_0MY2zpqR6O1GV8o-4VOJ45WlBTJCgkEjkF6VZJw9Cvc2UHIT_rZCR8j1bATKTMyNsU8blOcRnuYf2WbtCcfIsGstixqwpnoJNHTKc2GRknUK",
+      "website": null,
+      "phone": "0812-3614-9509",
+      "address": "M5RG+G97, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:54+0000"
+    }
+  },
+  {
+    "poi_id": "d066cf80-e47d-42f3-97cd-8dd1b00ac6c4",
+    "name": "Pura Peninjoan",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.310286,
+      "longitude": 115.181181,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJjxt6-ZuJ0S0RJne8c5jh2-Q",
+      "photo_ref": "places/ChIJjxt6-ZuJ0S0RJne8c5jh2-Q/photos/ATCDNfW_wBqfMsc_HQlanweQQ1up3sJcsNexUgkeN0Trw9aSGRoCzxJI5yxHTMsQgbePibu9JEoXqr_rF1YxfHZXpIiiJmS0JRxjW16WLGzxB3k6QAw-HYH2HfkfP2UCE2DY-WLQXoSaoSP8AW_j8hQYMvHT1lhR43mb9MdRqHwei5FEpkTxPeXwJmSQKc666f0KvExXLH-0OHlLLWsiNKP4GVu6Uc68GSAh52WSj-ATXrsJLuS2cEAmgyiDWPUE_4N0C0p0iOOpA-tGoAI-3RyPZcJTjou0UQQL2VlQub2UPID_CPfNs_lKZ6cKajoTmKpQrVGnAgo1i3kWn7jWHwGvQiFZgUGjpFWQkHLm6GrBZv9PSirgvTSmVvRXErzjgHeOoMUpezXWuvag7QJ7X3qXJ5-QbHzki55eiGsbhW1l7ME",
+      "website": null,
+      "phone": null,
+      "address": "M5QJ+VFM, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:54+0000"
+    }
+  },
+  {
+    "poi_id": "ffa343da-fbb3-411c-920b-5a5bdc74cb1f",
+    "name": "Pura Bukit Desa Adat Baturiti",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.313855,
+      "longitude": 115.181123,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJaRUydP-J0S0RDZcIZNb3JtE",
+      "photo_ref": "places/ChIJaRUydP-J0S0RDZcIZNb3JtE/photos/ATCDNfUg1vI2FRTFIiz1SejhQPLE7oHQbRy2fnrody0pF_CHG-MChopOKyH8pGooxtQP2-XUafxQ76PR7Dmuwwyh4XoST6Hk4_p2AgNdJJUyaBJes9Hr4qJmwjIrltcKL5U0eEC_CnJOv9buYWI0oMbsYXlsB5NCbewmH4ffibke0kGDavOP1X8Kf0G4MSRXZ0Hx3gcrM7FHU8DM0HUpYdaSvJvpVfLd9IJWr4XOK54QwveIqKie8cvPrKY-IjuWFlhkWdij6y6PjjBmF2Fq9n98d3I6ZT6zHcO8NJ0AzB__QsAQ8eRGP3U0TZBsw84Nfn6KLSh1c2eQiHcoHomUCGDmuORwtIyv4Q1vFrOuwHHRv2OmPwBulWew-Hc0rbJiaWxOSeOwcj7WVIjZHTJRj_4Fc6CYvjzwnlmzUztqK2Or_IV3",
+      "website": null,
+      "phone": null,
+      "address": "M5PJ+FC5, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:42:54+0000"
+    }
+  },
+  {
+    "poi_id": "77ea770d-5648-4825-99a0-dc8ae10db443",
+    "name": "Mit house",
+    "poi_type": "museum",
+    "geospatial": {
+      "latitude": -8.313133,
+      "longitude": 115.186218,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_museum"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 90,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "historical_landmark",
+        "historical_place",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "historical_landmark"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_TXuY9aJ0S0Rd-FntPL0HWI",
+      "photo_ref": "places/ChIJ_TXuY9aJ0S0Rd-FntPL0HWI/photos/ATCDNfVd2oYucCpPEjrJ9DVJq_6G854eD8nXBahh0oZIQaFWt4fPFrb-5f4f2yHxgVoCH1ZBcRmBlr_JssmjeyHU--E--m5ewmtl0GAics1bgl55dAQaItUUMI3Tvf9ge9kytUPKHbT6-E1XlTIAsOy8J--wSs7Fv30TwqyhfT53vZgawrse84Mjum0rT28SSbiExQAWvjjwPLVo1OR-Ad2VoRqrsIccXhzaHJhERyvxw3pQVc-0tSAM281WG8VSZGfsBdzD1SDtRt2lB7N6Njddw5yeAw7-yHPqjLMOT-4TJyusCGXIfy16sqUSex24WmzkxTs4c33Jp7lW0WZr0wlrafBSsTSFt_cMUnfE9FSlqMdEUEcW1XlhTAAGqRyLIjAJ2BSrRUKc_KGSbC3b2eeAL5T1SlwSej7QTQ0q6edKUXC8pgs",
+      "website": null,
+      "phone": null,
+      "address": "M5PP+JC4, Batunya, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:00+0000"
+    }
+  },
+  {
+    "poi_id": "2b4e9e14-cf9d-417c-96e7-b6b4d0aa9c1a",
+    "name": "Pura Bale Agung Desa Batunya",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.312652,
+      "longitude": 115.18659,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ6QYixM6J0S0R3UaV2M9klgY",
+      "photo_ref": "places/ChIJ6QYixM6J0S0R3UaV2M9klgY/photos/ATCDNfWp7zhRRJckFEkxmxSfzsFAUyOavWu2E7v7CL3mJkeeYQwIpkvRaVYwM7fMNWJ3KxtjXMyFfltt_yb8Vsw3KoHl48cyZPn1pn171agQ7WXJGQcn8NwyxpFZg9ityk0PUFLOE-WEjxkvTu-qOlU17JG0U4sGMc0c6VWMxNGrISeXoYIFzByCE2cUDlFalPESrU5mJhcmxet81CHRUl3Ri_4UgUB_oppieTwBr6oEIBucm7AZETCd5hMfnJ2fPytXVE_gYfDBJiU37_fsQt2KSJfMBe1z3Pww88Cc-GYQb8RC8-TcvglDbbJKOFGcpfr__on8Yd0W5ljK8NxYxvtU0ESaAaqyYslm4T4Pg3q2Q0OkdnruFFP1A4FQI-q_eJguIdiFm-Mu3Rj6_T10ZjqwA-aSXNYx3_uH-PPAHufSm0M",
+      "website": null,
+      "phone": null,
+      "address": "M5PP+WJP, Batunya, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:00+0000"
+    }
+  },
+  {
+    "poi_id": "16f5d6f0-c1f8-49b2-9b69-a22458b6aa31",
+    "name": "Pura Puseh Desa Batunya",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.30798,
+      "longitude": 115.184016,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJmQCf7VKJ0S0RgOgJDWPG9gE",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5RM+RJ2, Batunya, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:00+0000"
+    }
+  },
+  {
+    "poi_id": "06b590e6-09c0-4535-b80d-ef452207ff4c",
+    "name": "Pura Bukit Br.Batunya",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.309108,
+      "longitude": 115.18415,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9_BH-AaJ0S0RKFoYgya0zKQ",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5RM+8VW, Batunya, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:00+0000"
+    }
+  },
+  {
+    "poi_id": "3504e3c9-4c92-43a4-b6f8-d02d9963b21c",
+    "name": "Pura Dalem Desa Batunya",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.31561,
+      "longitude": 115.186896,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "point_of_interest",
+        "association_or_organization",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJTR3tzHCJ0S0RSgqWxOkUo5I",
+      "photo_ref": "places/ChIJTR3tzHCJ0S0RSgqWxOkUo5I/photos/ATCDNfValNhhCpAcx_2Wugccq94Q-aRQ7LTj7jjJvwbQlL4UyjqNzpQ9403jPH8FoK80n8aSXa0Jtj7i2xcx7zx3hllrPD19g9BaqW-KENCllZNbTuWbBU8DuLEK6e1GmNQfLgAcXE6v6QDHoTwDIv8TQmtxTt-qlJUVchUzaWCfFtWKUcSrnZxcc-GZfXsuqu4i9sQpiw5dSsSceDmtlWASEBF_Gsntgp83jeegvzvgEA63OUYO8NWE2VU__0sIvDakTQk5oglHGN8G7LX4VA7MP9AIRg3vL7WgcUs2-nMFJgoWf2qNWUiO6j6myyNA6y_bYsM4wUp4yNWji9E0fcx96xNrjMrcBxMyMgIX-d0oNAC9nJAAAmJczw19ScxkUhIuabImMN-SKYMwauJE18cFjpGLCDs03oDAkY514jQWtS4",
+      "website": null,
+      "phone": null,
+      "address": "M5MP+QQ2, Batunya, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:00+0000"
+    }
+  },
+  {
+    "poi_id": "fb2fb107-4ccf-45ae-b3f5-544f879f6d55",
+    "name": "Lembah Mayungan",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.30986,
+      "longitude": 115.197041,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.7,
+      "popularity_score": 0.409
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 54,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJkegWRwSL0S0RdfS5wVrALmE",
+      "photo_ref": "places/ChIJkegWRwSL0S0RdfS5wVrALmE/photos/ATCDNfU1SoRKsidmtiK5Ikzb_z7TcafkiOFHhln04lgC3ek1y_j7sb5p8e5qtTCMtcx7ytgFJGcbR28k9Gyj0MM3-PzsCrsvIaItN4g1SJZSB2bY-4yCPvb9czxW0qaVx62WTkiHxfjY10zwMb6uwSDqyhgCn7180FGJ1BMg3sjCP0BIKCw9Gh9KX75mW_JelKALR8OR4b8HTlb-PYyUUdiK1QbOsvt-EEoQZ1bvj4_01y9M68A9niSq_N46qYbicIlTjrQHZeaLn1zqV7iLZhO_5rS2pgRa6qVjucgWLIDjCZ7cdg",
+      "website": null,
+      "phone": "0851-5655-3845",
+      "address": "M5JX+XXR, Unnamed Road Br. Mayungan Let, Antapan, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:06+0000"
+    }
+  },
+  {
+    "poi_id": "d809c1db-525e-40e1-8a94-2296d988d51e",
+    "name": "Puri Agung Cok Bayu Farm",
+    "poi_type": "museum",
+    "geospatial": {
+      "latitude": -8.31052,
+      "longitude": 115.194108,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_museum"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 90,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "historical_landmark",
+        "historical_place",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "historical_landmark"
+    },
+    "_meta": {
+      "google_place_id": "ChIJH_G_UgCL0S0Rru70UZUh5Ps",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5QV+RFR, Juwuklegi, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:06+0000"
+    }
+  },
+  {
+    "poi_id": "f56b12c5-2256-4fb4-9abe-84c567e8a845",
+    "name": "Pura Kahyangan Jagat Penataran Agung Gunung Beratan",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.309397,
+      "longitude": 115.201684,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.1,
+      "popularity_score": 0.185
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.1,
+      "review_count": 7,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJY8uudV310S0R555J3Nvlw-M",
+      "photo_ref": "places/ChIJY8uudV310S0R555J3Nvlw-M/photos/ATCDNfWFFB3qXAOWkiFJVIcUAAQDW5FZ545VVGViibbYP4JftzWE4C_0AbEpxOtn4e8bdHNopuKNjSjeRhlaC6chaxcYkro1nuFzsud5Z8e2I0tPcBZNeZTn9kT3paD2OlAb18A5GuvTnEIW8_cfdaGAh3oXTlufeeTC3l53ayJA4BJ9jVgYITD23yCEW6w_AhjpG3SceC0SznQPLhDaxgd3wPV3_PU3OiB-ybbPzlGyf7GA3Ik3KGO10rPue5UHORNG_cIw9Y1MLA9dUk-WBzDN42BZQaZoDSkSUb0G3c1FtY0C_-NjGOx15kDmGG4ILupQjnqz6OEGbwGL-6LVXeYK5ckUPVY2Inncsd83kPxSsVCwNhgSk5HkfvRBzQ9WV10VPtEeCJPsq90G_fyHArJfI-8KBHm5QYx6w9MGIOQ91Hs",
+      "website": null,
+      "phone": null,
+      "address": "Br. Mayungan Let, Antapan, M6R2+6MV, Abuan, Kec. Baturiti, Kabupaten Tabanan, Bali 80652, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:13+0000"
+    }
+  },
+  {
+    "poi_id": "0b6aba6a-3d9d-431e-a424-fc0a9d2c01a8",
+    "name": "Pura Desa Auman",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.313903,
+      "longitude": 115.213302,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 3.0,
+      "popularity_score": 0.105
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 10:00 PM",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJReehz2yK0S0RE4t2YyQkpkk",
+      "photo_ref": null,
+      "website": null,
+      "phone": "0852-3703-6786",
+      "address": "M6P7+C8M, Pelaga, Petang, Badung Regency, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:20+0000"
+    }
+  },
+  {
+    "poi_id": "c4808e2c-c039-46a6-9a6d-d7be21b240fb",
+    "name": "Pura Subak Abian",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.313566,
+      "longitude": 115.213341,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 10:00 PM",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJITKAyGyK0S0RSMHXXfN1mAA",
+      "photo_ref": null,
+      "website": null,
+      "phone": "0852-3703-6786",
+      "address": "M6P7+H8G, Jl. Auman, Pelaga, Kec. Petang, Kabupaten Badung, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:20+0000"
+    }
+  },
+  {
+    "poi_id": "4f14a951-40c6-4e49-9fb5-93ab93f684df",
+    "name": "Pura Puseh Auman",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.313406,
+      "longitude": 115.213134,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ92h3zcSL0S0R06BeaTRDrUg",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M6P7+J7J, Pelaga, Petang, Badung Regency, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:20+0000"
+    }
+  },
+  {
+    "poi_id": "ac3538f3-ad0e-41d3-bd0b-d559b2a14d38",
+    "name": "mrajan gede pasek",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.314758,
+      "longitude": 115.212848,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJWxstIQCL0S0Rk0Fprad9flo",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M6P7+34X, Pelaga, Petang, Badung Regency, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:20+0000"
+    }
+  },
+  {
+    "poi_id": "20073bd0-1946-4be1-bc76-4ad03231c1bc",
+    "name": "Goa kawah puncak bukit puun",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.300529,
+      "longitude": 115.138735,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ2XRmNwCJ0S0RZ8_ONarVeik",
+      "photo_ref": "places/ChIJ2XRmNwCJ0S0RZ8_ONarVeik/photos/ATCDNfVk3H8eYj2aTUoN7H1Vgzxn9GFEvkFxaQxtDMDP9MdHZe1RjLG6HsBrcfzDEbwPrFS343SvjBd-6kH5PXukSJhN_bAPzRBAJc41hhTNTNd9n_vKT4H-mP4tgoJ7aV08E_cFdL9Cs1wYVko4QRZhQMCtv-kWM6iW__QLjOkLkJZFm-uqLk3nNYz19zvLKbQ7UgT1ZqWyOaY3vpSWGBOiBvoLlpGZ1NNTSVYyB44utUJfHFN6a7BK3asOubYv_pyKVNxw7YHntwW2KwKyL5lReXdG14EwvgWE-ibemNdRWesC_dFq-uh6hh6iXKDyH8pn-QZMeLMmpMxAyuM2_Dyd4df5clvhW9FGM5mLUhNWRSFhuym5yQNqmzxgNOxLhqHJ44ea1TA4oD7GP9S4bUzePNpnkL-Hj17BT9IYsYL-MDlzTN0",
+      "website": null,
+      "phone": null,
+      "address": "M4XQ+QF, Angseri, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:38+0000"
+    }
+  },
+  {
+    "poi_id": "c2b1c6ef-4e01-490d-a62c-1085beba9182",
+    "name": "Abang baturiti tabanan",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.300546,
+      "longitude": 115.138764,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ7RbHZgCJ0S0RqkGlK4XbD9U",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M4XQ+QGJ ten, Angseri, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:38+0000"
+    }
+  },
+  {
+    "poi_id": "a4a23011-cd08-476b-88d7-fff0921ed53f",
+    "name": "Cemara Nang benting",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.302734,
+      "longitude": 115.147676,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJaZuSBgCJ0S0RqKzFHPVefAg",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M4WX+W3, Angseri, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:45+0000"
+    }
+  },
+  {
+    "poi_id": "c9e86c36-cf50-4c96-b420-db26a009f72b",
+    "name": "Lapangan duur abang",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.304106,
+      "longitude": 115.153768,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJqVArWwCJ0S0R9rAwytPdYSs",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5W3+9G, Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:45+0000"
+    }
+  },
+  {
+    "poi_id": "359ff180-cff1-475e-bac7-98cd57bf064b",
+    "name": "The Blooms",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.302095,
+      "longitude": 115.158774,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.6,
+      "popularity_score": 0.854
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:30 AM – 6:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "car"
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 5149,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "hotel",
+        "lodging",
+        "restaurant",
+        "food",
+        "service",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJpR8_7qCJ0S0RHlO03mW65YY",
+      "photo_ref": "places/ChIJpR8_7qCJ0S0RHlO03mW65YY/photos/ATCDNfVhkkIu_c46-78ph1X1m-siaYenk3gIr03ymvu3AsO5547Wl8gLIHdG-bJku7L2LfkDF1t3bcE-C6xhiOD9H0soF-7vlAwVPQof7uNa_igCmK154q-vzuvWnZsMGUH-k_WI7BQRlXhNRD1FRlksVtReV7zEb4Q9_ebhOSsSAJvi2aHi6U4cXrX8NXy3B_anc3pCuWSWIsNF6bDX5B-V61R-gTvqiYNCXFnwWQMjRqxmjngqqqAiE4D82wwj6dXOjrz56unRimRwmpdv013rKYQRedmhkGOB7MY51ZD5o5q_Wg",
+      "website": "https://thebloomsgarden.com/?utm_source=google&utm_medium=local&utm_campaign=gmb_profile&utm_term=tourism&utm_content=the+blooms+garden",
+      "phone": "0812-3672-0088",
+      "address": "Br. Batusesa, Jl. Wortel, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "948c51ba-1ddc-41cb-abda-33adc5c1f109",
+    "name": "The SILA'S Agrotourism",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.300645,
+      "longitude": 115.160688,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 4.5,
+      "popularity_score": 0.79
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "car"
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 3250,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "adventure_sports_center",
+        "tourist_attraction",
+        "sports_complex",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ-2Zw47yJ0S0RRdldgViSw_M",
+      "photo_ref": "places/ChIJ-2Zw47yJ0S0RRdldgViSw_M/photos/ATCDNfUFyM2ho0zrwijFUzVgQL9I7zaUOqCoi5iJrPU2OPds9LzF37ZmBvHzprSqFMFWVDZt__wHtgNyzYKUDypHWKOSFJOxLgpLXISAz1lvnkUNe98AIA0UVOPQtbRAIzA9AgKqwelPL0Ww29zmPr7cNh2oQIoYdi02_1njm1TzhqRonXIV3FeOZQDzFYQNYmCBSp5s9mgGKeG1ngvQ-1B6I0sBsaqsvcqDToUV-FB1qytJ5MjIjmsYn7klSkhCQ6LGCnzJlpEmDXELIb9YWX_oFxKWcq805uUABe1eXlkBnTVOzg",
+      "website": "http://www.thesilasagrotourism.com/",
+      "phone": "0857-3710-2000",
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "0ec9d13c-a6eb-4955-88ca-cc123da4282b",
+    "name": "StartingPoint Gn.Adeng dan Gn.Puun (Pohen)",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.305994,
+      "longitude": 115.157678,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.457
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 66,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJEzhgKACJ0S0RjdK0HA_j9ok",
+      "photo_ref": "places/ChIJEzhgKACJ0S0RjdK0HA_j9ok/photos/ATCDNfXxyP8Pk0yOIFTO_VZbBxRZiTITIWXn7H2jXvR1RF2vTRsl0lw4EsEi9XJR0tmX0y1-qqqYadZrdMbETq-l_V1ikxgoUTDIU0UyjN2NMb5k7UixfS0Q7K5r4bzaBIor4k5R2T0s3eFlm7DqIiODoK8C3jxF8DLBbXVQTJoLr3rmB5EkSTL7dA6LRjcdYCT4Jz6BefoA594hzbf6Q2y-2hKxzcQTkuEuLcoIw60FCwMa08IoNZdiztEBHSGpD1OT8znE05WyIfQSyKEPODOL2tU-KlktTNzLrtijZtymh7AY1gIeQGpphxtAjFE35otf-A8AKmq1FXrtZWqgv_3yEyGbl4Ad2J2VdrySsqXx7lxdMSYojfVnj4IkxMY3SJCX2nuQgsVFxTOD5iyj9ZomQYrxNmkSW4YlVjvMfuCYUCsuqXkx6wIZ3BcFVtzjvw",
+      "website": null,
+      "phone": null,
+      "address": "M5W5+44, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "08db716d-8b5a-46b5-9deb-888114a0e9f3",
+    "name": "The Blooms Villas",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.301436,
+      "longitude": 115.15756,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 4.4,
+      "popularity_score": 0.4
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 10:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 65,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "park",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJG8mziuKJ0S0RjHE4nHnejG4",
+      "photo_ref": "places/ChIJG8mziuKJ0S0RjHE4nHnejG4/photos/ATCDNfXsd62y3kuYYlSK-4GbZdyxfIMqmeRRx0tLdDwKHB4K-xeaOFMTZZEi37izckobi8Cd_3s2KEjnmsAeYh8w99uOJgnjTxIkB7RT9l83VtpcNnm1_Vy-YY8Pzctepp-UYYmMBudYmbjnW1wSIu5lOKKwQwY20wXsrizxNon3PzfP_LbgwWb-_Sc-JLsoxcSNItv1vKcdqQXI7sHw_kN7VVMO9IDs8PqPVz5Y6m3ARv4m4ATl-PZ3z6q__GSPOuDTFHeJ8AHctUpZBsrmuRtekZJem2QIz0XkwlMmfx77NGtDpA",
+      "website": "https://thebloomsgarden.com/",
+      "phone": "0821-3041-7785",
+      "address": "The Blooms Garden, Banjar, Batusesa, Candikuning, Bedugul, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "dc9b16f7-aa1d-40bf-87da-fdfdb5d1470c",
+    "name": "The SILA’S Stable",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.300513,
+      "longitude": 115.161011,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.2,
+      "popularity_score": 0.21
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.2,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJzRmm6eeJ0S0RetMrSl6J7AU",
+      "photo_ref": "places/ChIJzRmm6eeJ0S0RetMrSl6J7AU/photos/ATCDNfU5meg14UKgQC70ljEj6Tr6PgZgldnJOEq81Zw0SU-bZXXqaW31Enc0qM54OQ6e2yMJUxL-CnrzOEUYzr5qj37vBUHEDtRlsY1B7urMDoWJZWI5tG7EI-_JRyEWEo02n5ycjBJ3U1HZVZl9d40h0Q-cCYhfTcClE7N0ghK-6YYBtwU7bLQ7ESN_5T-NDGN0XoRLdn3leIXZxT_M37vb3a5TxnvBYEs7ly4cY-9c8oElzS4CZBnJZYUwSvDy6bsjUJjAb4zNEBaSD5UY1P1vCPzHwZFBIVJH63B8DsEEqAsx8g",
+      "website": null,
+      "phone": "0857-3710-3000",
+      "address": "Banjar Batusesa, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "9826c32a-a5ad-4601-817d-5e009b93a068",
+    "name": "Trekking Bukit Pohen & Bukit Adeng Via The Blooms Garden",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.302677,
+      "longitude": 115.155817,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.497
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 96,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJv-1uw92J0S0Rz8jmXuNqD44",
+      "photo_ref": "places/ChIJv-1uw92J0S0Rz8jmXuNqD44/photos/ATCDNfUpxS_9P_xRHy-Y0KCoLZfuFOervG2YSU7w-bZ4_eLq07ZVGcYlYuyaIU7rON85juRjRNUPFGJXqhjQ7ai5RZEOawK1ZBQw2HDG0Wy5QH1RKVNETqIeIq3ZNo5BJU5g1yyKa2cLgwDif5FYdhQVRVOH10fso0AX6lPzajbF1P1jspsYg_3NvlHb_vlx7WHFQjsnMjwkKI1MBuTMZgjNMXfcvWFFhHZEVOM54p22npMw9q_3BZlIP5WPvrajwuOACuO--eWkqD4Z2rXsqrAyjVo_0BN77rJz5mhopgaTMBmtow",
+      "website": null,
+      "phone": "0821-4614-3140",
+      "address": "Basecamp Start Point Gunung Pohen & Adeng, Via The Blooms-Bali. Banjar, Batusesa, Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "9b060e52-eda9-4e76-8421-e455a484715e",
+    "name": "Pura Penataran Pucak Pengungangan",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.306215,
+      "longitude": 115.16162,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.9,
+      "popularity_score": 0.245
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJwZ5cjr6J0S0RjaB_kzL8PKo",
+      "photo_ref": "places/ChIJwZ5cjr6J0S0RjaB_kzL8PKo/photos/ATCDNfXs3kYg-ohERJ6JDVts4xKbRgDoyqwnlpV8dQGD9CNQJTI7EAwdDRwWZdQzhyGZoi8ElZnm31bFk25TGa9DY02ItZrL3egyfesVuv-ZSZCR9XUjTbVBbTib6vjLBUCpSjE9C5dkrKwHfMnXKXbA1DSMnU4o6oylR38gcio3AqRTJCvgXNP91mIHGnheBW_a9s3SRKnivzE61l_pi1UtgcrI6KxSwlamhDdAZKtcrmI2LXQcoxwoDWCt1_RSiy4x4vjoOuMpA0kCmZTPn6UIjh4iqMj63mlmmE5uLzDSMvgGt3AF7AqTzyY8w7XKCm8PCyhTO_b0VsMYmlKMJzQd4to8_Gq28s1J9ZUEf5chcCj5pG2T8OD8AidM8vFk2rv25rU7qw7d5mNfsbSg8CyUTLsMIWlgCi_pN9O2uEFujJ8MF7QsOh0-y1DiHHBMwA",
+      "website": null,
+      "phone": null,
+      "address": "M5V6+GJ9, Baturiti, Tabanan Regency, Bali 82161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "d2a82900-2322-443b-9639-065c25a606f2",
+    "name": "Pondok Manis Batu",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.299585,
+      "longitude": 115.158381,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJwWFhZwKJ0S0RrQEwhIQGKK4",
+      "photo_ref": "places/ChIJwWFhZwKJ0S0RrQEwhIQGKK4/photos/ATCDNfV1Q6pt3WiHAdoBjNcbf6cVY8VjMPg1VeJukjvx99dZJfZxCE_41F_e5G-ZOKpHgHH5cZo3NhKR0ES8KWCpB7f-C0jnU-XQTQp74IVmFZAKIZXjFbPO3G4POLYJQusYv9toaP6Cpm2ABs97Lc4JTHV4KEOiIhy8XjWo5Aq-jcX89qxXeqZOLEdywA35DaUngaW_pPMsoFhG1OBDkhC0Y-CSLjFMCgQppgcuxOUmomBSMKs07f6WHoFDXxuPBOKkipmF7gT4nDZ38NHnfZVO_GyLr9k70pAqLOJ4zEUuiocLyWt-_52sLG2KClKtiX0NPALFdltBZUMnqAPoHadvru6MU7VhL-yCR6OrEd0dQmLO5U7roIDWJwARtPaUEtqlrv9zURY9kVoYY9QSKQ2EXZfuoa_cl1PqIYUB0JhoQBw",
+      "website": null,
+      "phone": "0813-3767-2808",
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "e355f0fc-430a-4b21-b627-7a84b3fe742a",
+    "name": "Photo Spot, Taman Merak",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.302662,
+      "longitude": 115.159108,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJH69fLACJ0S0RU_HiSw8B-60",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5X5+5QM, Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "9b3f97bd-8133-493a-a41a-c1fca4bae90d",
+    "name": "Taman Cinta",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.301436,
+      "longitude": 115.158413,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJsX70fACJ0S0RniDCi27NyoM",
+      "photo_ref": "places/ChIJsX70fACJ0S0RniDCi27NyoM/photos/ATCDNfVG_FWkjxdDnKLurUIRNRrNaYiqkW_BbXVKJVMSDWOoT3AaSCXlOFRgaeXCwnBE1H37iOWsv55Q36svwoNoF8Isj3sR9hl_Cz_E48jQUgs3fMYsOzjIju80RuZyiPdsaq37IQ_mPL4j-RE5XVyYc5Ld8jm914GX1sAv85uDAK0mhodOe0689yOdMW2CZXVhkR-4IB2x0YsJXISM1zV3RluxNwzHSMGam3QS6BisTk95mkOLNQJw3av-ZrBbC893anwGJw30zYSqw4vb9pGyMsSNMB2eAhrTNHwo4gTYGwJM5nD9_Dn3jPMUEv_VsS4yoI4oorH-Jw-yIRwD3YylPfuM0Rk2cwZIoAq1EWgVHGM3n6QKAqhyml5Gl9Nxkpoc7d-UZnTux8vEYjXXnlEPJLvB8yVLJE0ok38mviDsrhFKHwn-ryrCc_jiIVsynA",
+      "website": null,
+      "phone": null,
+      "address": "M5X5+6M7 Taman Belanda, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "116c9cf7-e205-4d61-97ee-47ecdec29326",
+    "name": "Blooms Dragon Gate",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.302354,
+      "longitude": 115.157974,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJAU1VUACJ0S0RVWqldKAP6oQ",
+      "photo_ref": "places/ChIJAU1VUACJ0S0RVWqldKAP6oQ/photos/ATCDNfVpwA1diJbZI1aTA10Gfpqjg0JTm5usVN8JavX_5XDDTsv_HkmDit56uiGUGZWgLte4JEe_h7mWVOM1v_thyKhyj9yhlyXegzryoVC_58a3m63_847Jpwz4gKFM1sfqMj_nvAp6ZpeVQ_9j8GU1az_gp_zyA9-GLiuW9UNtw11mC4bew_8xn87FhRCcQW6tmv64h9aSa8fVHgL7mgCtaUA0WS5Hcc4nNyoiyMbt-FgpKJGk3To4p9w0WmonuwAU-g1dKOg-SHUhRa951g0uOwQH0TZbMos-FmIpNhX3C9zIHpif0SNEIuD27T_iyuzyZkcfI2UZYiAkVeQSyPwOJ-CL6w7ZLA90MbNMsy6_2IeMUaBqbsFNOgFtLmw2nDQBfGHzA58UUHd9La8aQxyPPP2MA7Q6-2bQVflBCRJkmU5sDVB578kFk4wNHzrWJA",
+      "website": null,
+      "phone": null,
+      "address": "M5X5+355 Br. Batusesa, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "2444a668-893f-4e43-825b-40c53b85c4c6",
+    "name": "Marina Bay Mini",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.302447,
+      "longitude": 115.158286,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJt7tJNgCJ0S0R8o-wuNRmtkA",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5X5+28F Br. Batusesa, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "32292a7a-3558-4afc-81cc-47c4ed2e3213",
+    "name": "The Blooms Maze",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.302854,
+      "longitude": 115.158831,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJt1mHAgCJ0S0RCCKavEdanN8",
+      "photo_ref": "places/ChIJt1mHAgCJ0S0RCCKavEdanN8/photos/ATCDNfWrb6uW_OeH_NZWQ448r2psd4xRBhkqdfS128_CgvpgfrT363wr1a2AwvYZZLAoCZy6jyFe_tqhDctWkSp1XeD-t3T1ZjDgy1WkYBbBiIJ86EMK_bXKEBeszMNqPk2XtMdZW13ldnG99ZwdNm5V9LPsRYFGhSaj9clH5Y5118kvbA2ZUxSCCRvnh5ksec9pxXgpPGLWsQRyZ_SWhJ5vWrwKfUw25zQxBckhH2mEWns3Hvybak430hv_vEe2gq1gWfdcpaaqmfeB7Wt9LWB29W4nRRhE0BoBQ-I-SIwavYPcYbRdLxGRLdxwbuQLhM80NlOd-d2_BGtOVkVisGYzRvw0seIq6GE88N6780SKiyHNFIy2rKAQPwRSJrqZqc5NTYqKJ3zdZfCSLoh6TybHzJ_TeHHf_JlyApqNc5WWkiju2YvNWgf_novusaqrBw",
+      "website": null,
+      "phone": null,
+      "address": "M5X5+5QM Photo Spot, Taman Merak, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "68a980de-4fd4-4b2e-8cd5-4f8752ea37d4",
+    "name": "Pondok bebek",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.300669,
+      "longitude": 115.158767,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJN_tjP6mJ0S0RZ11mTEFyz2I",
+      "photo_ref": "places/ChIJN_tjP6mJ0S0RZ11mTEFyz2I/photos/ATCDNfUk8gRcTgJRAPXv_lcmwWfx6Li5_-C0LxT5nl7FyksjVRe4Hew1U7VLQH8V5Q3NkDRElz70w3Il6sm3aIHXYaZnDEBCEU2ZN_bIuGgZqPc7TAz61OrazNHBSxZAsIu7FfwfzYz12UDCi8uVuF8TbRxAapwGwV2WzJ2stI6QQvaTDj4-uDhTXp6VGUPoqV3kwDsjNyp-XlObuwY4cR55iJWkOVAL5onZIh9rLh-hLJ0xkIJYHDMxTCQMOst-4NKqU5P1oUrxTyk3MCWFz5cyQiA28NhrNMA7GYqobmM0S6RLaA",
+      "website": null,
+      "phone": "0857-3864-9978",
+      "address": "batusesa, Candikuning, Kec. Banjar, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "c23fd460-3ed1-4bff-bfb0-5bb87d11689d",
+    "name": "Taman Belanda",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.301466,
+      "longitude": 115.158776,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJR_WBCgCJ0S0RTgQb96y4Ij4",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5X5+6M7, Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "eca9ab99-544a-4811-b232-1264d711dc3f",
+    "name": "Pura Batur Sari Batusesa",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.301642,
+      "longitude": 115.160088,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.0,
+      "popularity_score": 0.06
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJK3mP0RWJ0S0R0JYSnoQuEcA",
+      "photo_ref": "places/ChIJK3mP0RWJ0S0R0JYSnoQuEcA/photos/ATCDNfUpO3LEaNRZSjznv_wW2uehMDvdAN-GJfOeJ9E8NYEJt0x3WVqdSbdbGIhSZQVu73IvOVEN3lMgBeW8xxI6L44MBvJhx4pOxsPhtgwa4FDqK6eHYHrDNMu1QYe3_RMldAr5XKHXcc60fGhaWnEjQ7dQz5on_agJp7_4L3fhWtcTahOyZce4cPxNgp4WqOluc-kz_ap70ErnZfsoPGHnBn7XdQ9z6pU5aV-NIYvw1WB15rRk09jG6cKw-8Ej_mdeYjuea3BNuuiysivxM2cCK9ZpnN0IvgLFyrARwmezN8uSnnZXVNUDFIZ9F-gfzVsEQNoKv1jX49D-qC7GX60b9QL0UFlH-dB493-sQu3UewGZov1RTpXoQJ-fSEkKKG91e0G2urKiwz5WPwQZZlZvcnAhq-86ryVJWPU439K_bzuH6n4",
+      "website": null,
+      "phone": null,
+      "address": "M5X6+82W, Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "a9e66af1-4159-4c9f-b6ed-b9aa074a6b83",
+    "name": "Pura peninjaoan",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.304738,
+      "longitude": 115.161838,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJI04dHQCJ0S0Ra41baUyz9iM",
+      "photo_ref": "places/ChIJI04dHQCJ0S0Ra41baUyz9iM/photos/ATCDNfUkveauX3gRTNlLtAurrwKSJ35mdRnShN1e6IBJOV4v-xULxBMXQT6y8M6EQNiGeeLSbTkaNllIzk-BIm_U-UOhoT7ILPEUS6vIbVmDcbMVsMh75SDF4QBL5ZZjcotP3OBBsqAdSaeA-9yi96xHAmqk_4vWF8IjeM8l2VzcJAxpwVk1-0aU_ZehBEyOx7XJ7ZOg0fbV1LVjeZrHkp8ITz5CX8h32OUthwfGxovHPx1ZYcL1o_Dr8d3vF41dTwE-IvXT1U42VXZd6VjepKEfVozg0ivH7m5oQ3-bWpOCavk3DOKNKfI8yxrh7fIcDYYZF2KbiQxxo_2GtZpJDG9-EqLjDgKrcmfuMTERfy9CH9K43w9ehpIfyMZTAtH0BtPmOVahyEKt7-MDuJ-uCvCQFIfV87y0sOTpWIuRlHmirdVaD0GlV6kWDu9UqpzMMg",
+      "website": null,
+      "phone": null,
+      "address": "M5V6+GJ9, Baturiti, Tabanan Regency, Bali 82161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "c63aeefb-5d59-47ea-88b7-b6a801b75a94",
+    "name": "Jl.Darma Yoga",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.306538,
+      "longitude": 115.159153,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 3.0,
+      "popularity_score": 0.045
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJM0AmLwCJ0S0Rc5E-hyfFOjs",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5V5+XV8Jl. Banjar Abang, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "55071869-1f7f-4936-8444-c5091bbf447d",
+    "name": "Pura padukuhan dukuh sakti",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.305987,
+      "longitude": 115.161013,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJYR6EAgCJ0S0RdWxt6BleRRk",
+      "photo_ref": "places/ChIJYR6EAgCJ0S0RdWxt6BleRRk/photos/ATCDNfVviIPE0F9EFv7XgCG1_c5Gro6omKzrxYb3Wv-3jGSJh2JYi1N2RwocoPQ3p0wknVxNOewCeacx6qiqqww_kJTL2-cNHtpoYn-vWyRCAPqN6jGxRtAo6sdlpxt9MpSV6xFeI4gBliRQe_EG_PuZBLt1FYmnDawJrQSKz-P1FqOjoUBNvFzGBBAaDLkwlhWvlNGHKE7UNACx-F1RElXfIHUt55SCrNRdAwN3eJKIv5QqpCf9UH1Lleb5qIKBDUEbr1txYfp58LGI4VWiHjPdVOeeRtqeWXXfc72gPfoLz0p5-xbhpq4wUVJq82K2VGwGqzezaJeMXim8pEFrU-0GsMMK547O5n3eFMCXDuMG7UIWJiWUVlgpRz_AmPVlbGD9CMgYU8flCp1M_Ao-YOYBD6XCV9u4XA31uy7NDHtezlzJuKfy_mZDrwaC8c8KLw",
+      "website": null,
+      "phone": null,
+      "address": "M5V6+M8M, Jl. Banjar Abang, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:51+0000"
+    }
+  },
+  {
+    "poi_id": "cd4c17b7-1917-49ca-982b-af74f645badf",
+    "name": "Pondok Girivana",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.30172,
+      "longitude": 115.16892,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.8,
+      "popularity_score": 0.25
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 10,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "buddhist_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "buddhist_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJh4kxwoCJ0S0RkksHTQyQ5Lw",
+      "photo_ref": "places/ChIJh4kxwoCJ0S0RkksHTQyQ5Lw/photos/ATCDNfXReA7IBMv4Gr_jypNr2ilPNSDhfcTEfxIF0qLcYogNBMlfxVzarodYyzs42_kqsGVbh-pQp3xmgoR27hfS18Vc0zwTt1LIEZhsglN_q4I6Cw6bF_Y4zgBQMUBeV4e-GVQtGrwE3l0rQq91J4KbGzK3xJikoSSyfXgZ3zvDX1j2Fj1ySpVn-aSg2Z8wwlQHJOmSLvQHli3bjfulZWoIaqNts0kUO6hgiDkq15DMMsV3rwiRTEHzTHK2PQHnrNgu-sDEcaCINW26cruo_tt5pv45Hl4vni0cHk6XtDN73U4H0z5Z8JFPw7XRfiBRn8XEkDDBctfxkD2jmYWQw36SYbOR_Lp2q6ctIlr4gWuIg65kHMMTUObL_Pg9Po7k2ilNb3sQlhOjwB5Qtx9fHWTsKGxbwWD8uELHxH8hoSSvmWC0",
+      "website": null,
+      "phone": null,
+      "address": "Banjar Pekarangan, M5X9+8H7, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:43:57+0000"
+    }
+  },
+  {
+    "poi_id": "30440469-f1ac-4c1a-8562-54eecdc3f740",
+    "name": "Gereja Katolik St Yoseph Karmel, Bedugul",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.299733,
+      "longitude": 115.179153,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.7,
+      "popularity_score": 0.639
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 522,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "church",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "church"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ5wSTk4-J0S0RZ5TgoG8ZXN0",
+      "photo_ref": "places/ChIJ5wSTk4-J0S0RZ5TgoG8ZXN0/photos/ATCDNfVi6zuQRDi2mDgfZEGJ2HL0X4XDgA82ZDLtOEkU9mPCnD8kbytNaZ6CX9GdXSiQo7h8rQq8LfRrvOgGhrmEiryqMZZP7W3KIok30HGJwoewH1tVyI3NOg1GNWrnx-PrDOCf9Bv_8i9999JmifAWx4LfoFRt2lcQv6KHhSi07QLbL2CvRsu_K-AcaeySWprgEYUe4phhYRDsu0Kowt3rZ7coRVAiaFNJXE-_G_hDVm_8lBaBwtgiE93g1H0I-v5Xl1Jt8QTMcFCyAhgcXzi7b5vUL5NiGKLCeKmST6EPZxNpLyFw-SJoUZveLO5S-TXMtmLnfMvaFVg4ZJkztZPJgYEs0ia-aU2q4buOBM9h3_r3tj3ZsVn8wTyN1_zE1xr2KNWfD6KGrFa2v3CR-NFokGLVvPOouUgYUsPpKqVNzyOR",
+      "website": null,
+      "phone": "(0368) 21407",
+      "address": "Jl. Baturiti Bedugul No.88, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:44:04+0000"
+    }
+  },
+  {
+    "poi_id": "4f1816e4-011a-481c-b4de-c9b0f684cfdc",
+    "name": "GPdI ELIM Baturiti",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.303223,
+      "longitude": 115.175683,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.9,
+      "popularity_score": 0.234
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 8,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "church",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "church"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ0UC_lZGJ0S0RmV6lwBwr9R4",
+      "photo_ref": "places/ChIJ0UC_lZGJ0S0RmV6lwBwr9R4/photos/ATCDNfVEmee-Ks9QpMFUaWEQ4slRBFuVIxhGWLhugFA83KUYqwn218XyFP7Hcm8ylmwi58KpC5CFongvM-ENbiwoF9kOiZm2iikX6SbQIYLJmx1j7iE1vcsMAdpFVsK0uffa-_VEPEu9434kxNOd02HxtRUHuURaRdhVUmRHCrM23w4CE4EOzIC9odlZCDIVnLWg60-4GOVdKo529HlH9fv2CrGuoAJ03MA75o9PZ2h0dBX307A-Q_2o9eo9xpyyfkigzAMmqT8_4Ri94LNU5GkJmLFubRCB2o5vPoYE1WQOWS7ljStiC4iRBv6lo_iZ-VPhqtvXQmIHzVWx_Og4DWk7V29YpENiYVH2jhMlzNCzvLTt_D-rhDyOD6JOMO85oOmJ--G5u2cXrYI5ls6dlm_ySu2x3hFwh-qIVHVyhmDX0iKJW1A",
+      "website": null,
+      "phone": "(0368) 21795",
+      "address": "Jl. Baturiti Bedugul No.66, Baturiti, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:44:04+0000"
+    }
+  },
+  {
+    "poi_id": "8ab17036-25df-4380-95e9-36e8fbde6775",
+    "name": "Bali Sangrai Kopi",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.30114,
+      "longitude": 115.175017,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ2y5I-veJ0S0RPZh7UgliLI0",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5XG+983, Jl. Baturiti Bedugul, Batunya, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:44:04+0000"
+    }
+  },
+  {
+    "poi_id": "56c06e91-3c00-4074-a8a7-773965d642d0",
+    "name": "Pura Subak Taman Tanda",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.302959,
+      "longitude": 115.173236,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJy73bVgCJ0S0Rge4p7Qf9DXA",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5WF+W24, Baturiti, Tabanan Regency, Bali 82161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:44:04+0000"
+    }
+  },
+  {
+    "poi_id": "195445aa-0102-4c04-b336-4a768d91f61d",
+    "name": "Pura Bukit Raja",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.305565,
+      "longitude": 115.196311,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJk4xKXP2L0S0RTMYZ9Oht7Ug",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "Unnamed Road, M5VW+QGF, Antapan, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:44:17+0000"
+    }
+  },
+  {
+    "poi_id": "66f76e62-4497-4f7c-b75f-313a2a3b3f2e",
+    "name": "PONDOK FIRUNG",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.302435,
+      "longitude": 115.195011,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJt4wyC4-L0S0RCAN9LJEoaX8",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5XW+22C, Br. Mayungan Let, Antapan, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:44:17+0000"
+    }
+  },
+  {
+    "poi_id": "2895bcb2-cd78-4b17-be06-de160e9d2386",
+    "name": "Pura Puseh",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.305638,
+      "longitude": 115.197933,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ2cJ6fACL0S0RfsCXAdw5Lfo",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "M5VX+P5, Antapan, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:44:17+0000"
+    }
+  },
+  {
+    "poi_id": "454e072a-ac3f-4bcf-a253-81244dbba7e7",
+    "name": "Wiryana Farm",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.300342,
+      "longitude": 115.211025,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 4.6,
+      "popularity_score": 0.179
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQ2ya8jiK0S0RM8OH90yXrnY",
+      "photo_ref": "places/ChIJQ2ya8jiK0S0RM8OH90yXrnY/photos/ATCDNfXFhxeQGz7Hk8bUEDcNqHFSfRE0w9x4o6IOKznwd8u3472ECtWPdFs9spvqP22vry_-BCXRR6fs0uXswNehJR4Spe59ny7qCrh2DVTAy6JUuZz3x6b2PabptXT5YikdwKcjwzVITgtKpELBGDPUTa4NxI_ONLOD9ctKag5t4APVJ9IsRLTCILsQIlHka6J4qwcJXPTqwFU-IiKf9V2wQAEhB6rZBMM8eD8Iq_ezIahVmgTxmJjBWW67Td2wKDcwJSxLLzY_dUHjgSu7uBN00y9jjCt3LHtsnAlA6-IU1kESi0n6DP4bgisPLNEuYu5B39oIqyZ75cr-Q0InEMaB0fNeGA1fNNZd9gYs9hjLWWfITPlk7g931OC0b36AR2fxMMu1QX1Tt5_HNBOQkAejiSn-juzj_g0lMk4_1nNZ-74",
+      "website": null,
+      "phone": null,
+      "address": "M6X6+VC6, Pelaga, Petang, Badung Regency, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:44:29+0000"
+    }
+  },
+  {
+    "poi_id": "4777dc05-2048-46c0-a867-a23c288f5e39",
+    "name": "Agro Puncak Bedugul",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.292769,
+      "longitude": 115.150157,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.3,
+      "popularity_score": 0.566
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 429,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJs5sqyqmJ0S0RP4_ko4Y5Mao",
+      "photo_ref": "places/ChIJs5sqyqmJ0S0RP4_ko4Y5Mao/photos/ATCDNfW6ftIquYpF6j4WLaE-ui5TI6LTh5uX4wQ2HC4MS-gt0Pb_9F179UovRwVD5noVmsQCDkjONn_EXSAWxJypgTq-jLFCAbsqKw5LnKk89HRkO7GnDaZepW8tNhW1US1DYZ_WInX5y4Z1SZIEmuLblrsBa6NgYWNbgzoi45Av5pjc2KUj7JqG7gLhl42ScQbLAbeHO2jDOdSBCEG1D8KxgCh1gVX42aloqIg3Yr7HTMhIlMDEcK_-TZZ-mQuhYEjozTY3pFiTt1iD6flUVPNSOSoby2C_lDSBUA0G5zsWU7HfrLCHpFou3DeW5fs2QHs_LqVHyFyKn4e4y1tY1wpd0wZNYHEeoFGt-53qoFtX7XZcQ4RQOSNSSJlL99NbzlAKTPI_ModBO7aPQsHv7ls9iaPMriKJs0mm0dNYb9-zlOim8lA",
+      "website": null,
+      "phone": "0813-3722-7241",
+      "address": "Banjar Bukit Catu, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:44:54+0000"
+    }
+  },
+  {
+    "poi_id": "a295db2a-647c-44ec-9212-d8a156c023ec",
+    "name": "Patung Ganesha",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.291485,
+      "longitude": 115.147663,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJjQC35nKJ0S0R4wQ_WpfFr-k",
+      "photo_ref": "places/ChIJjQC35nKJ0S0R4wQ_WpfFr-k/photos/ATCDNfUsVEpRZLBie_8BQ78ftB884GSQ0RCyCIqJdFTHE6Ad3vxydgzRT1oDz6BmSOXDule5CN4UQqrKW7snKNAZTLR5hGBm2LX2JE98tVDiPwAySbjx9XVAWO8nWEy3y4nlWvSLlrM1v2YdG4LK6NjggrxkrWZLNtfX7dru8BktYv4QYoguL-fCM-t5qy2-nL3lL37t1J82XFJfGHjc1DaE2LZN5oS6jF4LLt9fk-TmZTQCASFHE1dann3EWtukwdgiL9A5u_UrHpGUmTh-va0CLMI0coGSW2bubtKe_IXwHKuQaOPdM3prKTo2KE92tN_9Qn-Mh9BqX70-toMpNGYVYeXdsi3l0OJMWbJdJPs08CDoD2CyOgoI0RkvlOOnAYNGH5VTptxOvVpYVGFM4hQDlkrtuTMgnvpwWuy-DZVm2Z0",
+      "website": null,
+      "phone": null,
+      "address": "P45W+RW2, Candikuning, Baturiti, Tabanan Regency, Bali 82161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T19:44:54+0000"
+    }
   }
 ]
