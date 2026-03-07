@@ -34300,5 +34300,3343 @@
       "tourism_cluster": "mountain_lake_zone",
       "fetched_at": "2026-03-07T21:31:23+0000"
     }
+  },
+  {
+    "poi_id": "98be56af-e7bc-47cb-91c2-8532c15b583e",
+    "name": "Kawah Padang Labu",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.270046,
+      "longitude": 115.134467,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.151
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJy8Dbb32J0S0R8LhDobLR1H0",
+      "photo_ref": "places/ChIJy8Dbb32J0S0R8LhDobLR1H0/photos/ATCDNfWqdKThOxHJVFOu-egvmHHUcaG2WVxca8TeiKo-_CjtUakWIN0TqmDBu9rjnpQBN0xqOeuW2D4EiqXt7LAIr30GiMJt-4UjcouneToKMsRAovkPnC_SVioVdjZ6M_q0NtFvqdOgNEEQInFZ-6UZHyR747FX0lP9z13DZfc5cJnRem5RVek07bjna2RBcXFzLeWeB2KgsjDhuH06ZO7HCTs7ZGYn4TOAuwcnskhrbcODjSKqB4776iU2hrzyIeJehQwGVq1CV71GAnGhD1b1s4p1G9IG8tFrAtgdtXwWfTHmCwEs6fEkJXcpMvIjCRqO33FFUHooD-OjLk0eTOmEjclEotaSYW1E6YvFlqHbtpnMIKnc2zUjKGDEqvBYLsoSDDDbNeNxzehvA4nlsFt203WCfRnUBgGxTnLoGhCDnw",
+      "website": null,
+      "phone": null,
+      "address": "P4HM+XQ, Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:30+0000"
+    }
+  },
+  {
+    "poi_id": "0916a830-96f6-4677-b465-a969872fa4f3",
+    "name": "Pos Pendakian Gunung Pohen",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.270689,
+      "longitude": 115.159203,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJo4_WUQCJ0S0RTxEr9eZDnis",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "P5H5+PMG, Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:49+0000"
+    }
+  },
+  {
+    "poi_id": "0a0058ef-fa63-43ae-851e-346aa46da981",
+    "name": "Bedugul Bali",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.268831,
+      "longitude": 115.166652,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.8,
+      "popularity_score": 0.593
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 294,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJRfoSQwCJ0S0Ra8fGVUEh8yY",
+      "photo_ref": "places/ChIJRfoSQwCJ0S0Ra8fGVUEh8yY/photos/ATCDNfWBJF2nKbMOihuy8eP5tBnJ6O7hyjD6_uOVk6LJp8G5aYoC3-bOZziKNIB-1eD65QD1LcaIChplpeSC55_Yw-m4xMRMYtYyLc5AVigBh9uJaxRwR1G_di5MWkgeUYt2VB3UB1dZ4TuLFj7D9bl8fpee4cixuNW9AbhscjG--dc_JsYhYgKKrohQ_lkWUCjEFGTfU1grfBv0HYslFtjkBDLX1T1G_ilxYx7UWdqrHFYAb8FNlpvS-N2TzqOw5QFbJ9YoGwBEmdxA0mAPUjXH8U-s9vw-06OeaD-YripFfhdRXRJAPB2ndUMuGTheW4p1iuuio7NzXtGnB2vKWquyNCr0r09LFpBW26bw6peBYBwZzrj8F7Btri8sqI4jyocp-GUUU_dBz4ka9nD-WcFDCqIah4uK7QFc5vweIWnZkU3RLr6xxbS5AaOtL1kJhw",
+      "website": null,
+      "phone": null,
+      "address": "P5H7+8CG, Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:55+0000"
+    }
+  },
+  {
+    "poi_id": "b0456858-2bea-47a2-b196-702943050ae4",
+    "name": "Petik stroberi bu made",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.264458,
+      "longitude": 115.164935,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.9,
+      "popularity_score": 0.288
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 5:30 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 14,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJHUARXgCJ0S0R1Qq1gifGgiY",
+      "photo_ref": "places/ChIJHUARXgCJ0S0R1Qq1gifGgiY/photos/ATCDNfViWpukvMN7DWOMmdQUq6_G1BSwz5pXbcr_ZXcmC7SG3VKWXkE0DjAI9fTrgJ1xZpjZLP32NVEZ6nAlTbLfO4Qj6cCidN2fI-YJRMehQrFtNjXn6wLNR76ZJoA9Wdfe7b71JouQ8dIH_i4CV6s22ynbNPrbXxHfAquS-pyhnch72nItWS4nafolgcowCFwj9RVvXWcmD_9V5r1lVUDibtQSxNNgoAcaKTpu4PWNiAcxprUbjN3cehOwuzeeFU-JhhUVETxyg5vZXjRwA1jOvkirq1ArDxCZeEroTg_FWcDEjgoYCncdQc-PhI029fTJDWRSj3SSLuwpJBrrdqy2QaE99JIza9Z4PHkkVTL7reiK0yXpjHH914TzEcLK2EMt0aGlo4e1tN_iflaeifiVO7FA0T5J0HlcwH0xaH5GbUJ1QlfQCec-278MP1JMGA",
+      "website": null,
+      "phone": null,
+      "address": "P5P7+4X5, Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:55+0000"
+    }
+  },
+  {
+    "poi_id": "81f2ee98-5a48-4fc5-9e7b-f3b00feffa51",
+    "name": "Pura Puseh lan Desa Candikuning",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.26688,
+      "longitude": 115.16456,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJr1dKPgCJ0S0RYqWmiU4S9tc",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "P5M7+6RV, Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:55+0000"
+    }
+  },
+  {
+    "poi_id": "c2dba2d5-ef1e-4e81-8c26-8233a41adf23",
+    "name": "View pinggir danau Beratan Bedugul Bali",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.264791,
+      "longitude": 115.183628,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.4,
+      "popularity_score": 0.308
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 24,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJCxHOAf2J0S0RHsaHI6U_xeg",
+      "photo_ref": "places/ChIJCxHOAf2J0S0RHsaHI6U_xeg/photos/ATCDNfVkIJU0KM5YrvZ9QGGwnnfcjJD93XQlHU6lA2T2soTs9g8l71Cb8QyZ_YzXXPNumF2w5BogmgcmuYorgY1UYoImNQJWToiNFr3MIaGYjDMZi1NJLcn0R5F8p_bQSPD7W3TENh1XNy0s_xgZCX66XJHKLf17mXg1C_rPZWoR2SRP4elRP5mTRhTAvYGxI3rgzSqKUkN3KNQFyMp34QLUAur1fbdARSyiXd38b18EdCA0__zB3m-f6O_DGhGWaczZSztfOaNoRvGRNsIimknKYp2BJJbvPlSTUAlxSFT-oYz8Br9Qz22_uHICCZv4JgugiUvcDWDJ-L7LhBT_LS5ocK0BfWPrqIhS5S-fnMcEs9bdu3ZeM8lDs1SlaJSZwQWrHVj-a9IEyX1lTn4vka4tvECfCEMRAXUy9p7kdB_Qg7P0og0",
+      "website": null,
+      "phone": null,
+      "address": "P5PM+HHP Catur 2 camping beratan, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:08+0000"
+    }
+  },
+  {
+    "poi_id": "6f9e0f4b-66f0-4980-b9a9-52a5a9e2658e",
+    "name": "Pura Pucak Merta Sari",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.269667,
+      "longitude": 115.204416,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ7cO65cGL0S0R7b_8seXMzUM",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "Br, P6J3+4QM, Jl. Semanik, Pelaga, Kec. Petang, Kabupaten Badung, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:20+0000"
+    }
+  },
+  {
+    "poi_id": "d7763d4b-cf11-4dce-a972-c6cff1293f82",
+    "name": "Galeri Alam",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.263885,
+      "longitude": 115.212492,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJhSP7fgCL0S0RuZdDhHTuFcw",
+      "photo_ref": "places/ChIJhSP7fgCL0S0RuZdDhHTuFcw/photos/ATCDNfWvBLQd7oK7LYf63ayuKRhPCMSjM5SECqRIkYEq4hmszg516dSLOaskNhnnB_yPDi0kOnvLnqWyzc_i7-lxw5_eLMw9l_dgsRPP_LVNV1IOS6AYIES9gauNTZGrsTGXYHxp2kgGxFmp5oeCfpfnACHZJuis8yvCXWW4Ej5AeoUvJpOKVgUnVeYHNmQEFtRb7KETeSGdalAD7yWQ9lkcJaQuHyb76BORUJu4HycWpHARCWAtokATzIm-sWE1h1EwEzvLTvzPth7BMOH6nyWFYaERM7k2Qs94NujLrpooWfDiGnr2UdHUHNYArCEFb1s1sjgZ6VkUAgZH7V39GDP8qr5MDSybBnU1ljr94HC3Ph4pcJEE5A5bGaI_e5lsqzSO4I6fy9v-RqLn0bpPzHLN3JxqNw4pRwcTt8raGLV622i2EY3oLfJ9wMICzwBU",
+      "website": null,
+      "phone": null,
+      "address": "P6P6+CXX, Jl. Raya Pura Pucak Mangu, Pelaga, Kec. Petang, Kabupaten Badung, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:27+0000"
+    }
+  },
+  {
+    "poi_id": "a2fbafab-c489-4bda-b0c9-a6aed12be31b",
+    "name": "Pura Pucak Peninjoan Semanik",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.271073,
+      "longitude": 115.214579,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 2.0,
+      "popularity_score": 0.048
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 2,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJAdAk2baL0S0RryliSnAN-eA",
+      "photo_ref": "places/ChIJAdAk2baL0S0RryliSnAN-eA/photos/ATCDNfU_xnGpXlV7xgnPATpwMDZwsOXElStQFINgJm55U2mBJCw6A4oTFylVrgmAL6Vr5emS3Z8hrNmEqHIVM-_ra7QcOfMuWsKSOMOm8BBYZ_l2o2OyTVxSkbqzKyU6hWK_EyvD-lCOIzHvHZvX7CpAxB-3bCaMQRm34rrPDG-rgaH9YLdhjYHRlPLHSUevMRhCSTGl0VLTpHKGpAdTHqAMzJZfvQ0RO00lRgB7qBmBLGivTUj1f0CVECwESikcvlj7WnSy9plbtxjv7at1b8IAdrdkMmcK-opL33PoTe0YUbsETrX5-KP859t4XSmaf8o4DoDdzKFAEMfUUGXmmOKH66iqz7vHJbvEpQkEDQ2dasMEPkfewS1QIH6KL8N_TTCHCFe5vKyO4cC7wq8VWF7lhxohB1nabKrT7BXS1x7wp6RCU00",
+      "website": null,
+      "phone": null,
+      "address": "Br., P6H7+HRG, Jl. Semanik, Pelaga, Kec. Petang, Kabupaten Badung, Bali 80353, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:27+0000"
+    }
+  },
+  {
+    "poi_id": "4426a8b0-b646-4968-9546-07cb100b190d",
+    "name": "Pancasari",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.257797,
+      "longitude": 115.123695,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJBbtSCwCJ0S0Rcu0UWgS8n5c",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "P4RF+VFP, Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:33+0000"
+    }
+  },
+  {
+    "poi_id": "75d363c3-ef3b-4c3d-890e-7c0e5542914c",
+    "name": "Pura Panti dan Kawitan Pasek Gelgel",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.257797,
+      "longitude": 115.123695,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.0,
+      "popularity_score": 0.06
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_9s6keKJ0S0RuadVtkwlHdk",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "Dusun Karma, Banjar Sari Kaja, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:33+0000"
+    }
+  },
+  {
+    "poi_id": "ae487054-a990-46a2-a309-4edd71369759",
+    "name": "Pura dalem ped",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.257797,
+      "longitude": 115.123695,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJwfhLKgCJ0S0R3sRi9tLhgps",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "P4RF+VFP, Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:33+0000"
+    }
+  },
+  {
+    "poi_id": "dfd85a35-764e-40a7-9c0f-3e229a91db3e",
+    "name": "Pura gunung sari",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.257348,
+      "longitude": 115.132514,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJC7gcUTSJ0S0RR9royn0vrzM",
+      "photo_ref": "places/ChIJC7gcUTSJ0S0RR9royn0vrzM/photos/ATCDNfWusrV9BuEDo3MOJ8XxAvq5uAs85UHWyWXSTlElAFKTdnr2YaOJsuaTOPQuIkB1INGVjYdwonBAm344oVKinF7rE0dYycm5mocnBU2Kkh7smCX2D4J-9ayO-TlUw0TI0RZ11KaG-49dIZQ7pKbLWS7KdtaoOzZhKt29FEU6Q3Od42f6zDJBvlU5P3sSi2-s4wLf2CHncW8NBLxcMv-XhPDdTSsoEMYlLoLqMVCVmKvY_3Ja2Xi6k2PIhXaiPjiVTuw6i-PMjBMLpZVV7oBOvydYv4_CtCUxKxSGzAL-KbW5dbr-3_D2a8ttflQIRb1hY40FFj9fwBmadQiDICv9zjdfvz0pzjgGwNyb_cHe91y08UqYa17GoKdZIHx72TRKw6k_ASwGh9ZHla27wKIBnizYhoOPEKR_8rBLIu7Uf9U",
+      "website": null,
+      "phone": null,
+      "address": "P4VM+326, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:39+0000"
+    }
+  },
+  {
+    "poi_id": "da3127c8-47ce-4720-a168-76a6873216c1",
+    "name": "Pura Luhur Pucak Sari",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.258037,
+      "longitude": 115.139742,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.9,
+      "popularity_score": 0.281
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 13,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ07pRQNaI0S0Rh1j0LPD3Qxo",
+      "photo_ref": "places/ChIJ07pRQNaI0S0Rh1j0LPD3Qxo/photos/ATCDNfVRR5YfDegPGWPU94vhBpEA4H0BkdBm50DS0qPUW1YUmspuOB1FEQisEoJ0l3Wka3PUZEJ3ye62p3esY-iRnx7zRmSVPFhpZzDly3g9w_YxYtilQBYVDAldEVYXesAERTOavB87oR8ipNucg7myAF4LGZh1IuROtIh0_t6-2I292jB7aJZWTHOfQK5ueIZRrnBB5MwVqxADbfC91C43iB8JVkddsuqp5lt96kXlsmXoVl5tnEJw0CxkHv1pDgVBtbkDgXyc5-Zdu3OyWBjdVv4Psv7urY0BJWwDFHKkjKe4F5867I4MhW1vi_5hWCOVxSU_iaRWTJL6jmNbjjYfG1tCGNugCFv7BBJIbzsUpPrNOhF4THavmRM1_Y8zOWWRh-KnJjk3hD353jvwxMGbbs6is_o5n14ayRn41R341yPpGno",
+      "website": null,
+      "phone": null,
+      "address": "P4RQ+QVQ, Pancasari, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:46+0000"
+    }
+  },
+  {
+    "poi_id": "ddf48dbe-8ef9-4b99-b810-49c8de4fa48c",
+    "name": "PURI COFFEE PLANTATION 2",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.260036,
+      "longitude": 115.14318,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJVzF7BwCJ0S0RZDNtYdsNtYU",
+      "photo_ref": "places/ChIJVzF7BwCJ0S0RZDNtYdsNtYU/photos/ATCDNfU8Zz8PYzIK29u2tPgvc3mHJ9qAJSNYxYTNRKFrgQthFSIz-cROgWMDUjSPgpuGafi9mI394TqNI7tJfWgDl2rI_gSx0mEejvCxRtMkzS-6vmgdRUVLqzInkuMSYXV8bMBSbI7LGIZdngqWjvukUh2bYokLrL8_lzm4LVVM9f_FTKBfD4zXfrywsYmolgOWIjko8jQD1GGC8YEqEtLz2gK7gmUfyM5tRHZt0g-PyGqx0T1aGi146a-D7W13Plk8i5njN10f4MAeBdzy7RQ32GgX7y_c8W7At6BjMx7-Vi6KM6eNmC_lTpkIhZ5MuDwAsxxuswSYXAVkos6Ruta2QpZ84XXijJCw1oNRBdyvFslS2evh0GwHLj_wtqEAPZ1liSKhSyT9BbX9b9_Jo-klkk4QZ2b5_50nxoFMxqBg0j0THdwVeuAcbnuLkzuQsQ",
+      "website": null,
+      "phone": null,
+      "address": "P4QV+X7, Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:46+0000"
+    }
+  },
+  {
+    "poi_id": "29bd94a5-1331-4406-9b58-6bd1767998a5",
+    "name": "Rumah Nang kelinci",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.25951,
+      "longitude": 115.138483,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJF8nAXACJ0S0R8a5iuVK7xMI",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "P4RQ+59, Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:46+0000"
+    }
+  },
+  {
+    "poi_id": "ed390e7d-b006-4b59-87a8-55829715b8e6",
+    "name": "Spot Photo Buyan Running",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.254628,
+      "longitude": 115.14042,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ__TXqdmJ0S0Rtj1vltZCWTc",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "P4WR+45V, Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:46+0000"
+    }
+  },
+  {
+    "poi_id": "e6fd30b8-de57-4e47-a5c8-97563c7e25eb",
+    "name": "Pura Candimas (Kahyangan Jagat",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.255646,
+      "longitude": 115.146336,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.8,
+      "popularity_score": 0.275
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 13,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_Tq_WCmJ0S0RHrlTPj_gP8A",
+      "photo_ref": "places/ChIJ_Tq_WCmJ0S0RHrlTPj_gP8A/photos/ATCDNfXKrw9LAba-JTdGzzKxXTiKetSGxWt8i4_1O6Dzb1WFQ5IBPkVQ1MKyi4hQ6UlJCWwVB9T9zJRt_Tn1q2jOcv3NSNb-nXYFoY7eNINVojkyeJSDSqpIlow33aVY-IXuy80Z48dI8KaEn-AhxaNsvhuIrX9ilSqhuMIvgAEJjLGXWWc3lCwnXo2aVNVGHXlTQ2TrrgVO8-pci-W0KwmL_gb9Nd0StB5w0QnyunnfdoIecj6jNAGMz4xuSM_Omca3c5NYD0VtrTFItO6UfZHCKvttq-_GvaZUrs9hkWzIyWtkj4EaNaA5CO_bZMBxpDNb0iWyJuQZgM9aY8ULXyHqs8VOL9gWwGKzJYrRUZE5eKI75TwQPmdeACo6ssSXPXzhTjihjFNbP38Mf6H-Qr4q42JJp-UmF7P4YtPDnAdCKA",
+      "website": null,
+      "phone": null,
+      "address": "P4VW+PGW, Pancasari, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:52+0000"
+    }
+  },
+  {
+    "poi_id": "9f257380-3da0-4f87-b33f-4ae6fe338816",
+    "name": "Saya Gallery",
+    "poi_type": "museum",
+    "geospatial": {
+      "latitude": -8.254506,
+      "longitude": 115.150417,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_museum"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 90,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "art_gallery",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "art_gallery"
+    },
+    "_meta": {
+      "google_place_id": "ChIJV-qxtC2J0S0REvpwGRe6BmA",
+      "photo_ref": null,
+      "website": null,
+      "phone": "(0361) 730858",
+      "address": "Jl. Laksmana Benoa Kuta Selatan Badung No.12X, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:52+0000"
+    }
+  },
+  {
+    "poi_id": "0c8ea982-a644-48b0-8036-6575df6ac89d",
+    "name": "Siwa- Budha Majapahit",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.255245,
+      "longitude": 115.146491,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "buddhist_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "buddhist_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJT0DgoWWJ0S0REFJoNIyPh3E",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "Unnamed Rd, P4VW+WH5, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:52+0000"
+    }
+  },
+  {
+    "poi_id": "f5cd954f-5e27-4f45-bf5a-0c5727f32d72",
+    "name": "Hidden Strawberry Garden",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.258111,
+      "longitude": 115.157695,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 4.9,
+      "popularity_score": 0.672
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "car"
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 554,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "farmstay",
+        "florist",
+        "farm",
+        "wholesaler",
+        "supplier",
+        "lodging",
+        "park",
+        "food_store",
+        "store",
+        "point_of_interest",
+        "service",
+        "manufacturer",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJp-8UGMOJ0S0R4h5V4aUE0M8",
+      "photo_ref": "places/ChIJp-8UGMOJ0S0R4h5V4aUE0M8/photos/ATCDNfUN0DTPsJCUj4IIRJybTdac7wism6S93o4zItlXPyKVQ7m5KtPa1pxLjdVhJTRJFk5xXJuUeh2h-n6rZQtg5_exlvmOgKtFplBqUPMnQZz25HznFYsZBa5a8QVLWJ-z4YAkeZI210SkZxnum9mpzXdJXB0gX9H6_9uMbhwuFgOdGxc7ljBgTkWUeBtM9taceuaG7a7ny6WGy2xV0RXeeQwM2QPX9cpn9xwQimTESahtSg-FsgxQNDINynPzeOjoYzkkZA9DRFBWhyKFo6Iy4Aiy1mrPuw4kF3Q05Q9Z-MuFeg",
+      "website": "https://www.instagram.com/strawberry_corps?igsh=MXh0Zmc4eDVuNTZicA==",
+      "phone": null,
+      "address": "Jl. Gatotkaca, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "eb37504f-d4bb-487b-948a-7433b8d14cf9",
+    "name": "WIWANDA Agro",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.255333,
+      "longitude": 115.159244,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.6,
+      "popularity_score": 0.564
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 6:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 281,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJVQkGrDaJ0S0RMrqtUYU6QAo",
+      "photo_ref": "places/ChIJVQkGrDaJ0S0RMrqtUYU6QAo/photos/ATCDNfVYE_SuSMijjesGIQkzyV7m8AcUCzrhlqObJ5TPVA0S0hkIpNZOOyF4AFhIVnVXxPl7v6gdBFk2L817n9PIhlojY-VGyvq1avX3lC8Fx3o5CMfl40tUGamuR_1zM-yYLlxsrLyOJ4RdGlehPNkOhcC33Wu-KKqb-l80DWqgUl2B_ki1QFhf3E8s2IN12KuTIKjZ8tTMKPGbfMDPYLnGPuuCpTrTTRshy-C9AHLNYQAeeC_a-I0L77xTFZfrtsllIbdt1AT9EyRaBk12gzSyq9sXy541QrR_tbXptx8hvkjL0w",
+      "website": null,
+      "phone": "0821-4696-6778",
+      "address": "Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "c906934c-a7a9-447e-9df3-dae12cbe538b",
+    "name": "Agrowisata Segening. Kawasan Petik Stroberi",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.256052,
+      "longitude": 115.1601,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.7,
+      "popularity_score": 0.381
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 41,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJJXbimJeJ0S0RY0M8kLkxBBY",
+      "photo_ref": "places/ChIJJXbimJeJ0S0RY0M8kLkxBBY/photos/ATCDNfU3BPTxfgQYJs6CI92gN8TpgMwpywBdQW6W2A7boMT8F1PRSKwqXpI9R7FMxwQwpTVJc1sDqwDRFksP9uwiP0uA3Wkv2OPIjXElal6uEkjC3B1-iAsMBpzFoSZOj4SPb_oGMs3UYMHG41rbdQ7kuuxwubtio6vn5b7jKBk53OaiI4c2vZIxkntoX7hE7aEc1LDgVCD8bO2imZGJzjBnD6RWP79ruqdL8DFFA_kHFMyioBif06dDNe0OB_Q5PGdRAZifyb86zXxdEGZ7Iavii1IIDc8BKt9o-5wrb3yKCxy9i-xMdcr6b2-9Cms500o5IVPrZEcBZink6O7zGzPriqOLySnZaBxJWl_hkJnqJv0BjoCT5V1toNMYtQqMORoa2U2qhtbnMkAQHi9KomBxHQubDF0oJFI75vS1X9WJTUA",
+      "website": null,
+      "phone": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "a97d8eb5-c53b-4f1f-9d08-c08da03ed429",
+    "name": "15. KINTING’S STRAWBERRY",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.25892,
+      "longitude": 115.156468,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.6,
+      "popularity_score": 0.23
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 6:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "zoo",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "zoo"
+    },
+    "_meta": {
+      "google_place_id": "ChIJo_lhpCiJ0S0RQX3sFqcaYfc",
+      "photo_ref": "places/ChIJo_lhpCiJ0S0RQX3sFqcaYfc/photos/ATCDNfUDX4XbY00VaiceHyfEaDYPbi2CIHc3GQZwO5DVKwDj0crp4-YnoJxncnkzmPn76wtIph49YY-19W8U2hmB2usihvX38waKd8Aw31I6IgREYifvJWDFoUGL2_t5sAFnwzTbdbs5Jggj8zcou_NZfPL9bLj57meTtmLVlhF0B6BcoM6L_z8-b-stMq3BwTzFb6d8kK1yiS7lhASkPYbaP44Cl7Kpivz2WTQ2ei0GTAP9PqsjQhRhZNPAdtIU68SD1FZf8OyrrjjhR94TpyAM5MT81GCaIDutA2GySzfFoh4G51NAmiOfLtllCrdeGXEuz5YSpU6rf6koGIVdXAFiMvyaKqQNTMIAz-FmZJbRbvybd3smg4i-F_pP4n14zMcigMT0N6HRgG5HKbwACV7FUFiwopZzMruyj631piLTWOgsPNI",
+      "website": null,
+      "phone": "0812-3768-3038",
+      "address": "Unnamed Road, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "43d84ca5-41ea-419d-93f3-23f28803f0aa",
+    "name": "Degus Strawberry Farm",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.255448,
+      "longitude": 115.156886,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJYx0khkKJ0S0RqJ2EwQxTA58",
+      "photo_ref": "places/ChIJYx0khkKJ0S0RqJ2EwQxTA58/photos/ATCDNfW8LNdWW0DOyZxj3h4GPGIg0G4n17P6Z9_RS9h8HGOv6EBmu_couwF3Pt_i_SapgeHJU9zr_Ty0epP80lya-FVHpANK4JWv8MOlyeEIdIMS8ToUMmj1uR9y2gTLZN8JN9oln1cUV_fP49v3CjpFbn0rBRxJkmz4FVZ2Ca9ndweSJ5shO-CwGj4-ae7okYIueQiTZ8_Cc6QcJr_Ah1AqZSIaf3E-BZVky74oTbhBe3MjV6zTTgQGvSzZKKuVsOkiEJbm_LaEAM4RRFmWA7yhkzNn8mHiG00rBWKNSfNUM1H1jOtvAc6-G2Q_-Mihss6vzOUFSEF7mtVosoIGXBYzVzNHPWABjb_GMdZYDSL2JdZ3DTMP5cw1umP_qN4LbDJCSqvToCM8lmckJi9Xkh-LJC-PuPKtwzwPQ5_xyMEoQzI",
+      "website": null,
+      "phone": "0858-5756-2075",
+      "address": "P5V4+RQC, Jl. Anjani, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "8edb7b9c-6a50-407f-a5b6-95f7fa8d63fa",
+    "name": "08. Life Farm",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.25753,
+      "longitude": 115.158225,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.427
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 50,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ10dhF-yJ0S0RWnummnWZFe0",
+      "photo_ref": "places/ChIJ10dhF-yJ0S0RWnummnWZFe0/photos/ATCDNfWxTYtQqYSk9LVB46D40kbqev4HGkAXzI9uCIakpDJM9r5ncrx-Lm089f10jd1yrjSO79aR5zGI_616OVfur_iQYsXXD8NWeEM8CT_lg8HcJRtyb-DNvYkejQpMjwaFsz3yxIlBPoylPuvXJiTkVtKB0F6tbWXu1sItKkedmqMSegnu601_6Z3QIns36C_L-g-zVlbCynEBXJXve5YgmPjBavxJMwKQDDzG7da31t2YDw_JIfZsNurNseC9lYUsbvVVpfl0PZFAPUja0ReEkJll1MepNRlIM3mT82HchhjXAkH04UQ-HQE9AUg5iJa2DyrKVDk08SpqhGguhuQliQQIrf07O_42mS7HMCq4I0JKW1V_ba8HzoxitU3uR6y2TjhH0eSIITcLvsCAERJ5To5beUr5DMynHOSKoCXrdg",
+      "website": null,
+      "phone": "0819-3705-2199",
+      "address": "P5R5+X7Q, Jl. Gatotkaca, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "009e6bbf-8c35-4a76-ae59-5712aab082b8",
+    "name": "GHANA Wibisana strawberry gardens",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.257881,
+      "longitude": 115.157131,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.325
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 19,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJGbpW_OqJ0S0RMMBhtrYEHI8",
+      "photo_ref": "places/ChIJGbpW_OqJ0S0RMMBhtrYEHI8/photos/ATCDNfX161W3SjpkvBxN5sre9uPcU6AUZtaRnwG0RSiPjxBjF-oZntipAyDIYn-gRNT1sI4pXn6-QBSctKWLndR1kMn3jITk-a708GZ6rlr46Clo1YxKV6tmSRYBOgCRAM3471FsFYN1xGJcPz08MiqO0LIy9xweyuxwTyfDNiPopHtHitLp-2U_GxH4ZWJ4J7pFNuxNnsngpNUTDm3HnKfG9PiPL39ecZZSVZJ-yx_5XGcfNW0-IdyKEiFWjbvaV1e-vWhRZQN_J9hTRWQgHGiApUGwru4TE4ehZ_hlBBxrH85kKA",
+      "website": null,
+      "phone": "0857-3723-3416",
+      "address": "Jln. Wibisana no.9 Br, giri loka, pancasari, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "8d38cbc8-d121-4403-990d-f760d43c7b8d",
+    "name": "11. Pangkat strawberry",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.258192,
+      "longitude": 115.157339,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.211
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:30 AM – 5:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 6,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJV6wmbJqJ0S0RnTnDZ1tFgIg",
+      "photo_ref": "places/ChIJV6wmbJqJ0S0RnTnDZ1tFgIg/photos/ATCDNfUKdIOLcIoAabHfn9lRr18Am9CLNNsK2gxMPHA1QBf-HQHCzluQRLajM4wvT_D0KSIKemeLw2kGtDAucWtFUmZxNY9vk3hB05UGCxzJtw5wlObYb-0q85uv_FacUzOAeI-c6AL4Og5picpCSO9jXZfmPhdY-zMuRCPSmHpiES2cmEVAMGtWg5FINcTNV1rJ8FceEu9puW_gHfcvpl9c3btz3zupYgp3HoBPzbmofPioBIOWZwnr_g3w20YlEHk2qeriTxjckepBfGj53yQ_d_KUAGbVys1qcAN5fD7hf7CpMDKjf67D2aRS3ipz4xqavQssY11F99gH0xhNwBJmbf6XGeaz51xptguOeRAyk4s8v17QCqTjdUNnGSB3ZIe5mdOA_NYV_54m8EmdLGgxOaNBoBLNhgBfXA2u4nj7LXX1B0U",
+      "website": null,
+      "phone": "0856-3724-923",
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "68bfc064-6c50-41ef-95e1-a9fd4c036077",
+    "name": "Strawberry Greenhouse",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.256574,
+      "longitude": 115.15948,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ-_IE7RSJ0S0R2f89_EHFiIs",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "P5V5+9QH, Jl. Gatotkaca, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "7085a559-5de4-422c-8377-4de27a85b662",
+    "name": "Bedugul Taxi Service",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.259035,
+      "longitude": 115.16273,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.386
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 34,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "taxi_service",
+        "tourist_attraction",
+        "transportation_service",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "taxi_service"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ36vT7p298QoRhs5cN7s8v00",
+      "photo_ref": "places/ChIJ36vT7p298QoRhs5cN7s8v00/photos/ATCDNfWS3RbTk54XM1Pb92oV4Xhj-c7fzUCA4jqRdfNviKnI7gFaDw8OFR04RhDL37JGv0IzAaUJmfApfVrMu562yO0w_upW9ckhFjC6O2hSgSk3GbfQdAhXbVcFtwmlvpom09bLdaYzZan3Y3TSPMqIA2HVbCnx4WHuVUXcnmyJ5BTOXeDsMRNhdxSq17lq7Lt9rNMNFF4-47gMuVSGu9EtmN5UWm6pEYkUNP5d0Vzxv-vZnxbbmHuzUKXA5g_0edD73-DafgZFr-0DicrUuMzW4aOd3xBDtGKMLOCo2_pR2uGrJg",
+      "website": null,
+      "phone": "0858-4735-9997",
+      "address": "Br. Kembang merta, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "b7546e40-5e74-4f1b-bb41-2fdf8ff4a9e7",
+    "name": "Pura sari pengayangan ida bhatara gede gumang",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.255268,
+      "longitude": 115.158682,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJTz6LGseJ0S0RownDs329Sx4",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "P5V5+VFV, Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "93342613-99b7-472f-890e-d48e0110da5b",
+    "name": "Jual pakaian harga grosir",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.257844,
+      "longitude": 115.156708,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 6:00 PM",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJs2qRLY2J0S0R5sTdE6xS7BM",
+      "photo_ref": "places/ChIJs2qRLY2J0S0R5sTdE6xS7BM/photos/ATCDNfWzAZpWPOSbvgdd4kGTYR669Q2AbeeqLvR9sAdk2cX12yZfnVw8Jitft1AZAZCOfNKLMX4dA-6n8FpvgivQO7WiInhQ6l44L4aQEEUy5LPPjboCC04d1VqpFuVy2cyClq8RKlrJqxwy1UCHwo7QYGJFf7mxBDSFObb_GctJjGVJNIQEwUsS50441G5fbiBWI2kwSAGjdVaumi7ZBIPo6lFmUdLibRWBRMKzSAzWhzHZa5K2LDVMGbc04t0E1EvfOxpPaND0qzWmntKhMXgDQRaUuJdPivt_W-vKwDthk3cuSP_4c8TqYuGjCeV9GbXXqldmtcHoOcD8SUc9HopHZzPlp1GJ7KiWsSxYlmU3yrjr-V9IWAseS2uuFjPMuwd4sUPdk1XWIxdRTwnhQfpJDOD946ZuYArIsWiqVi_nDyFF_1U",
+      "website": "http://www.example.com/",
+      "phone": "0812-3618-0461",
+      "address": "P5R4+VM8, Jl. Raya Bedugul, Pancasari, Kec. Baturiti, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "f0f116b9-e13e-46d0-9062-a57d0ab2044d",
+    "name": "Anggik strawberry",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.256552,
+      "longitude": 115.158544,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:00 AM – 6:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJYSasvPWJ0S0Rv_lFkcqhlpE",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "P5V5+9CF, Pancasari, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "c57eb5fe-7a81-4381-a2f9-4e763c1b8b9e",
+    "name": "Ichigo garden 04",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.257999,
+      "longitude": 115.157699,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.195
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJH-nhWL-J0S0RS9AJz4fPLyo",
+      "photo_ref": "places/ChIJH-nhWL-J0S0RS9AJz4fPLyo/photos/ATCDNfUSDJ1TUm0HIRiEswVqcIpiKsD8DqeFRn6GLBmHhsNRoPgIg-T3L_cInwMW7s5MqJiLpESm6SJYI8h7U2DwodB6ZX43HHGuJHaYUf0l2-wkwC0f7h07b-EuBm7yGTizM_5eWnafmFtg1g_ya7ZRoaKHhjsxDgiiai4ai74sFy-JlLhWcA06gwV8ZAICxqJu_M5kw9jRhN-MlIXPxd9wOJ2Oq7rsGvnn7ul0Uy8TCR3jObw7dE6W_MCmwfrgic1tfajD62qgnGFW1kvcWntbVirnwCN96syms7XJ9wCf5AgQKw",
+      "website": null,
+      "phone": "0877-6298-0845",
+      "address": "Jl. Gatotkaca br.dinas lalanglinggah No.04, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "681a2db2-3fff-4df6-ad51-c274e574df40",
+    "name": "Mandala Dwaraka",
+    "poi_type": "museum",
+    "geospatial": {
+      "latitude": -8.258738,
+      "longitude": 115.159699,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_museum"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 90,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "historical_landmark",
+        "historical_place",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "historical_landmark"
+    },
+    "_meta": {
+      "google_place_id": "ChIJdZauCwmJ0S0RSet-wNbdpkM",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "P5R5+7CJ, Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "d1e2cc2e-89ca-4972-9dd6-082cd7c588c9",
+    "name": "satya strawberry farm",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.258046,
+      "longitude": 115.155442,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJkXBLGACJ0S0RBq2RJR6KQp0",
+      "photo_ref": "places/ChIJkXBLGACJ0S0RBq2RJR6KQp0/photos/ATCDNfVtj9uyIuIAKyGISsPLphL_jDq_N0VNpcG312GAXndQcB7HNS4FMbR0FSgQtsdO-DbLJ7jOT7sw1XhU4zlF-V27sX9UdhN9cAhKc2cS74SNFSrtA5gqmAx3-rNstUiSI2TaD4U7DTWIwAo_Yc-MawQsmLbPwPA9coPYpgRxMBgycHqH7J0SDueZuWdNqnvaz53aCWBkARz0c_R88O3qLDQs4bspxwvHXOt49I0h2OqCdzIuFJYZAr8vNG11oKmTMqtmVOkC7jLWNsRFR7NzWSig-m1W1WXWcf7ZHZfse1OOVYpuqHXYcYJby_q0NSPtiQMZMdZnBhqBFQ43zHNpd-GU2ks6o_9U0JVOL5lMbALVr9u3eHTspvVL_JDy2Wquj1EgWrUwIn2FEk6035hRAoudP-2ZHXyVkYOElkhUzhcmNbOPE60BLzRbYQiR",
+      "website": null,
+      "phone": null,
+      "address": "P5V4+25H, Pancasari, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "73718044-b10d-4417-acb8-f84792bfea85",
+    "name": "Pura Pesimpangan Dalem Ped Pancasari",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.254373,
+      "longitude": 115.156448,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ5z7190OJ0S0RG94dQOiGM18",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "P5W4+7H4, Pancasari, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:58+0000"
+    }
+  },
+  {
+    "poi_id": "e55ee58b-c45c-4971-a801-6842778d3b8a",
+    "name": "Pura Pucak Sangkur",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.254458,
+      "longitude": 115.170738,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.9,
+      "popularity_score": 0.487
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 96,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJPbJFVkmJ0S0RC3aU-T4DGMk",
+      "photo_ref": "places/ChIJPbJFVkmJ0S0RC3aU-T4DGMk/photos/ATCDNfWaEbDqzA4a55NbfI9Sa2UA46yTZ6Lwalybq1Wb6p0DFvpD7dF3HQvtAalZtTWUNUvVxYguhD8pokNytk2iMhtJnVisLIsZwrUz6Q5_xGSoBwhTlIvacPh_UvqDftZ5XUf7mlYp3xxjqttMuJtk7mWIHjGLxL0GESpRx9VT8n4cD4U2fFdowipReuVnAGSiwc6tesIC8kHkRKZ8bDyK_joON2sHgCp1d-kj0PyOrQK7EL2GkaM_PDBuOvES4MtIJjnC4WPEjrIlhd6tS4nQ_8M8n3u6-O9fsNJc95XPkON9KieVrEQidYBociyx9XrKnj4Pmkt9LcSx8GFa9Vor9p5v4iTYVXgjZl_OV3glE45y4yW4XdAe1VGkZTE87TKsSYtn1zzj7wndJsk-BULVfP674THiozEHLB3Vp7D5nGl9ZrU",
+      "website": null,
+      "phone": null,
+      "address": "P5WC+679, Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:05+0000"
+    }
+  },
+  {
+    "poi_id": "94d7361a-790e-44e9-81e6-09b24979104d",
+    "name": "Pura Siwa Buddha",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.254756,
+      "longitude": 115.169535,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.195
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJB7VhR_iJ0S0RgVv6NSUQvcg",
+      "photo_ref": "places/ChIJB7VhR_iJ0S0RgVv6NSUQvcg/photos/ATCDNfWG5xXOgovB0lHzKj3yE6CzLX1aHj3y4BKCzU0--sAQrnptUnJ4rj0_qQj-iaO3L411wtgw0h77PbeLQrYI62R7j3Z2yJsj2Jwm3T4PJo9oRuMk-HUz4YKZeZaf9xsepVhZVMTVKcvH2-uiBHWBKNOFAlqY4SUGbnwgg3NjTWMgyRAcLEiJ5sJuG6jCojVnrSPqpEbIpNf3oVBnlLvqTX64ajeHfQhZLEQMn0mtA4JHtbjhqQy7fZkvb9aGGYN2zagasZ1EIFbuWai7a-SeqOhB-IU7LXg0g256WyF1IVpfnKKIPetgTJkUlbZNkLFLuBMI3GzeEUYY_36MskM0iEV_0SKnXxxcT6mzbBlkhI3zFZsv955qJw2bcLiW74oTExcXpZyPRPosV5RnaxqBk1A2xVhHKpyijQ95e6esaS2p",
+      "website": null,
+      "phone": null,
+      "address": "P5W9+3RV, Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:05+0000"
+    }
+  },
+  {
+    "poi_id": "e8c9b719-f603-4669-9868-b065d8d0c68c",
+    "name": "Pos Jaga 1",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.261306,
+      "longitude": 115.167735,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 2.8,
+      "popularity_score": 0.118
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 2.8,
+      "review_count": 6,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJDa5LgkCJ0S0RjzGeHxJLi7M",
+      "photo_ref": "places/ChIJDa5LgkCJ0S0RjzGeHxJLi7M/photos/ATCDNfXofIJ0LQ-575xCOQJmX3ADqFTjBjwHLM2uPXBTKgCq-Fl_UYYQ-pxVtYnaF2cPZESchBkGvmO4eCP2uBs3O-8PvSDasS6yubTEKqWop19-YdmFq3HyZQ7nQ3l35FU1C4qIOtAlI354j7IXCUu-jdrQkU70qeCfukIYFf-XTBx0e2cngJhh90isvytAqEsA5OIjTdVn69qzS6Sk_X8OIs0gm-J8XuJMiMKpJ2T_WZAXit89rE2Y3kszsHF-XH2-7cUOOHmfwuZSm-4QOMfVtnld6zq9GQq_wfHk2-pHCQruxo9jxaG3LrTjnmJSwnUAf--s5d27G4BzoSwD8WyUqaUKELfA1bAF1kZwhbIRnGTZM83VgGevyWjPhoulLMZHyWbaBLJT22rvsd1ew46exaRT6V9RCEINfVqDMpbfKw",
+      "website": null,
+      "phone": null,
+      "address": "P5Q9+F3H, Jl. Mawar 2, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:05+0000"
+    }
+  },
+  {
+    "poi_id": "41c6d0b3-855e-46ed-a8d1-df779bc7d52c",
+    "name": "Wantilan (Pesandekan) Pura Pucak Sangkur",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.255557,
+      "longitude": 115.171107,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJea8SYk-J0S0R36-nWVU8w38",
+      "photo_ref": "places/ChIJea8SYk-J0S0R36-nWVU8w38/photos/ATCDNfXQx2W7j46gtnO9sGII4MbOBBpUmcy3UzuTgc2qVQi6mwAYrePf_uyMjigAnxP7U1lYTPt2Ve-bw-KcxSPHbKQEyE1r3Wnj48zscwVYjZzGIWRvZgcQvxpkGK787f4MFt3cJfTgpi6oeUv-z42aj7uP33P76k-1diYHKXv5wtSZo4Bzz0Rxo8X3h6OH6JHrnaVo3-NpUCgpIWje5zQeqmQAmjC0MzpYwJPXSMf9LjG8DMLwrllHtzrEheSvR2cnBCWzOW6667ErKtv_BiiKjWxmyGR_UI9XrM5jgazq8fGQe7LiPNswnZglSMmDI1bEZIGS9_xBlftUgfwBxuwk7V36vAu40Xoe66EQthri4W7cXwjEcdViGCaoCRA4exBvdmYlN5GD-fNt7mtTFebDX3yz12dzjSzDhevXeLv3mX09HtBf17bGvNH_PrRZ2Q",
+      "website": null,
+      "phone": null,
+      "address": "P5VC+QCG, Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:05+0000"
+    }
+  },
+  {
+    "poi_id": "f4315b55-78ea-4e10-9278-d6b49792dd2a",
+    "name": "Pura_Dalem_Penerangan",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.254462,
+      "longitude": 115.170734,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJrzUMFwCJ0S0RgWowFOOvZn8",
+      "photo_ref": "places/ChIJrzUMFwCJ0S0RgWowFOOvZn8/photos/ATCDNfUnim15VD0uNFQi9KPCM092dTcsULih79uY3IkW4pWAD2Bx4lO4rIAaREUlNdr-pINmYRBFLq93fJmuynMsKrIP3Jxi14bf_hES_s1czzIshRO8RLewnQL-OluuAhbmOmGhUv0-xy7NteTS8jKyKuNsguL2kNFvk2MbK-rOiRTzlPhpTAIcWAYfFtw5ncqprxpqfO2tFSZ2YVmP7sjLWdvZIh7hX1DAa-ALTtgbIENVL_BRxQBNkgHp5N6loUtA3emwKQ_h0amx0_fR4qyO_7cWrojnpANmeWnOZAL02r25SXzrNbn3nSCN6X5SttbQqs4WAIHI6rjfGxh26MHaSAoIcetyyRDdbY3x4Pw20oiFgYCL7FuqahzdmVvm8corgHa9rIbUdeTNyz906uy5Mbreu7eE1xpGKOWy7khS577Fcz3OcX0Ai59SYMn9UA",
+      "website": null,
+      "phone": null,
+      "address": "P5WC+679, Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:05+0000"
+    }
+  },
+  {
+    "poi_id": "2530506b-11ec-48ca-8230-a2d1f0e677c0",
+    "name": "Pura pucak sebatu",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.254561,
+      "longitude": 115.174359,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.8,
+      "popularity_score": 0.259
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 11,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJpRAZf06J0S0R_r-ZukgD9LI",
+      "photo_ref": "places/ChIJpRAZf06J0S0R_r-ZukgD9LI/photos/ATCDNfVJ6oiEbrgqnq7EyC7sHhrQ6iEe995oEK_GUAnC5eGuqk32yjMaGJYRY424TrHjkk43ME0oZkutFb2BNJkU3w31LM9wDr45I2osli--DsDY5oijAxLM7EV6RUeOTZessi8i-YjjGU8j_t92SUDIILkbnRe1jnRVYmS4F-SdvgHbojsBv3hYOll23mczTgdEurnnV9LYAWJwuRc1jW98NBuW4wbFg04ZeSB-JaXdNHEr_pfZ-pEojJQA-ezFmJqwIBpJ5DjnzL5JDhEn8JCJvr2xLdjeNwb9L9hgi_pFDOkaoScFQUi9oKC0SvGciDIyUVnIo8F_c31Ldq_pusSPytD6-Uj52N1aqe_hcP80l6qYOygq0ck9hOgVqyp_JZLimpUH_z_IMsTGFAU-t5IwE6cFvDJHu_S3MpNN2dIf6mc",
+      "website": null,
+      "phone": null,
+      "address": "Pure Puncak Sebatu, Unnamed Rd, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:11+0000"
+    }
+  },
+  {
+    "poi_id": "a3aa9de2-d97e-4f2d-8e7d-4b570d854d70",
+    "name": "Genah Mesiram",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.255352,
+      "longitude": 115.179627,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 5:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJJ2Ny-O6J0S0RoeS39GtzFOM",
+      "photo_ref": "places/ChIJJ2Ny-O6J0S0RoeS39GtzFOM/photos/ATCDNfW1vcJPq9wnR-D3xbOZCpapBc6fcBnnTnA7et4B3t0L-bLqcqIomVZXvGy_m8fx8AJwv0MwHUn8JbP7L70R2WqnErmekoEaikRUzYPKG2dggpSmnx77TEtLn7Rdykj58bR6GMlQ8X457vSlpTHU3XNvvjBPhCtwvh5N4K4fXITvxbIk_FeAimPkHcmc8rQt8pMYNSsGjHFTAWwCewNVrlMU7SahaydNCIkX-VyAC3lrAVGLbU2uykQGfqbCycbyNHzYmG9ou_PtvDK5-xABXSfIqOlUW7CLYGBbFHo0Pgj-K6Z30RF5otgrtBTKYltZjK2HRwUfYYTVlrH3BN7DdtujQ-mh0AOcWIYgI03F8-jQyGGP4wmU4GYdNVPfBtBynY93qrRFqeBtOLN_4Q5emhyW7Zmk6vYU-VGHmMkpUVE",
+      "website": null,
+      "phone": null,
+      "address": "P5WH+7XQ, Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:11+0000"
+    }
+  },
+  {
+    "poi_id": "a05dba6d-a7b4-4d86-ae20-b047b3640ee4",
+    "name": "Gua belum terjamah",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.256499,
+      "longitude": 115.178749,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJs3FmCQCJ0S0RRUrnqIxqoyQ",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "P5VH+CF, Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:11+0000"
+    }
+  },
+  {
+    "poi_id": "6e7caa06-84a0-43d3-9e05-9f5988b86b3e",
+    "name": "taman rekreasi camping ground new buyan liang",
+    "poi_type": "TBD_TYPE",
+    "geospatial": {
+      "latitude": -8.247264,
+      "longitude": 115.135022,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_TBD_TYPE"
+    },
+    "categorization": {
+      "primary_category": "PENDING_CATEGORY",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.5,
+      "popularity_score": 0.507
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 0,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 179,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "water_park",
+        "amusement_park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "water_park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJhX2DAyyP0S0RdarF19h3nl4",
+      "photo_ref": "places/ChIJhX2DAyyP0S0RdarF19h3nl4/photos/ATCDNfUbAhHh8pD-W8IN4_53V2MC-HgaqgWprlX5wK5lG_xYrkq0ulRLX3fAUk5N5n9gdJw6Z5OW4_JZKR0jq3q2HkGCD5OCD3_freQTp53mFuRzdiMvtBJZEzKrBQpd_HtOqtqdE6EWqdOIxzHY9wr7g1MGamybw85ufY9xhrJ-D8jwiuFRrWMD0yWOndlIs03Blgr912c4Gb08AXw5PURdYTBHzcQnXajsgffnEKSYLu6D1qaaCeXNtUWMhpTH2ZUilrIzGPRcjVWmgDDOxMwYCURj35ozMyLmDzd2no2x5pvMAC5SNLdAufZkYe3A6NE3W_fX8ad-9lwKV1jMA7kjW3L1gSohVpzbgJAe62pjvKeieO94u5ZGqLUeqoZs5XfIPJNH-gHN0bQpcLsD06KQjKapoSZzkj4cLP5JJviKjZY",
+      "website": null,
+      "phone": "0858-5761-6871",
+      "address": "Jl. Sugriwa Dasong Pancasari No.4, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:43+0000"
+    }
+  },
+  {
+    "poi_id": "dd960692-f7b6-48e3-9c41-47f54c779dcf",
+    "name": "TWA Danau Buyan-Danau Tamblingan",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.250904,
+      "longitude": 115.130577,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.0,
+      "popularity_score": 0.304
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 32,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJfTtVDS2P0S0R3PkE-6khoTw",
+      "photo_ref": "places/ChIJfTtVDS2P0S0R3PkE-6khoTw/photos/ATCDNfXnucrdcqJxHSd_nK8S_EH1UpacE79Kx1xNlO6fLdEyCn9G2FbTRSWBOrnyBpgiL11mPzoGf7cKEBHnrPpdC9_Od0XVhwK7r3pYAM1cTq5zqdjemMaiVH_grzJ81NeytkIpcptySDOKaZvziK5cWVX7DV3CYqLq1Du_GZLMaUbYHSthmJ0xdsm_SSNMnuHR6b-zsQ8sgP2WoTd5CgefPbVTGWf6JNM_TbRf-HqguR-tLy2LEsXMqcBB5Fb65Ki3MQql6_kNhdhrLU6QpkrdM5pURajnYlmlSRi7ik5Rkon5y2LMnBSoB8BPMU3b4bv_4pDixp9wjwbfQFdSsb9JIMzfJ3ptzagwmPZn_ODFgHzECouE6Gamnv4mbWgu1kVQ8vFIkMJnFIKSSEyDe5uTL3w3jFcuhTZUaLu5dn9HqMs",
+      "website": "http://www.ksda-bali.go.id/",
+      "phone": "(0361) 720063",
+      "address": "Jl. Sugriwa Dasong Pancasari No.4, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:43+0000"
+    }
+  },
+  {
+    "poi_id": "e8535687-d286-4b08-9b09-3543b5278baa",
+    "name": "Peta Wisata Buyan-Tamblingan",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.252623,
+      "longitude": 115.130039,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 1.4,
+      "popularity_score": 0.07
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": 1.4,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJna4SOSiJ0S0RMDVJ7Gj_3io",
+      "photo_ref": "places/ChIJna4SOSiJ0S0RMDVJ7Gj_3io/photos/ATCDNfVug7N4Hb8q00kyGbVzFpFRz_c3R_VqMKpk_GfQVyAbKUT8Q3XI3Ub0GXN57c-n0R5Zo0s6ypU6_BOtlSM8VShOw7kQQFu_IsDynCDRQG1LicK9pOP0TtTzzRDNZy5HBBD-oNIa_ADzwYTr0-1PIQURBkjZ5h1gXgU-YcUwmW4W74Sy2oFTbZNowQAOi75-ixxPuFPPX40j6YX1uGlphWwVdlzKrDiWXvXs0upEW4-w5Vdj32LrA4eyKJ1x1XwXzN_G5rVlctL-Qt9Xb3VNgT_6YESxWDBEnpbMaqh2dpSEn76aD_otUVrdjEuZhOA9Z1s_Ry6dUZfkKZYc9wD85VhW94UQxVReTMBuTu2_SgYtU9XiYKrqbdHPIW9vOr4oNu_6ozGQJ3jfoNk9cEu9HF12K5x5wnteTY-3EcJ1SSFVkYc",
+      "website": null,
+      "phone": null,
+      "address": "Jl. Sugriwa Dasong Pancasari No.4, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:43+0000"
+    }
+  },
+  {
+    "poi_id": "578d75be-5793-4797-b3e8-b066e384161e",
+    "name": "Pura Beji Pancasari",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.248521,
+      "longitude": 115.132395,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJDaZsvS2P0S0Roi3jXZgESqo",
+      "photo_ref": "places/ChIJDaZsvS2P0S0Roi3jXZgESqo/photos/ATCDNfWXknPT3gGY4sc5vhq110IwduWz4Nq7NiBAXLAFJwfDKs8duN2LWXDvYoaSAuZyGSVvHwkMamaJu34msqTopfWpzJolu4mnhmWyBGIEQJYpqj1J0-tCVsbM3f5qsOY-YJUFsMVVfg8TzDSI5Fn2cqZpR137SlbiTbd16XD5rh1Lt3cpaJUvfuM-2RT1VppmSmONeuwdIJaChuERgNAs2Fcgnhv6ME2xn9bwceiWzuSapUfFL6xvgfmsC7XdwFL68o4cv3UWewyWoGneHTP9BEy5DhAOCAfpPGYrUmy5TguBw6TIEXYAh9r37AV-AokSUR7iXX9eqZXyZD2L8HBqRGMxubIigt7t3voxRrUTOB7PgAP0g0C7-2A3SduCV3nhd7a9yiK3vyRezUiAUbXvtho71tM2ROUAsHNiV4RGrzYIvcI",
+      "website": null,
+      "phone": null,
+      "address": "Jl. Sugriwa Dasong Pancasari No.4, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:43+0000"
+    }
+  },
+  {
+    "poi_id": "c87ce48c-bf97-4a7b-b1ef-9d27ef6f3911",
+    "name": "Labirin pohon Buyah",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.250884,
+      "longitude": 115.130563,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "hiking"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hiking_area",
+        "sports_activity_location",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hiking_area"
+    },
+    "_meta": {
+      "google_place_id": "ChIJiwsFYgCJ0S0R11p73okTNpc",
+      "photo_ref": "places/ChIJiwsFYgCJ0S0R11p73okTNpc/photos/ATCDNfUPnuYU134DHt6KTWb8i0nifUntqbKlYpq11lBxBRjr9aGpEcDfy0PyFSKuGLsIiocCCTww1DWTS5qH0ddnXL_RegEUtOOAIJHv58xb3DGmtoORbrzP89CObE4podge_cuaylx0bSeBL3ok_XGnC7av-5FEKlxa5_nxkCVFprrTFav9Z4OX9fHLR06u_LPT-sGizv6sHxQV3pGeDlRtZVG0sFSZvlOFUykK15HKEbDYUcRIV74V3VnTrkpazzi1_n0AAo8l0pwfkAu7CozDpe5onBw-jKbE27jWK1toFon41asflZ4WLgei-2TEZhe5gnhRVQJcjayGbsT7K61fhrQv9qN4dietWKKniz1mHYC9VXnwCSOM2L9ru5TqE1OUvjYRVwDyUqy_PapoXEkTsMc0CtOd9ZkQV11-jcSMVh7srIU",
+      "website": null,
+      "phone": null,
+      "address": "Jl. Sugriwa Dasong Pancasari No.4, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:43+0000"
+    }
+  },
+  {
+    "poi_id": "a6630856-cd8d-4f6c-8eb7-1a516914c830",
+    "name": "Bale Subak Lapang Bedauh",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.248928,
+      "longitude": 115.134047,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJDxTUKfmP0S0Rql1guQ8V0Gg",
+      "photo_ref": "places/ChIJDxTUKfmP0S0Rql1guQ8V0Gg/photos/ATCDNfXQRqOorwxQ4diGv1GZrQXojG6q2KFRenJqcFca1gt-WdZBkk90JTgU2SrBDmRex4uSD0vb3ffwKgk64cLXJtkJyiVqZ2UyFiMQ8pJdz6qcjNuDOaQ45FcKPT9pftBQiqP66ubTS8q2VsCXIq6WWuIAcagNWPdIqPTAHY-Iy8RzesJtINeLyjepWx3HW9HqKfJ2oMHvQoxBkQZHRn4_zXf8KWn-YSi6SCfvgKIkUy6h2G3-yTCCKU0_E6BLUkQ_hGUQMil4YDakQ32zEbD7IXmikNLxRrvSX8NIt1w8QMP5j28YtDGw4cjb68ojJdXJ3X5KGtoL8B12vZ6Q1IOXwL-z-tXlj-RrKYMjguKfgNjXe2j7WTuF1ChhQ2qAyDvuKrrjXNZee0pboIPDRohB9eVcpX_8Zv6g_H79UVjMkg_jlYQ",
+      "website": null,
+      "phone": null,
+      "address": "Q42M+CJF, Banjar Dauh Pura, Panji, Kec. Sukasada, Kabupaten Buleleng, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:43+0000"
+    }
+  },
+  {
+    "poi_id": "966d4f52-67ca-4ed8-98c0-c372714dc3eb",
+    "name": "Pura",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.248928,
+      "longitude": 115.134047,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ-6YJts6P0S0RdG1WtlsQhC8",
+      "photo_ref": "places/ChIJ-6YJts6P0S0RdG1WtlsQhC8/photos/ATCDNfXuTM0P3hxmdmlOUDtPPMsZn_UEcePGtOdi48zvotr4Bk_jAYf6HbUjqhT1n9Bdp_nN6lUvbKWwWtcLgvWMe24NrIrTRbqRPuSEJuDlfTFNhPXI8iS-t_Te0hG3CF3dWRh0vELNIkIcGZDxLYNs7ERapKVMbrhvUJC6MmOzJft-E3vTayFv_zbtVjvIrMdpIktcAsUAcgGKKm3p7orTkbDMRrHcLONlegpmo4bGWO5eHYLEZN3z4omGHXP6raBnCahQwXie0inB6T6VLkosNHUa22Fnon-pXqf10PWzv-9NK97l6NyQLx3w6uI4ekkAEC7BhmbYMmGLl4O7UUaHcsP6fAchKbqxH9krlJUaI57lqGWLQd-Vza217ZTBCSv9hKhROVDubfDiAyuFa6JBxJbRJ-zFbRwQ0p3dZbGMo11l",
+      "website": null,
+      "phone": null,
+      "address": "Q42M+CJF, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:43+0000"
+    }
+  },
+  {
+    "poi_id": "602defe4-bba1-4a9d-b01e-04b042a8b097",
+    "name": "Griya Taman Guna Anyar Sari, Ashrama Pancasari-Buleleng",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.247705,
+      "longitude": 115.137092,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQzcsZACP0S0RBGyEFzqOkF4",
+      "photo_ref": "places/ChIJQzcsZACP0S0RBGyEFzqOkF4/photos/ATCDNfXbCr8TwyItJv-VhQq4PLTPOd0h9fBxCRwC9HDFFqgFFwjQlRvHuQDXs_3dfC_iC6LRjuIHwjJdamXNh1eaYfoATgvALDLmzmAPyoyWFG2Bg5WMFPRBGrMxX3pWZC6_hkMcPUVIEG8F5cx3Hq9y8Dy5qx9r0vqTTPWBRPA5C5oTLYQ2osihpT3JMPsSRdrRK6cv7v69tw9VbRLjcl_Ex66u_GEWpuh0MkqWz2cNxCXFgYy1NHu2V92oBZWRcwDtGnSkF41dEWctKLTqOfSPgVzLerX_Na6azJLXdPiTuoSt0pjHSGmDUobltT_MJzwKo9rO1wRgiXXumV_-ThsvArdcuMWcLmY4wD0JJTyIZzPk3Fg-LaBmbWOSx0e88QLgay_J3biWPvuY2ACedeEiIHFPQ-ymkgjPyy202NKiwLewuE8p3SDpWM210tCw",
+      "website": null,
+      "phone": null,
+      "address": "Jl. Sugriwa Dasong Pancasari No.4, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:49+0000"
+    }
+  },
+  {
+    "poi_id": "fd64d73c-6c0e-47d8-a01b-7d458c452e08",
+    "name": "PANCASARI BAFAHO [PSB]",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.247246,
+      "longitude": 115.143626,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJxUFK38OP0S0RO6tfHTzn5Bs",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "Q43V+4F2, Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:49+0000"
+    }
+  },
+  {
+    "poi_id": "5b5ec6e2-095f-45ec-acad-526fef7e8a44",
+    "name": "Taman Denbukit Camping Ground BAFAHO",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.247521,
+      "longitude": 115.147752,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.6,
+      "popularity_score": 0.608
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "car"
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 441,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "picnic_ground",
+        "fishing_pond",
+        "tourist_attraction",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ8bB7i9OO0S0RZBBwg0pqAvw",
+      "photo_ref": "places/ChIJ8bB7i9OO0S0RZBBwg0pqAvw/photos/ATCDNfWuF1Y3p05r79OsUjMVZI_m2IzMPPRpQa8B-PnUuRLNbIKJT_6wjd_nHo3SA5SLUUMquavTPSFdZFt3DTPVP9pBENHRIZffmXWsLIKAtBQeGiCetKaFdP5D7bjuV7YTarlWMWUVcRS_aTPxUCb4IPOCJUM0PEwtwXOzm_74Rd54tMa_-YR_vjSONNz3oOx73RnWWbW4Dmn3Slm1jkzkCyhRUgJOFmxLX25QNTzJSoMwi5cnQfQIZnuTd8zF6ixFYaAGBJuVVvWm0qiGyJbDJq0OYVP6D_mDmFVM6dQDVxiOXg",
+      "website": null,
+      "phone": "0812-3753-1022",
+      "address": "Desa Bedugul, Jl. Sugriwa Dasong Pancasari, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:56+0000"
+    }
+  },
+  {
+    "poi_id": "05d0eabd-9b47-4033-bcd0-f4f9e123eb79",
+    "name": "GBI ROCK PANCASARI BEDUGUL",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.249859,
+      "longitude": 115.152778,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.25
+    },
+    "operational": {
+      "opening_hours": "Monday: Closed",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "church",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "church"
+    },
+    "_meta": {
+      "google_place_id": "ChIJA5RSaQCJ0S0R8uVx1GumPKY",
+      "photo_ref": "places/ChIJA5RSaQCJ0S0R8uVx1GumPKY/photos/ATCDNfUFpBhtaHh1ObHn8sPKfjToQNI1LGfthteP68CFUK8fVcK7gEjPXQecHcovVANK2uRP3XpvlG3Pw5-MaWQFw-OSE_9CgZ9BZr-CLgxnV3oeNf3E-PHnETH2PECWFPNuiB-9l_l27bCLPgnnR3oP2684MzcYrmU2LJxTsqVOEQ2-u2CUQoWXASfbRgJI5mvhOMkInMyU5X7dxcobxM7q1JeYQXwlemb30IKltgm-MuyUSsxi1aIKKNqKOkqqbzLOkSB29w3_8-LoIs8CIhzyXRhOlI56I3ZudGc7NfNAX1dUuPgZ4E2OPUfn2ATT1dnqgXvpwyt52PwoBEkOKe1LNt68rgFSCR7SFXSY3BDoQKOXq-BYlDv4Ay658IPepQZDyscPwCMZw7ztgO34-9Co2OFrg-Nlr0ZENm5WQyI28Ckdqww",
+      "website": null,
+      "phone": "0813-5332-0147",
+      "address": "HOTEL PANCASARI IN (AULA BELAKANG, Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:56+0000"
+    }
+  },
+  {
+    "poi_id": "3d765d84-062c-4f37-8889-ff75a62c53e0",
+    "name": "TRAINING CENTER BALI",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.250983,
+      "longitude": 115.153868,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.151
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 5:24 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJLXvyIQCP0S0R-Rgb8xjdbuM",
+      "photo_ref": "places/ChIJLXvyIQCP0S0R-Rgb8xjdbuM/photos/ATCDNfXdCDg3waSZ7N1Vc-_kQOTjnZjeX15o-moC9kG8cfL7fvsxm8Aesrb9tkknoHFjVOyOz-HThC91hbE9nz-Uqs56gE1jIaDH9xKYdUD8k_-ACv79onoI6IbjNywHK8PW8kq-XyOqS3-jnZI9nX7_Gb2RR9AyHgHzGg7tD-NwSo8gNGiHXiYsRY3wtdwur1JnuEJGnByDC6tZPY-qXlU7ttTay6lQzyGoncKtHXwVQvI2z-3qUHe_CFCozmd2FUt99R1nI9MJQ5veqU1V7S5MVeDaCBQKBryAJGOH_mVPWqmkiJGoyksYa78je0s59NqYjun62XD5ggAzDZVgznML-HEkFNB1B68R78C8U98vlvEXcuJ333iFBqr9WOyUzYO1ETsiqzQ4Ouz4tdllmz5Z6P69DNmBaq9vk8P3l6UcQR4",
+      "website": "http://dgwfertilizer.co.id/",
+      "phone": "0811-1390-0047",
+      "address": "Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:56+0000"
+    }
+  },
+  {
+    "poi_id": "f73b195e-59e5-44ab-a17a-6fd4746601e9",
+    "name": "ADITYA BEAUTY SPA & MASSAGE",
+    "poi_type": "spa_wellness",
+    "geospatial": {
+      "latitude": -8.247279,
+      "longitude": 115.151262,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_spa_wellness"
+    },
+    "categorization": {
+      "primary_category": "Wellness",
+      "price_tier": -1,
+      "is_indoor": true,
+      "weather_resilience": "indoor",
+      "rating_average": 4.1,
+      "popularity_score": 0.205
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 120,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.1,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "massage_spa",
+        "spa",
+        "massage",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "massage_spa"
+    },
+    "_meta": {
+      "google_place_id": "ChIJd4EPQQCF0S0RBNr4-wxNoK4",
+      "photo_ref": "places/ChIJd4EPQQCF0S0RBNr4-wxNoK4/photos/ATCDNfVs6AvpXwWQUfB4ztZJnapCqxJUKCE5yxAyZLfjM7I72QYXdbCSNi2kfvohC9Rd8dL9M36o3j9bmIY0DVU___iahtxpHsDikPHsHaGQB-dt0fyeLUdjFaNVFZd-DxxATkrFOBS0nzek2yy_dmGCNm-4b681eyDIf8p57iC6RypKb0z-B44fW1j4Jf99PYyY_7SRL9Ip9-gL4kWkccuj-vV9evkZMjxArVp5_7W4FzXq2kF0ZBKmgKAj8HeS_2DBEdrd5pKDXVF-gxA7EKYSbLJa2iFVmDHkaTNnMcNK2Xw",
+      "website": null,
+      "phone": "0858-5858-5145",
+      "address": "pancesari, P3W4+R23, Pancesari, Jalan raya, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81152, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:56+0000"
+    }
+  },
+  {
+    "poi_id": "6ef7137f-f807-4ce9-8c28-19f92fbd8340",
+    "name": "Penyewaan Tenda Martini",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.252798,
+      "longitude": 115.14926,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "outdoor",
+      "rating_average": 5.0,
+      "popularity_score": 0.175
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "national_park",
+        "park",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "national_park"
+    },
+    "_meta": {
+      "google_place_id": "ChIJAbuA0a6P0S0Ra1ATuu_-OYE",
+      "photo_ref": "places/ChIJAbuA0a6P0S0Ra1ATuu_-OYE/photos/ATCDNfUdZQTd4KFnUudUc-RFW2KYC6_G0FzMjzYEy2VQIMFNhHtDklao9VGCPihgzOvPWAxgqek4K6HToVYS_YOyr34Ul6YMELMeulTfq5U03TnrYgVJmY6dPLgZ3N0j0PLgjkzg4HrsfnAcqj2ktBdImvyAqa8PUerwm0_DCYRY-Ob9mrbzoP-ZNi83Wxl_cb6gczWDKDPvQUX_ztDcYUUMViFJdzVPSrFUcFN8wTD8QehWWeeR6ndAuR-H676oJEqrrdrpq-SSGUJMKT1O9swzqRVh2ltdU2oSYYOhRcyjWAOgxWH4TdYyEny5iAMXdxRhQz57ypq27-9VRFLxzB7Ei-xr0VsX0dAK0CdPwHzJIcnD0WaLF_mys0BAXn5lx6i4jPLzXtS6lgovupYo02SeWrRzybdbX-gEAiX9JecM3g",
+      "website": null,
+      "phone": "0813-3722-0994",
+      "address": "P4WX+VPJ, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:56+0000"
+    }
+  },
+  {
+    "poi_id": "4ce4fdcb-bdc9-407c-b9ab-fa855461c079",
+    "name": "PURI GDE DENBUKIT",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.248058,
+      "longitude": 115.150798,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJh43zdQCP0S0RZ6v99YLA3jo",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "Q522+Q8F, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:56+0000"
+    }
+  },
+  {
+    "poi_id": "c13e18f1-7fc1-4d59-831a-1404bd226a4b",
+    "name": "Pura puseh Bale Agung",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.248322,
+      "longitude": 115.149758,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.075
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ1_zGDdOO0S0Rzz1obe2JltE",
+      "photo_ref": "places/ChIJ1_zGDdOO0S0Rzz1obe2JltE/photos/ATCDNfXdHgOPFLlI3lIPlpZyeZ8cmXQP57fCvfCtVjkkrrxOxKJZKdt-uzA8RZ2GarK2QTvXAuMI7X4myQqSv_qnjaOYtiqLrUvERLUlFs3u0CO_RkROSDzUhKkIK4ultn27PYYsz5j5PBon2hYsvrQdVJP1reFeUAZ4kf_Cr44ERUPIKBOD1cwviPKIXWmiT6gShtLHDeabvj7N4MMoCXw7UfQkX0uDr8zPbh3c7-AelTSf_ILTNl2YNm28ggi6qfqoQYN9iw3P-lnuY2cmu8gy2pe4yFUhbg2itZvgKfURJjr672VKCjXUuecmPPrM2t5jvi18TD9iiXmronntMWXUN3JkWAWdjDMsfpEFhvhV0eB3fffhNnZY8_ldBuyNLT-LtboGaf6EamXp3vVWR0BCvLK36aTDE5qNFKZo3wFH9g",
+      "website": null,
+      "phone": null,
+      "address": "Q42X+MWC, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:56+0000"
+    }
+  },
+  {
+    "poi_id": "770e7c46-5bbe-4365-8965-d7fe25277cc1",
+    "name": "Balai Banjar Sari Tengah",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.249756,
+      "longitude": 115.149309,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJkQAUFtOO0S0RG6hfwyBXiDI",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "Q42X+3PV, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:56+0000"
+    }
+  },
+  {
+    "poi_id": "d510dc70-1e89-4603-be3e-da392eb1924d",
+    "name": "Griya Agung Darbhasari",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.247601,
+      "longitude": 115.152128,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 3.0,
+      "popularity_score": 0.072
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJK9DwJVGP0S0RWBZl_Kakk4Q",
+      "photo_ref": "places/ChIJK9DwJVGP0S0RWBZl_Kakk4Q/photos/ATCDNfVlU9oMzKuwbklDx6afhaJf40wb1XlG43ZxtHgYRNo8iQyVC8IKBY52z7cSrJDzSecaAOtzjJJYmieIIDKRpulKC28Pm40DqZQy8AOYwWP8QcmYphOxqyYStIIzPcziHf1jGn9WO9M6bPUoRH1xqf0j8aNLRRpAIItXoQWfF9lJvsD_lP2GUYYg3MX-6imKxdjmxuDp1Yz79ZNOcXFFWLHPMKRhDHPXPdqSjriKEoXn0TVpo6_rLGsKBkoiMkeRsrV7HMRSjDq7Kwi9VXznAWstoayo2vquJ_nsVm46d1rQV7CRLzW7kE-2gtQnkmti1hkuF-h_gXxo3rwbrkQhLwHtqxK_OArRkYV-iWXpzkr7nCB9QYCphJcuBc63LEpO67CpT8-U2WQoPLAZo-_icjPjSzB5sRIva_eTFaSj38o",
+      "website": null,
+      "phone": null,
+      "address": "Q522+XV2, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:56+0000"
+    }
+  },
+  {
+    "poi_id": "6d8a9ea3-ac41-486c-af39-8913dc2f722d",
+    "name": "Masjid Al Falah",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.248523,
+      "longitude": 115.152008,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "mosque",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "mosque"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_YWxLQCP0S0Ry3YTF5muUSI",
+      "photo_ref": "places/ChIJ_YWxLQCP0S0Ry3YTF5muUSI/photos/ATCDNfUBIqoov5cUde2uzy4WcbLRhT0T2s9BYVHjY4FCFHELsKBBPVnNYHJ2gr_4WH5OhoslfMsqTcjSbRxK1RzB4oOABeB4opeFEFmoC5bK_pcEALSGA0hfueaHxVOMQjRL1Xanme2_o8622t3KCijF45FdlRYhYFmWQ-BZzG3pEp6zh6cRwSoiV3UokpqdY9YDu1gnMk-Q9JgQCT4ZG2rYkG6NDYc3-QchH0YhOG6_7JZvoTa9AzNgnOM_V9TENWVftiWiWa3EHzEeHJjIK8vs3LgotIRHWYz2YiTjc05oR1GqJbT1zrGmD3v-rL7g9nWo82Wyyv5fTT-nFYShRqV7Q0y-6az_5cNlCgww_AmblMe3sC2Rqzg4_0euaS6WX8NivyErdktkcznbj9IkFMn-gUXS3jnaijuc76oLkccdLCIEGu8ewjwDt2o-DCdv",
+      "website": null,
+      "phone": null,
+      "address": "Q522+HQF, Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:56+0000"
+    }
+  },
+  {
+    "poi_id": "2c7186af-dbbf-459b-96cc-340fc22ee8bd",
+    "name": "ᬧᬸᬭᬧᬲᬃᬧᬜ᭄ᬘᬲᬭᬶ᭟ Pura Melanting Pasar Panca Sari",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.247152,
+      "longitude": 115.151259,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJrepdagCP0S0RrJ8zS4Sgpj4",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "Q532+5GC, Jl. Kedasong, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:56+0000"
+    }
+  },
+  {
+    "poi_id": "79fb010c-9de7-46d2-8b59-9c6b7b3f13eb",
+    "name": "KORE - BERRY",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.251726,
+      "longitude": 115.149613,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 5.0,
+      "popularity_score": 0.119
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 7:00 PM",
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJhReiLwCJ0S0RksgzHw6GKZo",
+      "photo_ref": "places/ChIJhReiLwCJ0S0RksgzHw6GKZo/photos/ATCDNfUy1GXXzPxfG6zSGDsnZkPbSKWgn024AztGJ6looITx5Du33tFz_BsMyH4--0r6c75Pr5b_kmiA561Hco0hazxbuKUALc0weHS_3xyKDcY-FpHH1haj7nvLFMK2w-CZgGEDRLr8r5DK8HPU57MDeS20m29d57rDcImqJYO0XKsMi6dcJ4lUYssl08KL3yCF_zNhUpDDx9uyoTThw0_cYELOAORewzbGrYyvIEowa2O61dYAGr1eIdVS5rYbHuxL3XPODWu3wuO5EzwaYd4aEg5sJB97IIgfZEmiEqJjZv4AXC4frQf3MzF1Tm-EkxDJNT6unV8Jl38TvS5wMOsfaV8XvVjj8a119I85OY2dWeLqS2O4x7x5kPnhiP2Da3KP1gZVZpkafeVwF83zHcJhHBo3DstmzFXjGuh5e_dkGa9hO_L26QGrqi5AlZ2nvg",
+      "website": "https://www.kore-berry.com/",
+      "phone": "0859-7733-0472",
+      "address": "P4XX+8R5, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:56+0000"
+    }
+  },
+  {
+    "poi_id": "4a2d6a6a-4da5-438c-96fb-b9a38deba3b0",
+    "name": "Bali Handara Gate",
+    "poi_type": "nature_reserve",
+    "geospatial": {
+      "latitude": -8.252995,
+      "longitude": 115.158276,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_nature_reserve"
+    },
+    "categorization": {
+      "primary_category": "Nature",
+      "price_tier": -1,
+      "is_indoor": false,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 3.8,
+      "popularity_score": 0.706
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 240,
+      "closed_dates": [],
+      "transport_access": "car"
+    },
+    "_quality": {
+      "rating": 3.8,
+      "review_count": 5220,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "historical_landmark",
+        "historical_place",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJbzqpVBWJ0S0R05zES7guCTk",
+      "photo_ref": "places/ChIJbzqpVBWJ0S0R05zES7guCTk/photos/ATCDNfXt-EHw3K_84lY5Bj1SRswHlCbc35tHE8AJ_yTnBQZsRdO3CtpeAAQ6m_aXArTIxbkfa5Pfg8R7rdn7JIbZvEQpFbeegdCr75VaQj6mOTDNQ2OmTz4RZ4FxVQpYcvwb9YFP3RpA3q4cPZ-JZTUbbwE605EsK9ABDiTTZecyNWCFT5tg9b2GT62R6siQz3zQmqgjyItlqoPvO_FA5FOYuaLavN8Q1ELNIyU9Ng-4fkE7Zq95APGsAOeTpABxcBDg98Xyri-gLzlr4I9uLYkZfV75zjBaBm9ZxiyJVb7-gFlp7A",
+      "website": "https://balicheapesttours.com/handara-gate.html",
+      "phone": null,
+      "address": "Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:49:02+0000"
+    }
+  },
+  {
+    "poi_id": "022ad33e-66ad-4851-a968-a35ae64a1255",
+    "name": "Gunung Pengelengan",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.246544,
+      "longitude": 115.184615,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 4.8,
+      "popularity_score": 0.24
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJi9so-lmP0S0RZ2PO5cdfNN0",
+      "photo_ref": "places/ChIJi9so-lmP0S0RZ2PO5cdfNN0/photos/ATCDNfVP7v3X3AdcainqnZl1LNWS5G6aGlN790qdYRGO-JVbUGTofbUJehvzpnjXPr6tQ95jpzLAC_iHvme1iyTonb6gDjmBedX9BgJ24deSvTUIwuDnQz1Jyahpe3WAdjBdyeGbKWbLX5jAtxR1Ix6DzrrOqLurhwWEjURKUv__L5a0ZHLcCzWuvplzH0jC3eK4FPoqyU5Z9TFBVGZh5bEPaSN7GQO9AxxiRe_r7Jsi-pOq2R1dzyMMJj9zI5Hrcdtet3iukTiIeInzWY-rCAlBH3wG2gnlXjhV7TSiVwLlOQwFSqZg-AM6nf_FdUzU7HK52Rh_LCYZ6OAYBvLWj3U3L4GlVo18iHEslKC0_nKwHy9VrMOwn_T6gO7P9zNiwabKABMri8cvDwNDmQ5gi9Jz_VihLLmaPYdFtkRkT3TkDlRjakE",
+      "website": null,
+      "phone": null,
+      "address": "Q53M+9RQ, Wanagiri, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:49:21+0000"
+    }
+  },
+  {
+    "poi_id": "bb2a0991-4d19-4035-9dc7-3b77baba776f",
+    "name": "Pura Beji",
+    "poi_type": "temple",
+    "geospatial": {
+      "latitude": -8.247397,
+      "longitude": 115.197299,
+      "district": "Bedugul",
+      "kelurahan_name": "",
+      "neighborhood_cluster": "mountain_lake_zone_temple"
+    },
+    "categorization": {
+      "primary_category": "Culture",
+      "price_tier": -1,
+      "is_indoor": null,
+      "weather_resilience": "DATA_MISSING",
+      "rating_average": 0.0,
+      "popularity_score": 0.0
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_duration_minutes": 60,
+      "closed_dates": [],
+      "transport_access": "NOT_SET"
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hindu_temple",
+        "place_of_worship",
+        "association_or_organization",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hindu_temple"
+    },
+    "_meta": {
+      "google_place_id": "ChIJbziy482N0S0RZd6EtwonGyM",
+      "photo_ref": null,
+      "website": null,
+      "phone": null,
+      "address": "Q53W+2W, Pelaga, Petang, Badung Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:49:27+0000"
+    }
   }
 ]

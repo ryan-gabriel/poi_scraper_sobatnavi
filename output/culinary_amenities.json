@@ -28115,5 +28115,3339 @@
       "tourism_cluster": "mountain_lake_zone",
       "fetched_at": "2026-03-07T21:30:54+0000"
     }
+  },
+  {
+    "poi_id": "309c41ed-5b31-4722-b5f1-e4becf90003b",
+    "name": "Rumah Gemuk Bali",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.266897,
+      "longitude": 115.160652,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": 2,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 6:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 1491,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "wedding_venue",
+        "event_venue",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ31YjHteJ0S0RwrmFgkQ4Rys",
+      "photo_ref": null,
+      "address": "Jl. Drupadi No.2, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:51+0000"
+    }
+  },
+  {
+    "poi_id": "d296b0f2-19df-4655-9ac8-9c381e234f56",
+    "name": "Stuja Di Danau",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.265937,
+      "longitude": 115.164487,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 7:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 1845,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJuYmtCcGJ0S0Rk5dUdz8jBIs",
+      "photo_ref": null,
+      "address": "Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:57+0000"
+    }
+  },
+  {
+    "poi_id": "48dafcbe-83a4-4cb1-a128-7e8ac06d65c2",
+    "name": "The Joglo Beratan",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.262834,
+      "longitude": 115.16796,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 356,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJYW8hIxSJ0S0R_IzsLbVz5cI",
+      "photo_ref": null,
+      "address": "Jl. Mawar, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:57+0000"
+    }
+  },
+  {
+    "poi_id": "83904b22-49fe-4012-87e8-bbb649b65dca",
+    "name": "Joenat's Treasure Fun Bar and Grill",
+    "cuisine_type": "Italian",
+    "geospatial": {
+      "latitude": -8.26803,
+      "longitude": 115.163762,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 279,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "bar_and_grill",
+        "hamburger_restaurant",
+        "pizza_restaurant",
+        "vegan_restaurant",
+        "vegetarian_restaurant",
+        "indonesian_restaurant",
+        "bar",
+        "american_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ40K5OQCJ0S0R9FSxVK0RJ8s",
+      "photo_ref": null,
+      "address": "Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": true,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:57+0000"
+    }
+  },
+  {
+    "poi_id": "dc9416b2-aa3d-4be5-8f25-7dc12ff3be76",
+    "name": "magoes warung bedugul",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.266524,
+      "longitude": 115.164206,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": 1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 311,
+      "business_status": "CLOSED_TEMPORARILY",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJG37upXCJ0S0Rb3-o_br7JIU",
+      "photo_ref": null,
+      "address": "Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:57+0000"
+    }
+  },
+  {
+    "poi_id": "8101bf23-91a3-4cf9-807d-6c19ef78043e",
+    "name": "Rumah Makan Bukit Permai Indah",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.265118,
+      "longitude": 115.164906,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJIxlEqziJ0S0R_Xq8ETV9OAs",
+      "photo_ref": null,
+      "address": "P5M7+XX2, JL Kebun Raya, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:57+0000"
+    }
+  },
+  {
+    "poi_id": "578d5904-caf0-435b-80cf-f1ff9f37d665",
+    "name": "betutu bedugul",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.266502,
+      "longitude": 115.164213,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 6:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJLaKQc7OJ0S0RzK0gTUEY9BE",
+      "photo_ref": null,
+      "address": "jalan raya, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:57+0000"
+    }
+  },
+  {
+    "poi_id": "1e3324ec-e944-43c5-a10b-3a11d65c715b",
+    "name": "Ayam Fried Chicken Cimory Land",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.263849,
+      "longitude": 115.165022,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:30 AM – 6:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "meal_takeaway"
+    },
+    "_meta": {
+      "google_place_id": "ChIJK_VIT_KJ0S0RkYn_r4FxBIU",
+      "photo_ref": null,
+      "address": "Jl. Raya Bedugul No.40, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:57+0000"
+    }
+  },
+  {
+    "poi_id": "5daabef0-eefd-4c00-abed-cc640a64d4fd",
+    "name": "Lagas Cocktails",
+    "cuisine_type": "Bar",
+    "geospatial": {
+      "latitude": -8.262971,
+      "longitude": 115.166632,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "CLOSED_TEMPORARILY",
+      "google_types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bar"
+    },
+    "_meta": {
+      "google_place_id": "ChIJU2FJ5TWJ0S0RmXsXcSo6J70",
+      "photo_ref": null,
+      "address": "Jl. Mawar, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:46:57+0000"
+    }
+  },
+  {
+    "poi_id": "d24ccf46-4a70-4d13-b1fd-a3ccd93337d9",
+    "name": "Secret Lodge Buyan Lake",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.253813,
+      "longitude": 115.141312,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 11:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 154,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "service"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ-3m8EzmJ0S0Rof-rnXwau2Y",
+      "photo_ref": null,
+      "address": "https://maps.app.goo.gl/cY4rejudCyYBbSfJ8?g_st=aw, Jl. Tut Ardi, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:48+0000"
+    }
+  },
+  {
+    "poi_id": "3e875c66-95de-460c-bc28-b2211cc6645a",
+    "name": "Rian mega",
+    "cuisine_type": "Bar",
+    "geospatial": {
+      "latitude": -8.257231,
+      "longitude": 115.152115,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bar"
+    },
+    "_meta": {
+      "google_place_id": "ChIJFXMpU_GJ0S0RJwEqPkoCcJc",
+      "photo_ref": null,
+      "address": "Jl. Laksmana No.12, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:47:54+0000"
+    }
+  },
+  {
+    "poi_id": "d4d589b7-eb86-4f86-9ac9-395c1c5efc0b",
+    "name": "The Chilli Bar Indian Food Bedugul Bali",
+    "cuisine_type": "Indian",
+    "geospatial": {
+      "latitude": -8.255617,
+      "longitude": 115.162613,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Closed",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 109,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJk3u7GnWJ0S0RO4zkFWSJU7k",
+      "photo_ref": null,
+      "address": "Jl. Raya Bedugul Bukit berbunga, Pancasari, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "8d752045-e81d-444a-98ed-2c3e977b78dd",
+    "name": "ACK Fried Chicken Bedugul",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.258908,
+      "longitude": 115.162368,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.1,
+      "review_count": 350,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "fast_food_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ5ZNHoDeJ0S0RhyP0FmUFXBQ",
+      "photo_ref": null,
+      "address": "P5R6+CWQ, Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "fa5c168d-ac47-4c90-b010-f692cb76930c",
+    "name": "Point Coffee",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.258133,
+      "longitude": 115.161951,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 117,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJc_DTTRuJ0S0RnIQ9yOhQHpQ",
+      "photo_ref": null,
+      "address": "Jl. Seroja, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "582458aa-6fad-49a0-b963-f37b5cfd4676",
+    "name": "Rumah Makan Tepi gunung",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.259832,
+      "longitude": 115.163079,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 5:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 30,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJFWhKFgCJ0S0RgLXEf7UT33I",
+      "photo_ref": null,
+      "address": "P5R7+46F, Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "0a63e0b1-c4c8-417c-a593-f23ef171ab95",
+    "name": "Bali-Jip Bedugul",
+    "cuisine_type": "Korean",
+    "geospatial": {
+      "latitude": -8.254434,
+      "longitude": 115.158537,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 246,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "korean_restaurant",
+        "barbecue_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "korean_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJD-yFVt-J0S0RsVlFSCaemCc",
+      "photo_ref": null,
+      "address": "Jl. Raya Denpasar singaraja Juwuk mas, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "91db0d55-04cf-4512-9728-a41adb70ae47",
+    "name": "Dapur Berkat",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.25431,
+      "longitude": 115.158462,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 11:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 77,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ0fuwOCOJ0S0Rpc54wYj0ADU",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "b2aa421b-0a1b-4a1d-a3a6-6608b2005889",
+    "name": "DJA DJA LAK-LAK Pancasari",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.255234,
+      "longitude": 115.159209,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:00 AM – 6:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 27,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJd7S26EiJ0S0RJCWB2lw485s",
+      "photo_ref": null,
+      "address": "P5V5+WM4, Jl. Denpasar Singaraja, Juwuk mas, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "06e64c63-3404-4ae6-8ac9-5a4332bf6f51",
+    "name": "JFC PANCASARI",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.255351,
+      "longitude": 115.159248,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3.5,
+      "review_count": 19,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "family_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "family_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ6ZCHSZyJ0S0RgP1BHGQ0T9o",
+      "photo_ref": null,
+      "address": "P5V5+VMG, Pancasari, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "8a4e37e3-59e7-42f3-bcd4-3cc6034b6746",
+    "name": "Warung Rindu Rasa HALAL",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.255985,
+      "longitude": 115.160153,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 11,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9XV37g2J0S0RiaWkSkJnHIY",
+      "photo_ref": null,
+      "address": "Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "ffa9a0e5-2ba2-43fb-a2ab-f3be0c2ea31b",
+    "name": "star duck coffee",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.257689,
+      "longitude": 115.161948,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJUxt9WXKJ0S0RTA18qcOC9bg",
+      "photo_ref": null,
+      "address": "Jalan utama Jl. Raya Singaraja-Denpasar, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "1d6828f0-02d8-4c2e-9823-e807d1ada389",
+    "name": "MIE AYAM BEDUGUL",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.256081,
+      "longitude": 115.160551,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 38,
+      "business_status": "CLOSED_TEMPORARILY",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJwWX1Kr-J0S0RyC91UbyTQ-c",
+      "photo_ref": null,
+      "address": "Jl. Raya Singaraja-Denpasar No.50, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "afa4039f-2398-4098-b6b6-984e91ee4922",
+    "name": "WGS Warung Genyol Sari Meme Jantuk",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.255749,
+      "longitude": 115.159189,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:00 AM – 7:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJq9z--KuJ0S0REaYXKb-bBtE",
+      "photo_ref": null,
+      "address": "P5V5+PM4, Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "2b894d05-b913-4d36-8327-f1e84b67ff8d",
+    "name": "Xiexie boba bedugul",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.258082,
+      "longitude": 115.162072,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafeteria",
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cafeteria"
+    },
+    "_meta": {
+      "google_place_id": "ChIJne-4XhmJ0S0RH5giD5rzXbQ",
+      "photo_ref": null,
+      "address": "Jl. Raya Singaraja-Denpasar, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "db404d3a-9728-471a-bcfe-b01b8d3a76f0",
+    "name": "Warung Era",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.257697,
+      "longitude": 115.161941,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "family_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "family_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJrbLwGJSJ0S0R2G6azF22pqU",
+      "photo_ref": null,
+      "address": "P5R6+WQG, Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "301076a6-c736-4259-a4e1-274aed3b3083",
+    "name": "WR SUTA",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.256073,
+      "longitude": 115.159874,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJd_45sDaJ0S0ROabwWt3er0U",
+      "photo_ref": null,
+      "address": "P5V5+HWH, Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "61192f76-65ba-4e91-bb76-7f7c761db6bb",
+    "name": "Warmindo Batavia 67 bedugul",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.255393,
+      "longitude": 115.159032,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9whZGACJ0S0RuO5ABtNLZS8",
+      "photo_ref": null,
+      "address": "P5V5+RJV, Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "1eca2083-6097-4a93-8a78-cd68828fb826",
+    "name": "Buah strawbery made purna",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.257092,
+      "longitude": 115.160318,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "juice_shop",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "juice_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJkZiWEsuJ0S0R_-FkkiVvG4w",
+      "photo_ref": null,
+      "address": "Jl. Raya Bedugul No.99, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "22f1ff78-6f1a-4798-9285-51ecdf6828fc",
+    "name": "Warung D Daun",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.258899,
+      "longitude": 115.162303,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 6:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "store",
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "store"
+    },
+    "_meta": {
+      "google_place_id": "ChIJERBsoDeJ0S0RIc2GmgZYMjE",
+      "photo_ref": null,
+      "address": "Jl. Raya Bedugul No.99, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "a6c4c325-4d22-40ed-89f1-02ac52695766",
+    "name": "Warung Jawa Lumajang Bu Ismi",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.258626,
+      "longitude": 115.162352,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ8bmStjiJ0S0RhHEBFUH2JgQ",
+      "photo_ref": null,
+      "address": "P5R6+GWX, Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "a0d8c146-8a1c-4469-923f-f0e428412911",
+    "name": "Warung Putu Berlin & Strawbery Farm",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.258184,
+      "longitude": 115.157341,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 11:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "snack_bar",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "snack_bar"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_UmveGqJ0S0Rn-Z3kQLKlCQ",
+      "photo_ref": null,
+      "address": "Banjar dinas lalanglinggah, Jl. Gatotkaca, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:00+0000"
+    }
+  },
+  {
+    "poi_id": "28dc2a84-2621-4604-b2ec-1da73176c85d",
+    "name": "Simply Kitchen Bedugul",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.261091,
+      "longitude": 115.167774,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 14,
+      "business_status": "CLOSED_TEMPORARILY",
+      "google_types": [
+        "brunch_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "brunch_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJe18UWACJ0S0Rt890t5ozWaw",
+      "photo_ref": null,
+      "address": "Jl. Mawar 2 Br. Kembang Merta, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:07+0000"
+    }
+  },
+  {
+    "poi_id": "9230c81b-e89a-4221-927d-93878bbbb7c5",
+    "name": "Richill Coffee & Eatery",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.261271,
+      "longitude": 115.168229,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 6:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJR8mb35SJ0S0RSAuUc71q5jw",
+      "photo_ref": null,
+      "address": "Jl. Mawar 2, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:07+0000"
+    }
+  },
+  {
+    "poi_id": "a3c6ed89-b8ce-40ae-99dc-f7f569286377",
+    "name": "BCD COFFE BAR",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.24755,
+      "longitude": 115.134145,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 5:30 – 11:30 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJv53tnraP0S0RIAP4UV3wra0",
+      "photo_ref": null,
+      "address": "Jalan Sugriwa Jl. Sugriwa Dasong Pancasari No.4, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:45+0000"
+    }
+  },
+  {
+    "poi_id": "6937d44a-df22-4bd5-a865-779eb259f599",
+    "name": "warung Luh De",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.250628,
+      "longitude": 115.130753,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJx3iw4wOP0S0RHEIFqepf5Nw",
+      "photo_ref": null,
+      "address": "P4XJ+P8R, Jl. Sugriwa Dasong Pancasari, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:45+0000"
+    }
+  },
+  {
+    "poi_id": "ed0cc008-c438-44dc-9719-b5e59ca6ebda",
+    "name": "Warung ,mie ayam,bakso, Banyuwangi",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.247765,
+      "longitude": 115.139104,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 7,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJS12wLz2P0S0RvydwL-XSEt8",
+      "photo_ref": null,
+      "address": "Warung mie ayam bakso Banyuwangi, jl Sugriwa, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:51+0000"
+    }
+  },
+  {
+    "poi_id": "3b3604f2-cbc2-4dfd-9c2d-c8334fe28f1a",
+    "name": "Warung D'Buyan",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.248019,
+      "longitude": 115.142885,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:00 AM – 9:01 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJB8rWbQCP0S0RQG4ytV-mo6w",
+      "photo_ref": null,
+      "address": "Q42V+Q5F, Jl. Sugriwa Dasong Pancasari, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:51+0000"
+    }
+  },
+  {
+    "poi_id": "07269807-b076-4b9b-b518-02efbddd9dbd",
+    "name": "Warung Buk Jero",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.251534,
+      "longitude": 115.141908,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJE3WsVNWO0S0R2R980rVbVyw",
+      "photo_ref": null,
+      "address": "Jl. Tut Ardi No.1, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:51+0000"
+    }
+  },
+  {
+    "poi_id": "47f3bcca-32d1-4f87-b150-3192928bd20c",
+    "name": "Rumah Putu Sedana",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.250111,
+      "longitude": 115.140939,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJo1z_eCyP0S0RA3YDe5SXS3k",
+      "photo_ref": null,
+      "address": "P4XR+X94, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:51+0000"
+    }
+  },
+  {
+    "poi_id": "ea395e69-1f0e-4cc4-b0ec-929a4e500bf3",
+    "name": "Warung D One Hand",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.248424,
+      "longitude": 115.143923,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJmSElVh2P0S0RJIJqFYaqbFY",
+      "photo_ref": null,
+      "address": "Q42V+JHM, Jl. Kedasong, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:51+0000"
+    }
+  },
+  {
+    "poi_id": "ef91f603-46a4-49f1-88a1-d3ed30d7213f",
+    "name": "Warung Makan Aditya",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.248048,
+      "longitude": 115.143179,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 7:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJiVUlTHGP0S0R0jW3O2kJAmw",
+      "photo_ref": null,
+      "address": "Unnamed Road, Q42V+Q7M, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:51+0000"
+    }
+  },
+  {
+    "poi_id": "5abbd058-7bbe-44f3-bcad-f55a0691bee6",
+    "name": "tony land 3",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.249553,
+      "longitude": 115.140366,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9bixjiqP0S0Ry_tiSW6-auQ",
+      "photo_ref": null,
+      "address": "Q42R+54H, Jl. Pan Gari, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:51+0000"
+    }
+  },
+  {
+    "poi_id": "8e5fa3fc-c9de-4a60-acef-7e6d70060452",
+    "name": "Jual kayu bakar",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.247603,
+      "longitude": 115.139174,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:30 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ3VsLKQCP0S0RODJ_EmMMy4g",
+      "photo_ref": null,
+      "address": "Q42Q+XM3 Warung mie ayam bakso Banyuwangi, jl Sugriwa, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:51+0000"
+    }
+  },
+  {
+    "poi_id": "984019f1-0726-4736-b444-384038ef2123",
+    "name": "Waroeng Buyan 818",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.246683,
+      "longitude": 115.151502,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 147,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJZ88bN6mP0S0R15Xso4yNfzA",
+      "photo_ref": null,
+      "address": "Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "42412809-baa1-4f6f-ba71-925eae0288b5",
+    "name": "Ack pancasari",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.247598,
+      "longitude": 115.15172,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3.8,
+      "review_count": 26,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "fast_food_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJrSSlko2P0S0Rl2GWOmOyuqU",
+      "photo_ref": null,
+      "address": "Q522+XM9, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "0deaa931-0245-482e-bca4-2b6857fcfd04",
+    "name": "ALAM COFFEE",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.248294,
+      "longitude": 115.145766,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 6:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 24,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafe",
+        "coffee_shop",
+        "food_store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJVV7WAgiP0S0RNJ3lLyZugWw",
+      "photo_ref": null,
+      "address": "Q42W+M8J, Jl. Kedasong, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "0ce72b29-e67e-42f7-a1a5-356b53c7b9d0",
+    "name": "Rumah Makan Lestari Babi Guling",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.244962,
+      "longitude": 115.150177,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 6:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.2,
+      "review_count": 51,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJAy5rnCCP0S0RAQ_R6kmR6Xc",
+      "photo_ref": null,
+      "address": "Jl. Pancasari - Baturiti, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "8979bf19-5d58-42b1-8f21-9640630f8567",
+    "name": "Rumah Makan Mutiara Syobak & Nasi Campur",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.244813,
+      "longitude": 115.149812,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 6:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 19,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJMdZOas6P0S0RsrGxm0HM4nU",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "e825dcd5-bb01-4b93-80a1-509be5f2345e",
+    "name": "Warung Nasi Khas Banyuwangi",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.24897,
+      "longitude": 115.152073,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 13,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "breakfast_restaurant",
+        "brunch_restaurant",
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ3Z2cktKO0S0RMfX2rhVl_is",
+      "photo_ref": null,
+      "address": "Q522+CR8, Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "7d6e586b-fa4f-41eb-b041-30b295284668",
+    "name": "Warung nasi jinggo Pak Rungu",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.250383,
+      "longitude": 115.153522,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 7,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "snack_bar",
+        "meal_takeaway",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "snack_bar"
+    },
+    "_meta": {
+      "google_place_id": "ChIJYxi6_4qP0S0RXPtGOrkFfwk",
+      "photo_ref": null,
+      "address": "P5X3+RCR, Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "3a843f95-d390-45ef-b24b-5fe43b68e84e",
+    "name": "Warung sate kambing cakdoi",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.248513,
+      "longitude": 115.150403,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 5:00 – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJN0Y2TsyP0S0RRsvZRAZyci0",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "be345f61-db93-4bb0-bead-bae01e212c10",
+    "name": "Ayam Goreng Nasi Goreng Tempe Tahu",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.248472,
+      "longitude": 115.151784,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "indonesian_restaurant",
+        "meal_takeaway",
+        "korean_restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ93g-9dKO0S0RdDrVdPLfWjI",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "5dbed791-46f8-4160-ba4a-1de504aa5a0e",
+    "name": "Warung BUK MADE MUS",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.248579,
+      "longitude": 115.146499,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 11,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJOfBDnISP0S0R39jlV3VZSIg",
+      "photo_ref": null,
+      "address": "Q42W+HH9, Jl. Kedasong, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "ed32f2cf-550e-4158-ae80-068249d35d6f",
+    "name": "The Restaurant",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.252286,
+      "longitude": 115.149354,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ29wMwiyJ0S0RClDASbJohzA",
+      "photo_ref": null,
+      "address": "The Legian Hotel, Jl. Laksmana No.9, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "24a0dd7d-7cbf-470c-9894-e2a79cf0ba1a",
+    "name": "Warung LakLak Renggo",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.247093,
+      "longitude": 115.151213,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 5:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cafe",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cafe"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ3UZ81XCP0S0RM7A60ILjvqM",
+      "photo_ref": null,
+      "address": "Jl. Kedasong No.2, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "5b0cacad-530c-45cb-892a-2ca2f788bc9a",
+    "name": "Warung BABI GULING BU EKA",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.247779,
+      "longitude": 115.150895,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 7:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "brunch_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "brunch_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJM0Fyk6eP0S0RkR3yx9hh3us",
+      "photo_ref": null,
+      "address": "Q522+V9J, Depan pasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "078cb990-7b50-4488-9ece-fd12727fc541",
+    "name": "Warung Jawa Sederhana",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.248427,
+      "longitude": 115.151536,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJqWN6t3eP0S0RGvSai-h_1ZI",
+      "photo_ref": null,
+      "address": "Q522+JJF, Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "31af54d9-0036-435a-bdf8-9a62e45713ee",
+    "name": "Warung Lakshmi",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.249329,
+      "longitude": 115.152059,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 5:00 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ4U58lNKO0S0RSSJVu37UuTI",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "36c22b57-80af-4363-aa55-7ac71d7ec79b",
+    "name": "Sequenza Fine Dining",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.252331,
+      "longitude": 115.149355,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 1,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "family_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "family_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJM37s6SyJ0S0Rs_4hVwV1bxo",
+      "photo_ref": null,
+      "address": "Jl. Laksmana No.4, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81119, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "db6812de-2602-4b0b-9fe3-7443c899bc83",
+    "name": "W.M. Abbasy",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.248896,
+      "longitude": 115.15197,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 12:00 – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJxWb7-yqP0S0RoiqM5vj5gTY",
+      "photo_ref": null,
+      "address": "Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "d7ab7de7-e404-4003-a5c5-b74a1cc38d47",
+    "name": "Warung Loka Sari",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.247417,
+      "longitude": 115.151111,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJv2ZMRACP0S0RWr6_mOFhVko",
+      "photo_ref": null,
+      "address": "Q522+XF2, Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "f6cb952a-f00e-4cdc-8408-896607750556",
+    "name": "Warung NB DJA-DJA LAK-LAK",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.246759,
+      "longitude": 115.151334,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:05 AM – 1:40 AM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9wy5xz6P0S0RJDERy8Ef1HA",
+      "photo_ref": null,
+      "address": "Q532+7GW, Unnamed Road, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "25ea09f0-c12a-4161-bc60-149dbecdcdcc",
+    "name": "Warung buk suriani",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.24857,
+      "longitude": 115.151932,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 4:30 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJZa68OU6P0S0RipzOkMkBn3g",
+      "photo_ref": null,
+      "address": "Q522+HQF sebelah Bank LPD, Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:48:58+0000"
+    }
+  },
+  {
+    "poi_id": "8de2ca5f-ea0c-4060-a206-f8d14dacb6df",
+    "name": "Asian Spice Pancasari",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.251766,
+      "longitude": 115.155401,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [
+        "vegetarian"
+      ],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": "Monday: 11:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 230,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "asian_restaurant",
+        "coffee_shop",
+        "cafe",
+        "bar",
+        "food_store",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "store",
+        "establishment"
+      ],
+      "primary_type": "asian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJN3wouAeP0S0RFdO47ElPKWU",
+      "photo_ref": null,
+      "address": "Jalan Denpasar Singaraja, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:49:04+0000"
+    }
+  },
+  {
+    "poi_id": "59a2a4d5-335c-4775-a054-5ac9579ea7f6",
+    "name": "Breeze Terrace Restaurant",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.245207,
+      "longitude": 115.161155,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:30 AM – 10:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3.8,
+      "review_count": 196,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJH3ZsL3aJ0S0RKwU9BTbLQgc",
+      "photo_ref": null,
+      "address": "Desa Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": true,
+      "serves_cocktails": true,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": true,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:49:04+0000"
+    }
+  },
+  {
+    "poi_id": "1c1e0769-7d01-4aa4-973f-772e4798ee48",
+    "name": "Paon Mek Luh (Geprek Nyakcak)",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.248999,
+      "longitude": 115.154864,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 6:00 AM – 1:00 AM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJvzeAVgCP0S0R8IDG19uRkgI",
+      "photo_ref": null,
+      "address": "Q523+CW5, Jl. Kresna, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "fetched_at": "2026-03-07T22:49:04+0000"
+    }
   }
 ]

@@ -26545,5 +26545,5692 @@
       "region_density": "low",
       "fetched_at": "2026-03-07T21:31:27+0000"
     }
+  },
+  {
+    "hotel_id": "95e60fe6-682e-484c-b1df-7bd2e4f01df3",
+    "identity": {
+      "name": "My Lodge Bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.264211,
+      "longitude": 115.16219,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 114,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ664Zzj-J0S0RRX2thiAL3dc",
+      "photo_ref": "places/ChIJ664Zzj-J0S0RRX2thiAL3dc/photos/ATCDNfUXsfTijoibgYaJiSjMR7qM9n8BNNVGPasvUH0swIh2bAaNzE-f-uSljKKCDskDYPmeYdBaX8O8lWGx0z8G6EKUx_m1SG9kvAbK1BClcNy_WpRLcfnasqlLGn4z6RXexTI3Fs1bOXVJfP0hblle6Ywhz62TzWcLJiQjNpLOgu0UGaNcB_3XiAHTPp0TaZepI-hdRljslZZd9cX26BaWDNjZHDYCLNFQVYPdxUhMVOvUtwgDZe9KXojoLbZlghtffimcZXBWHq3K-5pssDI7mwUG7Zzeavr0V5IEdnfRYdddGg",
+      "address": "Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:53+0000"
+    }
+  },
+  {
+    "hotel_id": "3875b99f-9841-49e6-9e5c-8abd6bb5cb15",
+    "identity": {
+      "name": "Penginapan Nilawarsiki",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.267332,
+      "longitude": 115.163202,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 11,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ20XmDj-J0S0RyL1zmavcB6I",
+      "photo_ref": "places/ChIJ20XmDj-J0S0RyL1zmavcB6I/photos/ATCDNfVRKB1Mk5y74dd2CT_fCl5WGImIvI5VcxRGfDwMZmJNYc4GBNNMrn8r4D1cun3P2NioImb1UpGq94IN6fk4eP9gKnzXyAAvi3mU0ZVssyLUZvWvsEi-og0SJ3gw7fbd_QN9eAsweXfezR13cxwYehodmVUW6trwxxlNvPwjxfUhi_uOBTzOLZWmqoI9zdrY8B0eAfVvNGvCrgd822gqlDJuVGMH1LzkgnmQ5pX90U_rWlreu5_tQXOjoTxkmfl-kJaf6hpPfD_gHZndkk_JkeRG2DwQxSf2jcE0ufS_VaNEId5DlsUFoXo7MiE35_jP3Q2-2AJ5jPqUv7tPXWpp65bcfS3JoZsd4AnBHOwwyPKAj0c2U5VB_rvYC96jDNsp7aDdrxhSkdQTZfJ-f1DqGBtQM9OF4-JE0Uzko36C7Kc",
+      "address": "Unnamed Road, P5M7+378, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:53+0000"
+    }
+  },
+  {
+    "hotel_id": "d28108d9-07cc-49e6-823c-d0a232ec1ab0",
+    "identity": {
+      "name": "Circuit POJOK Motocross Candikuning",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.269011,
+      "longitude": 115.158016,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJGyTj7qCJ0S0R5GyQPrxUHQQ",
+      "photo_ref": "places/ChIJGyTj7qCJ0S0R5GyQPrxUHQQ/photos/ATCDNfXq6vxBtb5b_2QCvrRugrkj3naMI4GgpuXYrz_NLFqoJP8K6vMtG7n1TzmZb_huM79AkBXlV0RGQ4ezZl06fNhjf8awG4v23oX3XGb3h3SzH4s8som08HzzJXVSELgoxGwilnLIPpFRs0ipyOZqEgXwQ3874-K5zIBHe3gVUWgdn294f2HVE8lirFC2RzS6Bs_ddzSOaYXSMG2UbxcCTWAemndw95NXh679HZl4HJmDgxUxfDl_2GsfqW6YGqe45agyFe7paOd9D__8eLu2W6CB4BBCkqXFiw0wMGbUPTKt8aYwFQrpCd47pEKwQiZzfHqH0maMPbs98LXrduS4_WXuB7aGvH1yQwaQD0qNNrFtfUrDGrBuOYzTK6Yo-18OCNthp831PHt9WkvVgOzXpBplea998dSHI-JatoulpyvIL2k",
+      "address": "Jln Beringin, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:53+0000"
+    }
+  },
+  {
+    "hotel_id": "d69138b9-7d60-4a43-95c1-34c4f7fe967b",
+    "identity": {
+      "name": "Adara Lake View Residence Bedugul - Bali - Superior Double Room",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.26751,
+      "longitude": 115.159828,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJH1WrhT6J0S0RpQRw34bLh18",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:53+0000"
+    }
+  },
+  {
+    "hotel_id": "f2a636df-8fde-4571-a925-78366f5d15f7",
+    "identity": {
+      "name": "TURAH HOUSE",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.266983,
+      "longitude": 115.161806,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJY94wYgCJ0S0Ry6PUF9A-Uug",
+      "photo_ref": null,
+      "address": "P5M6+6P3, Jl. Puspa, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:53+0000"
+    }
+  },
+  {
+    "hotel_id": "3f6e6cc7-97c6-42ca-a0a2-9cefafeea0dd",
+    "identity": {
+      "name": "My Lodge Bedugul. (triangle House)",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.264399,
+      "longitude": 115.161903,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ1aKvJjmJ0S0R31INcB8uYY8",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:53+0000"
+    }
+  },
+  {
+    "hotel_id": "d4aae355-0542-4743-b7cf-19dce08e60d4",
+    "identity": {
+      "name": "My Lodge Bedugul. (triangle House)",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.264133,
+      "longitude": 115.162209,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJdeRk3ziJ0S0RWNmW_cmZ1og",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:53+0000"
+    }
+  },
+  {
+    "hotel_id": "e8863101-fc42-415e-ade0-379acaf03a2f",
+    "identity": {
+      "name": "Rusa By The Lake",
+      "accommodation_type": "Resort",
+      "vibe_description": [
+        "romantic",
+        "lively",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.263211,
+      "longitude": 115.168017,
+      "neighborhood_cluster": "mountain_lake_zone_resort",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 1072,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "resort_hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ4SzhQiaJ0S0RZVwc6-VlLuk",
+      "photo_ref": "places/ChIJ4SzhQiaJ0S0RZVwc6-VlLuk/photos/ATCDNfVkfUYVcVFVqooBfMGwKU4kDXBM4Qz6x-NNrb8O3Bzj9q5WgSVTekU4Vj25badZqPDtr99jifVRI2LcU4RgpTEPnzVPW48gErUMbE7bMAs_VWCGykklVTFQnzmn5bZ199QskukZzeAzFInf_7POGm64eY31MOgrqBwmiVu2PPNc0_kD0ThT9wgLZjWR1nkLrsSRt5hwfpas7JOj32YQv6GOl89yIQs5AlgLzczIN40_gCL_rviapNn7rLvePd7BnBnlrdWri0KSdYpvYcm2uceRPpQWu-QNKg3ZxClhEy6lTBc4qM9XqtDHeYLAXNSagSk4i5UXGbeJqWULVPJAqgilmMxQaQSLxTTzYeR2Cfk15B-9LRRYhw5Y5elYZ2UAD-VKO-UB0An65h2FqcFWVCCKKaoOt4wQQCmmG5pZcQ",
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:59+0000"
+    }
+  },
+  {
+    "hotel_id": "a47e2d9f-fb4e-4838-9d59-da5e23171ca7",
+    "identity": {
+      "name": "Diamond Glamping Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.26322,
+      "longitude": 115.167796,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 374,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJRevqBKWJ0S0RPjQS0yNh4bE",
+      "photo_ref": "places/ChIJRevqBKWJ0S0RPjQS0yNh4bE/photos/ATCDNfVo-tRmzQY1l5y8jqnBaffcLEGBDWola_7L6P76ahrybL1apYeZh7a--SQPWjJukpPrHaQT-lwr4i9oxgNtOIinqHLP03lxqP6d75oe2sHde8J3D8Zs27mFV_Q1MMIW-wyZA2pOHGPACTHHQHRsZWkK2NuCV008AZhv1NQpVko3fA10ZgH_26kogfu7_mi5dIpVuMxllyW-tgdtuU62rhTQsFl4PecsgDJ8mu2aC2oHBIqAaed_nZiUpMj49ZtCORjdXYOZM1W8GQ69IBe1Q_XqhjII_-e8vo4DJ2HdPmpZKaBBvavHRkKz07NSCJMyO-ZGqg5n0jwJrfeM41zaHnWSK_JfoAeVnXfTiDyCxLbR2yBOEEcFIuS6f06_wOzDPNe0cFU1pj-yGBBwA-dT08NBG5Pcb9j3XnzqTm-CL0E",
+      "address": "Desa kembang merta Jl. Raya Bedugul, bali tabanan, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:59+0000"
+    }
+  },
+  {
+    "hotel_id": "e36ce8a7-528b-411e-af18-e2ed26814132",
+    "identity": {
+      "name": "Sanctua Bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.267401,
+      "longitude": 115.166441,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 66,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "camping_cabin",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJv-70RzSJ0S0RHS5wtNCwFx0",
+      "photo_ref": "places/ChIJv-70RzSJ0S0RHS5wtNCwFx0/photos/ATCDNfVobO4GUdCfvFkQXXMiGBdJPiu5b0j4nURsT8xrT1Ni_wikXOhkC-3uHv2xjduj9VODZfNd31-29sqpINGehcHVOn3Xh6edcmhwUuWIRBXAwqjlBQcZOTDj3N2sK1vRwJQeNP9ZqB5obQ74V10eF3LSbm-ZCb5hjLpLPdEtfnwl4aH3feyyfnvBM5MdCcS0huUdAra9DCs87kfXHzHjXNk2wpiZ7aENuERFoiZ0rUvUpK1rbUuAxkBzDux0ySxG1EXolFQCnPVUe9-8RYGBXuoU5SFd7Bxqs6XAx89QKyLZkA",
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:59+0000"
+    }
+  },
+  {
+    "hotel_id": "6ce72f4f-8b68-47ec-862f-bd225bc91a37",
+    "identity": {
+      "name": "Wisma PLN Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.268368,
+      "longitude": 115.164139,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 175,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJsy-e-xSJ0S0ROO5Bg5ri9hg",
+      "photo_ref": "places/ChIJsy-e-xSJ0S0ROO5Bg5ri9hg/photos/ATCDNfWnOAiakP6P4oHU4j-8-QgOrpvaV1DaBJY9yZXzVUhBvG9mwc8VUFbgtJmER6IbaMlR0hZ_V6poHwrHg_hIhNOw15rtRMp263HK5-qxLNHFObjlIGfuxAM8KNEyVpPLnfjl5Hawlcuy4rbzroToAQxazGtmrhK6iA85KalnBZ8T9UgsO15j_O0yIFL98vleCjQ4frGjJiL2BcWrSyHwc6ifxxo7zkYC2m4EHoiQBkSCl3V2I5rEt0DcLKLHQ2luMeoihELvnEBKgZVOpHh-3cZAOY0IkwhtE4poz9FF97H6zWj81O_V0AocRSS1STjXKZ4_jZVtDU0zYgHss2YFLdXt0yWp96UjYfYK6QRTvnffZBs7NXGPKCtjVeSqqs-dYe2sr251MfbT162gkosKS3N0f1uWeKaSTZhfHMrqVMms_II",
+      "address": "P5J7+MM2, Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:59+0000"
+    }
+  },
+  {
+    "hotel_id": "6c372e93-7c98-4f0a-bd84-9155a05a505b",
+    "identity": {
+      "name": "Melati 2 Home Stay, Motel",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.263771,
+      "longitude": 115.165494,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 3.7,
+      "review_count": 182,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJP7aOoDiJ0S0RK5N_g3WEjls",
+      "photo_ref": "places/ChIJP7aOoDiJ0S0RK5N_g3WEjls/photos/ATCDNfXbdjvzlgBlbBW9S0EoTY--3H7RzgL2NeqcDe5TW3b7BvZ-uTDEwrIK_sy13nsHz7SwPj5BJ5fX0xOO4i3smFiTHa-apnlyk9GkB46uXfJW7pWteVGmNANFFjNXSpUIZ58WsV3e_rMQr-lYu0gb-Gw0eNXo8jJIiK_iRnpMvNUCZEx9HeqJiGPFs9po6Sk-sWMH8qIotbG66kkKALuVT3duw8vA_suTdTNFdffAwL3m30gn5PPlDk9P76ZdxUWMLFhnjrRbO4Rn1xLsDxRXA6dD-7GxmGkqe02Dj_XbQaBnYg",
+      "address": "Jl. Raya Bedugul No.99, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:59+0000"
+    }
+  },
+  {
+    "hotel_id": "cef0d4d5-eedc-4ff1-95c0-d52a1c53de09",
+    "identity": {
+      "name": "Hotel Sorgawi Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.26539,
+      "longitude": 115.163844,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.2,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ-RtjSj-J0S0R7EzFeB1jYIU",
+      "photo_ref": "places/ChIJ-RtjSj-J0S0R7EzFeB1jYIU/photos/ATCDNfXqbj4Y1_yQ5PNvToxCkgfFIrxk9mj3-D_LqXCkmnZq-_xl9BefrFJeGLJF0nY0b_gACDHohWRptai641gZo27g-rw2iCJIhbCdkL3xVXaywdj8SEZNTWF9IhEvKrGJFKwEXdrD3kIEtMNltaJ2VjJlXVn0W6cJBlrz0SR-iNgdsBM6DbwzfaCC_xU5hf7Zc4yNUE1tIb0-js0ohfxA1FNSRoRdWpa_Jw8FBo8zxPMeHJiBwY-Q3riyTmNt-PN-8WSeRj26GRXtzc8DGZOBPdJFjzGxmYgbr8FhjekP2B9SktjF4z5x5JLOGBJual6QJ4LqbrnGUeYzBo6nM3RFLcr8DouxTMmwMfRFWadtMWOvOqf5-qLzgw-xXcTF-TPqbN6AzGEy9d9QBlL4Vwa_DgZBc6-1sw1M41V6BXNPva4",
+      "address": "P5M7+RGX, Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:59+0000"
+    }
+  },
+  {
+    "hotel_id": "ed20949f-107d-4796-bc08-8f0ae0087b09",
+    "identity": {
+      "name": "Royal Maharani Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.268,
+      "longitude": 115.164741,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJU22JiD-J0S0RWHjc0ymKg_0",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:59+0000"
+    }
+  },
+  {
+    "hotel_id": "621bd094-05e2-4cbd-9a97-1437e711bf8c",
+    "identity": {
+      "name": "The Joglo Beratan - Family Room",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.26281,
+      "longitude": 115.167923,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJpUu6A0eJ0S0RAF8-gJUSK1A",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:59+0000"
+    }
+  },
+  {
+    "hotel_id": "49abd947-2cac-454d-bdf8-950317723115",
+    "identity": {
+      "name": "Dusun Bedugul Asri",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.266903,
+      "longitude": 115.16362,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJc8oYEz-J0S0RLrFGVWCjOqE",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:59+0000"
+    }
+  },
+  {
+    "hotel_id": "655d030a-ccb3-4a2f-8fc6-413eeaf346da",
+    "identity": {
+      "name": "Dusun Bedugul Asri",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.266903,
+      "longitude": 115.16362,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJc8oYEz-J0S0Rquk-OCTAYAw",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:46:59+0000"
+    }
+  },
+  {
+    "hotel_id": "5c3897f4-2d96-4995-8d9b-4c27d1f80c04",
+    "identity": {
+      "name": "COK CAMP",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.263868,
+      "longitude": 115.178505,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 103,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "garden",
+        "lodging",
+        "playground",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJIVF3Xq-J0S0RFCBJJrlS8PE",
+      "photo_ref": "places/ChIJIVF3Xq-J0S0RFCBJJrlS8PE/photos/ATCDNfU5sUO9LhVMKt0IYq-loat7DYTvSVs5hB5MNDyyeO7DAmS2TY9QYZqHDSNG1FeBScDdgi-XhQ9gzf69X_4afKvxrDuv2KoqH3-KfuttPX7Dinxbpd45dKjM-0N8lSzzqy-TAemCZJKdEww9gG2oAMDRuwqV3z_Bm0-dNnkUCvJi8NliKSTgGoEWMOY5fWB1m09oH_v1hPJnHGEkwXqKUwOM1kzlHjNF7Cm4Ok459uCntymgnGIEb49hVTqEeFykyb7EgOMZ4_UVh_miqr6V8zl8yt4-BR_6FCU4uvGKlO1pqYkVOrykNZ3tp9jlxa11glAcv-HAs-mWkRfeMcLcDXb1DlRmQn_-Vig9PNlsdDulJqu7MYnyCnxpQJPM0cJya7xLqPxOPurXpnuxVNb1LkVwi4kIEddWRv6fxNOjLwE",
+      "address": "Jl. Mawar 2, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:06+0000"
+    }
+  },
+  {
+    "hotel_id": "c0425129-6a14-48e2-b9f5-14da3d5c6d1c",
+    "identity": {
+      "name": "Dynasty glamping Bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.263711,
+      "longitude": 115.178439,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 52,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cottage",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cottage"
+    },
+    "_meta": {
+      "google_place_id": "ChIJdT6EYLKJ0S0R0CPJ-dX_ClA",
+      "photo_ref": "places/ChIJdT6EYLKJ0S0R0CPJ-dX_ClA/photos/ATCDNfWtUqUGESHSi7Y6Bjd6IcOLIFJNIPzKFHDlyWrNZrizBVCAg1w8egup7c-dFk8CsYkDhl2lYTUQ99O1FYtGjXnC7JAGmMmL92yHu3G2P3E4TI5JuS34dCQmAP-mj6xA5bGeP5Esn6kiny9ovQSN2FaSwOIVD01Xd9CDze1GV2t6N7G4S0z6y6qNOoSB2fpXiGGNvRIu4gTb2x-Fadg9poUwxswda6NZyjzU7wWuf1P7AFa3jk8zQEDT8IKN6fZ7gNMRViP-N0v7wvFnEoW9CSXOdB7UTxyI1xPRFDJibOmsypWUqqaZlYTiZmtEcjSIC-n6sc7kLy-e7qP_HYbMUdRNbXnfwT12NLPeM-0-95em4bPT3DIO0l6IeloIZWnUcTrsArmXDjcps01sh0irB8s7jJzZUKMdLrNPYfEOphFebPsklo6QNHT-PawyKA",
+      "address": "Jl. Mawar 2, Banjar kembang Merta, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:06+0000"
+    }
+  },
+  {
+    "hotel_id": "ede5f9f2-c4da-4706-835d-ba2e5e899c29",
+    "identity": {
+      "name": "Butterfly Bali Glamping",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.263812,
+      "longitude": 115.179967,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.2,
+      "review_count": 72,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "camping_cabin",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "camping_cabin"
+    },
+    "_meta": {
+      "google_place_id": "ChIJE0_56BKJ0S0RaRNfbFhexi0",
+      "photo_ref": "places/ChIJE0_56BKJ0S0RaRNfbFhexi0/photos/ATCDNfXLNb_mjX7zi1AN7mH4uAg5hpGPVa9r3evqdha2W9xC_IyXWAdqQ6wcFP278eBGRXI9vvz59UsGB4X95wu_bXEgqYJ9YwP0wwuY5XgpXUgCch6qEB7GBCVNHiufgZNABjkFMfHZ6m7FXeNXhvFhqnum1IQO858vYlVpHDLmRkvoutNnIZcJvbAzahku6mRE0yao-f0PNOFTf1CBgXK3EhHrQsYp0XWLS-5W9tu-HecpD2G_OPUFxdLmDgtV9er0cotee5J_Xf_oL8jckddAatkq0JE0VmK7Cxp5PNuX2XR5U2m-KF2a-PBEyZa-HbcAt77w_x9-VHj1DVS45-6IvBi0eIbMdEZNU4ujpIRIUZpSInirWQEVAywbG1NRtjF12PNL01Yu-QJfxmV8xlSRlALC5HzxptEhLTZMUR4lYbY",
+      "address": "Jl. Mawar 2 deasa kembang merta, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:06+0000"
+    }
+  },
+  {
+    "hotel_id": "18925b90-b297-4842-b752-6ffe4ab500b4",
+    "identity": {
+      "name": "Catur glamping bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.264447,
+      "longitude": 115.1807,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 93,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ886CsHKJ0S0RZ4uk2gSIq6M",
+      "photo_ref": "places/ChIJ886CsHKJ0S0RZ4uk2gSIq6M/photos/ATCDNfXkYrJlpjosZScO1dD-xi8ylxgkgHaHKQe6pv91XZmfd7kfFXQ94UnkI-VSREK_QNSSwSyqsjnboUYi8gUhZ4iRAN8iMjFAHxiuK4K1nhDzca0fpfsVYPvD3-v_yEBCpjlAPp9FZy1fXGlAEucSj9cl3feYctepB8Xlr--tLVQhWeZTwJzo-f7EJrXj9iMlusniLbOxR_fjeyt9XlJZhVzQ1ovTWGnsuiAxz6G6HWVyyHusKHuGMRx3B8QlKCHACujWFyFWkifWMADqYnpF0dsGU-ItRXu_bSpZD1_5zkDqse7FTC4c8CVBBcf9zvlv8sPUi2OQR21T0oEXZEiQeLx4JHrkC3cNSgH_e5JzfVaFaFNVGl5GY0HiuiinVUCTQy0mO01U8Ox2L8lN9UohMAkAmUFKm7WAJUjEEGNgXixi",
+      "address": "P5PJ+67G, Unnamed Road, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:06+0000"
+    }
+  },
+  {
+    "hotel_id": "c2212bbf-f19c-4f0e-93b3-8a3c42baa3cd",
+    "identity": {
+      "name": "Dynasty Glamping Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.26356,
+      "longitude": 115.178452,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJT9-oXVuJ0S0R-rWHc9C1vlI",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:06+0000"
+    }
+  },
+  {
+    "hotel_id": "1cb893f8-c2e3-41cc-b47f-3613a873a110",
+    "identity": {
+      "name": "Butterfly Bali Glamping - Suite Room",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.2638,
+      "longitude": 115.179962,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9WtOf1uJ0S0RuVtLgJbRBIM",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:06+0000"
+    }
+  },
+  {
+    "hotel_id": "4cedab85-5887-4288-abb5-1952a2df863a",
+    "identity": {
+      "name": "Vana Vilas",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.264791,
+      "longitude": 115.183628,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "camping_cabin",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "camping_cabin"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ2bJ7XjCJ0S0RxB_5FXaUH6w",
+      "photo_ref": "places/ChIJ2bJ7XjCJ0S0RxB_5FXaUH6w/photos/ATCDNfWaDHI4M8H9terol2OWagOivJIo3vIk7NNZlU7ZQrXDULV_FKR-dDD6S3rNpTZlRIoqx_U_lrhaoptIstD5DmSzM1AdOfM3fY9-8mcktviL3FLyz8_B4L8mVdniCYZ4FXl4BqfMT3ZY00U7XA71QFv2V7jry6wkg1Pko8fxXVqLvTvvvGKu6DW_ZZiv2Yji-SIhiOqmj4-9IIeV5eVCyJaDJWM_mXNl9n3e4z7fIBZLYI2k8Zdpt4MMM7oSBpapLYo13NhRZUjvK6m6F79ZBXP8XuL2eo5DaP-jm3_87VbkwuHAeToFjjUF3Y0RQRkjg11ifV9lbQDABmMAReQrdS5j57RCc2NXA6CRQyEuHXCRpm_Y7pwXA3og61m7B1g4nW-ethvQ_NFi7TLeIvELXrjY-iOKgWy8VUYyBRCNMjgERd4X94xcFa9GLivBNg",
+      "address": "P5PM+HHP Catur 2 camping beratan, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:12+0000"
+    }
+  },
+  {
+    "hotel_id": "72839843-1c40-4d1b-803a-fe28beeb5258",
+    "identity": {
+      "name": "Pondok Kak Tu Bintang",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.269533,
+      "longitude": 115.206461,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 3.5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJl8zeWd6L0S0RT_XqJKjze_Y",
+      "photo_ref": "places/ChIJl8zeWd6L0S0RT_XqJKjze_Y/photos/ATCDNfVCFOKb5Uwkzu0heHNtU7nnboaQCdzfUXw5-pKtAKxUX5rSuhuHzeZ3ToWaidlbOThSFGOksCpa-dSTTn38clgXopeApQlIoawsaVLJSDOQEyFx5g5cAR5M3SM2cW62jcYwtPBV-HL4K7XI-jhbpbIGG6m7DAr3SBLwemSuUifyPPl3fjVqGBJMcA9ILi7N1Gc29G_IG1xTteHW28VvobxCfJBpnoDgJ-TJoi1r9mE8xm4Ja8ulqa-8v1kWIdPYa2B-fJnFoiyO9RxO3H-8c4r_obF_SuU9bvbsU3NFo_ORFgrGTUy9enhbLGvz-wiSVxKYRnZ2nM1U0Ofv8iqqieGoYJ7aAdDwjwH2AuT5EVDoq_GfE2XdMCzt0quaWF0Bg8vWsbrwsWEZ-TD-Scbji3xfkS_62HXg6NvcF35dXfWEB9c",
+      "address": "P6J4+5H, Pelaga, Petang, Badung Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:25+0000"
+    }
+  },
+  {
+    "hotel_id": "d29223b9-d09c-482a-855b-0884e313a38a",
+    "identity": {
+      "name": "My Son Farm Hut",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.257797,
+      "longitude": 115.123695,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJc_LEZQCJ0S0RFeEr1prGzYE",
+      "photo_ref": null,
+      "address": "P4RF+VFP, Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:37+0000"
+    }
+  },
+  {
+    "hotel_id": "55d7f66c-899e-432d-9c75-6c950bf4c237",
+    "identity": {
+      "name": "Buyan Lodge",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.255146,
+      "longitude": 115.134982,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 41,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJu_VQ66mP0S0RrX3zbT1DFeo",
+      "photo_ref": "places/ChIJu_VQ66mP0S0RrX3zbT1DFeo/photos/ATCDNfVaOXIzT1KrzSzE2U8t_gZSNg7P-sVlcuFLIXIhrueFrOSfAa4OTM5idgovbqammMe7TCl2TYwXG_8gNHJRhnc87DCx4ZtxCZ-IBC2y8EscQOfjKJK10qz3yQ9HWRpJqKdrZsNwJAk2Arwmw1QCYcTtD5FFhLQ-KmyPnfLGwuuX3xx1CjbP5tbjQsg3Cg68d4yzrer8mp-2TvofCv2G3B8tOwonTNDZj7XS4zrYR4TO0vtC_NgWwfaU_X9KMNIqZXwlaBdsgkPxVvdkrJ993v-y3FZCNWYXv7YxALed8pny4_4Lb-VtRrhEOeD9roc5GwRVia6ztQo6VbHEXFvcLwsJtOO4QwjsK-IFOfjDf_C5F_ZxlJyyV8Y6Pxqr6ATys7cnTKXvPKNh-uat8B8SiPPHCDiSEcUBSxTmBhg9y5u6Nwjxn0gsEERGyITnbg",
+      "address": "P4VP+W6, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:43+0000"
+    }
+  },
+  {
+    "hotel_id": "8a4a3458-fea3-46d9-8c5c-bb4055d31540",
+    "identity": {
+      "name": "Villa Pande Buyan - Three-Bedroom Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25524,
+      "longitude": 115.134666,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJM25mkNOI0S0RH7KyqkoKefc",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:43+0000"
+    }
+  },
+  {
+    "hotel_id": "8c302d88-68e4-4c98-b5cd-0f8497cb336e",
+    "identity": {
+      "name": "Buyan Lodge Lake View Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25518,
+      "longitude": 115.134987,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ18yDj9OI0S0RgkYiyaLUcVg",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:43+0000"
+    }
+  },
+  {
+    "hotel_id": "3eb00421-649c-47d6-b840-363b51854e97",
+    "identity": {
+      "name": "BUYAN LODGE lake view villa - Three-Bedroom Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25517,
+      "longitude": 115.134987,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJBwiBj9OI0S0RvS6Dbuqi9Z8",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:43+0000"
+    }
+  },
+  {
+    "hotel_id": "7dab7888-e724-424d-baf2-bff57ffd3acd",
+    "identity": {
+      "name": "Pondok Giri Mas",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.255494,
+      "longitude": 115.146102,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 17,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJG3Jjeg2J0S0R2uc1xi__vko",
+      "photo_ref": "places/ChIJG3Jjeg2J0S0R2uc1xi__vko/photos/ATCDNfWT9mBA058UjeyhKrL297oYEYZUK0POfYsEiQ25POs_IcFUK3hDQs_Hiai6HYUj2LsDWi9InOFambIV1IfxLEImIWhA2l8FpoQNc312iKw-Y4wYUd-JHj6IjrFVqChEfvzteUrjXrYZZaqQJSC0YbKq0uAbv0OrWF7OWTM-ScgwbR5yOO_nZaZTvX-tYokBg_SRcy29JP1scYWB-KpeT2gZDqX-1iaH3OxpQyLyV-6qadt7xjiHKaKaAGhSMOayW-D5QmJRvVCac9XGw8nyl7jyQmzVGOdO1tQihdugJFrRjosAgs6PYrQJ_YYVCsckYOqjOfBJWKwxgZ6lE3pgeCSN0QpU2shCgQOUVcHZqx65im6PZ9SWsqvsQYv8yJD1iKheem9xc52BwjTGIugO34mURaZk8TZOcmPPupWHnDxrx54",
+      "address": "P4VW+RC5, Pancasari, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:56+0000"
+    }
+  },
+  {
+    "hotel_id": "83e239ad-af7f-4a5e-975c-13f29b3cc846",
+    "identity": {
+      "name": "LinggaYoni Agro Camping Ground",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25651,
+      "longitude": 115.148154,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 17,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJE0nMuy6J0S0R_TUES-jQUe8",
+      "photo_ref": "places/ChIJE0nMuy6J0S0R_TUES-jQUe8/photos/ATCDNfUcs_Wdo2Sg0aOrY-MQxtJTte7ljt_aokIiltx4xdS-3_CsixiAKYyHjOuTr_Y9IIh-9-K5tWj79KhZXyiwiUOYP6l6RWbeqTvYfKUOsoksMANMYq9IkYBgwASNc5r5sUPqUhNIB9RJW24o-fU8dUrN18kGYXQzbrFmem8AFkNBww6hpqp7XUseNt88Kb1-cIFc5rRKpxjryP9jx_AxeY1cFjD5TGQthvTs84SOlrwKyimShIWgy776jBQHhr1OR8V0JX2L5Do1lDV5Ji6f8sQFqPzVsxBp-xXQFkfB-GgNqw",
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:56+0000"
+    }
+  },
+  {
+    "hotel_id": "5be522d2-f393-4c95-a64a-62fd0e6d351b",
+    "identity": {
+      "name": "Kubu Kayu",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.256191,
+      "longitude": 115.146033,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJSWztIwCJ0S0R3j2Iiceen_w",
+      "photo_ref": "places/ChIJSWztIwCJ0S0R3j2Iiceen_w/photos/ATCDNfVL8TxQs1OeZM_lv8RXC148NhyyahH7PMDlGAdPJ57y_FvIc7CmMz-gVQ5-r6Fz6WWu5pUwa4Ibn4Kru4JUc-rT3872pyKOZVIYOsqlNpRbcYGno37d-fpTRXFbYZuiDVfMMgPGMIKYv5s39zlkVbccFHmNk5om_e-H5NzHDU1ubXWUbISwb90VgHEOVv4EQIvlJWwmK_80Bw0ArKTFgQVqglwdLu1r7rfR4yfsReKbOf42PaP8HdJrRdGpKgS_plQk--A_aAQ_HSQX8MiXlN2J1TKrg-eiwo7NiUJy4gKX6Q",
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:56+0000"
+    }
+  },
+  {
+    "hotel_id": "febefe96-4a7f-4d45-b4c3-3c212f55eafa",
+    "identity": {
+      "name": "Lingga Yoni Agro and Camp",
+      "accommodation_type": "Guest House",
+      "vibe_description": [
+        "lively",
+        "hidden_gem",
+        "quiet"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.256272,
+      "longitude": 115.148205,
+      "neighborhood_cluster": "mountain_lake_zone_guest_house",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bed_and_breakfast",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bed_and_breakfast"
+    },
+    "_meta": {
+      "google_place_id": "ChIJC27S0vyJ0S0RUfDynzaMdqo",
+      "photo_ref": "places/ChIJC27S0vyJ0S0RUfDynzaMdqo/photos/ATCDNfVaYM2QCEebpZ_GUVcpY6umUA7H95OAvx0k6iiGSdGmEs9FtkxRh-Szi227uzWwmLwUcTTXhD0_AOi8EWnLrQp_bRSHlIcO6tCsZaBlLsVuy-ADEegruzguGohL7wxDwh3dv_DS05tTRZR6NU7Jamq0rasOC5NrVt0_bjPiD1Cf-qaJqLPe6xfIIF4x6mrFR2Blk2Dfa1LEHiZ9Ax6w3fdbTZ3AIrvSD0l-63ydfzdvZf1rAJXhy99BQ6WG_B60E9DvgfwwoNMClsMLh73R8gIFTEvVykfdcXFZJHOIzs6m_6Ab9pqYPf71BJ9zcfgXXVcSC7DYEvWVYVoeN-AbBntrHnmCnDIlqOm-HCMZmPSrMnLNlJWCP2kMcTW0GQtD9HBrFfyY81MV-7Qlk6sbG_nSZCrcNjNHUiAnHosiP7o",
+      "address": "Jl. Laksmana, Pancasari, Kec. Sukasada, Bali, 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:56+0000"
+    }
+  },
+  {
+    "hotel_id": "0ac40c29-7712-46da-94eb-e193486b1f61",
+    "identity": {
+      "name": "The Candra Lodge",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.255527,
+      "longitude": 115.152613,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJgwuX7WOJ0S0RVCmVX2X56rg",
+      "photo_ref": "places/ChIJgwuX7WOJ0S0RVCmVX2X56rg/photos/ATCDNfWNluAQEoXDI34QWgsfQrNTK0FxdBAneXoySlG3tFNuUvVUuaS_2gdg796S6_SrSxCLdmpzdW1p7K28DeOdfBrUf2EemjkVzpAN8nWxzXF6sL70IxiRaP2iHZatErmHd6lfEJ9cojAow8I47hhK78jrTm_2Ibm8Ulf1bqK_gtkC_YFmqe_M162dkTES6CO7Qbvwe1KDNAj0N_Hi_6hM4kq3Ce12Jw2go9x44IfZgvt3wROxn9qWiieSr85ra6WTGNBCB8fxFrqc2SkvdjNXLGzo2inPifL3WZRKHWPcEaEb47-EQXaYNpnl2jLdYTk12wP_HM3b5f0bPRtGj1FwTf3KKtoeo08lCJ1L4SoDj4kw2DMaNBlcPOQF3CNe3s70vDTuZjTu9ksgGuPtZzPBPofB45D4M8_w99KaINC5IGpdAGc",
+      "address": "Jl. Maruti No.33C, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:56+0000"
+    }
+  },
+  {
+    "hotel_id": "14d1e0a7-7416-4399-90fe-b368593f42f2",
+    "identity": {
+      "name": "Bali Berry Camping Ground",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.255588,
+      "longitude": 115.146835,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 3.7,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJIaZ88CuJ0S0RvPubwy9A8zo",
+      "photo_ref": "places/ChIJIaZ88CuJ0S0RvPubwy9A8zo/photos/ATCDNfV9-QlQVOxo32LASH0ojpt7F6kpg84E-dOUmBhJHFzc1JyZYm98yAx5Vo_AQ9HwOsOW-ShOPRMAnMumaDzJml3Zfs504cFZil7BQszeWo9iO_1EMbglbOQD6OurgYv5sCCqSOhUZoZI1iLBCDMcqZyWXIFZHvMYgBz8WUjoiAtAtO9UTTYu7Lj475U_uZ1W5PclZxpbPV5E7idRISOGQDEKDoVLaSoR_AaU4sXy3bxhtqpi9Vo_3znIUJ0RZM70IT4qK_5ZK2_L0lHv8KVGiT1tGYJnCx_SOY2WrinurxiQpRU1XI278NP40sjlGT_3mSfEgQxCXlQvNyEBOUqeoNtlnkB5jQ5ex8O9egcwkIXJYyyjAFmwceeFqrFDv9FUW3qPiCJ1-UTPvVbvZUMQkQqtyK9NFwRexDclP6VJAYvuJpc",
+      "address": "P4VW+QP8, Pancasari, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:56+0000"
+    }
+  },
+  {
+    "hotel_id": "7ef2cdc9-5b94-43cc-90f8-69eee8ad4e30",
+    "identity": {
+      "name": "Sari Graha Kos",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25373,
+      "longitude": 115.149246,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "extended_stay_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "extended_stay_hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJva80bnuJ0S0Ra8Pi5gn2lBo",
+      "photo_ref": "places/ChIJva80bnuJ0S0Ra8Pi5gn2lBo/photos/ATCDNfXjTBPNP0NMRk4MU1BJTjrxalbLNHXgDm5APCgvBgnEq5eQRMMUvBOgL-f2pkWv28RBzrAQB0koMLVvD9Qw7jk7s3aXeJQhG2l9n6BI-oKjtDnnEMj0kz4d-zhlzVkMZfehsVxPxJKLlkM3YuI_RQ4srOUzk7HFJ2Y_jbG-D8tHdoJunJkSECYjmPbzBRZc0zSuslvrGoJ7ZJ7rg0Z7P-O0ZsR-yoYjK8poJrKLjeKUJbydI3CoVanJqdr6VVr1PJGb4k9F8QvBZ6FNncDyHNqKh1O1NhkQLbx0xQb9Dn-oBw",
+      "address": "Jalan Laksamana, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:47:56+0000"
+    }
+  },
+  {
+    "hotel_id": "6c8bab15-edda-46ff-b8e2-c07c28654dd5",
+    "identity": {
+      "name": "Hidden Strawberry Garden",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "lively",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.258111,
+      "longitude": 115.157695,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 554,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tourist_attraction",
+        "farmstay",
+        "florist",
+        "park",
+        "farm",
+        "lodging",
+        "supplier",
+        "food_store",
+        "wholesaler",
+        "manufacturer",
+        "store",
+        "food",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "tourist_attraction"
+    },
+    "_meta": {
+      "google_place_id": "ChIJp-8UGMOJ0S0R4h5V4aUE0M8",
+      "photo_ref": "places/ChIJp-8UGMOJ0S0R4h5V4aUE0M8/photos/ATCDNfVDEOLgKB9cWs322Ih0IUnY-WuzjBHZUcCPNVk6MRH0mu0oyZxOkun2XAit-MR3Z41h0wNDudBeqENSzAfHe9fnN6qO73UdChGe56IXdjufROapGPH5QpAauZUYAJ-vIYJiRUEcsQL5Ck2D3YzJLdlCBvtpvhD4Ci2uafBYzK9MF-XvlRj73HBgdAcZfc0UDtcrBTXjq2_IhNONg5xmZcSxPdCnrapWBjeH4r8ZZCuIgjMMX2f-LhBlUa1EOt5c99597M6VKEEuBFdQsU91PM6Mj9-PLnYKFxTdUUiMkcWaMg",
+      "address": "Jl. Gatotkaca, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:03+0000"
+    }
+  },
+  {
+    "hotel_id": "d6377500-b8e4-40d4-84f4-739656401425",
+    "identity": {
+      "name": "Villa Teduh Kita",
+      "accommodation_type": "Guest House",
+      "vibe_description": [
+        "lively",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.258153,
+      "longitude": 115.156331,
+      "neighborhood_cluster": "mountain_lake_zone_guest_house",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": 3.6,
+      "review_count": 51,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bed_and_breakfast",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ5YNWB9eb0S0RHTUMkFpjkqM",
+      "photo_ref": "places/ChIJ5YNWB9eb0S0RHTUMkFpjkqM/photos/ATCDNfXdBq85b6akmdcYFkkyeadD1FGXeOqEzd9QMncTq3JmUYsgxx8F4BYNLEh4xoK-a73RFv9guLCiLA8f8e1nNECqMkp4Vvcdc4UHiv6A2JMLGebqUnpJx-rsJbLEA848sSACouwnZ871-A88JbVKHWsooTLu1dWfQaPARYEo7GVmHbkluQ-PRc59DtwJqKzCcVpJdRbSsHWH7mn3LQcDEswJlUOkiBHRMNsEedH1r6YjbWvzI-t6_umdxm_zFbfVcjfGeWNw_9h_f_A_YWTc2L2FVu6rLl-s9OELyLwACANGfg",
+      "address": "Singaraja, Pancasari, Kec. Sukasada, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:03+0000"
+    }
+  },
+  {
+    "hotel_id": "323bee93-3061-4835-83a3-f9521cee9103",
+    "identity": {
+      "name": "J&J Guest House Pancasari",
+      "accommodation_type": "Motel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.254473,
+      "longitude": 115.157213,
+      "neighborhood_cluster": "mountain_lake_zone_motel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 12,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "motel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "motel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQ0qdUwCJ0S0RsuY_-9UzWNc",
+      "photo_ref": "places/ChIJQ0qdUwCJ0S0RsuY_-9UzWNc/photos/ATCDNfXwtQ70zYfrAlL59Wc8QCOvjpoPJqCZ5sTyKCHjUSTGSAn55TNMJvD6FjaQ78ZOS7Pn8Te_ztEkt-CtmCOPyLyckNCYzV42OxIx4KiczRnLfcrrHHytMPE995uvUUKOFF5SbQXo7Ae9Pyd77Vd0zmTagJ8F-fXbA11ZCb8BI4UAJY0wFYmEXnzt31CYFZpVD_cumnQfZehq8TMMS9FzbH_gzFPACcm5-Y7_xGSjhJYc5Qu7WoVO6XXsWeFBHw9YwOfyK1FS8MutWtggqRBMIf62pbHzOzlw8xUU4J__XUoIiN5Dmni_aolVlX6t0hTgq20dxD3_P7N1YNMt3MAJVk3DXjrE-w4MzZKdOuMupjNcBROdk45cFGyBqAdlDrgqfzRxWNPPqrU0R7kEIKSCLL_hlJ4OIFj45pfwmQUEkzTklU1MiotkWLfDrfYcSA",
+      "address": "P5W5+93W, Jl. Raya Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:03+0000"
+    }
+  },
+  {
+    "hotel_id": "7238d35e-0ac4-420a-a26a-b3a4d95a1654",
+    "identity": {
+      "name": "The White",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.261401,
+      "longitude": 115.157772,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "camping_cabin",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "camping_cabin"
+    },
+    "_meta": {
+      "google_place_id": "ChIJnTIYfkqJ0S0R_5yX9z-ZoRA",
+      "photo_ref": null,
+      "address": "P5Q5+C4, Candikuning, Baturiti, Tabanan Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:03+0000"
+    }
+  },
+  {
+    "hotel_id": "a6950e7b-01b9-4d77-bd80-f2398e509a59",
+    "identity": {
+      "name": "Asta Homestay",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.254188,
+      "longitude": 115.158776,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 6,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_7euOQuJ0S0Rkus9mxZNZug",
+      "photo_ref": "places/ChIJ_7euOQuJ0S0Rkus9mxZNZug/photos/ATCDNfUXFpL_Sez0VjIWvAyg-LRlFpCd_XiNAczuMRWUJXNu6b-RyKQs4MAT4fXoi7ICCGLwdue7gJwGZ1-GQsKxVQW7QzDCJnnw5qegdf4juwbWtsrLpLMasBr_0A1FADNIw6KJHKeMzQCU7GQjjr_RDYq2ZpcFA5ZcVd613XZixAnc3h1eSnW-fu-txXx_bwrl2mloO36-BH1ZRhUMiCCuEndtgKetHWMD_AplRQTX2jlvyHt9EKe9i5_jdkuXhMG8B7YVWlaNauPAYdJbZ7cMuVbavOaxMkBGfAs6TVbbRqRNxHNfsmceo5IHFVmdzAxpGsiwkMn44nKMQXwg6y-kCiInMaTD9lLEyxW_w2w6Kv6edQQvdN6odm0odb4LiWDG9EVgPGhZ9jXmMWoP84Pe0D_ww2gh94H3W1qa5cu3NhTeVKrI5Chtv2YZdPeb",
+      "address": "P5W5+8GC, Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:03+0000"
+    }
+  },
+  {
+    "hotel_id": "574afded-0eff-4357-8f11-924c3da16116",
+    "identity": {
+      "name": "Teduh Kita Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25804,
+      "longitude": 115.156441,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJa8pHADGJ0S0RciVaC_bb83c",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:03+0000"
+    }
+  },
+  {
+    "hotel_id": "f4e1e208-29f8-4098-b863-f80aaef3ed6f",
+    "identity": {
+      "name": "Asta Camping",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.254332,
+      "longitude": 115.159021,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ8VYXWW6J0S0RkyBO5ecVrso",
+      "photo_ref": "places/ChIJ8VYXWW6J0S0RkyBO5ecVrso/photos/ATCDNfWgacSntVMz1o2XGRxaed7TAg2xpAF5Uhyo5uFHHwVP_u87Ium5WuYzLqcwvEJ8oA04GDRABdpB6RQ_4Vz7Eh4wLxM67q4lR572vhtGNcR6MaM2o3rvj_f_EPOcAcBLSFghw7nMYtP8_a5Qx8dTENb-v5U5Yk9bZls2TEXNLMa_SniscfXFgfJEIL7dbpdGbcy76yn3M7plf5WoDkJNSFm4loPsZF2rtanbyrvalh3yXVwkD4w7WJFAJfch9ukvgSNp4r8zkt0voS0cJduWXAu9pN7FBaRLpyWNuPyzeOuEgmkihshigN00LHlDDvyb5h_wgy50OFY77JMcIJKq5B4MzCRG2kvtpyNs9kh3fHeFai_RybqpN8qKiVv23IS6jL5xRriJqjmEZBxEZsnHku4tL_dRjqrKVt8c7xCODh06",
+      "address": "P5W5+7J6, Pancasari, Sukasada, Buleleng Regency, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:03+0000"
+    }
+  },
+  {
+    "hotel_id": "3d27790a-ddca-4470-aed1-3f4c7a5b16f7",
+    "identity": {
+      "name": "Danny Agro petik strawberry",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25407,
+      "longitude": 115.157654,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9VfzvIyJ0S0RIIdz7a-0Bbo",
+      "photo_ref": "places/ChIJ9VfzvIyJ0S0RIIdz7a-0Bbo/photos/ATCDNfVxlGrRXpbvwZ2L0mbEyxaEqdtQ7DSMtCkbr6HqjhpKivz-vtlrKhPXq5fKKiGuNPeE2hziaJ_AvI7q-ecoaExfjvGNnnx-ZcDxzfUxdXpWvoWmjb0CZNoypYHK-kgjtkFKYqe8-26ApOc-BzaV2_V7E_2Sx6B96MpvoI5UUour8653Cu3wlGawf9oR-bI1Xc31Rn51B8P_5wY4UdQQfjzeCyqcRliyQ_kF6YGQysl3wb9HHgioNZwpTXOemb_-m87Z3cUZM8BjUwh65E8lRJd889rC2KctANNYJeX42j5wdRc1x1bMWn4pyHjH-A_13i6hNpI2xcJqlRaleilsTTp2_tM4J1AsNvLVSaKiwG_AZPTPI3MwWV6I4t3FYzMc8VjiQVH7uXnVaUuO-E9YEqyvZQ-G32iJ2VpOJ_LoAg6OZJY",
+      "address": "P5W5+93C, Jl. Raya Denpasar - Bedugul, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:03+0000"
+    }
+  },
+  {
+    "hotel_id": "1f3c087e-3641-48b9-becf-df5064d1c5ec",
+    "identity": {
+      "name": "Pondok Lecir",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.262481,
+      "longitude": 115.159601,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 1,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJG6Y_UgCJ0S0RyOJQ_hWmRy0",
+      "photo_ref": null,
+      "address": "P5P5+XRQ, Jl. Kamboja, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:03+0000"
+    }
+  },
+  {
+    "hotel_id": "28107ccb-a32d-48d0-be84-9a39b2b6f114",
+    "identity": {
+      "name": "Kubu d'Bedugul Camp",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.261246,
+      "longitude": 115.171065,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 239,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJs8s76zqJ0S0RWHkWKw5jd0s",
+      "photo_ref": "places/ChIJs8s76zqJ0S0RWHkWKw5jd0s/photos/ATCDNfUGmh8mmefhwww1BLK14yKRQ6fvMJlO3AK3h4Sy1-sv-WxgX184k2juRRP1HT26Q3YZDgk3oKgr5DwLR2OHZlkOy7HhiHPUi5Jt1rE00dz-JZG1nfr245vS6TEmt_6v0AVj_dLbNDYB0v6BzBf35fs-BPKdctxkY4qCu_mU6pk2UkSClvuSab6akbdGQe2tFCbbcDpNnnEOdmSoGm2hl05M_Q42Bp0zx0kRJPF_GKdnRwAqY4nxNM3mMMZDmxlVN6Tuf9TsIgo-aajfggEu7xW13sPAMTej4RnjUPVrxgNaZg",
+      "address": "Jl. Mawar 2, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "203aac35-2a04-497f-aaac-f9f886400ead",
+    "identity": {
+      "name": "Pondanu Living",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.258839,
+      "longitude": 115.171014,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 107,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_6RvWhCJ0S0RjOWgY3vIpVA",
+      "photo_ref": "places/ChIJ_6RvWhCJ0S0RjOWgY3vIpVA/photos/ATCDNfXXVEFB-wf7qSzxi4MB_RBnX9Z263yiBMXgcAOmrG3whb1Cgo_22lp4Eh9cHCVuPfnCGR7yXm98m2yMcHgqbdURO5NwnI7lY5ycI37jln_Ek-B-GrrApPVUErH5PwHGFmNnnELvpI9OZ9F1Iu9jU23kMv_G0ZdBFAFYry4M6A8Oa6W_xBIiwVq-wt1Dv_sDksUlrrmvtXp9sX0KlkA83iKXSALckncoS_e9gayw0zr9b2NaSEvZr6aUGypGrd9FGH0I62Y5n1O_Q3PgxVmDFnyjvk1Yy_Bor8nLATv81JAitQ",
+      "address": "Jalan Pura Pucak Sangkur, Candikuning, Kembangmerta, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "84fa974b-7710-4d4c-ae56-bed1836bd3bc",
+    "identity": {
+      "name": "Puncak Lestari Villa and Camp Bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.260734,
+      "longitude": 115.16781,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 28,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJj4-reXCJ0S0RIQHysUr_ZTo",
+      "photo_ref": "places/ChIJj4-reXCJ0S0RIQHysUr_ZTo/photos/ATCDNfUk0b0WDckfaYbJNmlBpCgDcmKXeY6eh_RLofjNeVhmt1Mts-uZlpzee2HuXCkitU7xAL7hvqsHpQdvSQtJugCZE5MSCDkXPeMEv-wlApTHkyf7LC9xORShbT8VVM55WCRxFJMKqCDEbYcmtw_hGWq3y6F1CYN_b0q3wj3mfmTE8QPABRHRnJHberGQN6Fw-xDCYZBMmOWw3fop8qq9_WpDjPSdab_79llX7GU0aBakBhTaDu8d2xFBS4OKKIDbtiJrYpDOAvLhR5R0od9D9jWMFzSyH9tuvvYQ16VTZnAm8Q",
+      "address": "Jl. Mawar 2 Bedugul, Banjar Kembang Merta, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "259a0d91-9eec-4309-bab5-b7466ac9c96f",
+    "identity": {
+      "name": "Cemara Camp",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.260313,
+      "longitude": 115.167945,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 52,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "camping_cabin",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "camping_cabin"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ594ds8CJ0S0RHJXnakM3mwk",
+      "photo_ref": "places/ChIJ594ds8CJ0S0RHJXnakM3mwk/photos/ATCDNfVQjSNtEf8KLtasaPPEAf5o85T3J4mcPpeDXZEwOO2_0t34iie0hsgLqUdeJCL7v6JlJ1FTV0_LnAiSphFBy5xXXDXE80GhfY_S_Pcxj4R482pHELTrRqrU4TqEbAwjRaftrgQzn21FLT4DgJJeAMb9Nfr2Lc35lYYzqtGIoqL2JU14V83XQPQ5BJcsWgjPzZObWcOzmNkxS9PUkXc6uLwBqv1_gd_hQWQMDgivXgrN6h_qr6pPvW7php9nPt-i6Daitne7tgmn5zcVZIokbEXgVtWukzpEWQQC8YLqCHvuXA",
+      "address": "Jl. Mawar 2, Banjar Kembang Merta, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "20c7095d-9749-4f21-98a4-da0f7ea21e39",
+    "identity": {
+      "name": "Lake Beratan Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.256595,
+      "longitude": 115.166753,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 32,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "service"
+    },
+    "_meta": {
+      "google_place_id": "ChIJk_eauEmJ0S0RSVAJ6wI9wbc",
+      "photo_ref": "places/ChIJk_eauEmJ0S0RSVAJ6wI9wbc/photos/ATCDNfW7xe1RG4dkj0_9ZWC9kroGBsbO9a7MclWWeE5AiKy99FyKTbIirEazu-lAYaILz2phOz0CFHVkdRTlNoa2c7YEuchwTy9QwSgrVXq0n6NyCQsHzNSDky00zbR0E7zSrNsDAZ_ZaQkcLQu-Y7SxDDgiUknSsIs8YvCNPenIV0e116VXR2197Q8grfznWU031X3DuMcdopz8dpXyObC7c62RxDFDY7awQj4kOHQi6mqk6-jjnroy2zc0EQJPUZe5qaq0CKbKeRALMkm35DHUm4eafifYr19hVtk5m21Up8HzJD8eJWiOq7BOe9ori2_JLsZgaynO9D1kt0zWNf6zvVJcffYgxIU2ksqRekXt2W9FyQq5vz0sFMAhzCYSFrquIJEGn0N5LaFFmS3YmXjLYHlYwzuCxH5NR3AcbFLwR0g",
+      "address": "Jalan Pancasari Baturiti Bukit Berbunga No.20, Candikuning, Bedugul, Kabupaten Tabanan, Bali 80361, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "12a91a81-9b52-436f-bb94-770a2268169f",
+    "identity": {
+      "name": "The Lavana Villa Kubu D'Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.260889,
+      "longitude": 115.165572,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 3.4,
+      "review_count": 7,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJgz6z64uJ0S0RuvBxcB9zp7Y",
+      "photo_ref": "places/ChIJgz6z64uJ0S0RuvBxcB9zp7Y/photos/ATCDNfVlYsJ_DwOooAcoAymYk47ec6jYGxnDgDDp3RKqa2S3vaBG8shOTcij8yEaSWmTb3KQr_Cib3-wPC3qKioNMGZnJv8zpR2Lj72opq3apbzaQh78wUy_jhI3iirDsn1fQDxVklI9p3rvQLYRpsU5owKTsI7xHNb4q3t0X1oeOAmqea2pli5I2IzlOtQPcPsHBOx0OIGc7tcDSEl70k-k8W-OU5HNkHAcE6NEzipDYuHR98R3h3M_nArwDb6pSVC6X2JYIgFHy13O4v5qau50qPjcdLzSIBod0EggfKIt9u2inoQa8bQyILmotShzSBUKBo7Ji7q_3RinE-lj8LCrr0KCSFu2KCt9OumvWv3FnnTiYKxlzv5Vpa6q9Wr4-6x1uQ9OPKG-Y_X6kOtZKhEw9I_PXopTW-1Lpi9AYqGjNKw",
+      "address": "Jl. Raya Bedugul, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "2fa919d1-e75d-43b7-a54b-224707248bfd",
+    "identity": {
+      "name": "Made Brana Japanese Guide Bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.261141,
+      "longitude": 115.169147,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "tour_agency",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "travel_agency",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "tour_agency"
+    },
+    "_meta": {
+      "google_place_id": "ChIJxa6N-zCJ0S0Ro5azPnBluOc",
+      "photo_ref": "places/ChIJxa6N-zCJ0S0Ro5azPnBluOc/photos/ATCDNfW7X_ibNk1kTd9grAwHjdgHcZinjuCAnGIz0Bqese08WucW-SjximuLMwbB9UbL5Gz7fnXDIgP5ZKHqO5rv1Pc15mitscDllwgCvHWOotOnTsZFSBxucJxFdtHpKqQPXhc3dMvJf91gw36WW2NJ4Z-I-g-92jsUDcNScLnngjzUfzbZxVBQvdsv5so8nrj7S53ZJVnrTTMNo1a00SK52Dxe3w-z4p-4XsqeO_hpDeIHcrq3bqNRdskDlxSM8nUDqMhEdU7YcX1ON-GKZFF7DiuC9yeMCjgoybv-ioKpZosXCg",
+      "address": "Jalan ke pondanu, banjar kembangmerta, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "186106af-9cc9-4acb-9705-316a5d52a123",
+    "identity": {
+      "name": "Villa Jado 3 - Lake and Mountain View Villa - Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25684,
+      "longitude": 115.167236,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQwWKsEmJ0S0RQy0GzfXH4VE",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "dd5af29d-0743-41cf-b0bb-a5b422cbf000",
+    "identity": {
+      "name": "Villa Jado 3 - Lake and Mountain View Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.256839,
+      "longitude": 115.167236,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQwWKsEmJ0S0RL-jmh84Khsc",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "5ddb1f9d-a891-4c55-9c43-9cd4ecd06c36",
+    "identity": {
+      "name": "Beautiful Beratan Lake Villa with Jacuzzi Sauna",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25658,
+      "longitude": 115.167541,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJywbkpEmJ0S0RC6c3eva_LWE",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "e817eb99-eaa5-47e1-b2bb-43621188880a",
+    "identity": {
+      "name": "Flower Hill Villa Bali 'Villa Bukit Berbunga Bali' - Three-Bedroom Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25644,
+      "longitude": 115.166344,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ2RJnwUmJ0S0Re-4oTIKeMR4",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "589dc498-8c19-4c39-92ef-7db32e46ff6a",
+    "identity": {
+      "name": "Spacious, Luxurious Lake Cabin in the Fresh Mountain Air of Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25617,
+      "longitude": 115.165893,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ1YTo50mJ0S0RfyED5NDjQ0Q",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "2c2157eb-ef3f-40a5-a337-88b280c75e80",
+    "identity": {
+      "name": "Pondanu Living",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25884,
+      "longitude": 115.171013,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJN7QQs0iJ0S0RoACqu7L0bI8",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "1ea73789-a8e8-4cf9-978f-b0b56cda5e02",
+    "identity": {
+      "name": "Pondanu Living",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25884,
+      "longitude": 115.171013,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJN7QQs0iJ0S0RM6ROKh5VKcE",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "93636940-7ecb-4876-89e1-476f9f25f97a",
+    "identity": {
+      "name": "Lake view Villa in Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.2565,
+      "longitude": 115.16507,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJG6fvIDaJ0S0RgUwKFjMIZDg",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "242c3a05-b0bb-4bfa-93f8-5a4d51de31a1",
+    "identity": {
+      "name": "Teras Danu Glamping",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.261519,
+      "longitude": 115.16838,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "camping_cabin",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "camping_cabin"
+    },
+    "_meta": {
+      "google_place_id": "ChIJuU1DUfeJ0S0R5bbAduuOYW8",
+      "photo_ref": "places/ChIJuU1DUfeJ0S0R5bbAduuOYW8/photos/ATCDNfWfm5k_wuxf6Il8BYZe83l4U1XdmZtP503ZhJi7H7gWxC0cmmxzsfk-WPcRJuBIgrbsX_pjFrLkl1dy7tngVh9-XUzhEs7q5f-3umo_ZNTEcjmVRzq9pMZxJqj7qBIvy9yytfU_7WEeXDIlMajEXa-HqJmerr1DVaZsWSUAlbnWUkjPbm6xvUW_VcyHholEw7mxyjBeWkI0FxJRT3h7uJuGiyY2vtKfcxQG3cb8ZpIGCAr4qZUJwfc2RAB1S8TR9KEPzwnm0uxfpLO3sGiLFgee-NH_tSYNEuerkBgYSCtcpw",
+      "address": "Jl. Mawar 2, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "606eecb7-a94b-4c77-bc8f-5712be08824b",
+    "identity": {
+      "name": "Teras Danu - Deluxe Double Room with Balcony",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.26152,
+      "longitude": 115.168381,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJx5VbTEaJ0S0RgLKe9MAF2Sw",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "cdac069b-bd49-49c2-a1ea-2212daa84a4e",
+    "identity": {
+      "name": "Lakeside retreat and Golf in Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25598,
+      "longitude": 115.16507,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJWXbYHTaJ0S0RP88HnpFWf4g",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "2cb5e35c-5a89-4807-a19d-021039037596",
+    "identity": {
+      "name": "The Lavana Villa Kubu D'Bedugul - 2 Bedroom Villa - Two-Bedroom Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.26099,
+      "longitude": 115.165611,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJYZb880eJ0S0RcjrPx856ifo",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:09+0000"
+    }
+  },
+  {
+    "hotel_id": "9c25c4dd-df49-4748-bdd0-901b2502fcca",
+    "identity": {
+      "name": "Sai Wana Cabin Bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.257158,
+      "longitude": 115.174888,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 19,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJz89pbwCJ0S0Rx-Eq_eMlYlI",
+      "photo_ref": "places/ChIJz89pbwCJ0S0Rx-Eq_eMlYlI/photos/ATCDNfXTTsoIL8KpeFHmVtjXrxAI4PDIHbkl4ugjgu0_aHaZ2tMNOMp0emPdqCTFi-rjvSdIergdmC0SGAxUfeZa_bZDL_KYsrEE2exKqLd_02ymzwyTJSEhmR2k-IJSkkE90HbrSz6crMttYh_KM85bnsQIU0t_nRI2wjrL8k0XNb7AFhW7ztq7daJH-9RiPhqUu2rv1rcPVQnLQLUDoffdC22rtIbXYm_RK7KWrgfFUnK-MT3BA-XIcefu-o-NuNG7Ogr7T-MoYU9TfESnd91Pog7fhUH6cMk9HjLk00ImnOK-Hvhus0YOw8RVhYa92aYLjeouHFCyA2os7Rx_DyZvrTIjyZkjpfbumogh05j1VYwz0K_7QjgrLWvm7DfBlUsk_7imJQRGUhaLZHUghqAzxPBYfcoLDpcN0fi3MwLvQfjDCI-Uc2IW-XcZE6tpCg",
+      "address": "P5VF+4X, Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:16+0000"
+    }
+  },
+  {
+    "hotel_id": "11c973ad-e3be-4f47-8e93-e82aaa6f8e0c",
+    "identity": {
+      "name": "Lowkey Space (S.M)",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.262404,
+      "longitude": 115.176363,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ6YlMdQCJ0S0RNmvBkNa7ekc",
+      "photo_ref": "places/ChIJ6YlMdQCJ0S0RNmvBkNa7ekc/photos/ATCDNfUBtb-Mnj1pZsZUWkuU_m4mlbmiUzfAsKkeuKrcMPz0Xo0B8QJZ5k4qkOUyZ_-_RgGYfA7NFAjQuRjsz1guB40JovKjrJHPR4UZezy-zISwKQhCABdqx7QZnsUryByVQmfrf3jUkmavLKXd_7qz_IZq9rhHCY5UOX5yIvjGtda3w00w2trBWBELdgRKtA_b65bTwdeDLY4EU7lcXOeHn_MWAOvFXLpYNuhfwm2AWI6dTJcPiw5JD8pjdNMheIGYhCMI_IoUtfqWsXt2XmlyOMEBC-50W1sNGtEGopEgr0DwUdz5ncTwwrWkoLkSTP9j6Ii2pRmr5azliM4uI1_qlsdSk2nurexqrzQCHpACVilFFDu0_-CS4vxJzX5u62Y9aRDIsPkNWp7rNL7lRp-kdfMOIkzVGlXDFtQO_uY8wCY_zU0",
+      "address": "Kembang Merta, Jalan Mawar, Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:16+0000"
+    }
+  },
+  {
+    "hotel_id": "f1849f7b-bed6-4c84-85cd-de0d81b56a99",
+    "identity": {
+      "name": "Popitan Garden Campground & Glamping Bedugul",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.261597,
+      "longitude": 115.184108,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 131,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJR5swHk-J0S0RUEXsO5KMQFE",
+      "photo_ref": "places/ChIJR5swHk-J0S0RUEXsO5KMQFE/photos/ATCDNfUQY8jjHhAZAoazMDbvIDHmofpXPPur_MV8LbVWrVsjoPYdQHF5bVujtfAmoBalelIHpFpUwk4z5Z7tq8vSTRFvc_FQnLEsWv2BmOngD9oTHDiVvKlxyvRbwoewPg7vyLeKzf161TodNBuRSmwEYENvbWod-555ApniyhldyMJXQgdTg_RKq35AcrSvPYSd4U8fTka1lcPgwCLidIIDSwiiTUzjqd72lcf3ZViTLu1dQGr5Jgjf23cPNdMUiy_eq48k4L9eTEAVNaiEJ90wvYgLcfiLGTiF73MFP0U8pQEyo7ZVScvUIt_ryocEVU6uhU-FQ50p8XDC36mntM7o4wzYww_llBnF-KziFMlNkZm5BITfkfZTgRm5SHJLToH7gjQuA29x-PCnc-qPxzB2CCP3nh9rHLlWBArJfFQ6LXQr",
+      "address": "Jl. Mawar 2 Br. Kembang Merta, Candikuning, Kec. Baturiti, Kabupaten Tabanan, Bali 82191, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:22+0000"
+    }
+  },
+  {
+    "hotel_id": "96f042bc-60fa-4bdd-aa5e-bf2679217632",
+    "identity": {
+      "name": "popitan garden glamping and camp - Tent",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.26158,
+      "longitude": 115.18409,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJsbendlmJ0S0R_sPsYxt5CYA",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:22+0000"
+    }
+  },
+  {
+    "hotel_id": "3de7211f-3e5f-419c-a2d7-4c6b07650367",
+    "identity": {
+      "name": "Popitan Garden Campground & Glamping",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.261619,
+      "longitude": 115.18409,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJt-WqdlmJ0S0RtGfKpjxn3cY",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:22+0000"
+    }
+  },
+  {
+    "hotel_id": "364d9b77-478b-4c82-8e06-21d7f24dc425",
+    "identity": {
+      "name": "Popitan Garden Campground Glamping - Superior Room",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.261599,
+      "longitude": 115.183968,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJy73PdlmJ0S0RItla0iXcA0k",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:22+0000"
+    }
+  },
+  {
+    "hotel_id": "61147282-f4dd-4c63-a615-d2ff00303054",
+    "identity": {
+      "name": "Popitan Garden Campground & Glamping",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.261604,
+      "longitude": 115.183975,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJnePOdlmJ0S0RNmqA15gfpxQ",
+      "photo_ref": null,
+      "address": "Candikuning, Baturiti, Tabanan Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:22+0000"
+    }
+  },
+  {
+    "hotel_id": "065e379d-b7f4-40e8-bccb-18f582aae5b8",
+    "identity": {
+      "name": "Buyan Camping Camp",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "lively",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.251496,
+      "longitude": 115.129901,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 1077,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ8S4VWS2P0S0RImT4rnKDMkQ",
+      "photo_ref": "places/ChIJ8S4VWS2P0S0RImT4rnKDMkQ/photos/ATCDNfVLxeuLwFv_G_uQFJI8RlVdVRMG4BNnWtWgM99Bp3DVvg2T0IOlN_OldQq2ECkF3JX5wrqrTN17uqqgbZGyte16sbwzsXZjXLldmRz9qMXu86lA3Wk9woJO5r6EVMJszoOeQKlGfKVtS90MASAnc1Pc8zbFcFGvy758n5U-wG3GPJYnJOazRuw6SvqxkusNRliex6Q2o5et-N0cjH71ueoGQ_p4ojRfEldpulxuvn7ITi_oxFilhLZjUTLXYerkCXoRnCY7OF8F8M_V9fCgKvNOg9ChpI2n1xkqDwNdLexMUkfwVK_Wzq9zcyz5ywkQViPAxOIg3PSvwy_wg-bMEXSShB4OpJHCesHr0fyvZW6n9-bIFdpdxV6oiysyh9s2b3qwSiwhOd-Ln5XM10xEV12nU5FTQ2npdOdbcOtqqIM",
+      "address": "Jl. Sugriwa Dasong Pancasari No.4, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "9ba4a6d1-b6d0-4e10-9b28-97f320aa6c4f",
+    "identity": {
+      "name": "Alam Rimba Dasong",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.247566,
+      "longitude": 115.133967,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 84,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJB0FahAaP0S0RULYwirPy6VQ",
+      "photo_ref": "places/ChIJB0FahAaP0S0RULYwirPy6VQ/photos/ATCDNfXelytQq4kwUf0fCYrjSgihDcb2rirRKe5eQSxgT0l7vbGkHJZHh6IG90lHgZcjCZ_YGn8HVTq1yNF1qK-uMJZ45FHGMjC5gfJuK8QEKJhi7RhOdx18CSxfM6ff1GH0xwzQCrHUU1ixZRgSgRuVhjYOC3ecbmWzANB_B88aYqUd0hsjpkBLHmUpu2ZJfLZY-j_zOmHd3iZcIDrpiUd28nI8vBkrJ7gjlzN06hf4aZ-yP0XeZSnA2a-fj1FHqeFdNwjGkGANZuuuaAsqFThDaCdnZM2UOy0Q6i4KusJ1C9zGR3YbydHx4tRNT2ciHAuiK5rFsFUe0YcgI1BbB63iR5r8W8CvnDMMrZjkyNDPZDoijY1cwtJsDnqP-OHW-dHc7iE6fkjTdL4zXjeCt4giy0zwTILyxXnibuWMLPqRqdw",
+      "address": "Jalan Sugriwa Jl. Sugriwa Dasong Pancasari No.4, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "9446f8de-d90b-4e0e-ba99-ad45e9fdeb1f",
+    "identity": {
+      "name": "The Cabina Buyan",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.247237,
+      "longitude": 115.13524,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 97,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "camping_cabin",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "camping_cabin"
+    },
+    "_meta": {
+      "google_place_id": "ChIJd0mlk26P0S0RZd0ZQtvCjmI",
+      "photo_ref": "places/ChIJd0mlk26P0S0RZd0ZQtvCjmI/photos/ATCDNfXCJzppcCSlCksKcyAmbYQU9h6Rzr7ZLz1dyhaTMCjqMkM6ds_aAECi8m7D2BERxTDykiym1Xw42PbRqtkQem42Kgqf-_XgCxa9exMw5XC6Dsawwq1lVVTwU1Aksz1Ug7ciuaTEK4llNUQlgVOoA9vCfWJzavD_R7pdcZzvXMtKI-PLiT-1HSHxjBMfnGrNUnEDP6h4vkZoFIAH2zgpVDlZs5AGaojy2qwtqzPfMKcBQ6DdZna4Quy1AjOgcCHQz-ZsS-ZRlsZgAyqLG0Aw4-Wz-h-z0Bf0Ld-7Jkh6-2KWh5pzGybkphfz1IWSTXFkd8upD6BNM9ssYqELn5J7FJd901A077E2gJgsbMzq-6PAFWxHBilzHq8bSJqgqg6fPaS9PDNqozZUxeStgb2YOkTI1a7lDxL65RncHmk5gNE",
+      "address": "Jl. Sugriwa Dasong Pancasari No.4, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "94c58056-3fbd-47bd-a9a9-3bfd2dfc8ca1",
+    "identity": {
+      "name": "Pandawa Camping Buyan",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.250236,
+      "longitude": 115.130958,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 94,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJoV9uBCSP0S0RZwAGYiouRVo",
+      "photo_ref": "places/ChIJoV9uBCSP0S0RZwAGYiouRVo/photos/ATCDNfXASbcghB9o6x8lyaBR_7CH7GTCDt00TxGU5IchktX-VN5uKK9DiYqJToTwgjdeeZMJYo0taTdXS12l4dYe_cI60FLAx1mS3AH_lUlsxSfVU_7fV-ST8UEIcD882LBX4JvnBu4EpMv1Atw3UQ5_CidP4zcoS1tIcI6ICgSFxF0arRH9XxR_A9wZVTROh8P6YeLaqIFN3pazbkySmMUtJeJMS0FcNAgJTxJ02r_MrbLnz5KiYo_2W6LLAbHpRC8W-LBm6H9w4Ed43mlmmPHHhzVMbFe0wbuDf8jW_aPukjSMEg",
+      "address": "Jl. Sugriwa Dasong Pancasari No.4, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "55ccff91-c650-431e-913f-5dc0b9b03cb2",
+    "identity": {
+      "name": "Luh De Camp Buyan Dasong",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.250555,
+      "longitude": 115.130712,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 14,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "camping_cabin",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "camping_cabin"
+    },
+    "_meta": {
+      "google_place_id": "ChIJBSh5p-yP0S0RhE7k_lmF0Jo",
+      "photo_ref": "places/ChIJBSh5p-yP0S0RhE7k_lmF0Jo/photos/ATCDNfWcKwq3kaqGvVoXJINgs-NSRlw0t1ejdAZ2a36J3Nj5kmRidXY4mGjmB58NMqbsAxmJSuuWj058HJ9IgJwXEpHXCCupwr8Jj7ahc9IE5CoK796QeByPFdAq_l8dnGvJwkPfrizlJPradfs8id9oLyLFuE96vIRVW2lBkEC7_Xb_NUleZhJujJl56bNNShRkWrsv3mQEvbCcjHGKaE-dHeX0TMqJRGQbAiCDfNMwYR3MS6EQX5tPu0YT0CAhTFSy1gQlGVL43yKnKyDRMd_irfdpU1ZR3uBV16SYXH3d2u_lAPptQUV2jBEH9etaSz_rrj5b37ItuYp4N_RLW8Wl55GYkykK9bme8sKzrCJbf03de8Vr2-10aUuAnJ-V5ttQYwrQJJYgRzoJ1nyNuzR5JCCC8LQSqCO1911DBkqqQt4L0lw",
+      "address": "P4XJ+P8R, Jl. Sugriwa Dasong Pancasari, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "6c56c9f9-2399-4275-b2d2-8341bc85ee54",
+    "identity": {
+      "name": "KIBUBU FOR EVER",
+      "accommodation_type": "Guest House",
+      "vibe_description": [
+        "lively",
+        "hidden_gem",
+        "quiet"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.248638,
+      "longitude": 115.133453,
+      "neighborhood_cluster": "mountain_lake_zone_guest_house",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 24,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bed_and_breakfast",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bed_and_breakfast"
+    },
+    "_meta": {
+      "google_place_id": "ChIJV--nNACP0S0R6-p22_hT2A4",
+      "photo_ref": "places/ChIJV--nNACP0S0R6-p22_hT2A4/photos/ATCDNfU-a-5363gB9JJfmaezdt7B59a0i79fqfyHXzDIfLcgZZjwRxJyv7WFAv2oRQMXnyfPB24NAxix9yWB4h0sfwXxGXofoYaedtvVCJUuxHXbIKB7CvKxQDuONikIBrwhCAmqiADKC7BrAyn64IMRdZMBbr9N9Z-aS-CWn008mmHt507sr8bHnB8KhX4Z9wAVHD74fSaOZBbPxVk95g6wakiPAPvM8i65ST2UZxB501PsxB46GwKPibuSfU_vdOgrMwK0S-HDvlXlrJqgnoduZYeC6csZm4Q8QOlsndAeeM_o_A",
+      "address": "Jl. Sugriwa Dasong Pancasari, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "cdc8118e-1a7f-459c-8d81-60e1f587ba48",
+    "identity": {
+      "name": "Mavs-Buyan Corner",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.250439,
+      "longitude": 115.130304,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 19,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJv6Zg65qP0S0R6GfZ2fWcysE",
+      "photo_ref": "places/ChIJv6Zg65qP0S0R6GfZ2fWcysE/photos/ATCDNfXdSyepvuXvc9_QYfJRo6hM7FCNYi_QTgkxCcGN4186hmOj2gsc6hHih8bnpgvBvR_n8hy881jF-5iLiD_hbCAhhUiI5cS-9Dag3-zyT1pP2OOCS3tPyRQ8JLjFEHYmMeu67v4G5apF3XuKOFMDuRpOSChz6axTTqrDuLBfcctw9xsTp6-pwnu5-VMdC0hPZvsYfqLkz5eDbP4UstZm2LaKsF9FWiZrTQddLXpwvpPFiOj8K27VFqKjG4emc8AJ2aJreV-Ga1ugjAJFv07I5Q7UOhRp-_13hWJkMU1jc2IOVBZfgIhSf3buUEQ99l8GzAolpEpSrAYD3KYG_jZpQQw31zpwvEzaU8EXqUDjxTQNqqWxRq-It1PpF1T8OcyPwnhmE7i15YiQNRSmg4DXU5uvSQJFqeKHDaqfsRB3TQZDvqg",
+      "address": "Jl. Sugriwa Dasong Pancasari, buyan, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "529f085f-9c0a-4c4a-bb2f-93e7dcd0c537",
+    "identity": {
+      "name": "ARA VILLA (CARAVAN)",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.249724,
+      "longitude": 115.131565,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 15,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "camping_cabin",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "camping_cabin"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ_af-JQCP0S0RI0EJq-F9zr8",
+      "photo_ref": "places/ChIJ_af-JQCP0S0RI0EJq-F9zr8/photos/ATCDNfUEd78beBW9iIB_rfZZDgfIk41LLOvBSPQgn-afthIc9g2utPnUv6AvkfsjrFJtfY-HtrCt1ESOPVdTcqcXJGZI5wfUVdhQYFeQK2PdPKz2MJquskwNlILGFc8cyDTU1Ycoj9ZgQZRFhmt6xpJGnaEsk5YhwFcXKdGGl3JVCQdc59079SpU-ozc9s9G-KuXtC3R8FjFQQpCPq9ULtYu8l9xuDfLZHmTAwgvAtPcxtubSBf1YVfs3IPz16UmaOpq9r-HH2bam76z-HQ5tg54jQrF0NYKSQ1jhYqxcw3sTzXwz3aWDZsFd0jU7u19W94xO9vAfNFRk8b-LmA-SC1aAJ8U-_6aLWBTRDZ2E_tu3pzv2TIlHZqHmUhqtIuCBdJj7Wz9fKXLEHDXPVw7aYvtK_HwASS0ZZUAPw51VhX8N3G7vme4Qbe32SLIMTZ-lg",
+      "address": "Q42M+C2X, Jl. Sugriwa Dasong Pancasari, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "2586e21c-4189-49cc-a11e-33929801147d",
+    "identity": {
+      "name": "Pondok Puspa",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.248569,
+      "longitude": 115.133489,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJyyV8gRKP0S0R-KtnhsaJyjg",
+      "photo_ref": "places/ChIJyyV8gRKP0S0R-KtnhsaJyjg/photos/ATCDNfXp_oS_tCTH3WKc1HlYXBW3gm0t4ec8pjrWYpyae0SaIEMn80QZpUaM6t4NZCPurgT-jBCpAExmb38lJqpx-anY6UlSyI12f2WjS1R4BaomCKXokNLTo8qvOJEQ2WbcHH27DWcQ8pVp4RuGAhoBvsRWY7AlNalbtdvJDnYieXh4Uor9teeBPUPtLEJFb2RkcuhK4NAnAjUgoeRpIOvfJNH4DVcmmAWhTVQrljmSyZaMvOzHHzCBkcI4QZhGD_c_QLuoFq7ZwW89f33YH6v9jpeusKkaxOuat4V9KIt02gmjLjW4dMWEDlOJ3kGT7NgEvKjKVFd-1n21KTRt7l6PSR_IEw2JqVb25gnYkAtSNEr7w9FFd3EJTKaD5cvYuS8seb1V7WV9Yoke1inNU7j4s2pr_OoyQU8tqmRmcLsd8bAy4Jw",
+      "address": "Jln.sugriwa gg.pepper 51, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "16b792b2-5331-42e1-8ada-c5b53a89f59e",
+    "identity": {
+      "name": "3 Bedroom Lake House",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.250116,
+      "longitude": 115.131058,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJQUVFcy2P0S0RcAZYWl2owlc",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "3ec471e5-c947-4aa5-9e7a-215ba1339856",
+    "identity": {
+      "name": "3 Bedroom Lake House - Three-Bedroom Vacation Home",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25012,
+      "longitude": 115.13105,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJfx5Fcy2P0S0RfsMpRwdKOyQ",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "39092139-f2bd-4f0f-ad1d-dcc55844a89b",
+    "identity": {
+      "name": "Casa Buyan - Family Room with Lake View",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25024,
+      "longitude": 115.132767,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJkb7X_CyP0S0RGYpnN8gPfrI",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "bffece1c-0409-464a-b0d8-91a1da8a96a7",
+    "identity": {
+      "name": "Rumah Tepi Danau",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.248532,
+      "longitude": 115.133453,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJDxdPRiyP0S0RBzBqdyZKkmw",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "87293fb6-0c5e-43e7-a4c5-8053243f9aeb",
+    "identity": {
+      "name": "Rumah Tepi Danau - One-Bedroom House",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.24853,
+      "longitude": 115.133461,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJF65PRiyP0S0RuIYBZ3z8qLo",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "53cf1643-2287-42c4-86e0-69737a84626e",
+    "identity": {
+      "name": "Villa Dasong maret",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.248567,
+      "longitude": 115.133493,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJZ7JtWwCP0S0Rezex5YslbO4",
+      "photo_ref": null,
+      "address": "Q42M+H9H, Jalan Sugriwa.Dusun Jl. Sugriwa Dasong Pancasari, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:47+0000"
+    }
+  },
+  {
+    "hotel_id": "d80fa513-4c25-4786-8082-ae82d0899501",
+    "identity": {
+      "name": "Container Smart Stay (CsS)",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.249012,
+      "longitude": 115.137847,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 142,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJuQ2ClqWP0S0RGazbjx-uko4",
+      "photo_ref": "places/ChIJuQ2ClqWP0S0RGazbjx-uko4/photos/ATCDNfWeXypyMOGCkzLB7DlVOpCK1Tk3UkUsVkfKW0ZkenkMrsryvPO67-p-NkHFr8Zf42kXwAiA4COthHxSob3hekRtHAWRkdImYV9d_wNJDy2Dl1QcAscTzi5FJRFvt0cUyEpR-0AHnC-GFn_jcjtvfBm-TEqd_UgKE45CQcEhm8X6Jdj-RcgXW2AlPmHCYHGUQP2-5TsnKDppzxtYNmyRGLYZoV3Gi7D0A6BExbq0-7Vz0nw0fSXR8jENkQHvcpf5xGdsbmZGZz4J36TPfBUb6GuZ_4HaGIneHu_KyCPqS1eskQ",
+      "address": "Dasong, Bedugul, Jl. Pak Widia, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "6707202c-c5be-4a88-9ea7-a3b4502e88d5",
+    "identity": {
+      "name": "Compang Camping Ground",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.251235,
+      "longitude": 115.140893,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 17,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJLR7040iP0S0RHyMac-z_SlQ",
+      "photo_ref": "places/ChIJLR7040iP0S0RHyMac-z_SlQ/photos/ATCDNfUocIpJ0cRv7mzHCg9Pz3M83NRz2mC0fBximllz31DKG7073ERKdySNJBNy64mWmwK1Sizm6kCMq8hV0Ew9dmMw7LWHKSTRoHQEeqT8Ik9vAvrwHjC0JV6Su9HRm-9C23TJE-vsGfXSogC-DEWlMmmLFQ6KgCuQq8u-I2zeN1cXFeHYjRYIP5CuvJLb4mlLmAGU2OVr660nglt7G_nIqgfLfRizdxdzgg-IfIk41qOWcvoXs58GM6-fxS6Hq0T4xwupe_BBaSXQbRGg_DWTFbR0N0z_C4LFV7YnzjRFJKmGyuecDljFmJGwu3g87ilCs99U9OpyZH7RMKsBWZlaADIP5hTCWOSCZaB45cBllTTzD_zT3tw8b5NR5iphmGHGD9HVVzgJ2OzngyuLR39lG2Rjp567GCQl_ionsI5D8x-6_IuaA7Epbov57r_0ZQ",
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "c00c9ac7-5b26-4889-b1dd-ce0728197f71",
+    "identity": {
+      "name": "Dajan Buyan Homestay",
+      "accommodation_type": "Guest House",
+      "vibe_description": [
+        "lively",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.248978,
+      "longitude": 115.142697,
+      "neighborhood_cluster": "mountain_lake_zone_guest_house",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": 4.4,
+      "review_count": 15,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bed_and_breakfast",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bed_and_breakfast"
+    },
+    "_meta": {
+      "google_place_id": "ChIJLcqvHGaP0S0R2zBVF24qAWM",
+      "photo_ref": "places/ChIJLcqvHGaP0S0R2zBVF24qAWM/photos/ATCDNfUESz0oB7o1hQHoKeKsHqZQVOP7Wl_LtjbOQsDcBVE2ytr96NR_a8fTES68AA5GX3LgvKYUOm8vqOsbC2Tib4RD6goxJrNFoRDTjHOab-3rM1NRNHJb6PYcYbbxwHDpxSW--jehHiehI7Ig5E93kowNwGA_XpqGvaCOLazmavdCBTHls1K6wa1MlcGx648_TdzBVN1iRxc8Sx-XdHNZ2me_-t0SDlrMdpBJFKcBYxaVIlOxZgd90x7elKbv_8IihdzWK4GWWXyYC5d4ZYUFaAMy5AFrbzPusbnXzu4fENO5O1vQXZxHYKWZZ8VQxdDaM9S2VWBF2VR1MB3Nkk-YecyqyffY3y1sqrXlsbg-1zh9YltV2I6ah3DGYLKOp8lTT3wkU4mpOkrSMqHoSB4bhSROuTdo84aHMwWAKHbfIjQ",
+      "address": "Jl. Kedasong, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "cb92fe72-fccf-4ba5-8f1e-bcebeeb5c5fe",
+    "identity": {
+      "name": "Delima A Frame House",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.251564,
+      "longitude": 115.138643,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 13,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ49pDKwCP0S0RXLKQz3yU7II",
+      "photo_ref": "places/ChIJ49pDKwCP0S0RXLKQz3yU7II/photos/ATCDNfUujX1Aimj2Cpnu6_xOE0VfzYqQ3pjAA9pILmDw3QgXzgj11KHOfYvGbm-TfE-Jy2vjDkwlIZnbJkHOW54K1NPMxKzU0dDySWJvsmthbEUF94rQiCRPXREnz6hUTJ3rn2UPgdFnOstp9uHAahC_W7Mv3RnqSZNAxA0Y2dqMmhTaNOopd3U4vkxfjCy3TnCi52p0ggxV-8pZwjbScJWBoCCJLQx8a7QQUpXcl0V-Odn79GjduVLZXYJkMM1OAGaqdSoOrrWpIx21mqN4ObWtTOGWyoTx0C6hslpmH6PrQUUPZw",
+      "address": "P4XQ+CC, Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "9356bc63-4548-4708-8a79-838b35d9b974",
+    "identity": {
+      "name": "Buyan Danu Residence",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.247638,
+      "longitude": 115.142289,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 29,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJFTqQBFmP0S0RCYWMSxMsO9w",
+      "photo_ref": "places/ChIJFTqQBFmP0S0RCYWMSxMsO9w/photos/ATCDNfV9XOPFROzaex4I5pKMnBw6Pb4BX3PsQc7JfC8KuyoC1w_lPjMH2iFiMGCL6Rha5Pi3UgRIYgeTqT1y_Zt9o_xn15U7__allEIEbc1y4Fl7xAFH_3JYa1J_By5-KqPEVvNdVwTVJ8JvJpKyC5B111clhU5Mr97PGtU-KDwj_D_dc0P54qDUL4cmIj18-vpA_TvJXPEGbrGNGhSM2WAGEwzw1es_NveEnlDTeCFWwWFV8uDaEGutIG2NuDK149ay42Z7E7WsCNnEjm0qz39ZDO8xbNPscXdtCIPuwX4D9aWPiJkl3YeuaAGUX5vuILwRgoUo1Q8ms2nF1g4XQxxu10shlFeGXnJBq0jN2NRs0B7grj9Z7ZvQKYHOGaySjG57aErsqI6xRUR3DUApQ4aGCfmey1x0IUSoAhOQYweeVXoouBM",
+      "address": "Jl. Kedasong, Pancasari, Kec. Buleleng, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "ae929a32-e8ea-4365-a0fa-2364efda363b",
+    "identity": {
+      "name": "Casa Buyan",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.249715,
+      "longitude": 115.136303,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 17,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ2XGEWwCP0S0RPrbHOS3MfPk",
+      "photo_ref": "places/ChIJ2XGEWwCP0S0RPrbHOS3MfPk/photos/ATCDNfVVRw4wVd0JnvHcq0NRrlQCHy3AHug4zG20zZpM81VeWhFryBnB2qOqQEgFIOb0AGcgvirZzr6PqR4rVA-L7Zj3d1f9-DOF-or9vLJ1icux2NiyAmJmgwZIY9dxO5VHRQNLwDzP-EHAGODtb1DliGJ7oNK-TeUkgUfkwPE2BQuI_uVfdiivKVZjgBCKFZzEG71aaB6TNmG-G69MnTPgd3ZAnlLtcGy65PMm1h2mgd26rTBYbiRufRP3_1VrQQdeWWStOymOY4x1NVYnQDVBp_Me9zyVyFKkToxvFxoPr7WCFe-ObHgWj_79Wqs-OvJR6zMWSqn7X87l5J_lxI9CGwrp6L1Emg1_C7CX1QupvSs9wyM7fGTy91zXHGcerExyHFxoXSj94fKd1L7sidFpfXSWkl8eGTVRWXJvyKu9Z2i74j0zMiux_xMMPW3O",
+      "address": "Q42P+4G7, Banjar Yeh Mas, Dusun Dasong, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "ef17a4d1-b0ca-4c3d-8705-d08459f158ba",
+    "identity": {
+      "name": "the Lodge Bedugal",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.249073,
+      "longitude": 115.138662,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJF3V01oSP0S0RBbfH87MTQ1g",
+      "photo_ref": "places/ChIJF3V01oSP0S0RBbfH87MTQ1g/photos/ATCDNfWGx68wfh9W0Knz28IlzVwCnnE8KLsDfLl6JYKNlf3O3WNUOzp-apzE4yC0xlERCFpRTDvB4--X5V30cUYXJm2OrpLtc2kgAz-PrXq6JeJ690MxmNq88tQM8aVRuzccZiA_vaLHT7bKZbNKMj1EArOuJQaJ-m0cVKRkBjnVN0CP_iiBP0UoXn_HJ6hGEKPqcutdJ2sFdKP8n2laH5kh9kLFURzJgmh7isCFrfNG4C0nBvW9gR3v24je1LPEcK801ZXN4CE3GotDOm7q9L2_TbpeSqvz5eN0boPJAZc7OFXLfCPjtV0OokxITHvTUK749z7oEJeC0-IhSjVek9vb4ULiqmq7qwFQ2KAfezslN6kF78TyVHjZB9vy-p4dgFXclB79rV8kDAZX7k0ffaiigP9gmz7W4bNoqVRJ3No6WnropeI",
+      "address": "Q42Q+9FF, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "5dac4306-36f4-44ec-a1dc-b21ca1b0d601",
+    "identity": {
+      "name": "Lembah Dasong Villa",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.249553,
+      "longitude": 115.140366,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 6,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9bixjiqP0S0RlXwGO_ZjWKQ",
+      "photo_ref": "places/ChIJ9bixjiqP0S0RlXwGO_ZjWKQ/photos/ATCDNfXfCJOBGWkhm9qr0dZewnZR6Q3qEGkMcI5v_oNS_6ESM2dt-dQYxS1uiHSnj8BZtaV-5Bln55NxnDhwOX68H9-6rpna3OFE2zMc-nOTDt9GLK2VLleM6pb7hHEGnM7r0cC_iCHvrSvcbExvJTSNLDQOCj3hdiXJNfeXa3U6gO3C4ozQyzT569CMqGLSUDKiRXIlzXDcSUiOWN8nBBhFkYErHYe5FPmpGwaQOneXb8L6dBUoMMz980WG63Vlu-ZehtgpJs1Wu8RkMj04eHb6f4qesPpZ3uv59jUrftvy5ofRKEuNiSeAqVR8rTvQewtfTHiCamDm_ivGDmgI8HqwYimnivThyPZfC1RZhfz-9Gbd-WP1ToNL7pbcbWsUGnY2scVVdegW-TswAYVJCwyJoC4VXeDOl3JECv8mAHkLrJIcDN8",
+      "address": "Q42R+54H, Jl. Pan Gari, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "48c0693b-02e3-4d6d-a5f3-6130a51cb1a5",
+    "identity": {
+      "name": "Kubu Pandawa Villa",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.253092,
+      "longitude": 115.14235,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.7,
+      "review_count": 24,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ6YDOkCqJ0S0R0fKABzdiSOE",
+      "photo_ref": "places/ChIJ6YDOkCqJ0S0R0fKABzdiSOE/photos/ATCDNfV5dxT1z0dHewd1p3fhkW-tP9XuefxZCOHRWtzqNUDr0vKIIMCgQ6XVR-NfYtK6mExf2ceqC3x9oPcRDF74aYh5CQWtTChwSEg_8GD9a5g4HX4w1SSGFkKZlOXvJ96XYFqngadYGRdFzP7zHfYx71HIarCkGZOJmTiVPevQRxsRQZGvu9zXV_eU2peMGcWRqPBTLjm2D5QntaaLA-arCFLe03qAVvFh4IztJiOu6mFXjj2TCYri_nn_4Be_3ouu8OtQw1RG84ceYmOaMI-a529GHB989XgtgHHsPkZcjVc--Q",
+      "address": "danau buyan .dasong Jalan Bali Handara Kosaido Golf Course, Pancasari, Sukasada, Kabupaten Buleleng, Bali, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "290c1777-0aa9-4aa1-9a0d-4aa7d3defda4",
+    "identity": {
+      "name": "Rumah daun",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.247085,
+      "longitude": 115.142744,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJM-ISJCWP0S0RRIypPZAeO2w",
+      "photo_ref": "places/ChIJM-ISJCWP0S0RRIypPZAeO2w/photos/ATCDNfUAEBAXGRg0fHq58Rii8lC7mXxnjkwFa04pKnspWghnapp3DivfRh1sjw3GR2uxYWldLox_kc9BocOlO_9-yFWKuRVdtJgbZMQlCfeKsy93WKYsN2qiKfN7JnJVHHyfbW5PyGsEgPM6sxhL8d9goRK_u-EreyyxxQQDCmfEc21l7hBGy-YlpOUm9xNCVy2k8Hol-hioWmvWHK8lb3zTQK-32v75K1z572Dt2xNVjr5muqOFpRGhAfaCfqEJD2971Aw3RGmLk6AP5HRfqx9VFGj_LNhrktw8_a_g5BbtwqQKIA",
+      "address": "Jl. Sugriwa Dasong Pancasari, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81162, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "f1f0d700-a5ab-4d20-a9f2-32e3b2e27014",
+    "identity": {
+      "name": "Woody House - Two-Bedroom Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.24879,
+      "longitude": 115.14257,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJp9slnNWO0S0RB3Kr_8UPVQE",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "05feeec0-f159-45d7-8c38-f9a8d177a771",
+    "identity": {
+      "name": "Villa Anmut Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.247125,
+      "longitude": 115.139473,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJyZtRJCqP0S0Rw0sQi9vtV_s",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "c887267d-762f-4622-90a5-5f0f02735546",
+    "identity": {
+      "name": "Agusta Lake View Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.247016,
+      "longitude": 115.139458,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJvZ0rJCqP0S0R97V6g0K7mnw",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "9571dd9d-c22f-4584-befe-4740e5b6cbe0",
+    "identity": {
+      "name": "Agusta Lake View Bedugul - Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.24701,
+      "longitude": 115.139458,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJvZ0rJCqP0S0RJHhVMMtOHfw",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "c39ce094-416c-4727-a202-f1332379eb2d",
+    "identity": {
+      "name": "Gatsby on Buyan",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.246643,
+      "longitude": 115.139343,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJn1MWiCmP0S0RUHn32IWW-l0",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "c07a5f9b-e5aa-4146-96b5-43f559ad8bd5",
+    "identity": {
+      "name": "Villa Gatsby on Buyan - Beautiful Villa in Bedugul",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.246634,
+      "longitude": 115.139343,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ33gWiCmP0S0R-8hxsROOayI",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "c375be65-ac64-4d69-9053-e86a4a98852f",
+    "identity": {
+      "name": "Care Resort Bali",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.252011,
+      "longitude": 115.141228,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJq1bpVtWI0S0RhS_j9Rf8OOk",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "8df9475e-f778-412e-b9b5-6a8c1d6bd1ea",
+    "identity": {
+      "name": "Umah Tyang Pancasari - Suite with Lake View",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.247559,
+      "longitude": 115.137916,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJRSCmzyuP0S0RL5vyzxk5QW0",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "e96062b4-de22-4553-b829-2a997fe2bb62",
+    "identity": {
+      "name": "DELIMA A Frame House - One-Bedroom Villa",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25156,
+      "longitude": 115.138649,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJtU-61SqP0S0Rl-D6nwpPSDE",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "e2e59eaa-2275-4687-8f96-dbd46de9ad5e",
+    "identity": {
+      "name": "D'RaNa House",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.253194,
+      "longitude": 115.141624,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 10,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "camping_cabin",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "camping_cabin"
+    },
+    "_meta": {
+      "google_place_id": "ChIJXw-KXfCP0S0ReJUx7Hilfu0",
+      "photo_ref": "places/ChIJXw-KXfCP0S0ReJUx7Hilfu0/photos/ATCDNfVT6qM8ZJFMWi0H-B28fEs638bLvNkEF3iRv-ao7K-XRvGB96w8cjNPKQkoe_9CO0uEt06Nc3ixIkvIW5jvnVsZuFU7_Y3wnX3lh_kl48UTFYNLCxSeepVlsMjSuqyQ7_8kRqvRVvv_AHkQqJOh6wXwvILV9doXSknDmlWX_PzKMrLViD7GaZfRm_-O7Zl1FJaD7GLPe9_TonQIwa6DmExDyi-poYPl9gs4aOwXcSjp-cO3_q76E4Ltb6c9jYMptIIrkcilj16HiDsRMHgdbe7qydoePeUm3KH4S6fM6CHBMw",
+      "address": "P4WR+MPQ, Jl. Tut Ardi, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:48:53+0000"
+    }
+  },
+  {
+    "hotel_id": "46ff095c-685c-4069-9663-2f5e0a23b196",
+    "identity": {
+      "name": "Taman Denbukit Camping Ground BAFAHO",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.247521,
+      "longitude": 115.147752,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.6,
+      "review_count": 441,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "campground",
+        "fishing_pond",
+        "picnic_ground",
+        "tourist_attraction",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "campground"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ8bB7i9OO0S0RZBBwg0pqAvw",
+      "photo_ref": "places/ChIJ8bB7i9OO0S0RZBBwg0pqAvw/photos/ATCDNfXhcgAFCeIay3Lh7rBk0z01JA97jNvZDNezfQtesyPRCMbCtRPN1dz7599pwAUdAL_WVcKq_-gdD4kr6SY9x2YLFKU1MD37mX37eUTSHyog6DjsnmYCEdJNt8x-oZZC7T_cyHuriPzKO4LAL7V4JuyOIlVMMexVPD_h2UKe_Ka5CYAkDuMNbJ2SV2f4A9OAeMG1XYC43LzJuqKpPVbw0oiutmi_U4kDrH3tm_uVEUmBB6ouXxC-0WQ33BaCsndGkx5iZ5gq1yU2zPtKjgCHl3ks80fjocB0TGZ2JiKjudKluA",
+      "address": "Desa Bedugul, Jl. Sugriwa Dasong Pancasari, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "3600cc64-bd62-44f1-86a7-3a4c77b32873",
+    "identity": {
+      "name": "The Buyan Villas Resort",
+      "accommodation_type": "Resort",
+      "vibe_description": [
+        "romantic",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.246123,
+      "longitude": 115.149456,
+      "neighborhood_cluster": "mountain_lake_zone_resort",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 238,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "resort_hotel",
+        "lodging",
+        "point_of_interest",
+        "service",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJb1je3tOO0S0RDWYtCp90E1c",
+      "photo_ref": "places/ChIJb1je3tOO0S0RDWYtCp90E1c/photos/ATCDNfX7sUrFv-x57s59KOyMudbY2kDsmpQBNqlr0X3Ocj_LzyFGFaNdI9FNTfoMcrh0iyMSkY0yyHnBAO7F4guHTn2q8vDc4F65hv1qllLziu8JfyLf4HmjTRWoLlHxair9FUC5XZ-aYWNFK6QsxpUsL0qFuIpEfNxOM1byhLMqOLf7HPVeMKr-k34eTv_nYv3r0eSPadepuoZf-Tdl-9jF-OKm2uPlc8Uook0w1EEB-7c2_U0nxR1lfynyEUP1aCH26fgvlhEOKrKlQcGHM0mczsmVeMXJ_1oq_La6hzvl-UF63w",
+      "address": "Jl. Raya Bedugul, Pancasari, Singaraja, Kabupaten Buleleng, Bali 81162, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "f55352b1-7cc4-449f-a39f-9840bb0cc778",
+    "identity": {
+      "name": "Hotel Pancasari",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.249859,
+      "longitude": 115.152778,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 3.7,
+      "review_count": 99,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJWbn-pdKO0S0RD8Zo21Yi0cc",
+      "photo_ref": "places/ChIJWbn-pdKO0S0RD8Zo21Yi0cc/photos/ATCDNfUIQCTyIHmV228D2vgQanIVaIegJRCHfseph3a-fRVMYRacylt0Q8zfP-r4OnfnhOnRFs-52VOdu6-PZTvl4RAUA5IguZNOzIpzFUIQGA2qxPm5z0VA903vCtuZfzNzyU5nJG-AMiRCLU6XBQ4GvvZORjUoF__E6s4wme3E7zdRkX5WGTlVv7ldQ_JhhTvtq832LRa6RJmaXy98WmA87P-J90-qcw1tvrNF7sbVSjAenOtpHzX2aIB63AaxcU_sHD3zWD0Gm3TwcqN7r_iMICniQWjy0xIpXtAvQyV9Li898RfO4k0y8KZGq7I52KUvJAc8lANCb_sRQziWVY8h8NjGEVekWY4LnWDzTrcDNLinVCOQD9uDqAjwFZ9bkoPmqVgZf0IglJX6kAUwb-5jJTy3bduQGvGQX4LtbDh8Kg",
+      "address": "Jl. Raya Singaraja-Denpasar No.Desa, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "80e83cab-4b86-4c2c-9012-bbe23e23f3f3",
+    "identity": {
+      "name": "Bhumi Garden Villa",
+      "accommodation_type": "Guest House",
+      "vibe_description": [
+        "lively",
+        "hidden_gem",
+        "quiet"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.250615,
+      "longitude": 115.153417,
+      "neighborhood_cluster": "mountain_lake_zone_guest_house",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "guest_house",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "guest_house"
+    },
+    "_meta": {
+      "google_place_id": "ChIJubQ3nOaP0S0RH3pXk54rdVA",
+      "photo_ref": "places/ChIJubQ3nOaP0S0RH3pXk54rdVA/photos/ATCDNfUC4x1DK_zDadLdg4rVCwnCoAHBQKewOHVtoPrvn1MQDBWwrxypQtKACClb-CiVGgCVkAaWtcJT1dGmdXWHp_9ryfX4riPwXafxXmyTE7MPo93GkE3aqtdA9uzmjk2R8CzkbnwfIbGDunDq_KOtK1td6dPzjBHnbGWtjNdZIEHhA_a7jFxhImGooDC8n5Ym-1iVVh0MwMj7GLps6ioxTkeyE315h2evW-ELb7KaOrhGfQbGqfj82qhHiRHD4IY8BqlQRCvjhCSulx71CH9VIqiF-dGu7yVnaLPo9U-Zoa9-RA",
+      "address": "Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "d8c9c0ab-8961-4edb-9593-8cefb44fccdf",
+    "identity": {
+      "name": "Banua Melo",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.246522,
+      "longitude": 115.147764,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 8,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJvQD7-dOO0S0RSwu5QmthJEQ",
+      "photo_ref": "places/ChIJvQD7-dOO0S0RSwu5QmthJEQ/photos/ATCDNfV4h6eViqq4zH1OLcwIpojPIt2_wIpsqJsMM_GdGdbggC6vhEU6jcoWJJ56TexdrW2YdG5zEW12DcTqdoblLvQ79_PRxOua2DlMx978Pnh-Mh75CDbtwQDQlIe9e_YJhUuXmsOaKS8jHaXGh40LnIpoiDjOpFiEcF6gxfq_xW5XJpY2WFWwA5w2v0Xi_AA0DrcTN8d9VwUi1J8lTg9sB4mQOCQvcs4hLFMBzGd2u7eDDHW7yavCikJqLB6jVByY_pJCOc6yLtfBOSg5yMDLWvXKxcOsmlGETgcaeKo2yiddcA",
+      "address": "Br. SARI TENGAH Desa Pancasari, Pancasari, Buleleng, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81162, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "ba0ee623-6218-4547-a1c3-188e46a365bd",
+    "identity": {
+      "name": "Saras Homestay",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.246477,
+      "longitude": 115.150875,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJb5sRL9KO0S0RSe9IRV82p90",
+      "photo_ref": null,
+      "address": "Q532+C92, Jl. Raya Bedugul, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "5e855ac9-8a9c-4bf8-9786-0c1acd054564",
+    "identity": {
+      "name": "The Samaya Villas",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.253063,
+      "longitude": 115.149774,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4.5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9XWX6iyJ0S0RMlu1BqQfawQ",
+      "photo_ref": null,
+      "address": "Jl. Laksmana No.16, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "993f847c-85a1-4a23-9781-b99613a843ca",
+    "identity": {
+      "name": "Rumah Bpk. Gusti owner Compang Camping Ground",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.248222,
+      "longitude": 115.148133,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJDT6i4oeP0S0RtrGNpV-qS3k",
+      "photo_ref": null,
+      "address": "Q42X+P59, Jl. Kedasong, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "5be1e9e9-362e-4d5e-ac8d-f73e94718f6c",
+    "identity": {
+      "name": "4S Villas Seminyak",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25238,
+      "longitude": 115.149,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9XWX6iyJ0S0Rlab8-l41ZSg",
+      "photo_ref": null,
+      "address": "Jl. Laksmana No.58, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "a79811cb-0a06-4b9c-bea8-fa78d546f3c5",
+    "identity": {
+      "name": "Jero Jik Mangek",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.248247,
+      "longitude": 115.148382,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJwTrOliKP0S0RBgW1JWqQ5Vc",
+      "photo_ref": null,
+      "address": "Q42X+P92, Jl. Kedasong, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "c4aaf050-419a-40e4-a005-de55499df9e6",
+    "identity": {
+      "name": "Pondok dek nuri",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.247738,
+      "longitude": 115.153223,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 4,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJawjj-12P0S0RVZrR5H4YTXI",
+      "photo_ref": "places/ChIJawjj-12P0S0RVZrR5H4YTXI/photos/ATCDNfVn-odtCSnqowdFU6iJXIrH99fHiPqtgyq-_zgfeCxDKiIL5uViLS1d_-E7eODZq1hImUCrxrb8H1OOW_zuiBhkFyum70dUEaOWFC3QchnkbnYvav6ylmsDVzEoZGSAnA7pGJ9R5urth2S12S0Srzp7uttGhHMjBZV0a95tSp-LriBjBkVMECzMiriVEzkvgwHFXDLY-ujE2xvlsrZbnomUOVBtsBRhn6ZrU7ME11MNxGRRGDMyfxIZu6iPQhY7LHSUZ7s1jdGrQiyzvpj8rf5yE3JZwuixkhNQrhuSQMBxErmk7NirfzDio1MCtx6cjkwtjcNxMXd_KOUf_IzUk_yV3njxN78lPdvTRTn0GJQeAv86VcHEdxUWV846LELrB493CKxX4kVmXQD52e-uQ3sG037kWPAIPlqjr_cXQK8AS3w",
+      "address": "Q523+W75, Pancasari, Sukasada, Buleleng Regency, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "ca85b103-1048-4cb0-8a9c-09b76eba04d6",
+    "identity": {
+      "name": "ArSunny Home",
+      "accommodation_type": "Hostel",
+      "vibe_description": [
+        "lively",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.248072,
+      "longitude": 115.152436,
+      "neighborhood_cluster": "mountain_lake_zone_hostel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": false
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hostel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hostel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJb1-LdwCP0S0R0HALWEP3jvc",
+      "photo_ref": null,
+      "address": "Q522+QXF, Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "3ed19c84-e600-47ea-88bd-cbdeb30a8c73",
+    "identity": {
+      "name": "BUYAN LODGE 3-bedroom lodge in marvelous Lake Buyan",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.248326,
+      "longitude": 115.148445,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJYX8SnNOO0S0RXYAsPl3fAic",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "027d573a-3a02-4ba0-9f4d-8370bd3d61bc",
+    "identity": {
+      "name": "BUYAN RESORT",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.246189,
+      "longitude": 115.149437,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJfw8B2dOO0S0RqlJM_1QWmmg",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "52ae39d1-aa34-4cd5-ba36-82bca4c79c5b",
+    "identity": {
+      "name": "The Buyan Villas Resort",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.246126,
+      "longitude": 115.149445,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJPUn22NOO0S0RtgZs1yxGXWY",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "d93f8237-3214-4727-b480-99b5845a3f94",
+    "identity": {
+      "name": "Veggie patch",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25238,
+      "longitude": 115.149,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "private_guest_room",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "private_guest_room"
+    },
+    "_meta": {
+      "google_place_id": "ChIJEyyyO62J0S0RmeUVMe0q5rE",
+      "photo_ref": null,
+      "address": "Jl. Laksmana No.58, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "faf86129-7fce-48b3-9851-5156ce8ebb2c",
+    "identity": {
+      "name": "C151 Luxury Smart Villas Resort",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.253063,
+      "longitude": 115.149774,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9XWX6iyJ0S0R6EbvkSEXVlo",
+      "photo_ref": null,
+      "address": "Jl. Laksmana No.16, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "c96fa179-4604-48a9-ab88-bb42a9e210dc",
+    "identity": {
+      "name": "Eddy Susila",
+      "accommodation_type": "Boutique Hotel",
+      "vibe_description": [
+        "hidden_gem",
+        "quiet",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.253063,
+      "longitude": 115.149774,
+      "neighborhood_cluster": "mountain_lake_zone_boutique_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJeWU2kyyJ0S0Rc8T9lHIVq9Y",
+      "photo_ref": null,
+      "address": "Jl. Laksmana No.16, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "1de2ee64-1552-42dd-9d1e-2a6a803e355b",
+    "identity": {
+      "name": "Ahimsa Estate",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.253063,
+      "longitude": 115.149774,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9XWX6iyJ0S0R6HB1B82mtqo",
+      "photo_ref": null,
+      "address": "Jl. Laksmana No.16, Pancasari, Kec. Sukasada, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:00+0000"
+    }
+  },
+  {
+    "hotel_id": "9cc08777-8b5b-4dd9-b4d8-6c90e879b1c6",
+    "identity": {
+      "name": "eM eR GLAMPING & VILLAS",
+      "accommodation_type": "Hotel",
+      "vibe_description": [
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.25025,
+      "longitude": 115.157768,
+      "neighborhood_cluster": "mountain_lake_zone_hotel",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "lodging"
+    },
+    "_meta": {
+      "google_place_id": "ChIJEcB1ysyO0S0RuUQgZ-9KUgs",
+      "photo_ref": null,
+      "address": "Pancasari, Sukasada, Buleleng Regency, Bali, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:06+0000"
+    }
+  },
+  {
+    "hotel_id": "be25ed90-9fa1-4ed4-b93a-3caa8f7df698",
+    "identity": {
+      "name": "Handara Driving Range & Golf Academy",
+      "accommodation_type": "Resort",
+      "vibe_description": [
+        "romantic",
+        "modern"
+      ]
+    },
+    "logistics": {
+      "latitude": -8.245413,
+      "longitude": 115.16095,
+      "neighborhood_cluster": "mountain_lake_zone_resort",
+      "check_in_out_time": [
+        "14:00",
+        "12:00"
+      ]
+    },
+    "amenities": {
+      "wifi_speed_level": "low",
+      "workspace_available": true
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "resort_hotel",
+        "hotel",
+        "lodging",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "resort_hotel"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ343mxJiP0S0R76l50SJahPI",
+      "photo_ref": null,
+      "address": "Jl. Raya Singaraja-Denpasar, Pancasari, Kec. Buleleng, Pancasari, Kec. Buleleng, Kabupaten Buleleng, Bali 81161, Indonesia",
+      "source_region": "Bedugul",
+      "tourism_cluster": "mountain_lake_zone",
+      "region_density": "low",
+      "fetched_at": "2026-03-07T22:49:06+0000"
+    }
   }
 ]
