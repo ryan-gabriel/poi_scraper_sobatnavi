@@ -144732,5 +144732,1355 @@
       "tourism_cluster": "mountain_volcano_zone",
       "fetched_at": "2026-03-08T15:34:04+0000"
     }
+  },
+  {
+    "poi_id": "ff25d46d-16b6-4cfe-918a-2d591fc78410",
+    "name": "doft bar",
+    "cuisine_type": "Bar",
+    "geospatial": {
+      "latitude": -8.312363,
+      "longitude": 115.32228,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 3:00 AM – 11:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bar"
+    },
+    "_meta": {
+      "google_place_id": "ChIJPdTASgD10S0RfO2jlhcwFr0",
+      "photo_ref": null,
+      "address": "M8QC+3W2, Bonyoh, Kintamani, Bangli Regency, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:50:53+0000"
+    }
+  },
+  {
+    "poi_id": "3c319b72-2bdf-4928-949d-d49db9205a21",
+    "name": "Arum Jaya",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.314154,
+      "longitude": 115.332366,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:30 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "fast_food_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJG_xADn710S0RTqT6ehJYV5s",
+      "photo_ref": null,
+      "address": "Jl. Raya Sekaan No.28, Sekaan, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:00+0000"
+    }
+  },
+  {
+    "poi_id": "7ef6e862-b649-4f06-a4b3-5afa887c1ce5",
+    "name": "Suka Fried Chicken Sekaan",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.312282,
+      "longitude": 115.33321,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 9:30 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "fast_food_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "fast_food_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJR019BwD10S0R16_ZMFFNkYg",
+      "photo_ref": null,
+      "address": "M8QM+486, Jl. Raya Sekaan, Sekaan, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:00+0000"
+    }
+  },
+  {
+    "poi_id": "d043c5b3-2311-4675-bbc2-da930bc96c5c",
+    "name": "Umah TUAK",
+    "cuisine_type": "Bar",
+    "geospatial": {
+      "latitude": -8.316335,
+      "longitude": 115.331124,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bar",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bar"
+    },
+    "_meta": {
+      "google_place_id": "ChIJNWs0mEP10S0Ryxv4Xvo5p54",
+      "photo_ref": null,
+      "address": "M8MJ+CCH, Sekaan, Kintamani, Bangli Regency, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:00+0000"
+    }
+  },
+  {
+    "poi_id": "817ab4f3-c400-418d-8a39-e1bf5f01b650",
+    "name": "Warung Buk Pas",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.310644,
+      "longitude": 115.345308,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "store",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJlxwnRwD10S0RyEJn-n9_TBQ",
+      "photo_ref": null,
+      "address": "M8QW+P4V, Banjar pule, Sekardadi, Kec. Kintamani, Kabupaten Bangli, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:06+0000"
+    }
+  },
+  {
+    "poi_id": "415b272f-7530-40f5-a497-944034d34b95",
+    "name": "Bakso Pak Radias",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.310752,
+      "longitude": 115.349813,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ4eaiLvf10S0R7N2Ic7ay1ns",
+      "photo_ref": null,
+      "address": "Jl. Raya Sekardadi No.20, Sekardadi, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:13+0000"
+    }
+  },
+  {
+    "poi_id": "3ed9c3e6-2548-43ef-aa9c-c2034a049dea",
+    "name": "Warung buk eka sekardadi",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.310152,
+      "longitude": 115.350348,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 6:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJzSCGc4_10S0RfyrZ27p5MMk",
+      "photo_ref": null,
+      "address": "M9Q2+W4Q, Jl. Raya Sekardadi, Kintamani, Kec. Bangli, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:13+0000"
+    }
+  },
+  {
+    "poi_id": "66891adc-16ba-4c83-9f87-f6e24c5a37d2",
+    "name": "Warung Lalapan banyuwangi Mas ardi 2",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.313355,
+      "longitude": 115.348602,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 2:00 PM – 9:00 AM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "brunch_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "brunch_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJMwMzG2f10S0Rf1i0IjK48nY",
+      "photo_ref": null,
+      "address": "M8PX+MC5, Jl. Raya Sekardadi, Sekardadi, Kec. Kintamani, Kabupaten Bangli, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:13+0000"
+    }
+  },
+  {
+    "poi_id": "4b96930c-5f92-4e4d-8d79-406b2d0555b5",
+    "name": "Tusan Home",
+    "cuisine_type": "Bakery",
+    "geospatial": {
+      "latitude": -8.315347,
+      "longitude": 115.353569,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "cake_shop",
+        "wholesaler",
+        "bakery",
+        "food_store",
+        "store",
+        "manufacturer",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "cake_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ-cvddjv10S0R9cpM3AprcT0",
+      "photo_ref": null,
+      "address": "M9M3+VC8, Br.sunting, Pengotan, Kec. Bangli, Kabupaten Bangli, Bali 80614, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:13+0000"
+    }
+  },
+  {
+    "poi_id": "a5f19f0e-7a55-4fe2-aa8c-304fb0b7ad8a",
+    "name": "WARUNG BU ERI",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.312616,
+      "longitude": 115.34913,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJCSpTAoz10S0RWIQMF3jvuG4",
+      "photo_ref": null,
+      "address": "Jl. Raya Sekardadi No.35, Sekardadi, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:13+0000"
+    }
+  },
+  {
+    "poi_id": "c8adc181-0f20-4b66-b03d-460134f14d9a",
+    "name": "KRUPUK CEKER INDRA YANI",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.31123,
+      "longitude": 115.350008,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJl8qibgD10S0R27VFk6ix398",
+      "photo_ref": null,
+      "address": "Jl. Raya Sekardadi No.21, Sekardadi, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:13+0000"
+    }
+  },
+  {
+    "poi_id": "3561b745-dab7-420f-8da4-ef5374a01204",
+    "name": "Kubi_bakery's",
+    "cuisine_type": "Bakery",
+    "geospatial": {
+      "latitude": -8.31082,
+      "longitude": 115.376928,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bakery",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bakery"
+    },
+    "_meta": {
+      "google_place_id": "ChIJCRaefQD10S0R9sdpYR_Mirs",
+      "photo_ref": null,
+      "address": "M9QG+MQF, Landih, Bangli, Bangli Regency, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:33+0000"
+    }
+  },
+  {
+    "poi_id": "415d2927-45c3-4b51-8f52-d9debaef03a1",
+    "name": "Warung Makan Jair Nyat Nyat",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.310064,
+      "longitude": 115.394639,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": null,
+      "review_count": 0,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJp681QCv30S0R9CkcktpT2Vk",
+      "photo_ref": null,
+      "address": "M9QV+XVC, Unnamed Road, Batudinding, Kec. Kintamani, Kabupaten Bangli, Bali 80614, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:46+0000"
+    }
+  },
+  {
+    "poi_id": "e34330c6-74f1-46e3-a21a-1802d2bd96c9",
+    "name": "Warung Lilis",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.313017,
+      "longitude": 115.401541,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "point_of_interest",
+        "food",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ5WOwmkj30S0R8Kc-iopv3Ws",
+      "photo_ref": null,
+      "address": "MCP2+QJV, Jl. Batur Tengah, Suter, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:51:46+0000"
+    }
+  },
+  {
+    "poi_id": "0a75a20b-521c-42bd-85a9-436a84bac83b",
+    "name": "Depot Eka Nadi",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.307259,
+      "longitude": 115.305639,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.9,
+      "review_count": 9,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJy0kfXkv10S0RUQ2WmIXmILU",
+      "photo_ref": null,
+      "address": "Unnamed Road, M8V4+37R, Katung, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:52:12+0000"
+    }
+  },
+  {
+    "poi_id": "a30b2d26-a846-4e06-b599-25949c243970",
+    "name": "MARTABUANA Martabak Katung",
+    "cuisine_type": "Bakery",
+    "geospatial": {
+      "latitude": -8.305977,
+      "longitude": 115.306414,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 4:00 – 9:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "bakery",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "bakery"
+    },
+    "_meta": {
+      "google_place_id": "ChIJBx7Idsv10S0RAL7CCbzGmEY",
+      "photo_ref": null,
+      "address": "M8V4+JHH, Jl. Raya Katung, Katung, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": false,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:52:12+0000"
+    }
+  },
+  {
+    "poi_id": "8d0c9fb7-ddd5-4226-9e1d-47311fc3acdf",
+    "name": "WARUNG MAKAN KADEK",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.305475,
+      "longitude": 115.306749,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 10:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.8,
+      "review_count": 4,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ7017-kH10S0RHSNlqM_L_K4",
+      "photo_ref": null,
+      "address": "M8V4+RM5, Jl. Raya Kintamani, Katung, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:52:12+0000"
+    }
+  },
+  {
+    "poi_id": "d5d2e629-34fc-4565-9bd5-bc1f26fbeff9",
+    "name": "Kedai bu ayu",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.305835,
+      "longitude": 115.306514,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJAdtNDvv10S0RNI3abq_1qSA",
+      "photo_ref": null,
+      "address": "M8V4+MJ6, Jl. Raya Katung, Katung, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:52:12+0000"
+    }
+  },
+  {
+    "poi_id": "b7d4b86f-d5c3-4292-bfb2-e361d1240c4a",
+    "name": "Warung Pak Kopeng",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.308179,
+      "longitude": 115.305129,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "diner"
+    },
+    "_meta": {
+      "google_place_id": "ChIJn8l0e5H10S0RL6x_Z8uZRYs",
+      "photo_ref": null,
+      "address": "M8R4+P3C, Jalan Raya, Katung, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:52:12+0000"
+    }
+  },
+  {
+    "poi_id": "4d8a3ed2-1ba8-42a4-a523-d26cedf14038",
+    "name": "Warung Babi Guling \"JUWITA\" Cabang Sekar Gading Kintamani",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.303107,
+      "longitude": 115.353705,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 8:00 AM – 3:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.3,
+      "review_count": 3,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJyxZKLln10S0RRSiYtFiRT-U",
+      "photo_ref": null,
+      "address": "Jl. Raya Sekardadi No.1, Sekardadi, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:52:45+0000"
+    }
+  },
+  {
+    "poi_id": "5c6f11a1-d9c7-40b0-a620-5147a52e54ad",
+    "name": "warung bakso pak suwarto banyuwangi",
+    "cuisine_type": "Indonesian",
+    "geospatial": {
+      "latitude": -8.301128,
+      "longitude": 115.35464,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 6:00 AM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.1,
+      "review_count": 23,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "diner",
+        "indonesian_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "indonesian_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJCXmF0vf10S0Rd8XgX99S4L8",
+      "photo_ref": null,
+      "address": "M9X3+GVR, Jl. Bayung Gede, Sekardadi, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:52:45+0000"
+    }
+  },
+  {
+    "poi_id": "74ccacb6-70f0-4a07-8c41-1581d3dc8b12",
+    "name": "Warung KRISNA Kintamani",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.30547,
+      "longitude": 115.353034,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 9:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ9Uy5C5L10S0RuQLgn_5er-4",
+      "photo_ref": null,
+      "address": "Jl. Raya Sekardadi, Sekardadi, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": true,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:52:45+0000"
+    }
+  },
+  {
+    "poi_id": "7ce06e53-4642-4de4-8885-b0931784832d",
+    "name": "Warung Ayu Manik",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.300249,
+      "longitude": 115.351756,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 1,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ913cqpX10S0RLrxCIz-vbzk",
+      "photo_ref": null,
+      "address": "M9X2+WP2, Jl. Bayung Gede - Sekardadi, Sekardadi, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:52:45+0000"
+    }
+  },
+  {
+    "poi_id": "5067f9eb-6225-4604-b4d2-f3ea2c4c326e",
+    "name": "Angkringan nak bali",
+    "cuisine_type": "Cafe",
+    "geospatial": {
+      "latitude": -8.304201,
+      "longitude": 115.360307,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": true
+    },
+    "operational": {
+      "opening_hours": null,
+      "average_meal_duration_minutes": 90
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "coffee_shop",
+        "cafe",
+        "food_store",
+        "food",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "coffee_shop"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ7zy-ML710S0RTZUtlrtwP34",
+      "photo_ref": null,
+      "address": "Jalan nusantara got, Pengotan, Kec. Bangli, Kabupaten Bangli, Bali 80614, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:52:52+0000"
+    }
+  },
+  {
+    "poi_id": "7be260c8-d8ba-47f1-9310-5cc71f3bbfa2",
+    "name": "Warung Mek Mas",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.307062,
+      "longitude": 115.395181,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:00 AM – 8:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 4.2,
+      "review_count": 5,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "breakfast_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "breakfast_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJO_DHYQf30S0RLUkc694j9GA",
+      "photo_ref": null,
+      "address": "M9VW+53F, Jl. Batur Tengah, Suter, Kec. Kintamani, Kabupaten Bangli, Bali, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:53:18+0000"
+    }
+  },
+  {
+    "poi_id": "1c145839-4582-4bda-9e55-ea1c53098670",
+    "name": "My Best Chicken SUTER",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.308314,
+      "longitude": 115.395873,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: 7:30 AM – 11:00 PM",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 3.3,
+      "review_count": 7,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "chicken_restaurant",
+        "restaurant",
+        "food",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "chicken_restaurant"
+    },
+    "_meta": {
+      "google_place_id": "ChIJ47rsglP30S0RMDM-Ik2BM4E",
+      "photo_ref": null,
+      "address": "M9RW+M8H, Suter, Kintamani, Bangli Regency, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": false,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": true,
+      "takeout": true,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:53:18+0000"
+    }
+  },
+  {
+    "poi_id": "f3dd3b9f-926f-4063-b6b2-6ab74d8e5ef6",
+    "name": "Pondokan Belalu",
+    "cuisine_type": "International",
+    "geospatial": {
+      "latitude": -8.291456,
+      "longitude": 115.297391,
+      "kelurahan_name": ""
+    },
+    "attributes": {
+      "dietary_options": [],
+      "price_tier": -1,
+      "is_work_friendly": false
+    },
+    "operational": {
+      "opening_hours": "Monday: Open 24 hours",
+      "average_meal_duration_minutes": 45
+    },
+    "_quality": {
+      "rating": 5,
+      "review_count": 2,
+      "business_status": "OPERATIONAL",
+      "google_types": [
+        "night_club",
+        "point_of_interest",
+        "establishment"
+      ],
+      "primary_type": "night_club"
+    },
+    "_meta": {
+      "google_place_id": "ChIJNaZIyzr10S0R_RSE1MLvNlo",
+      "photo_ref": null,
+      "address": "P75W+CX6, Jl. Pondokan Belalu, Belancan, Kec. Kintamani, Kabupaten Bangli, Bali 80652, Indonesia",
+      "has_wifi": false,
+      "outdoor_seating": true,
+      "live_music": false,
+      "serves_beer": false,
+      "serves_wine": false,
+      "serves_cocktails": false,
+      "dine_in": true,
+      "delivery": false,
+      "takeout": false,
+      "reservable": false,
+      "source_region": "Kintamani",
+      "tourism_cluster": "mountain_volcano_zone",
+      "fetched_at": "2026-03-08T16:53:51+0000"
+    }
   }
 ]
