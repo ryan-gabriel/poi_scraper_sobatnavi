@@ -135,6 +135,29 @@ BALI_REGIONS: Dict[str, RegionConfig] = {
         density="low", tourism_cluster="north_beach_zone",
         primary_personas=["Family", "Backpacker", "Nature"],
     ),
+    # NUSA ISLANDS — Adventure & Marine
+    "Nusa_Penida": RegionConfig(
+        name="Nusa_Penida", lat=-8.7275, lng=115.5444, radius=10000,
+        density="low", tourism_cluster="nusa_islands",
+        primary_personas=["Adventure Junkie", "Nature", "Photography"],
+    ),
+    "Nusa_Lembongan": RegionConfig(
+        name="Nusa_Lembongan", lat=-8.6750, lng=115.4450, radius=4500,
+        density="medium", tourism_cluster="nusa_islands",
+        primary_personas=["Backpacker", "Diving", "Nature"],
+    ),
+
+    # WEST BALI — Conservation & Gateway
+    "Pemuteran": RegionConfig(
+        name="Pemuteran", lat=-8.1450, lng=114.6500, radius=8000,
+        density="low", tourism_cluster="west_bali_marine",
+        primary_personas=["Diving", "Nature", "Luxury Traveler"],
+    ),
+    "Gilimanuk": RegionConfig(
+        name="Gilimanuk", lat=-8.1630, lng=114.4370, radius=7000,
+        density="low", tourism_cluster="west_bali_gateway",
+        primary_personas=["Nature", "Adventure Junkie"],
+    ),
 }
 
 # ─────────────────────────────────────────────────────────────────────────────
