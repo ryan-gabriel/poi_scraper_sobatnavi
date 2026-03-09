@@ -2,7 +2,7 @@
 """
 SobatNavi — Google Places API (New) POI Fetcher v3.0
 =====================================================
-Professional-grade grid-based deep-crawl ETL pipeline for Bali POI data.
+Professional-grade grid-based SearchNearby-only ETL pipeline for Bali POI data.
 
 Strategy:
   Grid-based tiling across 15 tourism zones → ~1700 grid points.
@@ -806,7 +806,7 @@ class DataTransformer:
 # ═══════════════════════════════════════════════════════════════════════════════
 
 class POIFetcher:
-    """Grid-based deep crawl orchestrator.
+    """Grid-based SearchNearby-only orchestrator.
 
     For each grid point:
       1. Call Nearby Search for each namespace (3 calls)
@@ -988,7 +988,7 @@ class POIFetcher:
         batch_size: int = 0,
         dry_run: bool = False,
     ):
-        """Execute the grid-based deep crawl pipeline.
+        """Execute the grid-based SearchNearby-only pipeline.
 
         Args:
             batch_size: Max grid points to process (0 = unlimited).
@@ -1014,7 +1014,7 @@ class POIFetcher:
 
         log.info("")
         log.info("═" * 65)
-        log.info("  GRID-BASED DEEP CRAWL v3.0")
+        log.info("  GRID-BASED SEARCHNEARBY-ONLY v3.0")
         log.info("─" * 65)
         log.info("  Total grid points:    %5d", total_points)
         log.info("  Already completed:    %5d", start_index)
@@ -1123,7 +1123,7 @@ class POIFetcher:
 
 def main():
     parser = argparse.ArgumentParser(
-        description="SobatNavi — Grid-Based POI Deep Crawl v3.0 for Bali",
+        description="SobatNavi — Grid-Based POI SearchNearby-Only v3.0 for Bali",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:

@@ -1,6 +1,6 @@
 """
 Configuration for SobatNavi Google Places API (New) POI Fetcher v3.0
-Grid-Based Deep Crawl — Research-Grade Configuration
+Grid-Based SearchNearby Crawl — Research-Grade Configuration
 Generated: 2026-03-06
 """
 
@@ -192,30 +192,19 @@ FIELD_MASKS: Dict[str, str] = {
     "poi_attractions": ",".join([
         "places.id", "places.displayName", "places.formattedAddress",
         "places.location", "places.types", "places.primaryType",
-        "places.rating", "places.userRatingCount",
-        "places.regularOpeningHours", "places.priceLevel",
         "places.photos", "places.parkingOptions", "places.accessibilityOptions",
-        "places.businessStatus", "places.nationalPhoneNumber", "places.websiteUri",
+        "places.businessStatus",
     ]),
 
     "culinary_amenities": ",".join([
         "places.id", "places.displayName", "places.formattedAddress",
         "places.location", "places.types", "places.primaryType",
-        "places.rating", "places.userRatingCount",
-        "places.regularOpeningHours", "places.priceLevel",
-        "places.servesVegetarianFood",
-        "places.dineIn", "places.delivery", "places.takeout", "places.reservable",
-        "places.outdoorSeating", "places.liveMusic",
-        "places.servesBeer", "places.servesWine", "places.servesCocktails",
-        "places.goodForGroups", "places.goodForChildren",
-        "places.businessStatus",
+        "places.businessStatus", "places.photos",
     ]),
 
     "accommodation_anchors": ",".join([
         "places.id", "places.displayName", "places.formattedAddress",
         "places.location", "places.types", "places.primaryType",
-        "places.rating", "places.userRatingCount",
-        "places.priceLevel", "places.regularOpeningHours",
         "places.businessStatus", "places.photos",
     ]),
 }
