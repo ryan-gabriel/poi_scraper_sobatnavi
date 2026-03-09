@@ -76,19 +76,19 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add output/ .fetch_checkpoint.json 2>/dev/null || true
+          git add output/ fetch_checkpoint.json 2>/dev/null || true
           git commit -m "chore: auto-fetch POI batch $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
 
       - name: Report progress
         if: always()
         run: |
-          if [ -f output/.fetch_checkpoint.json ]; then
+          if [ -f output/fetch_checkpoint.json ]; then
             echo "📊 Checkpoint status:"
             python -c "
           import json
           try:
-              with open('output/.fetch_checkpoint.json') as f:
+              with open('output/fetch_checkpoint.json') as f:
                   cp = json.load(f)
               idx = cp.get('last_processed_index', -1)
               total_records = sum(len(r) for r in cp.get('results', {}).values())

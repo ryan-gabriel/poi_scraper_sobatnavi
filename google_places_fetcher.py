@@ -817,7 +817,7 @@ class POIFetcher:
     On persistent error → sys.exit(1).
     """
 
-    CHECKPOINT_FILENAME = ".fetch_checkpoint.json"
+    CHECKPOINT_FILENAME = "fetch_checkpoint.json"
     NAMESPACES = ["poi_attractions", "culinary_amenities", "accommodation_anchors"]
 
     def __init__(self, api_key: str, output_dir: str = "./output"):
